@@ -1,0 +1,400 @@
+ID,Language_ID,Form,Segments,Comment,Source,Contribution_ID,Parameter_ID
+0,aku,wɨ,w ɨ,,meira1998proto[159],pronouns,1
+1,apa,ɨwɨ,ɨ w ɨ,,koehn1986apalai[95],pronouns,1
+2,car,əwɨ,ə w ɨ,,robayo2000avance[174],pronouns,1
+3,kar,awu,a w u,,courtz2008carib[52],pronouns,1
+4,kax,owɨ,o w ɨ,,schuring2018kaxuyana[94],pronouns,1
+5,mak,ewɨ,e w ɨ,,maquiritaricaceres2011[167],pronouns,1
+6,pan,ju,j u,,panarepayne2013[88],pronouns,1
+7,PTar,əwɨ,ə w ɨ,,meira1998proto[64],pronouns,1
+8,PTir,wɨ(ɨ),w ɨɨ,,,pronouns,1
+9,tri,wɨ(ɨ),w ɨɨ,,triomeira1999[152],pronouns,1
+10,wai,owɨ,o w ɨ,,hawkins2015dictionary,pronouns,1
+11,way,ɨwu,ɨ w u,,camargo2010wayana[44],pronouns,1
+12,wmr,awɨ,a w ɨ,,waimiribruno2003[77],pronouns,1
+13,aka,urə,u + r ə,,stegeman2014akawaio[173];akawaiocaesar2003[106],pronouns,1
+14,ara,uro,u + r o,,desouza2010arara[87],pronouns,1
+15,bak,urə,u + r ə,,meira2005southern[180],pronouns,1
+16,hix,uro,u + r o,,hixkaryanaderby1985[7],pronouns,1
+17,ikp,uro,u + r o,,ikpengpacheco2001[119],pronouns,1
+18,ing,urə,u + r ə,,cruz2005fonologia[162],pronouns,1
+19,mac,uurɨ,uu + r ɨ,,macushiabbott1991[99],pronouns,1
+20,PC,əwɨ(rə),ə w ɨ + r ə,,,pronouns,1
+21,pem,juurə,j uu + r ə,,swiggers2010gramatica[120],pronouns,1
+22,pno,urə,u + r ə,,mattei2003pemono[48],pronouns,1
+23,PMan,wɨrə,w ɨ + r ə,,,pronouns,1
+24,PPar,owɨ(ro),o w ɨ + r o,,,pronouns,1
+25,PPek,urə,u + r ə,,,pronouns,1
+26,PPem,jurə,j u + r ə,,,pronouns,1
+27,PPP,ju(rə),j u + r ə,,,pronouns,1
+28,PWai,owɨ(ro),o w ɨ + r o,,,pronouns,1
+29,tam,ure,u + r e,,gilij1784saggio[197],pronouns,1
+30,uxc,uɣe,u + ɣ e,,kuikurodossantos2007[55],pronouns,1
+31,yab,wɨrə,w ɨ + r ə,,mattei2003pemono[49],pronouns,1
+32,yuk,awɨ(r),a w ɨ + r,,largo2011yukpa[57],pronouns,1
+33,map,wɨhɨ,w ɨ + h ɨ,,mattei2003pemono[48],pronouns,1
+34,map,uhɨ,u + h ɨ,,mattei2003pemono[48],pronouns,1
+35,pno,wɨh,w ɨ + h,,mattei2003pemono[48],pronouns,1
+36,PMan,wɨhɨ,w ɨ + h ɨ,,,pronouns,1
+37,aku,əmə,ə m ə,,meira1998proto[159],pronouns,2
+38,bak,əmə,ə m ə,,meira2005southern[180],pronouns,2
+39,PTir,əmə,ə m ə,,,pronouns,2
+40,tri,əmə,ə m ə,,triomeira1999[152],pronouns,2
+41,aka,amərə,a m ə + r ə,,akawaiocaesar2003[107],pronouns,2
+42,apa,omoro,o m o + r o,,koehn1986apalai[95],pronouns,2
+43,ara,omoro,o m o + r o,,souza1993arara,pronouns,2
+44,car,əmərə,ə m ə + r ə,,guerrero2019carijo[76],pronouns,2
+45,hix,omoro,o m o + r o,,hixkaryanaderby1985[7],pronouns,2
+46,ikp,omro,o m + r o,,ikpengpacheco2001[119],pronouns,2
+47,ing,amərə,a m ə + r ə,,cruz2005fonologia[162],pronouns,2
+48,kar,amoro,a m o + r o,,courtz2008carib[52],pronouns,2
+49,kax,omoro,o m o + r o,,schuring2018kaxuyana[94],pronouns,2
+50,mac,amɨrɨ,a m ɨ + r ɨ,,macushiabbott1991[99],pronouns,2
+51,mak,amərə,a m ə + r ə,,maquiritaricaceres2011[167],pronouns,2
+52,map,(m)ərə,m ə + r ə,,muller1975mapoyo[64],pronouns,2
+53,pan,amən,a m ə + n,,panarepayne2013[88],pronouns,2
+54,PC,əmə(rə),ə m ə + r ə,,,pronouns,2
+55,pem,amərə,a m ə + r ə,,swiggers2010gramatica[120],pronouns,2
+56,pno,mərə,m ə + r ə,,mattei2003pemono[48],pronouns,2
+57,PMan,mərə,m ə + r ə,,mattei2003pemono[48],pronouns,2
+58,PPar,omoro,o m o + r o,,,pronouns,2
+59,PPek,əmə(rə),ə m ə + r ə,,,pronouns,2
+60,PPem,amərə,a m ə + r ə,,,pronouns,2
+61,PPP,amərə,a m ə + r ə,,,pronouns,2
+62,PTar,əmə(rə),ə m ə + r ə,Added EMP,meira1998proto[64],pronouns,2
+63,PWai,omoro,o m o + r o,,,pronouns,2
+64,PXin,omro,o m + r o,,,pronouns,2
+65,tam,amare,a m a + r e,,gilij1781saggio[124],pronouns,2
+66,uxc,eeɣe,ee + ɣ e,,meira2005southern[180],pronouns,2
+67,wai,amoro,a m o + r o,,hawkins2015dictionary,pronouns,2
+68,way,əmərə,ə m ə + r ə,,wayanatavares2005[180],pronouns,2
+69,wmr,amɨrɨ,a m ɨ + r ɨ,,waimiribruno2003[77],pronouns,2
+70,yab,mərə,m ə + r ə,,mattei2003pemono[49],pronouns,2
+71,yuk,amo(r),a m o + r,,largo2011yukpa[57],pronouns,2
+72,PPP,ju(rə)to,j u + r ə + t o,,,pronouns,12
+73,PPem,jurətokon,j u + r ə + t o + k o n,,,pronouns,12
+74,pan,juto,j u + t o,,panarepayne2013[88],pronouns,12
+75,kar,kɨʔko,k ɨ + ʔ k o,Surinamese Kari’ña.,courtz2008carib[52],pronouns,12
+76,PPar,kɨ?(ro),k ɨ + + r o,,,pronouns,12
+77,aku,kɨmə,k ɨ + m ə,,meira1998proto[64],pronouns,12
+78,PTir,kɨmə,k ɨ + m ə,,,pronouns,12
+79,tri,kɨmə,k ɨ + m ə,,triomeira1999[152],pronouns,12
+80,apa,kɨmoro,k ɨ + m o + r o,,koehn1986apalai[95],pronouns,12
+81,car,kɨmərə,k ɨ + m ə + r ə,,guerrero2019carijo[76],pronouns,12
+82,kax,kumoro,k u + m o + r o,,,pronouns,12
+83,PTar,kɨmə(rə),k ɨ + m ə + r ə,Added EMP,meira1998proto[64],pronouns,12
+84,mak,kɨwɨ,k ɨ + w ɨ,,maquiritaricaceres2011[167],pronouns,12
+85,wai,kɨɨwɨ,k ɨɨ + w ɨ,,,pronouns,12
+86,hix,kɨwro,k ɨ + w + r o,,hixkaryanaderby1985[7],pronouns,12
+87,PWai,kɨwɨ(ro),k ɨ + w ɨ + r o,,,pronouns,12
+88,map,eʔnə,e ʔ n ə,,mattei2003pemono[48],pronouns,12
+89,pno,eʔnə,e ʔ n ə,,mattei2003pemono[48],pronouns,12
+90,PMan,epɨnə,e p ɨ n ə,,,pronouns,12
+91,yab,ehnə,e h n ə,,mattei2003pemono[49],pronouns,12
+92,yuk,epɨ,e p ɨ,,largo2011yukpa[57],pronouns,12
+93,wmr,kɨkɨ,k ɨ k ɨ,,waimiribruno2003[77],pronouns,12
+94,ara,ugoro,u g o + r o,,souza1993arara,pronouns,12
+95,ikp,ugro,u g + r o,,ikpengpacheco2001[119],pronouns,12
+96,PPek,ukurə,u k u + r ə,,,pronouns,12
+97,uxc,kukuɣe,k u k u + ɣ e,,kuikurodossantos2007[55],pronouns,12
+98,way,kunmə,k u + n m ə,Potentially from *uku.,wayanatavares2005[180],pronouns,12
+99,mac,uurɨʔkon,uu + r ɨ + ʔ + k o n,,macushiabbott1991[99],pronouns,12
+100,pem,juurəto,j uu + r ə + t o,,garcia2006diccionario[64],pronouns,12
+101,bak,kurə,k u + r ə,,meiraDBbakairi,pronouns,12; 12pl
+102,pan,jutakon,j u + t a + k o n,,panarepayne2013[88],pronouns,12pl
+103,aka,urəʔnokon,u + r ə + ʔ n o + k o n,,stegeman2014akawaio[97],pronouns,12pl
+104,ing,urəʔnokon,u + r ə + ʔ n o + k o n,,cruz2005fonologia[162],pronouns,12pl
+105,mac,uurɨʔnɨkon,uu + r ɨ + ʔ n ɨ + k o n,,macushiabbott1991[99],pronouns,12pl
+106,pem,juurənokon,j uu + r ə + n o + k o n,,garcia2006diccionario[64],pronouns,12pl
+107,pem,juurətokon,j uu + r ə + t o + k o n,,garcia2006diccionario[64],pronouns,12pl
+108,PPem,jurəʔnokon,j u + r ə + ʔ n o + k o n,,,pronouns,12pl
+109,PTir,kɨ(mə)njamo,k ɨ + m ə + n + j a m o,,,pronouns,12pl
+110,kar,kɨʔkaro(n),k ɨ + ʔ k a + r o + n,Surinamese Kari’ña. Final /n/ only in eastern Surinamese.,courtz2008carib[52],pronouns,12pl
+111,car,kɨɲamoro,k ɨ + ɲ + a m o + r o,,guerrero2019carijo[76],pronouns,12pl
+112,PPar,kɨ?jamo(ro),k ɨ + + j a m o + r o,,,pronouns,12pl
+113,aku,kɨ(mə)njamo,k ɨ + m ə + n + j a m o,,meira1998proto[64],pronouns,12pl
+114,apa,kɨmarokomo,k ɨ + m a + r o + k o m o,,koehn1986apalai[95],pronouns,12pl
+115,tri,kɨmənjamo,k ɨ + m ə + n + j a m o,,triomeira1999[152],pronouns,12pl
+116,PTar,kɨnjamo,k ɨ + n + j a m o,,meira1998proto[64],pronouns,12pl
+117,kax,kɨmjarɨ,k ɨ + m + j a + r ɨ,,,pronouns,12pl
+118,mak,kɨnwanno,k ɨ + n + w a n + n o,,maquiritaricaceres2011[167],pronouns,12pl
+119,hix,kɨwjamo,k ɨ + w + j a m o,,hixkaryanaderby1985[7],pronouns,12pl
+120,PWai,kɨwjamo,k ɨ + w + j a m o,,,pronouns,12pl
+121,wai,kɨwjam,k ɨ + w + j a m,,,pronouns,12pl
+122,PPek,ukurə?,u k u + r ə +,,,pronouns,12pl
+123,ara,ugoroŋmo,u g o + r o + ŋ m o,,souza1993arara,pronouns,12pl
+124,ikp,ugroŋmo,u g + r o + ŋ m o,,ikpengpacheco2001[119],pronouns,12pl
+125,uxc,kukuɣeko,k u k u + ɣ e + k o,,kuikurodossantos2007[55],pronouns,12pl
+126,way,kunməramkomo,k u + n m ə + r + a m + k o m o,,wayanatavares2005[180],pronouns,12pl
+127,uxc,tisuɣe,t i s + u + ɣ e,,kuikurodossantos2007[55],pronouns,13
+128,tam,jumna,j u + m n a,,gilij1782saggio[5],pronouns,13
+129,aka,ina,i n a,,stegeman2014akawaio[61],pronouns,13
+130,aku,anja,a n j a,,meira1998proto[159],pronouns,13
+131,apa,ɨna,ɨ n a,,koehn1986apalai[95],pronouns,13
+132,car,aɲa,a ɲ a,,guerrero2019carijo[76],pronouns,13
+133,hix,amna,a m n a,,hixkaryanaderby1985[7],pronouns,13
+134,ing,ina,i n a,,cruz2005fonologia[162],pronouns,13
+135,kar,naʔna,n a ʔ n a,,courtz2008carib[53],pronouns,13
+136,kax,amna,a m n a,,schuring2018kaxuyana[94],pronouns,13
+137,mac,anna,a n n a,,macushiabbott1991[99],pronouns,13
+138,mak,nɲa,n ɲ a,,maquiritaricaceres2011[167],pronouns,13
+139,map,naha,n a h a,,mattei2003pemono[48],pronouns,13
+140,pan,ana,a n a,,panarepayne2013[88],pronouns,13
+141,pem,inna,i n n a,,swiggers2010gramatica[120],pronouns,13
+142,pno,ana,a n a,,mattei2003pemono[48],pronouns,13
+143,PMan,ana,a n a,,,pronouns,13
+144,PPar,amna,a m n a,,,pronouns,13
+145,PPem,anna,a n n a,,,pronouns,13
+146,PPP,anna,a n n a,,,pronouns,13
+147,PTar,anja,a n j a,,meira1998proto[64],pronouns,13
+148,PTir,anja,a n j a,,,pronouns,13
+149,PWai,amna,a m n a,,,pronouns,13
+150,tri,anja,a n j a,,triomeira1999[152],pronouns,13
+151,wai,amna,a m n a,,hawkins2015dictionary,pronouns,13
+152,way,emna,e m n a,,wayanatavares2005[180],pronouns,13
+153,wmr,aʔa,a ʔ a,,waimiribruno2003[77],pronouns,13
+154,yab,ana,a n a,,mattei2003pemono[49],pronouns,13
+155,yuk,nana(r),n a n a + r,,largo2011yukpa[57],pronouns,13
+156,ara,t͡ʃimna,t͡ʃ i + m n a,,souza1993arara,pronouns,13
+157,bak,ʃina,ʃ i + n a,,meira2005southern[180],pronouns,13
+158,ikp,t͡ʃimna,t͡ʃ i + m n a,,ikpengpacheco2001[284],pronouns,13
+159,PPek,t͡ʃimna,t͡ʃ i + m n a,,,pronouns,13
+160,PTir,əmənjamo,ə m ə + n + j a m o,,,pronouns,2pl
+161,PPek,əmərə?,ə m ə + r ə +,,,pronouns,2pl
+162,PPP,amərə?,a m ə + r ə +,,,pronouns,2pl
+163,aka,amərəʔnokon,a m ə + r ə + ʔ n o + k o n,,akawaiocaesar2003[520],pronouns,2pl
+164,ing,amərəʔnokon,a m ə + r ə + ʔ n o + k o n,,cruz2005fonologia[162],pronouns,2pl
+165,PPem,amərəʔnokon,a m ə + r ə + ʔ n o + k o n,,,pronouns,2pl
+166,apa,amarakomo,a m a + r a + k o m o,,koehn1986apalai[95],pronouns,2pl
+167,ara,omoroŋmo,o m o + r o + ŋ m o,,souza1993arara,pronouns,2pl
+168,ikp,omroŋmo,o m + r o + ŋ m o,,ikpengpacheco2001[119],pronouns,2pl
+169,bak,əmaremo,ə m a + r + e m o,,meira2005bakairi,pronouns,2pl
+170,yuk,amora,a m o + r + a,,meira2003primeras,pronouns,2pl
+171,way,əməramkomo,ə m ə + r + a m + k o m o,,wayanatavares2005[180],pronouns,2pl
+172,pan,amənton,a m ə + n + t o n,,panarepayne2013[88],pronouns,2pl
+173,wmr,amɨrɨtɨ,a m ɨ + r ɨ + t ɨ,,meira2002first[258],pronouns,2pl
+174,aku,əmənjamo,ə m ə + n + j a m o,,meira1998proto[64],pronouns,2pl
+175,PTar,ənjamo,ə + n + j a m o,,meira1998proto[64],pronouns,2pl
+176,tri,əmənjamo,ə m ə + n + j a m o,,triomeira1999[152],pronouns,2pl
+177,car,aɲamoro,a + ɲ + a m o + r o,ɲ is from mə+j,guerrero2019carijo[76],pronouns,2pl
+178,mak,ənwanno,ə + n + w a n + n o,,maquiritaricaceres2011[167],pronouns,2pl
+179,map,akontomo,a + k o n + t o m o,,mattei2003pemono[48],pronouns,2pl
+180,pno,mokontomo,m o + k o n + t o m o,,mattei2003pemono[48],pronouns,2pl
+181,PMan,məkontomo,m ə + k o n + t o m o,,,pronouns,2pl
+182,yab,montomo,m o + n + t o m o,,mattei2003pemono[49],pronouns,2pl
+183,hix,omɲamo,o m + ɲ a m o,,hixkaryanaderby1985[7],pronouns,2pl
+184,kax,omjarɨ,o m + j a + r ɨ,,,pronouns,2pl
+185,PPar,omjam(ro),o m + j a m + r o,,,pronouns,2pl
+186,PWai,omjam(ro),o m + j a m + r o,,,pronouns,2pl
+187,wai,amjamro,a m + j a m + r o,,,pronouns,2pl
+188,uxc,amaɣo,a m + a + ɣ o,,kuikurodossantos2007[55],pronouns,2pl
+189,kar,amɨjaro(n),a m ɨ + j a + r o + n,Final /n/ only in eastern Surinamese.,courtz2008carib[52],pronouns,2pl
+190,apa,ɨnoro,ɨ n o r o,,koehn1986apalai[95],pronouns,3anaanim
+191,car,nərə,n ə r ə,,guerrero2019carijo[76],pronouns,3anaanim
+192,hix,noro,n o r o,,hixkaryanaderby1985[7],pronouns,3anaanim
+193,kar,inoro,i n o r o,,courtz2008carib[53],pronouns,3anaanim
+194,kax,noro,n o r o,,,pronouns,3anaanim
+195,mak,ɲəərə,ɲ əə r ə,,maquiritaricaceres2011[122],pronouns,3anaanim
+196,PPar,noro,n o r o,,,pronouns,3anaanim
+197,PTar,nə(ə)rə,n əə r ə,,meira1998proto[67],pronouns,3anaanim
+198,PWai,noro,n o r o,,,pronouns,3anaanim
+199,tri,nərə,n ə r ə,,triomeira1999[154],pronouns,3anaanim
+200,uxc,ɨŋele,ɨ ŋ e l e,,kuikurodossantos2007[55],pronouns,3anaanim
+201,wai,noro,n o r o,,,pronouns,3anaanim
+202,way,inərə(rə),i n ə r ə + r ə,,wayanatavares2005[183],pronouns,3anaanim
+204,ing,kamo(ro),k a m o + r o,,cruz2005fonologia[191],pronouns,3anaanimpl
+205,apa,ɨnaro,ɨ n a r o,,koehn1986apalai[95],pronouns,3anaanimpl
+206,kar,inaro(n),i n a r o + n,Final /n/ only in eastern Surinamese.,courtz2008carib[53],pronouns,3anaanimpl
+207,PTar,namo,n + a m o,,meira1998proto[67],pronouns,3anaanimpl
+208,tri,namo,n + a m o,,triomeira1999[154],pronouns,3anaanimpl
+209,car,namoro,n + a m o + r o,,guerrero2019carijo[76],pronouns,3anaanimpl
+210,hix,ɲamoro,ɲ + a m o + r o,,hixkaryanaderby1985[7],pronouns,3anaanimpl
+211,wai,ɲeʃamro,ɲ e + ʃ a m + r o,,,pronouns,3anaanimpl
+212,way,inamoro,i n + a m o + r o,,wayanatavares2005[183],pronouns,3anaanimpl
+213,apa,seroʔne,s e r o + ʔ n e,,koehn1986apalai[95],pronouns,3anaanimpl
+214,ing,toʔ,t o ʔ,,cruz2005fonologia[162],pronouns,3anaanimpl
+215,way,tot(o),t o t o,,wayanatavares2005[183],pronouns,3anaanimpl
+219,apa,ɨro,ɨ r o,,koehn1986apalai[95],pronouns,3anainan
+220,car,irə,i r ə,,guerrero2019carijo[76],pronouns,3anainan
+221,hix,ɨro,ɨ r o,,hixkaryanaderby1985[7],pronouns,3anainan
+222,kar,iro,i r o,,courtz2008carib[53],pronouns,3anainan
+223,kax,iro,i r o,,,pronouns,3anainan
+224,mak,ijə,i j ə,,maquiritaricaceres2011[122],pronouns,3anainan
+225,PTar,irə,i r ə,,meira1998proto[67],pronouns,3anainan
+226,tri,irə,i r ə,,triomeira1999[154],pronouns,3anainan
+227,apa,sero,s e r o,,koehn1986apalai[95],pronouns,3anainan
+228,kax,ironne,i r o + n n e,,,pronouns,3anainanpl
+229,kar,irokon,i r o + k o n,,courtz2008carib[53],pronouns,3anainanpl
+230,apa,mokɨ,m o k ɨ,,koehn1986apalai[95],pronouns,distanim
+231,car,məkə,m ə k ə,,guerrero2019carijo[76],pronouns,distanim
+232,hix,mokɨ,m o k ɨ,,hixkaryanaderby1985[7],pronouns,distanim
+233,kar,moʔkɨ,m o ʔ k ɨ,,courtz2008carib[53],pronouns,distanim
+234,kax,mokɨ,m o k ɨ,,,pronouns,distanim
+235,mak,məkkɨ,m ə k k ɨ,,maquiritaricaceres2011[122],pronouns,distanim
+236,PTar,məkɨ,m ə k ɨ,,meira1998proto[67],pronouns,distanim
+237,wai,mɨkɨ,m ɨ k ɨ,,,pronouns,distanim
+238,way,məkɨ,m ə k ɨ,,wayanatavares2005[184],pronouns,distanim
+239,ikp,ugun,u g u + n,,ikpengpacheco2001[119],pronouns,distanim
+240,car,məkamoro,m ə k + a m o + r o,,guerrero2019carijo[76],pronouns,distanim
+241,ikp,mun,m u n,,ikpengpacheco2001[119],pronouns,distanimpl
+242,apa,mokamo,m o k + a m o,,koehn1986apalai[95],pronouns,distanimpl
+243,hix,mokjamo,m o k + j a m o,,hixkaryanaderby1985[7],pronouns,distanimpl
+244,kar,moʔkan,m o ʔ k + a n,,courtz2008carib[53],pronouns,distanimpl
+245,mak,makkamo,m a k k + a m o,,maquiritaricaceres2011[122],pronouns,distanimpl
+246,PTar,məkɨjamo,m ə k ɨ + j a m o,,meira1998proto[67],pronouns,distanimpl
+247,wai,moʃam,m o + ʃ a m,,,pronouns,distanimpl
+248,way,məkjamo,m ə k + j a m o,,wayanatavares2005[184],pronouns,distanimpl
+249,apa,monɨ,m o n ɨ,,koehn1986apalai[95],pronouns,distinan
+250,hix,monɨ,m o n ɨ,,hixkaryanaderby1985[7],pronouns,distinan
+251,kar,monɨ,m o n ɨ,,courtz2008carib[53],pronouns,distinan
+252,kax,monɨ,m o n ɨ,,,pronouns,distinan
+253,mak,məənɨ,m əə n ɨ,,maquiritaricaceres2011[122],pronouns,distinan
+254,PTar,mənɨ,m ə n ɨ,,meira1998proto[67],pronouns,distinan
+255,wai,mɨnɨ,m ɨ n ɨ,,,pronouns,distinan
+256,way,mɨn(ɨ),m ɨ n ɨ,,wayanatavares2005[184],pronouns,distinan
+257,ikp,ugjam,u g + j a m,,ikpengpacheco2001[119],pronouns,distinan
+259,apa,monoʔne,m o n o + ʔ n e,,koehn1986apalai[95],pronouns,distinanpl
+260,kar,monɨkon,m o n ɨ + k o n,,courtz2008carib[53],pronouns,distinanpl
+261,way,mɨn(ɨ)komo,m ɨ n ɨ + k o m o,,wayanatavares2005[184],pronouns,distinanpl
+262,ikp,mujam,m u + j a m,,ikpengpacheco2001[119],pronouns,distinanpl
+264,tri,mə(nɨ),m ə n ɨ,,triomeira1999[154],pronouns,invisinan
+265,ing,mɨkɨ,m ɨ k ɨ,,cruz2005fonologia[191],pronouns,medanim
+266,kar,moʔko,m o ʔ k o,,courtz2008carib[53],pronouns,medanim
+267,aka,kɨrə,k ɨ + r ə,,stegeman2014akawaio[85],pronouns,medanim
+268,apa,mokɨro,m o k ɨ + r o,,koehn1986apalai[95],pronouns,medanim
+269,hix,mokro,m o k + r o,,hixkaryanaderby1985[7],pronouns,medanim
+270,kax,mokoro,m o k o + r o,,,pronouns,medanim
+271,mac,mɨɨkɨrɨ,m ɨɨ k ɨ + r ɨ,,,pronouns,medanim
+272,pan,kən,k ə + n,,panarepayne2013[89],pronouns,invisanim
+273,pem,məʔrə,m ə ʔ + r ə,,swiggers2010gramatica[120],pronouns,medanim
+274,PPem,məkɨ(rə),m ə k ɨ + r ə,,,pronouns,medanim
+275,PPP,məkɨ(rə),m ə k ɨ + r ə,,,pronouns,medanim
+276,PTar,məkɨrə,m ə k ɨ + r ə,,meira1998proto[67],pronouns,medanim
+277,tri,məərə,m əə + r ə,,triomeira1999[154],pronouns,medanim
+278,wai,mɨkro,m ɨ k + r o,,,pronouns,medanim
+279,way,məkrə(rə),m ə k + r ə + r ə,,wayanatavares2005[184],pronouns,medanim
+281,hix,mokjamo,m o k + j a m o,,hixkaryanaderby1985[7],pronouns,medanimpl
+282,ing,mɨkɨjamə,m ɨ k ɨ + j a m ə,,cruz2005fonologia[191],pronouns,medanimpl
+283,apa,mokaro,m o k + a + r o,,koehn1986apalai[95],pronouns,medanimpl
+284,kax,mokjarɨ,m o k + j a + r ɨ,,,pronouns,medanimpl
+285,way,məkja(rə),m ə k + j a + r ə,,wayanatavares2005[184],pronouns,medanimpl
+286,kar,moʔkaro(n),m o ʔ k + a + r o + n,Final /n/ only in eastern Surinamese.,courtz2008carib[53],pronouns,medanimpl
+292,car,mənɨ,m ə n ɨ,,guerrero2019carijo[76],pronouns,medinan
+293,aka,mərə,m ə r ə,,stegeman2014akawaio[197],pronouns,medinan
+294,aku,mərə,m ə r ə,,meira1998proto[174],pronouns,medinan
+295,apa,moro,m o r o,,koehn1986apalai[95],pronouns,medinan
+296,bak,mərə,m ə r ə,,meira2005southern[180],pronouns,medinan
+297,car,mərə,m ə r ə,,guerrero2019carijo[76],pronouns,medinan
+298,hix,moro,m o r o,,hixkaryanaderby1985[7],pronouns,medinan
+299,ing,mə(r)ə,m ə r ə,,cruz2005fonologia[191],pronouns,medinan
+300,kar,moro,m o r o,,courtz2008carib[53],pronouns,medinan
+301,kax,moro,m o r o,,,pronouns,medinan
+302,mak,mərə,m ə r ə,,maquiritaricaceres2011[122],pronouns,medinan
+303,pan,mən,m ə n,,panarepayne2013[89],pronouns,invisinan
+304,pem,mərə,m ə r ə,,swiggers2010gramatica[120],pronouns,medinan
+305,PPem,mərə,m ə r ə,,,pronouns,medinan
+306,PPP,mərə,m ə r ə,,,pronouns,medinan
+307,PTar,mərə,m ə r ə,,meira1998proto[67],pronouns,medinan
+308,tri,mərə,m ə r ə,,triomeira1999[154],pronouns,medinan
+309,wai,moro,m o r o,,,pronouns,medinan
+310,way,mərə,m ə r ə,,wayanatavares2005[184],pronouns,medinan
+311,wmr,mɨrɨ,m ɨ r ɨ,check meaning,waimiribruno2003[77],pronouns,medinan
+312,yab,mərə,m ə r ə,check meaning,,pronouns,medinan
+313,mac,mɨrɨrɨ,m ɨ r ɨ + r ɨ,,macushiabbott1991[105],pronouns,medinan
+316,pan,mənkon,m ə n + k o n,,panarepayne2013[89],pronouns,invisinanpl
+317,kar,morokon,m o r o + k o n,,courtz2008carib[53],pronouns,medinanpl
+318,way,mərəkomo,m ə r ə + k o m o,,wayanatavares2005[184],pronouns,medinanpl
+319,ing,mərəjamə,m ə r ə + j a m ə,,cruz2005fonologia[191],pronouns,medinanpl
+320,tri,mərəto(mo),m ə r ə + t o m o,,triomeira1999[154],pronouns,medinanpl
+321,apa,moroʔne,m o r o + ʔ n e,,koehn1986apalai[95],pronouns,medinanpl
+323,mak,məʔrə,m ə ʔ + r ə,,maquiritaricaceres2011[122],pronouns,proxanim
+324,apa,mose,m o s e,,koehn1986apalai[95],pronouns,proxanim
+325,kar,mose,m o s e,,courtz2008carib[53],pronouns,proxanim
+326,pan,məh,m ə h,,panarepayne2013[88],pronouns,proxanim
+327,PPem,məse,m ə s e,,,pronouns,proxanim
+328,PPP,məse,m ə s e,,,pronouns,proxanim
+329,PTar,mə(t͡ʃ)e,m ə t͡ʃ e,,meira1998proto[67],pronouns,proxanim
+330,tri,məe,m ə e,,triomeira1999[154],pronouns,proxanim
+331,uxc,ese,e s e,,kuikurodossantos2007[55],pronouns,proxanim
+332,wai,moso,m o s o,,,pronouns,proxanim
+333,way,mə(s)i,m ə s i,,wayanatavares2005[184],pronouns,proxanim
+334,hix,mosonɨ,m o s o + n ɨ,,hixkaryanaderby1985[7],pronouns,proxanim
+335,kax,mosoro,m o s o + r o,,,pronouns,proxanim
+336,mac,mɨserɨ,m ɨ s e + r ɨ,,,pronouns,proxanim
+337,pem,məsərə,m ə s ə + r ə,,garcia2006diccionario[77],pronouns,proxanim
+338,way,məhe(rə),m ə h e + r ə,,wayanatavares2005[184],pronouns,proxanim
+339,wai,ero,e r o,,,pronouns,proxanim
+341,wai,mɨkjam,m ɨ k + j a m,,,pronouns,proxanimpl
+342,apa,moʃiamo,m o ʃ + i a m o,,koehn1986apalai[95],pronouns,proxanimpl
+343,hix,moʃamo,m o ʃ + a m o,,hixkaryanaderby1985[7],pronouns,proxanimpl
+344,PTar,mə(t͡ʃ)et͡ʃamo,m ə t͡ʃ e + t͡ʃ a m o,,meira1998proto[67],pronouns,proxanimpl
+345,tri,məesa(mo),m ə e + s a m o,,triomeira1999[154],pronouns,proxanimpl
+346,way,məheam(o),m ə h e + a m o,,wayanatavares2005[184],pronouns,proxanimpl
+347,kar,moʔsaro(n),m o ʔ + s a r o + n,Final /n/ only in eastern Surinamese.,courtz2008carib[53],pronouns,proxanimpl
+348,kax,moʔt͡ʃarɨ,m o ʔ + t͡ʃ a + r ɨ,,,pronouns,proxanimpl
+349,way,məharə,m ə h + a + r ə,,wayanatavares2005[184],pronouns,proxanimpl
+350,pan,məht͡ʃanton,m ə h + t͡ʃ a n + t o n,,panarepayne2013[88],pronouns,proxanimpl
+355,way,məsin,m ə + s i n,,wayanatavares2005[184],pronouns,proxinan
+356,aka,serə,s e r ə,,akawaiocaesar2003[115],pronouns,proxinan
+357,aku,t͡ʃerə,t͡ʃ e r ə,,meira1998proto[187],pronouns,proxinan
+358,bak,ʃirə,ʃ i r ə,,meira2005southern[180],pronouns,proxinan
+359,car,ərə,ə r ə,,guerrero2019carijo[76],pronouns,proxinan
+360,kar,ero,e r o,,courtz2008carib[53],pronouns,proxinan
+361,kax,soro,s o r o,,,pronouns,proxinan
+362,mak,erə,e r ə,,maquiritaricaceres2011[122],pronouns,proxinan
+363,pan,sɨ(h),s ɨ h,,panarepayne2013[89],pronouns,proxinan
+364,pem,sərə,s ə r ə,,garcia2006diccionario[77],pronouns,proxinan
+365,PTar,(t͡ʃ)erə,t͡ʃ e r ə,,meira1998proto[67],pronouns,proxinan
+366,tri,serə,s e r ə,,triomeira1999[154],pronouns,proxinan
+367,uxc,iɣe,i ɣ e,,kuikurodossantos2007[55],pronouns,proxinan
+368,way,herə,h e r ə,,wayanatavares2005[184],pronouns,proxinan
+369,ing,sə(rə),s ə + r ə,,cruz2005fonologia[191],pronouns,proxinan
+370,mac,sɨrɨrɨ,s ɨ r ɨ + r ɨ,,macushiabbott1991[105],pronouns,proxinan
+371,apa,senɨ,s e n ɨ,,koehn1986apalai[95],pronouns,proxinan
+372,car,enɨ,e n ɨ,,guerrero2019carijo[76],pronouns,proxinan
+373,hix,onɨ,o n ɨ,,hixkaryanaderby1985[7],pronouns,proxinan
+374,kar,enɨ,e n ɨ,,courtz2008carib[53],pronouns,proxinan
+375,mac,seni,s e n i,,macushiabbott1991[105],pronouns,proxinan
+376,PTar,(t͡ʃ)enɨ,t͡ʃ e n ɨ,,meira1998proto[67],pronouns,proxinan
+377,tri,se(nɨ),s e n ɨ,,triomeira1999[154],pronouns,proxinan
+378,way,sinɨ,s i n ɨ,,wayanatavares2005[184],pronouns,proxinan
+379,yab,(s)eni,s e n i,check meaning,mendez1959yawarana[69],pronouns,proxinan
+384,ikp,nejam,n e + j a m,,ikpengpacheco2001[119],pronouns,proxinanpl
+385,ing,sə(rə)jamə,s ə + r ə + j a m ə,,cruz2005fonologia[191],pronouns,proxinanpl
+386,kar,erokon,e r o + k o n,,courtz2008carib[53],pronouns,proxinanpl
+387,way,herəkom(o),h e r ə + k o m o,,wayanatavares2005[184],pronouns,proxinanpl
+388,kax,soronne,s o r o + n n e,,,pronouns,proxinanpl
+389,kar,enɨkon,e n ɨ + k o n,,courtz2008carib[53],pronouns,proxinanpl
+390,way,sinkom(o),s i n + k o m o,,wayanatavares2005[184],pronouns,proxinanpl
+392,tri,ohkɨja(mo),o h k ɨ + j a m o,,triomeira1999[154],pronouns,distanimpl
+393,mac,uurɨʔkon,uu + r ɨ + ʔ + k o n,,macushiabbott1991[99],pronouns,12
+394,pem,juurətokon,j uu + r ə + t o + k o n,,swiggers2010gramatica[120],pronouns,12
+395,PPar,kɨ?(ro),k ɨ + + r o,,,pronouns,12
+396,PWai,kɨwɨ(ro),k ɨ + w ɨ + r o,,,pronouns,12
+397,PPar,amna,a m n a,,,pronouns,13
+398,yuk,amora,a m o + r + a,,meiraDByukpa,pronouns,2pl
+399,mac,amɨrɨʔnɨkon,a m ɨ + r ɨ + ʔ n ɨ + k o n,,macushiabbott1991[99],pronouns,2pl
+400,pem,amərənokon,a m ə + r ə + n o + k o n,,swiggers2010gramatica[120],pronouns,2pl
+401,PPar,iro,i r o,,,pronouns,3anainan
+402,PWai,ɨro,ɨ r o,,,pronouns,3anainan
+403,uxc,ɨle,ɨ l e,,kuikurodossantos2007[55],pronouns,3anainan
+404,wai,ero,e r o,,waiwaihawkins1998[55],pronouns,3anainan
+405,tri,irəto(mo),i r ə + t o m o,,triomeira1999[154],pronouns,3anainanpl
+406,tri,mənto(mo),m ə n + t o m o,,triomeira1999[154],pronouns,invisinanpl
+407,tri,mə(kɨ),m ə k ɨ,,triomeira1999[154],pronouns,invisanim
+408,uxc,ekise,e k i + s e,,kuikurodossantos2007[55],pronouns,distanim
+409,uxc,eekise,ee k i + s e,,kuikurodossantos2007[55],pronouns,invisanim
+410,tri,mə(kɨ)ja(mo),m ə k ɨ + j a m o,,triomeira1999[154],pronouns,invisanimpl
+411,PPem,mərə,m ə r ə,,,pronouns,medinan
+412,PPem,sərə,s ə r ə,,,pronouns,proxinan
+413,pan,sɨ(h)kon,s ɨ h + k o n,,panarepayne2013[89],pronouns,proxinanpl
+414,tri,serəto(mo),s e r ə + t o m o,,triomeira1999[154],pronouns,proxinanpl
+415,tri,sento(mo),s e n + t o m o,,triomeira1999[154],pronouns,proxinanpl
+416,mac,toʔ,t o ʔ,,macushiabbott1991[99],pronouns,3anapl
+417,pem,toʔ,t o ʔ,,swiggers2010gramatica[120],pronouns,3anapl
+447,PC,əmjamo,ə m + j a m o,,meira2002first[271],pronouns,2pl
+448,tam,amɲamoro,a m + ɲ a m o + r o,,meira2002first[258],pronouns,2pl
+449,tam,kiwe,k i + w e,First vowel is probably ɨ,meira2002first[258],pronouns,12
+450,tam,kikemo,k i + k e m o,First vowel is probably ɨ,meira2002first[258],pronouns,12pl
+451,kar,kɨmoro,k ɨ + m o + r o,Venezuelan Kari’ña,courtz2008carib[52],pronouns,12
+452,kar,kɨmojaro,k ɨ + m o + j a + r o,Venezuelan Kari’ña,courtz2008carib[52],pronouns,12pl
