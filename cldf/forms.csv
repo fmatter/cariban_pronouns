@@ -202,6 +202,7 @@ ID,Language_ID,Form,Segments,Comment,Source,Contribution_ID,Parameter_ID
 200,uxc,ɨŋele,ɨ ŋ e l e,,kuikurodossantos2007[55],pronouns,3anaanim
 201,wai,noro,n o r o,,,pronouns,3anaanim
 202,way,inərə(rə),i n ə r ə + r ə,,wayanatavares2005[183],pronouns,3anaanim
+203,ing,kɨrə(rə),k ɨ + r ə + r ə,,cruz2005fonologia[162],pronouns,3anaanim
 204,ing,kamo(ro),k a m o + r o,,cruz2005fonologia[191],pronouns,3anaanimpl
 205,apa,ɨnaro,ɨ n a r o,,koehn1986apalai[95],pronouns,3anaanimpl
 206,kar,inaro(n),i n a r o + n,Final /n/ only in eastern Surinamese.,courtz2008carib[53],pronouns,3anaanimpl
@@ -235,7 +236,7 @@ ID,Language_ID,Form,Segments,Comment,Source,Contribution_ID,Parameter_ID
 237,wai,mɨkɨ,m ɨ k ɨ,,,pronouns,distanim
 238,way,məkɨ,m ə k ɨ,,wayanatavares2005[184],pronouns,distanim
 239,ikp,ugun,u g u + n,,ikpengpacheco2001[119],pronouns,distanim
-240,car,məkamoro,m ə k + a m o + r o,,guerrero2019carijo[76],pronouns,distanim
+240,car,məkamoro,m ə k + a m o + r o,,guerrero2019carijo[76],pronouns,distanimpl
 241,ikp,mun,m u n,,ikpengpacheco2001[119],pronouns,distanimpl
 242,apa,mokamo,m o k + a m o,,koehn1986apalai[95],pronouns,distanimpl
 243,hix,mokjamo,m o k + j a m o,,hixkaryanaderby1985[7],pronouns,distanimpl
@@ -392,9 +393,13 @@ ID,Language_ID,Form,Segments,Comment,Source,Contribution_ID,Parameter_ID
 415,tri,sento(mo),s e n + t o m o,,triomeira1999[154],pronouns,proxinanpl
 416,mac,toʔ,t o ʔ,,macushiabbott1991[99],pronouns,3anapl
 417,pem,toʔ,t o ʔ,,swiggers2010gramatica[120],pronouns,3anapl
+423,pan,muku(h),m u k u h,,panarepayne2013[89],pronouns,distanim
 447,PC,əmjamo,ə m + j a m o,,meira2002first[271],pronouns,2pl
 448,tam,amɲamoro,a m + ɲ a m o + r o,,meira2002first[258],pronouns,2pl
 449,tam,kiwe,k i + w e,First vowel is probably ɨ,meira2002first[258],pronouns,12
 450,tam,kikemo,k i + k e m o,First vowel is probably ɨ,meira2002first[258],pronouns,12pl
 451,kar,kɨmoro,k ɨ + m o + r o,Venezuelan Kari’ña,courtz2008carib[52],pronouns,12
 452,kar,kɨmojaro,k ɨ + m o + j a + r o,Venezuelan Kari’ña,courtz2008carib[52],pronouns,12pl
+454,tam,make,m a k e,Probably məkɨ.,meira2002first[269],pronouns,distanim
+455,bak,məkə,m ə k ə,,meiraDBbakairi,pronouns,distanim
+457,tam,krere,k + r e + r e,Probably krərə or krɨrɨ,meira2002first[269],pronouns,distanim

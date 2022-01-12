@@ -412,6 +412,9 @@ ID,Form_ID,Cognateset_ID,Segment_Slice,Alignment,Source,Contribution_ID
 201_0,201,aanim,1,- n o r o,,pronouns
 202_0,202,aanim,1,i n ə r ə,,pronouns
 202_1,202,emp,2,r ə,,pronouns
+203_0,203,danim,1,- - - k ɨ -,,pronouns
+203_1,203,emp,2,r ə,,pronouns
+203_2,203,emp,3,r ə,,pronouns
 204_1,204,emp,2,r o,,pronouns
 205_0,205,aanim,1,ɨ n a r o,,pronouns
 206_0,206,aanim,1,i n a r o,,pronouns
@@ -447,34 +450,34 @@ ID,Form_ID,Cognateset_ID,Segment_Slice,Alignment,Source,Contribution_ID
 228_0,228,ainan,1,i r o,,pronouns
 229_0,229,ainan,1,i r o,,pronouns
 229_1,229,pl1,2,- k o n -,,pronouns
-230_0,230,manim,1,- m o - k ɨ,,pronouns
-231_0,231,manim,1,- m ə - k ə,,pronouns
-232_0,232,manim,1,- m o - k ɨ,,pronouns
-233_0,233,manim,1,- m o ʔ k ɨ,,pronouns
-234_0,234,manim,1,- m o - k ɨ,,pronouns
-235_0,235,manim,1,- m ə k k ɨ,,pronouns
-236_0,236,manim,1,- m ə - k ɨ,,pronouns
-237_0,237,manim,1,- m ɨ - k ɨ,,pronouns
-238_0,238,manim,1,- m ə - k ɨ,,pronouns
-239_0,239,manim,1,- - u - g u,,pronouns
+230_0,230,danim,1,m o - k ɨ -,,pronouns
+231_0,231,danim,1,m ə - k ə -,,pronouns
+232_0,232,danim,1,m o - k ɨ -,,pronouns
+233_0,233,danim,1,m o ʔ k ɨ -,,pronouns
+234_0,234,danim,1,m o - k ɨ -,,pronouns
+235_0,235,danim,1,m ə k k ɨ -,,pronouns
+236_0,236,danim,1,m ə - k ɨ -,,pronouns
+237_0,237,danim,1,m ɨ - k ɨ -,,pronouns
+238_0,238,danim,1,m ə - k ɨ -,,pronouns
+239_0,239,danim,1,- u - g u -,,pronouns
 239_1,239,emp,2,n -,,pronouns
-240_0,240,manim,1,- m ə - k -,,pronouns
+240_0,240,danim,1,m ə - k - -,,pronouns
 240_1,240,pl2,2,- - a m o,,pronouns
 240_2,240,emp,3,r o,,pronouns
 241_0,241,dinan,1,m u n -,,pronouns
-242_0,242,manim,1,- m o - k -,,pronouns
+242_0,242,danim,1,m o - k - -,,pronouns
 242_1,242,pl2,2,- - a m o,,pronouns
-243_0,243,manim,1,- m o - k -,,pronouns
+243_0,243,danim,1,m o - k - -,,pronouns
 243_1,243,pl2,2,- j a m o,,pronouns
-244_0,244,manim,1,- m o ʔ k -,,pronouns
+244_0,244,danim,1,m o ʔ k - -,,pronouns
 244_1,244,pl2,2,- - a n -,,pronouns
-245_0,245,manim,1,- m a k k -,,pronouns
+245_0,245,danim,1,m a - k - k,,pronouns
 245_1,245,pl2,2,- - a m o,,pronouns
-246_0,246,manim,1,- m ə - k ɨ,,pronouns
+246_0,246,danim,1,m ə - k ɨ -,,pronouns
 246_1,246,pl2,2,- j a m o,,pronouns
-247_0,247,manim,1,- m o - - -,,pronouns
+247_0,247,danim,1,m o - - - -,,pronouns
 247_1,247,pl2,2,- ʃ a m -,,pronouns
-248_0,248,manim,1,- m ə - k -,,pronouns
+248_0,248,danim,1,m ə - k - -,,pronouns
 248_1,248,pl2,2,- j a m o,,pronouns
 249_0,249,dinan,1,m o n ɨ,,pronouns
 250_0,250,dinan,1,m o n ɨ,,pronouns
@@ -494,49 +497,49 @@ ID,Form_ID,Cognateset_ID,Segment_Slice,Alignment,Source,Contribution_ID
 262_0,262,dinan,1,m u - -,,pronouns
 262_1,262,pl2,2,- j a m -,,pronouns
 264_0,264,dinan,1,m ə n ɨ,,pronouns
-265_0,265,manim,1,- m ɨ - k ɨ,,pronouns
-266_0,266,manim,1,- m o ʔ k o,,pronouns
-267_0,267,manim,1,- k ɨ - - -,,pronouns
+265_0,265,danim,1,m ɨ - k ɨ -,,pronouns
+266_0,266,danim,1,m o ʔ k o -,,pronouns
+267_0,267,danim,1,- - - k ɨ -,,pronouns
 267_1,267,emp,2,r ə,,pronouns
-268_0,268,manim,1,- m o - k ɨ,,pronouns
+268_0,268,danim,1,m o - k ɨ -,,pronouns
 268_1,268,emp,2,r o,,pronouns
-269_0,269,manim,1,- m o - k -,,pronouns
+269_0,269,danim,1,m o - k - -,,pronouns
 269_1,269,emp,2,r o,,pronouns
-270_0,270,manim,1,- m o - k o,,pronouns
+270_0,270,danim,1,m o - k o -,,pronouns
 270_1,270,emp,2,r o,,pronouns
-271_0,271,manim,1,- m ɨɨ - k ɨ,,pronouns
+271_0,271,danim,1,m ɨɨ - k ɨ -,,pronouns
 271_1,271,emp,2,r ɨ,,pronouns
-272_0,272,manim,1,- k ə - - -,,pronouns
+272_0,272,danim,1,- - - k ə -,,pronouns
 272_1,272,emp,2,n -,,pronouns
-273_0,273,manim,1,- m ə - ʔ -,,pronouns
+273_0,273,danim,1,m ə - ʔ - -,,pronouns
 273_1,273,emp,2,r ə,,pronouns
-274_0,274,manim,1,- m ə - k ɨ,,pronouns
+274_0,274,danim,1,m ə - k ɨ -,,pronouns
 274_1,274,emp,2,r ə,,pronouns
-275_0,275,manim,1,- m ə - k ɨ,,pronouns
+275_0,275,danim,1,m ə - k ɨ -,,pronouns
 275_1,275,emp,2,r ə,,pronouns
-276_0,276,manim,1,- m ə - k ɨ,,pronouns
+276_0,276,danim,1,m ə - k ɨ -,,pronouns
 276_1,276,emp,2,r ə,,pronouns
-277_0,277,manim,1,- m əə - - -,,pronouns
+277_0,277,danim,1,m əə - - - -,,pronouns
 277_1,277,emp,2,r ə,,pronouns
-278_0,278,manim,1,- m ɨ - k -,,pronouns
+278_0,278,danim,1,m ɨ - k - -,,pronouns
 278_1,278,emp,2,r o,,pronouns
-279_0,279,manim,1,- m ə - k -,,pronouns
+279_0,279,danim,1,m ə - k - -,,pronouns
 279_1,279,emp,2,r ə,,pronouns
 279_2,279,emp,3,r ə,,pronouns
-281_0,281,manim,1,- m o - k -,,pronouns
+281_0,281,danim,1,m o - k - -,,pronouns
 281_1,281,pl2,2,- j a m o,,pronouns
-282_0,282,manim,1,- m ɨ - k ɨ,,pronouns
+282_0,282,danim,1,m ɨ - k ɨ -,,pronouns
 282_1,282,pl2,2,- j a m ə,,pronouns
-283_0,283,manim,1,- m o - k -,,pronouns
+283_0,283,danim,1,m o - k - -,,pronouns
 283_1,283,pl2,2,- - a - -,,pronouns
 283_2,283,emp,3,r o,,pronouns
-284_0,284,manim,1,- m o - k -,,pronouns
+284_0,284,danim,1,m o - k - -,,pronouns
 284_1,284,pl2,2,- j a - -,,pronouns
 284_2,284,emp,3,r ɨ,,pronouns
-285_0,285,manim,1,- m ə - k -,,pronouns
+285_0,285,danim,1,m ə - k - -,,pronouns
 285_1,285,pl2,2,- j a - -,,pronouns
 285_2,285,emp,3,r ə,,pronouns
-286_0,286,manim,1,- m o ʔ k -,,pronouns
+286_0,286,danim,1,m o ʔ k - -,,pronouns
 286_1,286,pl2,2,- - a - -,,pronouns
 286_2,286,emp,3,r o,,pronouns
 292_0,292,dinan,1,m ə n ɨ,,pronouns
@@ -574,7 +577,7 @@ ID,Form_ID,Cognateset_ID,Segment_Slice,Alignment,Source,Contribution_ID
 320_1,320,pl3,2,t o m o,,pronouns
 321_0,321,minan,1,m o r o,,pronouns
 321_1,321,pl4,2,ʔ n e,,pronouns
-323_0,323,manim,1,- m ə - ʔ -,,pronouns
+323_0,323,danim,1,m ə - ʔ - -,,pronouns
 323_1,323,emp,2,r ə,,pronouns
 324_0,324,panim,1,m o s e,,pronouns
 325_0,325,panim,1,m o s e,,pronouns
@@ -596,7 +599,7 @@ ID,Form_ID,Cognateset_ID,Segment_Slice,Alignment,Source,Contribution_ID
 338_0,338,panim,1,m ə h e,,pronouns
 338_1,338,emp,2,r ə,,pronouns
 339_0,339,pinan1,1,- e r o,,pronouns
-341_0,341,manim,1,- m ɨ - k -,,pronouns
+341_0,341,danim,1,m ɨ - k - -,,pronouns
 341_1,341,pl2,2,- j a m -,,pronouns
 342_0,342,panim,1,m o ʃ -,,pronouns
 342_1,342,pl2,2,i - a m o,,pronouns
@@ -691,10 +694,10 @@ ID,Form_ID,Cognateset_ID,Segment_Slice,Alignment,Source,Contribution_ID
 405_1,405,pl3,2,t o m o,,pronouns
 406_0,406,dinan,1,m ə n -,,pronouns
 406_1,406,pl3,2,t o m o,,pronouns
-407_0,407,manim,1,- m ə - k ɨ,,pronouns
-408_0,408,manim,1,e k i - - -,,pronouns
-409_0,409,manim,1,ee k i - - -,,pronouns
-410_0,410,manim,1,- m ə - k ɨ,,pronouns
+407_0,407,danim,1,m ə - k ɨ -,,pronouns
+408_0,408,danim,1,- e - k i -,,pronouns
+409_0,409,danim,1,- ee - k i -,,pronouns
+410_0,410,danim,1,m ə - k ɨ -,,pronouns
 410_1,410,pl2,2,- j a m o,,pronouns
 411_0,411,minan,1,m ə r ə,,pronouns
 412_0,412,pinan1,1,s ə r ə,,pronouns
@@ -706,6 +709,7 @@ ID,Form_ID,Cognateset_ID,Segment_Slice,Alignment,Source,Contribution_ID
 415_1,415,pl3,2,t o m o,,pronouns
 416_0,416,toto,1,t o ʔ -,,pronouns
 417_0,417,toto,1,t o ʔ -,,pronouns
+423_0,423,danim,1,m u - k u h,,pronouns
 447_0,447,2,1,- ə m -,,pronouns
 447_1,447,pl2,2,- j a m o,,pronouns
 448_0,448,2,1,- a m -,,pronouns
@@ -722,3 +726,8 @@ ID,Form_ID,Cognateset_ID,Segment_Slice,Alignment,Source,Contribution_ID
 452_1,452,mform,2,- m o,,pronouns
 452_2,452,pl2,3,- j a - -,,pronouns
 452_3,452,emp,4,r o,,pronouns
+454_0,454,danim,1,m a - k e -,,pronouns
+455_0,455,danim,1,m ə - k ə -,,pronouns
+457_0,457,danim,1,- - - k - -,,pronouns
+457_1,457,emp,2,r e,,pronouns
+457_2,457,emp,3,r e,,pronouns

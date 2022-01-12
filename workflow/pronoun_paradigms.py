@@ -147,7 +147,7 @@ for lg in [
 
 
 # GRAMMATICALIZATION OF EMPHATIC PARTICLE
-print(all_pronouns)
+print(all_pronouns[all_pronouns["Cognateset_ID"] == "MED.ANIM"])
 
 
 # MAPS
