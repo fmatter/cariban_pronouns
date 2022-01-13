@@ -14,16 +14,6 @@
 | 3ANIM            | *noro*      |                  |
 | 3INAN            | *iro*       |                  |
 
-**Proto-Parukotoan**
-| Person.Animacy   | SG          | PL               |
-|:-----------------|:------------|:-----------------|
-| 1                | *owɨ(+ro)*  |                  |
-| 1+2              | *kɨ+?(+ro)* | *kɨ+?+jamo(+ro)* |
-| 1+3              | *amna*      |                  |
-| 2                | *omo+ro*    | *om+jam(+ro)*    |
-| 3ANIM            | *noro*      |                  |
-| 3INAN            | *iro*       |                  |
-
 **Werikyana**
 | Person.Animacy   | SG         | PL             |
 |:-----------------|:-----------|:---------------|

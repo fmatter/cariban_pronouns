@@ -64,7 +64,6 @@ dem_strings = [
 ]
 all_pronouns = pd.DataFrame()
 for lg in sorted([
-    "PPar",
     "kax",
     "PWai",
     "hix",
