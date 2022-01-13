@@ -155,7 +155,6 @@ class Dataset(BaseDataset):
         lg_ids = list(set(lg_ids))
         for lg in crh.lg_order().keys():
             if lg in lg_ids:
-                print(lg)
                 args.writer.objects["LanguageTable"].append(
                     {
                         "ID": lg,
