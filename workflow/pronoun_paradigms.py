@@ -146,37 +146,36 @@ for lg in [
     # print(df)
 
 # comparative paradigms
-# pyd.x = ["Cognateset_ID"]
-# pyd.x_sort = ["1", "1+2", "1+3", "2", "3ANIM", "3INAN"]
-# pyd.y = ["Language_ID"]
-# pyd.y_sort = list(crh.lg_order().keys())
+pyd.x = ["Cognateset_ID"]
+pyd.x_sort = pronoun_strings3
+pyd.y = ["Language_ID"]
+pyd.y_sort = list(crh.lg_order().keys())
 # pyd.content_string = "Cognates"
 # pyd.content_string = "Proto_Form"
-# pyd.filters = {"Cognateset_ID": pronoun_strings}
-# df = pyd.compose_paradigm(all_pronouns)
-# print(df)
+pyd.filters = {"Cognateset_ID": pronoun_strings3, "Language_ID": crh.proto_languages}
+df = pyd.compose_paradigm(all_pronouns)
+print(df)
 
 
 # GRAMMATICALIZATION OF EMPHATIC PARTICLE
-emp = all_pronouns.copy()
-# find out whether EMP is optional
-emp["COG"] = emp.apply(lambda x: get_cog_dic(x), axis=1)
-emp["EMP"] = emp["COG"].apply(lambda x: "EMP" in x and ")" not in "".join(x["EMP"]))
-tempemp = emp[emp["EMP"]]
-emp_pars = list(set(tempemp["Cognateset_ID"]))
-
 # emp = all_pronouns.copy()
-emp = emp[(emp["Cognateset_ID"].isin(emp_pars) & emp["Language_ID"].isin(crh.extant_languages))]
+# # find out whether EMP is optional
+# emp["COG"] = emp.apply(lambda x: get_cog_dic(x), axis=1)
+# emp["EMP"] = emp["COG"].apply(lambda x: "EMP" in x and ")" not in "".join(x["EMP"]))
+# tempemp = emp[emp["EMP"]]
+# emp_pars = list(set(tempemp["Cognateset_ID"]))
 
-emp_ratios = []
-for par in emp_pars:
-    temp = emp[emp["Cognateset_ID"] == par]
-    if temp["EMP"].sum() == 3:
-        print(temp)
-    emp_ratios.append({"Pronoun": par, "+EMP": temp["EMP"].sum(), "Total": len(temp), "Ratio": temp["EMP"].sum()/ len(temp)})
-emp_ratios = pd.DataFrame.from_dict(emp_ratios)
-emp_ratios.sort_values(by="Ratio", inplace=True, ascending=False)
-print(emp_ratios)
+# # emp = all_pronouns.copy()
+# emp = emp[(emp["Cognateset_ID"].isin(emp_pars) & emp["Language_ID"].isin(crh.extant_languages))]
+
+# emp_ratios = []
+# for par in emp_pars:
+#     temp = emp[emp["Cognateset_ID"] == par]
+#     if temp["EMP"].sum() == 3:
+#         print(temp)
+#     emp_ratios.append({"Pronoun": par, "+EMP": temp["EMP"].sum(), "Total": len(temp), "Ratio": temp["EMP"].sum()/ len(temp)})
+# emp_ratios = pd.DataFrame.from_dict(emp_ratios)
+# emp_ratios.sort_values(by="Ratio", inplace=True, ascending=False)
 
 # MAPS
 # poly_df = pd.read_csv("etc/polygons.csv")
