@@ -44,6 +44,7 @@ forms["Proto_Form"] = forms["Cognates"].map(get_proto_form)
 
 forms["Cognateset_ID"] = forms["Cognateset_ID"].apply(lambda x: x.split("; "))
 forms = forms.explode("Cognateset_ID")
+readme_overview = """"""
 
 pronoun_strings = ["1", "2", "1+2", "1+2PL", "1+3", "2PL"]
 pronoun_strings3 = ["3.ANIM", "3.ANIM.PL", "3.INAN", "3.INAN.PL", "3", "3.PL"]
@@ -62,7 +63,8 @@ dem_strings = [
     "DIST.INAN.PL",
 ]
 all_pronouns = pd.DataFrame()
-for lg in [
+for lg in sorted([
+    "PPar",
     "kax",
     "PWai",
     "hix",
@@ -95,7 +97,8 @@ for lg in [
     "tam",
     "PPem",
     "pan",
-]:
+], key=lambda x: crh.lg_order()[x]):
+
     temp = forms[forms["Language_ID"] == lg].copy()
 
     parlist = ["Person", "Number"]
@@ -120,6 +123,22 @@ for lg in [
         pars.columns = parlist
         pronouns3 = pronouns3.reset_index(drop=True).join(pars)
 
+    pronouns = pronouns.append(pronouns3)
+
+    pronouns["Number"] = pronouns["Number"].map({None: "SG", "PL": "PL"})
+    # individual paradigms
+    # pyd.content_string = "Cognates"
+    pyd.y = ["Person", "Animacy"]
+    if lg in (["PC", "PPek", "car", "aku", "ing", "aka", "ara", "PMan", "yab", "map", "pno", "pem", "mac", "tam", "PPem", "pan", "yuk", "ikp"]):
+        pyd.y = ["Person"]
+    pyd.y_sort = ["1", "1+2", "1+3", "2", "3ANIM", "3INAN"]
+    pyd.x = ["Number"]
+    pyd.x_sort = ["SG", "PL"]
+    df = pyd.compose_paradigm(pronouns)
+    df = df.applymap(lambda x: f"*{x}*")
+    readme_overview += "**"+crh.get_name(lg)+"**\n"
+    readme_overview += df.to_markdown() + "\n\n"
+
     parlist = ["Distance", "Animacy", "Number"]
     dems = temp[temp["Cognateset_ID"].isin(dem_strings)]
     if len(dems) > 0:
@@ -130,20 +149,14 @@ for lg in [
         pars.columns = parlist
         dems = dems.reset_index(drop=True).join(pars)
 
-    pronouns = pronouns.append(pronouns3).append(dems)
+    pronouns = pronouns.append(dems)
     pronouns["Number"] = pronouns["Number"].map({None: "SG", "PL": "PL"})
 
     all_pronouns = all_pronouns.append(pronouns)
-    # individual paradigms
-    # pyd.content_string = "Cognates"
-    # pyd.y = ["Person", "Animacy"]
-    # if lg in ["yuk"]:
-    #     pyd.y = ["Person"]
-    # pyd.y_sort = ["1", "1+2", "1+3", "2", "3ANIM", "3INAN"]
-    # pyd.x = ["Number"]
-    # pyd.x_sort = ["SG", "PL"]
-    # df = pyd.compose_paradigm(pronouns)
-    # print(df)
+
+f = open("README.md", "w")
+f.write(readme_overview)
+f.close()
 
 # comparative paradigms
 pyd.x = ["Cognateset_ID"]
