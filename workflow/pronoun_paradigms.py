@@ -136,6 +136,7 @@ for lg in sorted([
     pyd.x_sort = ["SG", "PL"]
     df = pyd.compose_paradigm(pronouns)
     df = df.applymap(lambda x: f"*{x}*")
+    df.replace({"**":""}, inplace=True)
     readme_overview += "**"+crh.get_name(lg)+"**\n"
     readme_overview += df.to_markdown() + "\n\n"
 
