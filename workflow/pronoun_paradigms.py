@@ -17,6 +17,17 @@ cogsets = pd.read_csv("raw/cognatesets.csv")
 cogdic = dict(zip(cogsets["ID"], cogsets["Form"]))
 cogdic["?"] = "?"
 
+def get_cog_list(row):
+    return list(zip(row["Form"].split("+"), row["Cognates"].split("+")))
+
+def get_cog_dic(row):
+    out = {}
+    for form, cog in zip(row["Form"].split("+"), row["Cognates"].split("+")):
+        if cog not in out:
+            out[cog] = []
+        out[cog].append(form)
+    return out
+
 def get_proto_form(str, prefix="", sep="-"):
     if str == "":
         return ""
@@ -147,8 +158,25 @@ for lg in [
 
 
 # GRAMMATICALIZATION OF EMPHATIC PARTICLE
-print(all_pronouns[all_pronouns["Cognateset_ID"] == "MED.ANIM"])
+emp = all_pronouns.copy()
+# find out whether EMP is optional
+emp["COG"] = emp.apply(lambda x: get_cog_dic(x), axis=1)
+emp["EMP"] = emp["COG"].apply(lambda x: "EMP" in x and ")" not in "".join(x["EMP"]))
+tempemp = emp[emp["EMP"]]
+emp_pars = list(set(tempemp["Cognateset_ID"]))
 
+# emp = all_pronouns.copy()
+emp = emp[(emp["Cognateset_ID"].isin(emp_pars) & emp["Language_ID"].isin(crh.extant_languages))]
+
+emp_ratios = []
+for par in emp_pars:
+    temp = emp[emp["Cognateset_ID"] == par]
+    if temp["EMP"].sum() == 3:
+        print(temp)
+    emp_ratios.append({"Pronoun": par, "+EMP": temp["EMP"].sum(), "Total": len(temp), "Ratio": temp["EMP"].sum()/ len(temp)})
+emp_ratios = pd.DataFrame.from_dict(emp_ratios)
+emp_ratios.sort_values(by="Ratio", inplace=True, ascending=False)
+print(emp_ratios)
 
 # MAPS
 # poly_df = pd.read_csv("etc/polygons.csv")
