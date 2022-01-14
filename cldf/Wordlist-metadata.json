@@ -17,7 +17,7 @@
         {
             "rdf:about": "git@github.com:fmatter/cariban_pronouns",
             "rdf:type": "prov:Entity",
-            "dc:created": "e931fdf",
+            "dc:created": "64bb2ec",
             "dc:title": "Repository"
         },
         {
@@ -45,7 +45,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 404,
+            "dc:extent": 458,
             "tableSchema": {
                 "columns": [
                     {
@@ -150,7 +150,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 732,
+            "dc:extent": 809,
             "tableSchema": {
                 "columns": [
                     {

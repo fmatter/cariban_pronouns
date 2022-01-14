@@ -431,303 +431,380 @@ ID,Form_ID,Cognateset_ID,Segment_Slice,Alignment,Source,Contribution_ID
 211_0,211,aanim,1,- ɲ e - -,,pronouns
 211_1,211,pl2,2,- ʃ a m -,,pronouns
 211_2,211,emp,3,r o,,pronouns
-212_0,212,aanim,1,- - i n -,,pronouns
+212_0,212,aanim,1,i n - - -,,pronouns
 212_1,212,pl2,2,- - a m o,,pronouns
 212_2,212,emp,3,r o,,pronouns
 213_0,213,pinan1,1,s e r o,,pronouns
 213_1,213,pl4,2,ʔ n e,,pronouns
 214_0,214,toto,1,t o ʔ -,,pronouns
 215_0,215,toto,1,t o t o,,pronouns
+216_0,216,aanim,1,- n - - -,,pronouns
+216_1,216,pl2,2,- - a m o,,pronouns
+216_2,216,emp,3,r -,,pronouns
+216_3,216,pl2,4,- j a m ɨ,,pronouns
 219_0,219,ainan,1,ɨ r o,,pronouns
 220_0,220,ainan,1,i r ə,,pronouns
-221_0,221,ainan,1,ɨ r o,,pronouns
-222_0,222,ainan,1,i r o,,pronouns
-223_0,223,ainan,1,i r o,,pronouns
-224_0,224,ainan,1,i j ə,,pronouns
-225_0,225,ainan,1,i r ə,,pronouns
-226_0,226,ainan,1,i r ə,,pronouns
-227_0,227,pinan1,1,s e r o,,pronouns
+221_0,221,ainan,1,i r ə,,pronouns
+222_0,222,ainan,1,i r ə,,pronouns
+223_0,223,ainan,1,i l ə,,pronouns
+224_0,224,ainan,1,i l e,,pronouns
+225_0,225,ainan,1,ɨ r o,,pronouns
+226_0,226,ainan,1,i r ɨ,,pronouns
+227_0,227,ainan,1,i r o,,pronouns
 228_0,228,ainan,1,i r o,,pronouns
-229_0,229,ainan,1,i r o,,pronouns
-229_1,229,pl1,2,- k o n -,,pronouns
-230_0,230,danim,1,m o - k ɨ -,,pronouns
-231_0,231,danim,1,m ə - k ə -,,pronouns
-232_0,232,danim,1,m o - k ɨ -,,pronouns
-233_0,233,danim,1,m o ʔ k ɨ -,,pronouns
-234_0,234,danim,1,m o - k ɨ -,,pronouns
-235_0,235,danim,1,m ə k k ɨ -,,pronouns
-236_0,236,danim,1,m ə - k ɨ -,,pronouns
-237_0,237,danim,1,m ɨ - k ɨ -,,pronouns
-238_0,238,danim,1,m ə - k ɨ -,,pronouns
-239_0,239,danim,1,- u - g u -,,pronouns
-239_1,239,emp,2,n -,,pronouns
-240_0,240,danim,1,m ə - k - -,,pronouns
-240_1,240,pl2,2,- - a m o,,pronouns
-240_2,240,emp,3,r o,,pronouns
-241_0,241,dinan,1,m u n -,,pronouns
-242_0,242,danim,1,m o - k - -,,pronouns
-242_1,242,pl2,2,- - a m o,,pronouns
-243_0,243,danim,1,m o - k - -,,pronouns
-243_1,243,pl2,2,- j a m o,,pronouns
-244_0,244,danim,1,m o ʔ k - -,,pronouns
-244_1,244,pl2,2,- - a n -,,pronouns
-245_0,245,danim,1,m a - k - k,,pronouns
-245_1,245,pl2,2,- - a m o,,pronouns
-246_0,246,danim,1,m ə - k ɨ -,,pronouns
-246_1,246,pl2,2,- j a m o,,pronouns
-247_0,247,danim,1,m o - - - -,,pronouns
-247_1,247,pl2,2,- ʃ a m -,,pronouns
-248_0,248,danim,1,m ə - k - -,,pronouns
-248_1,248,pl2,2,- j a m o,,pronouns
-249_0,249,dinan,1,m o n ɨ,,pronouns
-250_0,250,dinan,1,m o n ɨ,,pronouns
-251_0,251,dinan,1,m o n ɨ,,pronouns
-252_0,252,dinan,1,m o n ɨ,,pronouns
-253_0,253,dinan,1,m əə n ɨ,,pronouns
-254_0,254,dinan,1,m ə n ɨ,,pronouns
-255_0,255,dinan,1,m ɨ n ɨ,,pronouns
-256_0,256,dinan,1,m ɨ n ɨ,,pronouns
-257_0,257,uku,1,- u g -,,pronouns
-257_1,257,pl2,2,- j a m -,,pronouns
-259_1,259,pl4,2,ʔ n e,,pronouns
-260_0,260,dinan,1,m o n ɨ,,pronouns
-260_1,260,pl1,2,- k o n -,,pronouns
+229_0,229,ainan,1,i j ə,,pronouns
+230_0,230,ainan,1,i r ə,,pronouns
+231_0,231,ainan,1,i r ə,,pronouns
+232_0,232,pinan1,1,s e r o,,pronouns
+233_0,233,ainan,1,i r o,,pronouns
+234_0,234,ainan,1,i r o,,pronouns
+234_1,234,pl1,2,- k o n -,,pronouns
+235_0,235,danim,1,m o - k ɨ -,,pronouns
+236_0,236,danim,1,m ə - k ə -,,pronouns
+237_0,237,danim,1,m o - k ɨ -,,pronouns
+238_0,238,danim,1,m o ʔ k ɨ -,,pronouns
+239_0,239,danim,1,m oo - k ɨ -,,pronouns
+239_1,239,pl1,2,- k o n -,,pronouns
+240_0,240,danim,1,m o - k ɨ -,,pronouns
+241_0,241,danim,1,m ə k k ɨ -,,pronouns
+242_0,242,danim,1,m ə - k ɨ -,,pronouns
+243_0,243,danim,1,m ɨ - k ɨ -,,pronouns
+244_0,244,danim,1,m ə - k ɨ -,,pronouns
+245_0,245,danim,1,- u - g u -,,pronouns
+245_1,245,emp,2,n -,,pronouns
+246_0,246,danim,1,m ə - k - -,,pronouns
+246_1,246,pl2,2,- - a m o,,pronouns
+246_2,246,emp,3,r o,,pronouns
+247_0,247,dinan,1,m u n -,,pronouns
+248_0,248,danim,1,m o - k - -,,pronouns
+248_1,248,pl2,2,- - a m o,,pronouns
+249_0,249,danim,1,m o - k - -,,pronouns
+249_1,249,pl2,2,- j a m o,,pronouns
+250_0,250,danim,1,m o ʔ k - -,,pronouns
+250_1,250,pl2,2,- - a n -,,pronouns
+251_0,251,danim,1,m a - k - k,,pronouns
+251_1,251,pl2,2,- - a m o,,pronouns
+252_0,252,danim,1,m ə - k ɨ -,,pronouns
+252_1,252,pl2,2,- j a m o,,pronouns
+253_0,253,danim,1,m o - - - -,,pronouns
+253_1,253,pl2,2,- ʃ a m -,,pronouns
+254_0,254,danim,1,m ə - k - -,,pronouns
+254_1,254,pl2,2,- j a m o,,pronouns
+255_0,255,dinan,1,m o n ɨ,,pronouns
+256_0,256,dinan,1,m o n ɨ,,pronouns
+257_0,257,dinan,1,m o n ɨ,,pronouns
+258_0,258,dinan,1,m o n ɨ,,pronouns
+259_0,259,dinan,1,m əə n ɨ,,pronouns
+260_0,260,dinan,1,m ə n ɨ,,pronouns
 261_0,261,dinan,1,m ɨ n ɨ,,pronouns
-261_1,261,pl1,2,- k o m o,,pronouns
-262_0,262,dinan,1,m u - -,,pronouns
-262_1,262,pl2,2,- j a m -,,pronouns
-264_0,264,dinan,1,m ə n ɨ,,pronouns
-265_0,265,danim,1,m ɨ - k ɨ -,,pronouns
-266_0,266,danim,1,m o ʔ k o -,,pronouns
-267_0,267,danim,1,- - - k ɨ -,,pronouns
-267_1,267,emp,2,r ə,,pronouns
-268_0,268,danim,1,m o - k ɨ -,,pronouns
-268_1,268,emp,2,r o,,pronouns
-269_0,269,danim,1,m o - k - -,,pronouns
-269_1,269,emp,2,r o,,pronouns
-270_0,270,danim,1,m o - k o -,,pronouns
-270_1,270,emp,2,r o,,pronouns
-271_0,271,danim,1,m ɨɨ - k ɨ -,,pronouns
-271_1,271,emp,2,r ɨ,,pronouns
-272_0,272,danim,1,- - - k ə -,,pronouns
-272_1,272,emp,2,n -,,pronouns
-273_0,273,danim,1,m ə - ʔ - -,,pronouns
+262_0,262,dinan,1,m ɨ n ɨ,,pronouns
+263_0,263,uku,1,- u g -,,pronouns
+263_1,263,pl2,2,- j a m -,,pronouns
+265_1,265,pl4,2,ʔ n e,,pronouns
+266_0,266,dinan,1,m o n ɨ,,pronouns
+266_1,266,pl1,2,- k o n -,,pronouns
+267_0,267,dinan,1,m ɨ n ɨ,,pronouns
+267_1,267,pl1,2,- k o m o,,pronouns
+268_0,268,dinan,1,m u - -,,pronouns
+268_1,268,pl2,2,- j a m -,,pronouns
+270_0,270,dinan,1,m ə n ɨ,,pronouns
+271_0,271,danim,1,m ɨ - k ɨ -,,pronouns
+272_0,272,danim,1,m o ʔ k o -,,pronouns
+273_0,273,danim,1,- - - k ɨ -,,pronouns
 273_1,273,emp,2,r ə,,pronouns
-274_0,274,danim,1,m ə - k ɨ -,,pronouns
-274_1,274,emp,2,r ə,,pronouns
-275_0,275,danim,1,m ə - k ɨ -,,pronouns
-275_1,275,emp,2,r ə,,pronouns
-276_0,276,danim,1,m ə - k ɨ -,,pronouns
-276_1,276,emp,2,r ə,,pronouns
-277_0,277,danim,1,m əə - - - -,,pronouns
-277_1,277,emp,2,r ə,,pronouns
-278_0,278,danim,1,m ɨ - k - -,,pronouns
-278_1,278,emp,2,r o,,pronouns
-279_0,279,danim,1,m ə - k - -,,pronouns
+274_0,274,danim,1,m o - k ɨ -,,pronouns
+274_1,274,emp,2,r o,,pronouns
+275_0,275,danim,1,m o - k - -,,pronouns
+275_1,275,emp,2,r o,,pronouns
+276_0,276,danim,1,m o - k o -,,pronouns
+276_1,276,emp,2,r o,,pronouns
+277_0,277,danim,1,m ɨɨ - k ɨ -,,pronouns
+277_1,277,emp,2,r ɨ,,pronouns
+278_0,278,danim,1,- - - k ə -,,pronouns
+278_1,278,emp,2,n -,,pronouns
+279_0,279,danim,1,m ə - ʔ - -,,pronouns
 279_1,279,emp,2,r ə,,pronouns
-279_2,279,emp,3,r ə,,pronouns
-281_0,281,danim,1,m o - k - -,,pronouns
-281_1,281,pl2,2,- j a m o,,pronouns
-282_0,282,danim,1,m ɨ - k ɨ -,,pronouns
-282_1,282,pl2,2,- j a m ə,,pronouns
-283_0,283,danim,1,m o - k - -,,pronouns
-283_1,283,pl2,2,- - a - -,,pronouns
-283_2,283,emp,3,r o,,pronouns
-284_0,284,danim,1,m o - k - -,,pronouns
-284_1,284,pl2,2,- j a - -,,pronouns
-284_2,284,emp,3,r ɨ,,pronouns
+280_0,280,danim,1,m ə - k ɨ -,,pronouns
+280_1,280,emp,2,r ə,,pronouns
+281_0,281,danim,1,m ə - k ɨ -,,pronouns
+281_1,281,emp,2,r ə,,pronouns
+282_0,282,danim,1,m ə - k ɨ -,,pronouns
+282_1,282,emp,2,r ə,,pronouns
+283_0,283,danim,1,m əə - - - -,,pronouns
+283_1,283,emp,2,r ə,,pronouns
+284_0,284,danim,1,m ɨ - k - -,,pronouns
+284_1,284,emp,2,r o,,pronouns
 285_0,285,danim,1,m ə - k - -,,pronouns
-285_1,285,pl2,2,- j a - -,,pronouns
+285_1,285,emp,2,r ə,,pronouns
 285_2,285,emp,3,r ə,,pronouns
-286_0,286,danim,1,m o ʔ k - -,,pronouns
-286_1,286,pl2,2,- - a - -,,pronouns
-286_2,286,emp,3,r o,,pronouns
-292_0,292,dinan,1,m ə n ɨ,,pronouns
-293_0,293,minan,1,m ə r ə,,pronouns
-294_0,294,minan,1,m ə r ə,,pronouns
-295_0,295,minan,1,m o r o,,pronouns
-296_0,296,minan,1,m ə r ə,,pronouns
-297_0,297,minan,1,m ə r ə,,pronouns
-298_0,298,minan,1,m o r o,,pronouns
+287_0,287,danim,1,m o - k - -,,pronouns
+287_1,287,pl2,2,- j a m o,,pronouns
+288_0,288,danim,1,m ɨ - k ɨ -,,pronouns
+288_1,288,pl2,2,- j a m ə,,pronouns
+289_0,289,danim,1,m o - k - -,,pronouns
+289_1,289,pl2,2,- - a - -,,pronouns
+289_2,289,emp,3,r o,,pronouns
+290_0,290,danim,1,m o - k - -,,pronouns
+290_1,290,pl2,2,- j a - -,,pronouns
+290_2,290,emp,3,r ɨ,,pronouns
+291_0,291,danim,1,m ə - k - -,,pronouns
+291_1,291,pl2,2,- j a - -,,pronouns
+291_2,291,emp,3,r ə,,pronouns
+292_0,292,danim,1,m o ʔ k - -,,pronouns
+292_1,292,pl2,2,- - a - -,,pronouns
+292_2,292,emp,3,r o,,pronouns
+298_0,298,dinan,1,m ə n ɨ,,pronouns
 299_0,299,minan,1,m ə r ə,,pronouns
-300_0,300,minan,1,m o r o,,pronouns
+300_0,300,minan,1,m ə r ə,,pronouns
 301_0,301,minan,1,m o r o,,pronouns
 302_0,302,minan,1,m ə r ə,,pronouns
-303_0,303,minan,1,m ə n -,,pronouns
-304_0,304,minan,1,m ə r ə,,pronouns
+303_0,303,minan,1,m ə r ə,,pronouns
+304_0,304,minan,1,m o r o,,pronouns
 305_0,305,minan,1,m ə r ə,,pronouns
-306_0,306,minan,1,m ə r ə,,pronouns
-307_0,307,minan,1,m ə r ə,,pronouns
+306_0,306,minan,1,m o r o,,pronouns
+307_0,307,minan,1,m o r o,,pronouns
 308_0,308,minan,1,m ə r ə,,pronouns
-309_0,309,minan,1,m o r o,,pronouns
+309_0,309,minan,1,m ə n -,,pronouns
 310_0,310,minan,1,m ə r ə,,pronouns
-311_0,311,minan,1,m ɨ r ɨ,,pronouns
+311_0,311,minan,1,m ə r ə,,pronouns
 312_0,312,minan,1,m ə r ə,,pronouns
-313_0,313,minan,1,m ɨ r ɨ,,pronouns
-313_1,313,emp,2,r ɨ,,pronouns
-316_0,316,dinan,1,m ə n -,,pronouns
-316_1,316,pl1,2,- k o n -,,pronouns
-317_0,317,minan,1,m o r o,,pronouns
-317_1,317,pl1,2,- k o n -,,pronouns
+313_0,313,minan,1,m ə r ə,,pronouns
+314_0,314,minan,1,m ə r ə,,pronouns
+315_0,315,minan,1,m o r o,,pronouns
+316_0,316,minan,1,m ə r ə,,pronouns
+317_0,317,minan,1,m ɨ r ɨ,,pronouns
 318_0,318,minan,1,m ə r ə,,pronouns
-318_1,318,pl1,2,- k o m o,,pronouns
-319_0,319,minan,1,m ə r ə,,pronouns
-319_1,319,pl2,2,- j a m ə,,pronouns
-320_0,320,minan,1,m ə r ə,,pronouns
-320_1,320,pl3,2,t o m o,,pronouns
-321_0,321,minan,1,m o r o,,pronouns
-321_1,321,pl4,2,ʔ n e,,pronouns
-323_0,323,danim,1,m ə - ʔ - -,,pronouns
-323_1,323,emp,2,r ə,,pronouns
-324_0,324,panim,1,m o s e,,pronouns
-325_0,325,panim,1,m o s e,,pronouns
-326_0,326,panim,1,m ə h -,,pronouns
-327_0,327,panim,1,m ə s e,,pronouns
-328_0,328,panim,1,m ə s e,,pronouns
-329_0,329,panim,1,m ə t͡ʃ e,,pronouns
-330_0,330,panim,1,m ə - e,,pronouns
-331_0,331,panim,1,- e s e,,pronouns
-332_0,332,panim,1,m o s o,,pronouns
-333_0,333,panim,1,m ə s i,,pronouns
-334_0,334,panim,1,m o s o,,pronouns
-335_0,335,panim,1,m o s o,,pronouns
-335_1,335,emp,2,r o,,pronouns
-336_0,336,panim,1,m ɨ s e,,pronouns
-336_1,336,emp,2,r ɨ,,pronouns
-337_0,337,panim,1,m ə s ə,,pronouns
-337_1,337,emp,2,r ə,,pronouns
-338_0,338,panim,1,m ə h e,,pronouns
-338_1,338,emp,2,r ə,,pronouns
-339_0,339,pinan1,1,- e r o,,pronouns
-341_0,341,danim,1,m ɨ - k - -,,pronouns
-341_1,341,pl2,2,- j a m -,,pronouns
-342_0,342,panim,1,m o ʃ -,,pronouns
-342_1,342,pl2,2,i - a m o,,pronouns
-343_0,343,panim,1,m o ʃ -,,pronouns
-343_1,343,pl2,2,- - a m o,,pronouns
-344_0,344,panim,1,m ə t͡ʃ e,,pronouns
-344_1,344,pl2,2,- t͡ʃ a m o,,pronouns
-345_0,345,panim,1,m ə - e,,pronouns
-345_1,345,pl2,2,- s a m o,,pronouns
-346_0,346,panim,1,m ə h e,,pronouns
-346_1,346,pl2,2,- - a m o,,pronouns
-347_0,347,panim,1,m o ʔ -,,pronouns
-347_1,347,pl2,2,- s a r o,,pronouns
-348_0,348,panim,1,m o ʔ -,,pronouns
-348_1,348,pl2,2,- t͡ʃ a - -,,pronouns
-348_2,348,emp,3,r ɨ,,pronouns
-349_0,349,panim,1,m ə h -,,pronouns
-349_1,349,pl2,2,- - a - -,,pronouns
-349_2,349,emp,3,r ə,,pronouns
-350_0,350,panim,1,m ə h -,,pronouns
-350_1,350,pl2,2,- t͡ʃ a n -,,pronouns
-350_2,350,pl3,3,t o n -,,pronouns
-355_1,355,pinan2,2,s i n -,,pronouns
-356_0,356,pinan1,1,s e r ə,,pronouns
-357_0,357,pinan1,1,t͡ʃ e r ə,,pronouns
-358_0,358,pinan1,1,ʃ i r ə,,pronouns
-359_0,359,pinan1,1,- ə r ə,,pronouns
-360_0,360,pinan1,1,- e r o,,pronouns
-361_0,361,pinan1,1,s o r o,,pronouns
-362_0,362,pinan1,1,- e r ə,,pronouns
-363_0,363,pinan1,1,s ɨ h -,,pronouns
-364_0,364,pinan1,1,s ə r ə,,pronouns
-365_0,365,pinan1,1,t͡ʃ e r ə,,pronouns
-366_0,366,pinan1,1,s e r ə,,pronouns
-367_0,367,pinan1,1,- i ɣ e,,pronouns
-368_0,368,pinan1,1,h e r ə,,pronouns
-369_0,369,pinan1,1,s ə - -,,pronouns
-369_1,369,emp,2,r ə,,pronouns
-370_0,370,pinan1,1,s ɨ r ɨ,,pronouns
-370_1,370,emp,2,r ɨ,,pronouns
-371_0,371,pinan2,1,s e n ɨ,,pronouns
-372_0,372,pinan2,1,- e n ɨ,,pronouns
-373_0,373,pinan2,1,- o n ɨ,,pronouns
-374_0,374,pinan2,1,- e n ɨ,,pronouns
-375_0,375,pinan2,1,s e n i,,pronouns
-376_0,376,pinan2,1,t͡ʃ e n ɨ,,pronouns
-377_0,377,pinan2,1,s e n ɨ,,pronouns
-378_0,378,pinan2,1,s i n ɨ,,pronouns
-379_0,379,pinan2,1,s e n i,,pronouns
-384_1,384,pl2,2,- j a m -,,pronouns
-385_0,385,pinan1,1,s ə - -,,pronouns
-385_1,385,emp,2,r ə,,pronouns
-385_2,385,pl2,3,- j a m ə,,pronouns
-386_0,386,pinan1,1,- e r o,,pronouns
-386_1,386,pl1,2,- k o n -,,pronouns
-387_0,387,pinan1,1,h e r ə,,pronouns
-387_1,387,pl1,2,- k o m o,,pronouns
-388_0,388,pinan2,1,s o r o,,pronouns
-389_0,389,pinan2,1,- e n ɨ,,pronouns
-389_1,389,pl1,2,- k o n -,,pronouns
-390_0,390,pinan2,1,s i n -,,pronouns
-390_1,390,pl1,2,- k o m o,,pronouns
-392_1,392,pl2,2,- j a m o,,pronouns
-393_0,393,1,1,- - uu,,pronouns
-393_1,393,emp,2,r ɨ,,pronouns
-393_2,393,pl3,3,ʔ - - -,,pronouns
-393_3,393,pl1,4,- k o n -,,pronouns
-394_0,394,1,1,- j uu,,pronouns
-394_1,394,emp,2,r ə,,pronouns
-394_2,394,pl3,3,t o - -,,pronouns
-394_3,394,pl1,4,- k o n -,,pronouns
-395_0,395,1a2,1,k ɨ,,pronouns
-395_2,395,emp,3,r o,,pronouns
-396_0,396,1a2,1,k ɨ,,pronouns
-396_1,396,wform,2,w ɨ,,pronouns
-396_2,396,emp,3,r o,,pronouns
-397_0,397,1a3,1,- a m n - a,,pronouns
-398_0,398,2,1,- a m o,,pronouns
-398_1,398,emp,2,r -,,pronouns
-398_2,398,pl2,3,- - a - -,,pronouns
-399_0,399,2,1,- a m ɨ,,pronouns
-399_1,399,emp,2,r ɨ,,pronouns
-399_3,399,pl1,4,- k o n -,,pronouns
-400_0,400,2,1,- a m ə,,pronouns
-400_1,400,emp,2,r ə,,pronouns
-400_3,400,pl1,4,- k o n -,,pronouns
-401_0,401,ainan,1,i r o,,pronouns
-402_0,402,ainan,1,ɨ r o,,pronouns
-403_0,403,ainan,1,ɨ l e,,pronouns
-404_0,404,ainan,1,e r o,,pronouns
-405_0,405,ainan,1,i r ə,,pronouns
-405_1,405,pl3,2,t o m o,,pronouns
-406_0,406,dinan,1,m ə n -,,pronouns
-406_1,406,pl3,2,t o m o,,pronouns
-407_0,407,danim,1,m ə - k ɨ -,,pronouns
-408_0,408,danim,1,- e - k i -,,pronouns
-409_0,409,danim,1,- ee - k i -,,pronouns
-410_0,410,danim,1,m ə - k ɨ -,,pronouns
-410_1,410,pl2,2,- j a m o,,pronouns
-411_0,411,minan,1,m ə r ə,,pronouns
-412_0,412,pinan1,1,s ə r ə,,pronouns
-413_0,413,pinan1,1,s ɨ h -,,pronouns
-413_1,413,pl1,2,- k o n -,,pronouns
-414_0,414,pinan1,1,s e r ə,,pronouns
-414_1,414,pl3,2,t o m o,,pronouns
-415_0,415,pinan2,1,s e n -,,pronouns
-415_1,415,pl3,2,t o m o,,pronouns
-416_0,416,toto,1,t o ʔ -,,pronouns
-417_0,417,toto,1,t o ʔ -,,pronouns
-423_0,423,danim,1,m u - k u h,,pronouns
-447_0,447,2,1,- ə m -,,pronouns
-447_1,447,pl2,2,- j a m o,,pronouns
-448_0,448,2,1,- a m -,,pronouns
-448_1,448,pl2,2,- ɲ a m o,,pronouns
-448_2,448,emp,3,r o,,pronouns
-449_0,449,1a2,1,k i,,pronouns
-449_1,449,wform,2,w e,,pronouns
-450_0,450,1a2,1,k i,,pronouns
-450_1,450,pl2,2,- k e m o,,pronouns
-451_0,451,1a2,1,k ɨ,,pronouns
-451_1,451,mform,2,- m o,,pronouns
-451_2,451,emp,3,r o,,pronouns
-452_0,452,1a2,1,k ɨ,,pronouns
-452_1,452,mform,2,- m o,,pronouns
-452_2,452,pl2,3,- j a - -,,pronouns
-452_3,452,emp,4,r o,,pronouns
-454_0,454,danim,1,m a - k e -,,pronouns
-455_0,455,danim,1,m ə - k ə -,,pronouns
-457_0,457,danim,1,- - - k - -,,pronouns
-457_1,457,emp,2,r e,,pronouns
-457_2,457,emp,3,r e,,pronouns
+319_0,319,minan,1,m ɨ r ɨ,,pronouns
+319_1,319,emp,2,r ɨ,,pronouns
+322_0,322,dinan,1,m ə n -,,pronouns
+322_1,322,pl1,2,- k o n -,,pronouns
+323_0,323,minan,1,m o r o,,pronouns
+323_1,323,pl1,2,- k o n -,,pronouns
+324_0,324,minan,1,m ə r ə,,pronouns
+324_1,324,pl1,2,- k o m o,,pronouns
+325_0,325,minan,1,m ə r ə,,pronouns
+325_1,325,pl2,2,- j a m ə,,pronouns
+326_0,326,minan,1,m ə r ə,,pronouns
+326_1,326,pl3,2,t o m o,,pronouns
+327_0,327,minan,1,m o r o,,pronouns
+327_1,327,pl4,2,ʔ n e,,pronouns
+329_0,329,danim,1,m ə - ʔ - -,,pronouns
+329_1,329,emp,2,r ə,,pronouns
+330_0,330,panim,1,m - o - s e,,pronouns
+331_0,331,panim,1,m - o - s e,,pronouns
+332_0,332,panim,1,m - o ʔ s e,,pronouns
+333_0,333,panim,1,m - o ʔ s e,,pronouns
+333_1,333,pl1,2,- k o n -,,pronouns
+334_0,334,panim,1,m - ə - h -,,pronouns
+335_0,335,panim,1,m - ə - s e,,pronouns
+336_0,336,panim,1,m - ə - s e,,pronouns
+337_0,337,panim,1,m - ə - t͡ʃ e,,pronouns
+338_0,338,panim,1,m - ə - ʔ e,,pronouns
+339_0,339,panim,1,m � e - - -,,pronouns
+339_1,339,pl2,2,- t͡ʃ a m o,,pronouns
+340_0,340,panim,1,m - ə - - e,,pronouns
+341_0,341,panim,1,- - e - s e,,pronouns
+342_0,342,panim,1,m - o - s o,,pronouns
+343_0,343,panim,1,m - ə - s i,,pronouns
+344_0,344,panim,1,m - o - s o,,pronouns
+345_0,345,panim,1,m - o - s o,,pronouns
+345_1,345,emp,2,r o,,pronouns
+346_0,346,panim,1,m - ɨ - s e,,pronouns
+346_1,346,emp,2,r ɨ,,pronouns
+347_0,347,panim,1,m - ə - s ə,,pronouns
+347_1,347,emp,2,r ə,,pronouns
+348_0,348,panim,1,m - ə - h e,,pronouns
+348_1,348,emp,2,r ə,,pronouns
+350_0,350,danim,1,m ɨ - k - -,,pronouns
+350_1,350,pl2,2,- j a m -,,pronouns
+351_0,351,panim,1,m - o - ʃ -,,pronouns
+351_1,351,pl2,2,i - a m o,,pronouns
+352_0,352,panim,1,m - o - ʃ -,,pronouns
+352_1,352,pl2,2,- - a m o,,pronouns
+353_0,353,panim,1,m - o - ʃ -,,pronouns
+353_1,353,pl2,2,- - a m -,,pronouns
+354_0,354,panim,1,m - ə - t͡ʃ e,,pronouns
+354_1,354,pl2,2,- t͡ʃ a m o,,pronouns
+355_0,355,panim,1,m - ə - - e,,pronouns
+355_1,355,pl2,2,- s a m o,,pronouns
+356_0,356,panim,1,m - ə - h -,,pronouns
+356_1,356,pl2,2,- - a m o,,pronouns
+357_0,357,panim,1,m - o - ʔ -,,pronouns
+357_1,357,pl2,2,- s a - -,,pronouns
+357_2,357,emp,3,r o,,pronouns
+358_0,358,panim,1,m - oo - - -,,pronouns
+358_1,358,pl2,2,- j a n -,,pronouns
+359_0,359,panim,1,m - o - ʔ -,,pronouns
+359_1,359,pl2,2,- t͡ʃ a - -,,pronouns
+359_2,359,emp,3,r ɨ,,pronouns
+360_0,360,panim,1,m - ə - h -,,pronouns
+360_1,360,pl2,2,- - a - -,,pronouns
+360_2,360,emp,3,r ə,,pronouns
+361_0,361,panim,1,m - ə - h -,,pronouns
+361_1,361,pl2,2,- t͡ʃ a n -,,pronouns
+361_2,361,pl3,3,t o n -,,pronouns
+366_1,366,pinan2,2,s i n - -,,pronouns
+367_0,367,pinan1,1,s e r ə,,pronouns
+368_0,368,pinan1,1,t͡ʃ e r ə,,pronouns
+369_0,369,pinan1,1,ʃ i r ə,,pronouns
+370_0,370,pinan1,1,- ə r ə,,pronouns
+371_0,371,pinan1,1,- e r o,,pronouns
+372_0,372,pinan1,1,s o r o,,pronouns
+373_0,373,pinan1,1,- e r ə,,pronouns
+374_0,374,pinan1,1,s ɨ h -,,pronouns
+375_0,375,pinan1,1,s ə r ə,,pronouns
+376_0,376,pinan1,1,t͡ʃ e r ə,,pronouns
+377_0,377,pinan1,1,s e r ə,,pronouns
+378_0,378,pinan1,1,- i ɣ e,,pronouns
+379_0,379,pinan1,1,h e r ə,,pronouns
+380_0,380,pinan1,1,s ə - -,,pronouns
+380_1,380,emp,2,r ə,,pronouns
+381_0,381,pinan1,1,s ɨ r ɨ,,pronouns
+381_1,381,emp,2,r ɨ,,pronouns
+382_0,382,pinan2,1,s e n ɨ -,,pronouns
+383_0,383,pinan2,1,- e n ɨ -,,pronouns
+384_0,384,pinan2,1,- o n ɨ -,,pronouns
+385_0,385,pinan2,1,- e n ɨ -,,pronouns
+386_0,386,pinan2,1,s e n i -,,pronouns
+387_0,387,pinan2,1,t͡ʃ e n ɨ -,,pronouns
+388_0,388,pinan2,1,s e n ɨ -,,pronouns
+389_0,389,pinan2,1,s i n ɨ -,,pronouns
+390_0,390,pinan2,1,s e n i -,,pronouns
+391_1,391,pinan2,2,- e n - -,,pronouns
+392_0,392,pinan2,1,s e n ə k,,pronouns
+395_1,395,pinan2,2,- e - - -,,pronouns
+395_2,395,pl2,3,- j a m -,,pronouns
+396_0,396,pinan1,1,s ə - -,,pronouns
+396_1,396,emp,2,r ə,,pronouns
+396_2,396,pl2,3,- j a m ə,,pronouns
+397_0,397,pinan1,1,- e r o,,pronouns
+397_1,397,pl1,2,- k o n -,,pronouns
+398_0,398,pinan1,1,h e r ə,,pronouns
+398_1,398,pl1,2,- k o m o,,pronouns
+399_0,399,pinan2,1,s o r o -,,pronouns
+400_0,400,pinan2,1,- e n ɨ -,,pronouns
+400_1,400,pl1,2,- k o n -,,pronouns
+401_0,401,pinan2,1,s i n - -,,pronouns
+401_1,401,pl1,2,- k o m o,,pronouns
+403_1,403,pl2,2,- j a m o,,pronouns
+404_0,404,1,1,- - uu,,pronouns
+404_1,404,emp,2,r ɨ,,pronouns
+404_2,404,pl3,3,ʔ - - -,,pronouns
+404_3,404,pl1,4,- k o n -,,pronouns
+405_0,405,1,1,- j uu,,pronouns
+405_1,405,emp,2,r ə,,pronouns
+405_2,405,pl3,3,t o - -,,pronouns
+405_3,405,pl1,4,- k o n -,,pronouns
+406_0,406,1a2,1,k ɨ,,pronouns
+406_2,406,emp,3,r o,,pronouns
+407_0,407,1a2,1,k ɨ,,pronouns
+407_1,407,wform,2,w ɨ,,pronouns
+407_2,407,emp,3,r o,,pronouns
+408_0,408,1a3,1,- a m n - a,,pronouns
+409_0,409,2,1,- a m o,,pronouns
+409_1,409,emp,2,r -,,pronouns
+409_2,409,pl2,3,- - a - -,,pronouns
+410_0,410,2,1,- a m ɨ,,pronouns
+410_1,410,emp,2,r ɨ,,pronouns
+410_3,410,pl1,4,- k o n -,,pronouns
+411_0,411,2,1,- a m ə,,pronouns
+411_1,411,emp,2,r ə,,pronouns
+411_3,411,pl1,4,- k o n -,,pronouns
+412_0,412,ainan,1,i r o,,pronouns
+413_0,413,ainan,1,ɨ r o,,pronouns
+414_0,414,ainan,1,ɨ l e,,pronouns
+415_0,415,ainan,1,e r o,,pronouns
+416_0,416,ainan,1,i r ə,,pronouns
+416_1,416,pl3,2,t o m o,,pronouns
+417_0,417,dinan,1,m ə n -,,pronouns
+417_1,417,pl3,2,t o m o,,pronouns
+418_0,418,danim,1,m ə - k ɨ -,,pronouns
+419_0,419,danim,1,- e - k i -,,pronouns
+420_0,420,danim,1,- ee - k i -,,pronouns
+421_0,421,danim,1,m ə - k ɨ -,,pronouns
+421_1,421,pl2,2,- j a m o,,pronouns
+422_0,422,minan,1,m ə r ə,,pronouns
+423_0,423,pinan1,1,s ə r ə,,pronouns
+424_0,424,pinan1,1,s ɨ h -,,pronouns
+424_1,424,pl1,2,- k o n -,,pronouns
+425_0,425,pinan1,1,s e r ə,,pronouns
+425_1,425,pl3,2,t o m o,,pronouns
+426_0,426,pinan2,1,s e n - -,,pronouns
+426_1,426,pl3,2,t o m o,,pronouns
+427_0,427,toto,1,t o ʔ -,,pronouns
+428_0,428,toto,1,t o ʔ -,,pronouns
+432_0,432,danim,1,m u - k u h,,pronouns
+433_0,433,dinan,1,m u h -,,pronouns
+444_0,444,minan,1,- e ɣ e,,pronouns
+445_0,445,pinan2,1,- o n - -,,pronouns
+456_0,456,2,1,- ə m -,,pronouns
+456_1,456,pl2,2,- j a m o,,pronouns
+457_0,457,2,1,- a m -,,pronouns
+457_1,457,pl2,2,- ɲ a m o,,pronouns
+457_2,457,emp,3,r o,,pronouns
+458_0,458,1a2,1,k i,,pronouns
+458_1,458,wform,2,w e,,pronouns
+459_0,459,1a2,1,k i,,pronouns
+459_1,459,pl2,2,- k e m o,,pronouns
+460_0,460,1a2,1,k ɨ,,pronouns
+460_1,460,mform,2,- m o,,pronouns
+460_2,460,emp,3,r o,,pronouns
+461_0,461,1a2,1,k ɨ,,pronouns
+461_1,461,mform,2,- m o,,pronouns
+461_2,461,pl2,3,- j a - -,,pronouns
+461_3,461,emp,4,r o,,pronouns
+463_0,463,danim,1,m a - k e -,,pronouns
+464_0,464,danim,1,m ə - k ə -,,pronouns
+466_0,466,danim,1,- - - k - -,,pronouns
+466_1,466,emp,2,r e,,pronouns
+466_2,466,emp,3,r e,,pronouns
+467_0,467,ainan,1,ɨ r o,,pronouns
+468_0,468,ainan,1,i r o,,pronouns
+469_0,469,aanim,1,i n ə r a,,pronouns
+470_0,470,aanim,1,- n ə r ə,,pronouns
+471_0,471,aanim,1,- n a r e,,pronouns
+472_0,472,aanim,1,- n - - -,,pronouns
+472_1,472,pl2,2,- - a m o,,pronouns
+472_2,472,emp,3,r o,,pronouns
+473_0,473,aanim,1,- ɲ o r o,,pronouns
+474_0,474,aanim,1,- ɲ o r o,,pronouns
+474_1,474,pl1,2,- k o n -,,pronouns
+475_0,475,aanim,1,i n - - -,,pronouns
+475_1,475,pl2,2,- - a m o,,pronouns
+475_2,475,emp,3,r o,,pronouns
+476_0,476,aanim,1,i n - - -,,pronouns
+476_1,476,pl2,2,- - a m o,,pronouns
+476_2,476,emp,3,r o,,pronouns
+482_0,482,pinan2,1,- e n - -,,pronouns
+486_0,486,pinan2,1,- e r o -,,pronouns
+494_0,494,danim,1,- - - k - -,,pronouns
+494_1,494,pl2,2,i - a m o,,pronouns
+494_2,494,emp,3,r o,,pronouns
+495_0,495,danim,1,m u - k - -,,pronouns
+495_1,495,pl2,2,i - a m o,,pronouns
+496_0,496,danim,1,m u - k u -,,pronouns
+496_1,496,pl1,2,- k o n -,,pronouns
+498_0,498,danim,1,m o - k - -,,pronouns
+498_1,498,pl2,2,- j a m o,,pronouns
+499_0,499,danim,1,m o - k - -,,pronouns
+499_1,499,pl2,2,- j a m o,,pronouns
+500_0,500,danim,1,m o - k ɨ -,,pronouns
+501_0,501,danim,1,m o - k ɨ -,,pronouns
+502_0,502,pinan2,1,t͡ʃ e n e -,,pronouns
+503_0,503,minan,1,m o r e,,pronouns
+504_0,504,dinan,1,m ə n ɨ,,pronouns
+505_0,505,pinan2,1,t͡ʃ e n ɨ -,,pronouns
+506_0,506,pinan2,1,- e n - -,,pronouns
+507_0,507,pinan2,1,t͡ʃ e n - -,,pronouns
+508_0,508,minan,1,m o r o,,pronouns
+509_0,509,minan,1,m ə r ə,,pronouns
+510_0,510,pinan1,1,t͡ʃ e r ə,,pronouns
+511_0,511,pinan1,1,- e r o,,pronouns
+512_0,512,dinan,1,m o n -,,pronouns
+513_0,513,pinan2,1,- o n ɨ -,,pronouns
+514_0,514,pinan1,1,s o r o,,pronouns
+515_0,515,minan,1,m o r o,,pronouns
+516_0,516,minan,1,m o r o,,pronouns
+517_0,517,dinan,1,m o n ɨ,,pronouns
+518_0,518,dinan,1,m o n ɨ,,pronouns
+519_0,519,pinan1,1,s ə r ə,,pronouns

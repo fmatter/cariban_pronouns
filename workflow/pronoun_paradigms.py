@@ -57,11 +57,11 @@ dem_strings = [
     "DIST.ANIM.PL",
     "PROX.INAN-1",
     "PROX.INAN-2",
-    "PROX.INAN.PL",
+    # "PROX.INAN.PL",
     "MED.INAN",
-    "MED.INAN.PL",
+    # "MED.INAN.PL",
     "DIST.INAN",
-    "DIST.INAN.PL",
+    # "DIST.INAN.PL",
 ]
 all_pronouns = pd.DataFrame()
 for lg in sorted([
@@ -72,6 +72,7 @@ for lg in sorted([
     "PC",
     "PPar",
     "PTar",
+    "PXin",
     "tri",
     "pem",
     "mac",
@@ -129,7 +130,7 @@ for lg in sorted([
     # individual paradigms
     # pyd.content_string = "Cognates"
     pyd.y = ["Person", "Animacy"]
-    if lg in (["PC", "PPek", "car", "aku", "ing", "aka", "ara", "PMan", "yab", "map", "pno", "pem", "mac", "tam", "PPem", "pan", "yuk", "ikp"]):
+    if lg in (["PC", "PPek", "car", "aku", "ing", "aka", "ara", "PMan", "yab", "map", "pno", "pem", "mac", "tam", "PPem", "pan", "yuk", "ikp", "PXin"]):
         pyd.y = ["Person"]
     pyd.y_sort = ["1", "1+2", "1+3", "2", "3ANIM", "3INAN"]
     pyd.x = ["Number"]
@@ -166,7 +167,7 @@ pyd.y = ["Language_ID"]
 pyd.y_sort = list(crh.lg_order().keys())
 # pyd.content_string = "Cognates"
 # pyd.content_string = "Proto_Form"
-pyd.filters = {"Cognateset_ID": dem_strings[11:12], "Language_ID": crh.extant_languages}
+pyd.filters = {"Cognateset_ID": dem_strings[6:10], "Language_ID": crh.proto_languages}
 df = pyd.compose_paradigm(all_pronouns)
 print(df)
 

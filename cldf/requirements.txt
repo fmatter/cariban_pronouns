@@ -3,6 +3,7 @@ bs4==0.0.1
 certifi==2020.6.20
 chardet==3.0.4
 cldfbench==1.9.0
+-e git+git@github.com:fmatter/cariban_pronouns.git@64bb2ec8e40dbfc156c081302d336a603ec1f343#egg=cldfbench_cariban_pronouns
 cldfcatalog==1.3.2
 clldutils==3.9.0
 colorama==0.4.4
