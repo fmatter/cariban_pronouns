@@ -11,7 +11,7 @@
 | 1+2              | *kɨ+?(+ro)* | *kɨ+?+jamo(+ro)* |
 | 1+3              | *amna*      |                  |
 | 2                | *omo+ro*    | *om+jam(+ro)*    |
-| 3ANIM            | *noro*      |                  |
+| 3ANIM            | *noro*      | *in+amo+ro*      |
 | 3INAN            | *iro*       |                  |
 
 **Werikyana**
@@ -31,7 +31,7 @@
 | 1+2              | *kɨ+wɨ(+ro)* | *kɨ+w+jamo*   |
 | 1+3              | *amna*       |               |
 | 2                | *omo+ro*     | *om+jam(+ro)* |
-| 3ANIM            | *noro*       |               |
+| 3ANIM            | *noro*       | *in+amo+ro*   |
 | 3INAN            | *ɨro*        |               |
 
 **Hixkaryána**
@@ -85,6 +85,7 @@
 | 1+2              | *ku+rə* | *ku+rə*     |
 | 1+3              | *ʃi+na* |             |
 | 2                | *əmə*   | *əma+r+emo* |
+| 3ANIM            | *inəra* |             |
 | 3INAN            | *ilə*   |             |
 
 **Proto-Taranoan**
@@ -108,13 +109,13 @@
 | 3INAN            | *irə*   |                |
 
 **Akuriyó**
-| Person   | SG      | PL               |
-|:---------|:--------|:-----------------|
-| 1        | *wɨ*    |                  |
-| 1+2      | *kɨ+mə* | *kɨ(+mə)+n+jamo* |
-| 1+3      | *anja*  |                  |
-| 2        | *əmə*   | *əmə+n+jamo*     |
-| 3        | *irə*   |                  |
+| Person   | SG         | PL               |
+|:---------|:-----------|:-----------------|
+| 1        | *wɨ*       |                  |
+| 1+2      | *kɨ+mə*    | *kɨ(+mə)+n+jamo* |
+| 1+3      | *anja*     |                  |
+| 2        | *əmə*      | *əmə+n+jamo*     |
+| 3        | *irə/nərə* | *n+amo+ro*       |
 
 **Karijona**
 | Person   | SG         | PL            |
@@ -132,18 +133,18 @@
 | 1+2              | *ku+nmə*     | *ku+nmə+r+am+komo* |
 | 1+3              | *emna*       |                    |
 | 2                | *əmə+rə*     | *əmə+r+am+komo*    |
-| 3ANIM            | *inərə(+rə)* | *in+amo+ro/tot(o)* |
+| 3ANIM            | *inərə(+rə)* | *in+amo+ro*        |
 | 3INAN            | *irə*        |                    |
 
 **Apalaí**
-| Person.Animacy   | SG         | PL               |
-|:-----------------|:-----------|:-----------------|
-| 1                | *ɨwɨ*      |                  |
-| 1+2              | *kɨ+mo+ro* | *kɨ+ma+ro+komo*  |
-| 1+3              | *ɨna*      |                  |
-| 2                | *omo+ro*   | *ama+ra+komo*    |
-| 3ANIM            | *ɨnoro*    | *ɨnaro/sero+ʔne* |
-| 3INAN            | *ɨro*      |                  |
+| Person.Animacy   | SG         | PL              |
+|:-----------------|:-----------|:----------------|
+| 1                | *ɨwɨ*      |                 |
+| 1+2              | *kɨ+mo+ro* | *kɨ+ma+ro+komo* |
+| 1+3              | *ɨna*      |                 |
+| 2                | *omo+ro*   | *ama+ra+komo*   |
+| 3ANIM            | *ɨnoro*    | *ɨnaro*         |
+| 3INAN            | *ɨro*      |                 |
 
 **Kari'ña**
 | Person.Animacy   | SG                | PL                          |
@@ -152,7 +153,7 @@
 | 1+2              | *kɨ+ʔko/kɨ+mo+ro* | *kɨ+ʔka+ro(+n)/kɨ+mo+ja+ro* |
 | 1+3              | *naʔna*           |                             |
 | 2                | *amo+ro*          | *amɨ+ja+ro(+n)*             |
-| 3ANIM            | *inoro*           | *inaro(+n)*                 |
+| 3ANIM            | *inoro/ɲoro*      | *inaro(+n)/ɲoro+kon*        |
 | 3INAN            | *iro*             | *iro+kon*                   |
 
 **Ye'kwana**
@@ -162,7 +163,7 @@
 | 1+2              | *kɨ+wɨ*  | *kɨ+n+wan+no* |
 | 1+3              | *nɲa*    |               |
 | 2                | *amə+rə* | *ə+n+wan+no*  |
-| 3ANIM            | *ɲəərə*  | *ɲanno*       |
+| 3ANIM            | *ɲəərə*  | *(n)+ɲanno*   |
 | 3INAN            | *ijə*    |               |
 
 **Proto-Pemongan**
@@ -188,7 +189,6 @@
 | 1+2      |          | *u+rə+ʔno+kon*   |
 | 1+3      | *ina*    |                  |
 | 2        | *amə+rə* | *amə+rə+ʔno+kon* |
-| 3        |          | *kamo(+ro)/toʔ*  |
 
 **Pemón**
 | Person   | SG          | PL                            |
@@ -221,6 +221,7 @@
 | 1+2      | *ki+we*  | *ki+kemo*    |
 | 1+3      | *ju+mna* |              |
 | 2        | *ama+re* | *am+ɲamo+ro* |
+| 3        | *nare*   |              |
 
 **Proto-Manapiarean**
 | Person   | SG            | PL            |
