@@ -160,12 +160,12 @@ f.close()
 
 # comparative paradigms
 pyd.x = ["Cognateset_ID"]
-pyd.x_sort = pronoun_strings3
+pyd.x_sort = dem_strings
 pyd.y = ["Language_ID"]
 pyd.y_sort = list(crh.lg_order().keys())
 # pyd.content_string = "Cognates"
 # pyd.content_string = "Proto_Form"
-pyd.filters = {"Cognateset_ID": pronoun_strings3, "Language_ID": crh.proto_languages}
+pyd.filters = {"Cognateset_ID": dem_strings[2:4], "Language_ID": crh.proto_languages}
 df = pyd.compose_paradigm(all_pronouns)
 print(df)
 
