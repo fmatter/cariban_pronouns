@@ -55,7 +55,8 @@ dem_strings = [
     "MED.ANIM.PL",
     "DIST.ANIM",
     "DIST.ANIM.PL",
-    "PROX.INAN",
+    "PROX.INAN-1",
+    "PROX.INAN-2",
     "PROX.INAN.PL",
     "MED.INAN",
     "MED.INAN.PL",
@@ -165,7 +166,7 @@ pyd.y = ["Language_ID"]
 pyd.y_sort = list(crh.lg_order().keys())
 # pyd.content_string = "Cognates"
 # pyd.content_string = "Proto_Form"
-pyd.filters = {"Cognateset_ID": dem_strings[4:6], "Language_ID": crh.proto_languages}
+pyd.filters = {"Cognateset_ID": dem_strings[9:10], "Language_ID": crh.extant_languages}
 df = pyd.compose_paradigm(all_pronouns)
 print(df)
 
