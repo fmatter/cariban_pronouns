@@ -7,6 +7,14 @@
 | 2        | *əmə(+rə)*  | *əm+jamo*   |
 | 3        | *inərə/irə* | *in+jamo*   |
 
+|           | PROX       | MED    | DIST       |
+|:----------|:-----------|:-------|:-----------|
+| ANIM.SG   | *mətjə*    |        | *məkɨ*     |
+| ANIM.PL   | *mətj+amo* |        | *mək+jamo* |
+| INAN.SG   |            | *mərə* | *mənɨ*     |
+| INAN-1.SG | *(tj)ərə*  |        |            |
+| INAN-2.SG | *(tj)ənɨ*  |        |            |
+
 **Proto-Parukotoan**
 | Person/Animacy   | SG          | PL               |
 |:-----------------|:------------|:-----------------|
@@ -22,8 +30,8 @@
 | ANIM.SG   | *moso(+ro)*      | *moko+ro*       | *mokɨ*     |
 | ANIM.PL   | *moʔ+t͡ʃamo(+ro)* | *mok+jamo(+ro)* | *mok+jamo* |
 | INAN.SG   |                  | *moro*          | *monɨ*     |
-| INAN-2.SG | *onɨ*            |                 |            |
 | INAN-1.SG | *soro*           |                 |            |
+| INAN-2.SG | *onɨ*            |                 |            |
 
 **Werikyana**
 | Person/Animacy   | SG         | PL             |
@@ -106,8 +114,8 @@
 | ANIM.SG   | *məte(+rə)* |        | *məkɨ*      |
 | ANIM.PL   | *məte+jamo* |        | *məkɨ+jamo* |
 | INAN.SG   |             | *mərə* | *mən*       |
-| INAN-2.SG | *(t͡ʃ)en*    |        |             |
 | INAN-1.SG | *(t͡ʃ)erə*   |        |             |
+| INAN-2.SG | *(t͡ʃ)en*    |        |             |
 
 **Proto-Xinguan**
 | Person   | SG        | PL           |
@@ -122,8 +130,8 @@
 | ANIM.SG   | *mode+n*   |        | *mogɨ+n*   |
 | ANIM.PL   | *mode+jam* |        | *mogɨ+jam* |
 | INAN.SG   |            | *moro* | *mon*      |
-| INAN-2.SG | *en*       |        |            |
 | INAN-1.SG | *ero*      |        |            |
+| INAN-2.SG | *en*       |        |            |
 
 **Arara**
 | Person   | SG        | PL           |
@@ -137,8 +145,8 @@
 |:----------|:---------|:-------|:----------------|
 | ANIM.SG   | *mode+n* |        | *mook/mogɨ(+n)* |
 | INAN.SG   |          | *moro* | *mon/mun*       |
-| INAN-2.SG | *en*     |        |                 |
 | INAN-1.SG | *ero*    |        |                 |
+| INAN-2.SG | *en*     |        |                 |
 
 **Ikpeng**
 | Person   | SG        | PL          |
@@ -187,8 +195,8 @@
 | ANIM.SG   | *mə(t͡ʃ)e*       | *məkɨ+rə*      | *məkɨ*      |
 | ANIM.PL   | *mə(t͡ʃ)e+t͡ʃamo* | *məkɨ+rə+jamo* | *məkɨ+jamo* |
 | INAN.SG   |                 | *mərə*         | *mənɨ*      |
-| INAN-2.SG | *(t͡ʃ)enɨ*       |                |             |
 | INAN-1.SG | *(t͡ʃ)erə*       |                |             |
+| INAN-2.SG | *(t͡ʃ)enɨ*       |                |             |
 
 **Proto-Tiriyoan**
 | Person   | SG         | PL               |
@@ -214,8 +222,8 @@
 | ANIM.SG   | *məe*        | *məə+rə*     | *mə(kɨ)*        |
 | ANIM.PL   | *məe+sa(mo)* | *məə+ja(mo)* | *mə(kɨ)+ja(mo)* |
 | INAN.SG   |              | *mərə*       | *mə(nɨ)*        |
-| INAN-2.SG | *se(nɨ)*     |              |                 |
 | INAN-1.SG | *serə*       |              |                 |
+| INAN-2.SG | *se(nɨ)*     |              |                 |
 
 **Akuriyó**
 | Person/Animacy   | SG      | PL               |
@@ -232,8 +240,8 @@
 | ANIM.SG   | *məʔe*      | *məkɨ+rə* |
 | ANIM.PL   | *məe+t͡ʃamo* |           |
 | INAN.SG   |             | *mərə*    |
-| INAN-2.SG | *t͡ʃenɨ*     |           |
 | INAN-1.SG | *t͡ʃerə*     |           |
+| INAN-2.SG | *t͡ʃenɨ*     |           |
 
 **Karijona**
 | Person/Animacy   | SG         | PL            |
@@ -250,8 +258,8 @@
 | ANIM.SG   | *məhə*  | *mək+ə*      | *məkɨ*  |
 | ANIM.PL   | *mə+sa* | *mək+amo+ro* | *mək+a* |
 | INAN.SG   |         | *mərə*       | *mənɨ*  |
-| INAN-2.SG | *enɨ*   |              |         |
 | INAN-1.SG | *ərə*   |              |         |
+| INAN-2.SG | *enɨ*   |              |         |
 
 **Wayana**
 | Person/Animacy   | SG           | PL                  |
@@ -268,8 +276,8 @@
 | ANIM.SG   | *mə(s)i/məhe(+rə)*   | *mək+rə(+rə)* | *məkɨ*     |
 | ANIM.PL   | *məh+am(o)/məh+a+rə* | *mək+ja(+rə)* | *mək+jamo* |
 | INAN.SG   |                      | *mərə*        | *mɨn(ɨ)*   |
-| INAN-2.SG | *sinɨ*               |               |            |
 | INAN-1.SG | *herə*               |               |            |
+| INAN-2.SG | *sinɨ*               |               |            |
 
 **Apalaí**
 | Person/Animacy   | SG         | PL              |
@@ -286,8 +294,8 @@
 | ANIM.SG   | *mose*     | *mokɨ+ro*  | *mokɨ*    |
 | ANIM.PL   | *moʃ+iamo* | *mok+a+ro* | *mok+amo* |
 | INAN.SG   |            | *moro*     | *monɨ*    |
-| INAN-2.SG | *senɨ*     |            |           |
 | INAN-1.SG | *sero*     |            |           |
+| INAN-2.SG | *senɨ*     |            |           |
 
 **Kari'ña**
 | Person/Animacy   | SG                | PL                           |
@@ -304,8 +312,8 @@
 | ANIM.SG   | *mo(ʔ)se*                         | *moʔk+o*        | *moʔkɨ*             |
 | ANIM.PL   | *moʔse+kon/moo+jan/moʔ+sa+ro(+n)* | *moʔk+a+ro(+n)* | *mookɨ+kon/moʔk+an* |
 | INAN.SG   |                                   | *moro*          | *monɨ*              |
-| INAN-2.SG | *enɨ*                             |                 |                     |
 | INAN-1.SG | *ero*                             |                 |                     |
+| INAN-2.SG | *enɨ*                             |                 |                     |
 
 **Ye'kwana**
 | Person/Animacy   | SG       | PL            |
@@ -393,8 +401,8 @@
 | ANIM.SG   | *məsə+rə*     | *məʔ+rə*   |
 | ANIM.PL   | *i+ʔs+amə+rə* | *iʔsinnan* |
 | INAN.SG   |               | *mərə*     |
-| INAN-2.SG | *senək*       |            |
 | INAN-1.SG | *sərə*        |            |
+| INAN-2.SG | *senək*       |            |
 
 **Macushi**
 | Person   | SG            | PL               |
@@ -409,8 +417,8 @@
 | ANIM.SG   | *mɨse+rɨ*     | *mɨɨkɨ+rɨ*    |
 | ANIM.PL   | *i+ns+emo+ro* | *i+nk+amo+ro* |
 | INAN.SG   |               | *mɨrɨ+rɨ*     |
-| INAN-2.SG | *seni*        |               |
 | INAN-1.SG | *sɨrɨ+rɨ*     |               |
+| INAN-2.SG | *seni*        |               |
 
 **Panare**
 | Person   | SG      | PL          |

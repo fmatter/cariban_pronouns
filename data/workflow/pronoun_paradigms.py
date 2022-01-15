@@ -162,7 +162,7 @@ for lg in sorted([
     # print demonstrative paradigms for single languages
     pyd.y = ["Animacy", "Number"]
     pyd.x = ["Distance"]
-    if lg in (["PC", "PTir", "PMan", "pno"]):
+    if lg in (["PTir", "PMan", "pno"]):
         continue
     pyd.y_sort = ["ANIM.SG", "ANIM.PL", "INAN.SG", "INAN.PL"]
     pyd.x_sort = ["PROX", "MED", "DIST"]
