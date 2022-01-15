@@ -171,7 +171,7 @@ pyd.y_sort = list(crh.lg_order().keys())
 # pyd.content_string = "Cognates"
 # pyd.content_string = "Proto_Form"
 pyd.filters = {
-"Cognateset_ID": ["PROX.ANIM.PL", "MED.ANIM.PL", "DIST.ANIM.PL"],
+"Cognateset_ID": ["PROX.INAN-1", "PROX.INAN-2"],
 # "Language_ID": ["mac","PPem", "pem", "ing", ]
 # "Language_ID": crh.top_languages
 }
