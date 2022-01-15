@@ -11,7 +11,7 @@ pd.options.mode.chained_assignment = None  # default='warn'
 forms = pd.read_csv("raw/forms.csv", keep_default_na=False)
 forms = forms[forms["Cognateset_ID"] != ""]
 forms["Cognateset_ID"] = forms["Cognateset_ID"].str.replace("3ANA", "3", regex=True)
-forms["Cognateset_ID"] = forms["Cognateset_ID"].str.replace("3ANA", "3", regex=True)
+forms["Parameter_ID"] = forms["Parameter_ID"].str.replace("3ANA", "3", regex=True)
 
 cogsets = pd.read_csv("raw/cognatesets.csv")
 cogdic = dict(zip(cogsets["ID"], cogsets["Form"]))
@@ -47,7 +47,7 @@ forms = forms.explode("Cognateset_ID")
 readme_overview = """"""
 
 pronoun_strings = ["1", "2", "1+2", "1+2PL", "1+3", "2PL"]
-pronoun_strings3 = ["3.ANIM", "3.ANIM.PL", "3.INAN", "3.INAN.PL", "3", "3.PL"]
+pronoun_strings3 = ["3.ANIM", "3.ANIM.PL", "3.INAN", "3", "3.PL"]
 dem_strings = [
     "PROX.ANIM",
     "PROX.ANIM.PL",
@@ -166,18 +166,19 @@ f.close()
 # comparative paradigms
 pyd.x = ["Cognateset_ID"]
 pyd.x_sort = dem_strings
+# pronoun_strings + pronoun_strings3
 pyd.y = ["Language_ID"]
 pyd.y_sort = list(crh.lg_order().keys())
 # pyd.content_string = "Cognates"
 # pyd.content_string = "Proto_Form"
 pyd.filters = {
-"Cognateset_ID": ["PROX.INAN-1", "PROX.INAN-2"],
-# "Language_ID": ["mac","PPem", "pem", "ing", ]
+"Cognateset_ID": dem_strings#["PROX.ANIM", "MED.ANIM", "DIST.ANIM", "PROX.INAN-1", "PROX.INAN-2", "MED.INAN", "DIST.INAN"],
+# "Language_ID": ["ara", "ikp","PXin"]
 # "Language_ID": crh.top_languages
 }
 df = pyd.compose_paradigm(all_pronouns)
-print(df)
 
+print(df)
 
 # GRAMMATICALIZATION OF EMPHATIC PARTICLE
 # emp = all_pronouns.copy()

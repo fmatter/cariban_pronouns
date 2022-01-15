@@ -35,6 +35,7 @@
 **Proto-Xinguan**
 | Person   | SG        | PL           |
 |:---------|:----------|:-------------|
+| 1        | *u+ro*    |              |
 | 1+2      | *ugo+ro*  | *ugo+ro+ŋmo* |
 | 1+3      | *t͡ʃi+mna* |              |
 | 2        | *om+ro*   | *omo+ro+ŋmo* |
@@ -50,12 +51,13 @@
 | 3INAN            | *irə*        |             |
 
 **Proto-Tiriyoan**
-| Person   | SG        | PL               |
-|:---------|:----------|:-----------------|
-| 1        | *wɨ*      |                  |
-| 1+2      | *kɨ+mə*   | *kɨ(+mə)+n+jamo* |
-| 1+3      | *anja*    |                  |
-| 2        | *əmə/əmə* | *əmə+n+jamo*     |
+| Person   | SG         | PL               |
+|:---------|:-----------|:-----------------|
+| 1        | *wɨ*       |                  |
+| 1+2      | *kɨ+mə*    | *kɨ(+mə)+n+jamo* |
+| 1+3      | *anja*     |                  |
+| 2        | *əmə/əmə*  | *əmə+n+jamo*     |
+| 3        | *nərə/irə* | *n+amo(+ro)*     |
 
 **Proto-Pemong-Panare**
 | Person   | SG           | PL         |

@@ -168,7 +168,7 @@ class Dataset(BaseDataset):
                         "ALIGNMENT": " + ".join(edictor_alignment)
                     }, ignore_index=True)
             lg_ids.append(row["Language_ID"])
-            for source in row["Source"].split(";"):
+            for source in row["Source"].split("; "):
                 found_sources.append(source.split("[")[0])
 
         lg_ids = list(set(lg_ids))
