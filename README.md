@@ -1,15 +1,18 @@
 **Proto-Cariban**
-|   Person | SG         | PL        |
-|---------:|:-----------|:----------|
-|        1 | *əwɨ(+rə)* |           |
-|        2 | *əmə(+rə)* | *əm+jamo* |
+| Person   | SG          | PL          |
+|:---------|:------------|:------------|
+| 1        | *əwɨ(+rə)*  |             |
+| 1+2      | *kɨ+?*      | *kɨ+?+jamo* |
+| 1+3      | *aipna*     |             |
+| 2        | *əmə(+rə)*  | *əm+jamo*   |
+| 3        | *inərə/irə* | *in+jamo*   |
 
 **Proto-Parukotoan**
 | Person/Animacy   | SG          | PL               |
 |:-----------------|:------------|:-----------------|
 | 1                | *owɨ(+ro)*  |                  |
 | 1+2              | *kɨ+?(+ro)* | *kɨ+?+jamo(+ro)* |
-| 1+3              | *amna*      |                  |
+| 1+3              | *amna/amna* |                  |
 | 2                | *omo+ro*    | *om+jamo(+ro)*   |
 | 3ANIM            | *noro*      | *in+amo+ro*      |
 | 3INAN            | *iro*       |                  |

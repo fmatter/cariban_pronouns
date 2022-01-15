@@ -298,47 +298,47 @@ ID,Form_ID,Cognateset_ID,Segment_Slice,Alignment,Source,Contribution_ID
 133_3,133,emp,4,r -,,pronouns
 133_4,133,pl2,5,- a - m -,,pronouns
 133_5,133,pl1,6,k o m o,,pronouns
-134_0,134,1a3,1,- i n - a,,pronouns
-135_0,135,1a3,1,- a n j a,,pronouns
-136_0,136,1a3,1,- ɨ n - a,,pronouns
+134_0,134,1a3,1,i - n - - - a,,pronouns
+135_0,135,1a3,1,a - n - - j a,,pronouns
+136_0,136,1a3,1,ɨ - n - - - a,,pronouns
 137_0,137,ti,1,t͡ʃ i,,pronouns
-137_1,137,1a3,2,- - m n a,,pronouns
+137_1,137,1a3,2,- m n - - - a,,pronouns
 138_0,138,ti,1,ʃ i,,pronouns
-138_1,138,1a3,2,- - - n a,,pronouns
-139_0,139,1a3,1,- a ɲ - a,,pronouns
-140_0,140,1a3,1,- a m n a,,pronouns
+138_1,138,1a3,2,- - n - - - a,,pronouns
+139_0,139,1a3,1,a - ɲ - - - a,,pronouns
+140_0,140,1a3,1,a m n - - - a,,pronouns
 141_0,141,ti,1,t͡ʃ i,,pronouns
-141_1,141,1a3,2,- - m n a,,pronouns
-142_0,142,1a3,1,- i n - a,,pronouns
-143_0,143,1a3,1,n a ʔ n a,,pronouns
-144_0,144,1a3,1,- a m n a,,pronouns
-145_0,145,1a3,1,- a n n a,,pronouns
-146_0,146,1a3,1,- - n ɲ a,,pronouns
-147_0,147,1a3,1,n a h - a,,pronouns
-148_0,148,1a3,1,- a n - a,,pronouns
-149_0,149,1a3,1,- i n n a,,pronouns
-150_0,150,1a3,1,- a n - a,,pronouns
-151_0,151,1a3,1,- a n - a,,pronouns
-152_0,152,1a3,1,- a m n a,,pronouns
+141_1,141,1a3,2,- m n - - - a,,pronouns
+142_0,142,1a3,1,i - n - - - a,,pronouns
+143_0,143,1a3,1,- - n a ʔ n a,,pronouns
+144_0,144,1a3,1,a m n - - - a,,pronouns
+145_0,145,1a3,1,a - n - - n a,,pronouns
+146_0,146,1a3,1,- - n - - ɲ a,,pronouns
+147_0,147,1a3,1,- - n a h - a,,pronouns
+148_0,148,1a3,1,a - n - - - a,,pronouns
+149_0,149,1a3,1,i - n - - n a,,pronouns
+150_0,150,1a3,1,a - n - - - a,,pronouns
+151_0,151,1a3,1,a - n - - - a,,pronouns
+152_0,152,1a3,1,a m n - - - a,,pronouns
 153_0,153,ti,1,t͡ʃ i,,pronouns
-153_1,153,1a3,2,- - m n a,,pronouns
-154_0,154,1a3,1,- i n n a,,pronouns
-155_0,155,1a3,1,- i n n a,,pronouns
-156_0,156,1a3,1,- a n j a,,pronouns
-157_0,157,1a3,1,- a n j a,,pronouns
-158_0,158,1a3,1,- a m n a,,pronouns
+153_1,153,1a3,2,- m n - - - a,,pronouns
+154_0,154,1a3,1,i - n - - n a,,pronouns
+155_0,155,1a3,1,i - n - - n a,,pronouns
+156_0,156,1a3,1,a - n - - j a,,pronouns
+157_0,157,1a3,1,a - n - - j a,,pronouns
+158_0,158,1a3,1,a m n - - - a,,pronouns
 159_0,159,ti,1,t͡ʃ i,,pronouns
-159_1,159,1a3,2,- - m n a,,pronouns
+159_1,159,1a3,2,- m n - - - a,,pronouns
 160_0,160,1,1,- j u,,pronouns
-160_1,160,1a3,2,- - m n a,,pronouns
-161_0,161,1a3,1,- a n j a,,pronouns
+160_1,160,1a3,2,- m n - - - a,,pronouns
+161_0,161,1a3,1,a - n - - j a,,pronouns
 162_1,162,1,2,- - u,,pronouns
 162_2,162,emp,3,ɣ e,,pronouns
-163_0,163,1a3,1,- a m n a,,pronouns
-164_0,164,1a3,1,- e m n a,,pronouns
-165_0,165,1a3,1,- a ʔ - a,,pronouns
-166_0,166,1a3,1,- a n - a,,pronouns
-167_0,167,1a3,1,n a - n a,,pronouns
+163_0,163,1a3,1,a m n - - - a,,pronouns
+164_0,164,1a3,1,e m n - - - a,,pronouns
+165_0,165,1a3,1,- - - a ʔ - a,,pronouns
+166_0,166,1a3,1,a - n - - - a,,pronouns
+167_0,167,1a3,1,- - n a - n a,,pronouns
 167_1,167,emp,2,r -,,pronouns
 168_0,168,2,1,- a m ə,,pronouns
 168_1,168,emp,2,r ə,,pronouns
@@ -925,7 +925,7 @@ ID,Form_ID,Cognateset_ID,Segment_Slice,Alignment,Source,Contribution_ID
 509_0,509,toto,1,t o ʔ -,,pronouns
 517_0,517,1a2,1,k ɨ,,pronouns
 517_2,517,emp,3,r o,,pronouns
-518_0,518,1a3,1,- a m n a,,pronouns
+518_0,518,1a3,1,a m n - - - a,,pronouns
 519_0,519,ainan,1,i r o,,pronouns
 520_0,520,minan,1,m ə r ə,,pronouns
 521_0,521,pinan1,1,- s ə r ə,,pronouns
@@ -943,3 +943,9 @@ ID,Form_ID,Cognateset_ID,Segment_Slice,Alignment,Source,Contribution_ID
 531_1,531,pl2,2,ʃ a - m -,,pronouns
 532_0,532,pinan2,1,- o n - -,,pronouns
 534_0,534,toto,1,t o t o,,pronouns
+542_0,542,dinan,1,m ə n -,,pronouns
+543_0,543,danim,1,m o - k - -,,pronouns
+543_1,543,pl2,2,j a - m o,,pronouns
+543_2,543,emp,3,r o,,pronouns
+544_0,544,pinan2,1,- o n ɨ -,,pronouns
+545_0,545,1a3,1,a - - i p n a,,pronouns

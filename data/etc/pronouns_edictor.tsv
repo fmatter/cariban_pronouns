@@ -57,7 +57,7 @@ ID	ALIGNMENT	COGIDS	CONCEPT	CONCEPTID	DOCULECT	IPA	SEGMENTS
 55	m ə - - + r ə	4 2	2	2	PMan	mərə	m ə + r ə
 56	m ə - - + r ə	4 2	2	2	pno	mərə	m ə + r ə
 57	- o m o + r o	4 2	2	2	PPar	omoro	o m o + r o
-58	- ə m ə + r ə	4 2	2	2	PPek	əmə(rə)	ə m ə + r ə
+58	- ə m ə + r ə	4 2	2	2	PPek	əmərə	ə m ə + r ə
 59	- a m ə + r ə	4 2	2	2	PPem	amərə	a m ə + r ə
 60	- a m ə + r ə	4 2	2	2	PPP	amərə	a m ə + r ə
 61	- ə m ə + r ə	4 2	2	2	PTar	əmə(rə)	ə m ə + r ə
@@ -134,40 +134,40 @@ ID	ALIGNMENT	COGIDS	CONCEPT	CONCEPTID	DOCULECT	IPA	SEGMENTS
 132	k u k u + ɣ e + k o - -	9 2 8	12pl	12pl	uxc	kukuɣeko	k u k u + ɣ e + k o
 133	k ɨ + w - + j a - m -	7 22 10	12pl	12pl	wai	kɨwjam	k ɨ + w + j a m
 134	k u - - + - + m ə + r - + - a - m - + k o m o	9 3 24 2 10 8	12pl	12pl	way	kunməramkomo	k u + n + m ə + r + a m + k o m o
-135	- i n - a	5	13	13	aka	ina	i n a
-136	- a n j a	5	13	13	aku	anja	a n j a
-137	- ɨ n - a	5	13	13	apa	ɨna	ɨ n a
-138	t͡ʃ i + - - m n a	6 5	13	13	ara	t͡ʃimna	t͡ʃ i + m n a
-139	ʃ i + - - - n a	6 5	13	13	bak	ʃina	ʃ i + n a
-140	- a ɲ - a	5	13	13	car	aɲa	a ɲ a
-141	- a m n a	5	13	13	hix	amna	a m n a
-142	t͡ʃ i + - - m n a	6 5	13	13	ikp	t͡ʃimna	t͡ʃ i + m n a
-143	- i n - a	5	13	13	ing	ina	i n a
-144	n a ʔ n a	5	13	13	kar	naʔna	n a ʔ n a
-145	- a m n a	5	13	13	kax	amna	a m n a
-146	- a n n a	5	13	13	mac	anna	a n n a
-147	- - n ɲ a	5	13	13	mak	nɲa	n ɲ a
-148	n a h - a	5	13	13	map	naha	n a h a
-149	- a n - a	5	13	13	pan	ana	a n a
-150	- i n n a	5	13	13	pem	inna	i n n a
-151	- a n - a	5	13	13	PMan	ana	a n a
-152	- a n - a	5	13	13	pno	ana	a n a
-153	- a m n a	5	13	13	PPar	amna	a m n a
-154	t͡ʃ i + - - m n a	6 5	13	13	PPek	t͡ʃimna	t͡ʃ i + m n a
-155	- i n n a	5	13	13	PPem	inna	i n n a
-156	- i n n a	5	13	13	PPP	inna	i n n a
-157	- a n j a	5	13	13	PTar	anja	a n j a
-158	- a n j a	5	13	13	PTir	anja	a n j a
-159	- a m n a	5	13	13	PWai	amna	a m n a
-160	t͡ʃ i + - - m n a	6 5	13	13	PXin	t͡ʃimna	t͡ʃ i + m n a
-161	- j u + - - m n a	1 5	13	13	tam	jumna	j u + m n a
-162	- a n j a	5	13	13	tri	anja	a n j a
+135	i - n - - - a	5	13	13	aka	ina	i n a
+136	a - n - - j a	5	13	13	aku	anja	a n j a
+137	ɨ - n - - - a	5	13	13	apa	ɨna	ɨ n a
+138	t͡ʃ i + - m n - - - a	6 5	13	13	ara	t͡ʃimna	t͡ʃ i + m n a
+139	ʃ i + - - n - - - a	6 5	13	13	bak	ʃina	ʃ i + n a
+140	a - ɲ - - - a	5	13	13	car	aɲa	a ɲ a
+141	a m n - - - a	5	13	13	hix	amna	a m n a
+142	t͡ʃ i + - m n - - - a	6 5	13	13	ikp	t͡ʃimna	t͡ʃ i + m n a
+143	i - n - - - a	5	13	13	ing	ina	i n a
+144	- - n a ʔ n a	5	13	13	kar	naʔna	n a ʔ n a
+145	a m n - - - a	5	13	13	kax	amna	a m n a
+146	a - n - - n a	5	13	13	mac	anna	a n n a
+147	- - n - - ɲ a	5	13	13	mak	nɲa	n ɲ a
+148	- - n a h - a	5	13	13	map	naha	n a h a
+149	a - n - - - a	5	13	13	pan	ana	a n a
+150	i - n - - n a	5	13	13	pem	inna	i n n a
+151	a - n - - - a	5	13	13	PMan	ana	a n a
+152	a - n - - - a	5	13	13	pno	ana	a n a
+153	a m n - - - a	5	13	13	PPar	amna	a m n a
+154	t͡ʃ i + - m n - - - a	6 5	13	13	PPek	t͡ʃimna	t͡ʃ i + m n a
+155	i - n - - n a	5	13	13	PPem	inna	i n n a
+156	i - n - - n a	5	13	13	PPP	inna	i n n a
+157	a - n - - j a	5	13	13	PTar	anja	a n j a
+158	a - n - - j a	5	13	13	PTir	anja	a n j a
+159	a m n - - - a	5	13	13	PWai	amna	a m n a
+160	t͡ʃ i + - m n - - - a	6 5	13	13	PXin	t͡ʃimna	t͡ʃ i + m n a
+161	- j u + - m n - - - a	1 5	13	13	tam	jumna	j u + m n a
+162	a - n - - j a	5	13	13	tri	anja	a n j a
 163	- + - - u + ɣ e	3 1 2	13	13	uxc	tisuɣe	t i s + u + ɣ e
-164	- a m n a	5	13	13	wai	amna	a m n a
-165	- e m n a	5	13	13	way	emna	e m n a
-166	- a ʔ - a	5	13	13	wmr	aʔa	a ʔ a
-167	- a n - a	5	13	13	yab	ana	a n a
-168	n a - n a + r -	5 2	13	13	yuk	nana(r)	n a n a + r
+164	a m n - - - a	5	13	13	wai	amna	a m n a
+165	e m n - - - a	5	13	13	way	emna	e m n a
+166	- - - a ʔ - a	5	13	13	wmr	aʔa	a ʔ a
+167	a - n - - - a	5	13	13	yab	ana	a n a
+168	- - n a - n a + r -	5 2	13	13	yuk	nana(r)	n a n a + r
 169	- a m ə + r ə + ʔ n o + k o n -	4 2 27 8	2pl	2pl	aka	amərəʔnokon	a m ə + r ə + ʔ n o + k o n
 170	- ə m ə + - - n - + j a - m o	4 4 10	2pl	2pl	aku	əmənjamo	ə m ə + n + j a m o
 171	- a m a + r a + k o m o	4 2 8	2pl	2pl	apa	amarakomo	a m a + r a + k o m o
@@ -504,7 +504,7 @@ ID	ALIGNMENT	COGIDS	CONCEPT	CONCEPTID	DOCULECT	IPA	SEGMENTS
 502	- j uu + r ə + t o - - + k o n -	1 2 21 8	12	12	pem	juurətokon	j uu + r ə + t o + k o n
 503	t o ʔ -	11	3anapl	3anapl	pem	toʔ	t o ʔ
 504	k ɨ + - + r o	7 3 2	12	12	PPar	kɨ?(ro)	k ɨ + + r o
-505	- a m n a	5	13	13	PPar	amna	a m n a
+505	a m n - - - a	5	13	13	PPar	amna	a m n a
 506	i r o	13	3anainan	3anainan	PPar	iro	i r o
 507	m ə r ə	17	medinan	medinan	PPem	mərə	m ə r ə
 508	- s ə r ə	18	proxinan	proxinan	PPem	sərə	s ə r ə
@@ -517,3 +517,7 @@ ID	ALIGNMENT	COGIDS	CONCEPT	CONCEPTID	DOCULECT	IPA	SEGMENTS
 515	m o - - - - + ʃ a - m -	16 10	distanimpl	distanimpl	wai	moʃam	m o + ʃ a m
 516	- o n - -	19	proxinan	proxinan	wai	on	o n
 517	t o t o	11	3anaanimpl	3anaanimpl	way	tot(o)	t o t o
+518	m ə n -	14	distinan	distinan	PPek	mən	m ə n
+519	m o - k - - + j a - m o + r o	16 10 2	medanimpl	medanimpl	PPar	mokjamo(ro)	m o k + j a m o + r o
+520	- o n ɨ -	19	proxinan	proxinan	PPar	onɨ	o n ɨ
+521	a - - i p n a	5	13	13	PC	aipna	a i p n a

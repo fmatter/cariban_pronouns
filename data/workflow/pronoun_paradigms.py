@@ -181,19 +181,19 @@ f.close()
 
 # comparative paradigms
 pyd.x = ["Cognateset_ID"]
-pyd.x_sort = dem_strings
+pyd.x_sort = pronoun_strings
 # pronoun_strings + pronoun_strings3
 pyd.y = ["Language_ID"]
 pyd.y_sort = list(crh.lg_order().keys())
 # pyd.content_string = "Cognates"
 # pyd.content_string = "Proto_Form"
 pyd.filters = {
-"Cognateset_ID": dem_strings#["PROX.ANIM", "MED.ANIM", "DIST.ANIM", "PROX.INAN-1", "PROX.INAN-2", "MED.INAN", "DIST.INAN"],
+"Cognateset_ID": pronoun_strings#["PROX.ANIM", "MED.ANIM", "DIST.ANIM", "PROX.INAN-1", "PROX.INAN-2", "MED.INAN", "DIST.INAN"],
 # "Language_ID": ["ara", "ikp","PXin"]
 # "Language_ID": crh.top_languages
 }
 df = pyd.compose_paradigm(all_pronouns)
-
+print(df)
 # GRAMMATICALIZATION OF EMPHATIC PARTICLE
 # emp = all_pronouns.copy()
 # # find out whether EMP is optional

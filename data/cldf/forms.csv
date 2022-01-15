@@ -57,7 +57,7 @@ ID,Language_ID,Form,Segments,Comment,Source,Contribution_ID,Parameter_ID
 55,PMan,mərə,m ə + r ə,,mattei2003pemono[48],pronouns,2
 56,pno,mərə,m ə + r ə,,mattei2003pemono[48],pronouns,2
 57,PPar,omoro,o m o + r o,,,pronouns,2
-58,PPek,əmə(rə),ə m ə + r ə,,,pronouns,2
+58,PPek,əmərə,ə m ə + r ə,,,pronouns,2
 59,PPem,amərə,a m ə + r ə,,,pronouns,2
 60,PPP,amərə,a m ə + r ə,,,pronouns,2
 61,PTar,əmə(rə),ə m ə + r ə,Added EMP,meira1998proto[64],pronouns,2
@@ -516,3 +516,7 @@ ID,Language_ID,Form,Segments,Comment,Source,Contribution_ID,Parameter_ID
 531,wai,moʃam,m o + ʃ a m,,,pronouns,distanimpl
 532,wai,on,o n,,,pronouns,proxinan
 534,way,tot(o),t o t o,,wayanatavares2005[183],pronouns,3anaanimpl
+542,PPek,mən,m ə n,,,pronouns,distinan
+543,PPar,mokjamo(ro),m o k + j a m o + r o,,,pronouns,medanimpl
+544,PPar,onɨ,o n ɨ,,,pronouns,proxinan
+545,PC,aipna,a i p n a,,meira2002first[263],pronouns,13
