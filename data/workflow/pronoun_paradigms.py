@@ -5,6 +5,7 @@ import geopandas as gpd
 from shapely.geometry import Point
 import seaborn as sns
 from shapely import wkt
+from helper_functions import print_latex
 
 pd.options.mode.chained_assignment = None  # default='warn'
 
@@ -216,6 +217,8 @@ for par in emp_pars:
     emp_ratios.append({"Pronoun": par, "+EMP": temp["EMP"].sum(), "Total": len(temp), "Ratio": temp["EMP"].sum()/ len(temp)})
 emp_ratios = pd.DataFrame.from_dict(emp_ratios)
 emp_ratios.sort_values(by="Ratio", inplace=True, ascending=False)
+
+print(emp_ratios)
 
 # MAPS
 # poly_df = pd.read_csv("etc/polygons.csv")
