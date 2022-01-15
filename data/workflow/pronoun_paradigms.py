@@ -194,25 +194,28 @@ pyd.filters = {
 }
 df = pyd.compose_paradigm(all_pronouns)
 print(df)
+
+
 # GRAMMATICALIZATION OF EMPHATIC PARTICLE
+emp = all_pronouns.copy()
+# find out whether EMP is optional
+emp["COG"] = emp.apply(lambda x: get_cog_dic(x), axis=1)
+emp["EMP"] = emp["COG"].apply(lambda x: "EMP" in x and ")" not in "".join(x["EMP"]))
+tempemp = emp[emp["EMP"]]
+
+emp_pars = list(set(tempemp["Cognateset_ID"]))
+emp_pars.remove("1+3")
 # emp = all_pronouns.copy()
-# # find out whether EMP is optional
-# emp["COG"] = emp.apply(lambda x: get_cog_dic(x), axis=1)
-# emp["EMP"] = emp["COG"].apply(lambda x: "EMP" in x and ")" not in "".join(x["EMP"]))
-# tempemp = emp[emp["EMP"]]
-# emp_pars = list(set(tempemp["Cognateset_ID"]))
+emp = emp[(emp["Cognateset_ID"].isin(emp_pars) & emp["Language_ID"].isin(crh.extant_languages))]
 
-# # emp = all_pronouns.copy()
-# emp = emp[(emp["Cognateset_ID"].isin(emp_pars) & emp["Language_ID"].isin(crh.extant_languages))]
-
-# emp_ratios = []
-# for par in emp_pars:
-#     temp = emp[emp["Cognateset_ID"] == par]
-#     if temp["EMP"].sum() == 3:
-#         print(temp)
-#     emp_ratios.append({"Pronoun": par, "+EMP": temp["EMP"].sum(), "Total": len(temp), "Ratio": temp["EMP"].sum()/ len(temp)})
-# emp_ratios = pd.DataFrame.from_dict(emp_ratios)
-# emp_ratios.sort_values(by="Ratio", inplace=True, ascending=False)
+emp_ratios = []
+for par in emp_pars:
+    temp = emp[emp["Cognateset_ID"] == par]
+    if "1+2" in par:
+        temp = temp[~(temp["Cognates"].str.contains("1\+"))]
+    emp_ratios.append({"Pronoun": par, "+EMP": temp["EMP"].sum(), "Total": len(temp), "Ratio": temp["EMP"].sum()/ len(temp)})
+emp_ratios = pd.DataFrame.from_dict(emp_ratios)
+emp_ratios.sort_values(by="Ratio", inplace=True, ascending=False)
 
 # MAPS
 # poly_df = pd.read_csv("etc/polygons.csv")
