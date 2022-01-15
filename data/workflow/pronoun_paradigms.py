@@ -137,12 +137,13 @@ for lg in sorted([
     pyd.y_sort = ["1", "1+2", "1+3", "2", "3ANIM", "3INAN"]
     pyd.x = ["Number"]
     pyd.x_sort = ["SG", "PL"]
+    pyd.separators = ["/"]
     df = pyd.compose_paradigm(pronouns)
     df = df.applymap(lambda x: f"*{x}*")
     df.replace({"**":""}, inplace=True)
-    if lg in crh.proto_languages:
-        readme_overview += "**"+crh.get_name(lg)+"**\n"
-        readme_overview += df.to_markdown() + "\n\n"
+    # if lg in crh.proto_languages:
+    readme_overview += "**"+crh.get_name(lg)+"**\n"
+    readme_overview += df.to_markdown() + "\n\n"
 
     parlist = ["Distance", "Animacy", "Number"]
     dems = temp[temp["Cognateset_ID"].isin(dem_strings)]
