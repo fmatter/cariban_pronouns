@@ -64,7 +64,7 @@ ID	ALIGNMENT	COGIDS	CONCEPT	CONCEPTID	DOCULECT	IPA	SEGMENTS
 62	- ə m ə	4	2	2	PTir	əmə	ə m ə
 63	- ə m ə	4	2	2	PTir	əmə	ə m ə
 64	- o m o + r o	4 2	2	2	PWai	omoro	o m o + r o
-65	- o m - + r o	4 2	2	2	PXin	omro	o m + r o
+65	- o m o + r o	4 2	2	2	PXin	omoro	o m o + r o
 66	- a m a + r e	4 2	2	2	tam	amare	a m a + r e
 67	- ə m ə	4	2	2	tri	əmə	ə m ə
 68	- ee - - + ɣ e	4 2	2	2	uxc	eeɣe	ee + ɣ e
@@ -124,398 +124,396 @@ ID	ALIGNMENT	COGIDS	CONCEPT	CONCEPTID	DOCULECT	IPA	SEGMENTS
 122	- j uu + r ə + - n o + k o n -	1 2 27 8	12pl	12pl	pem	juurənokon	j uu + r ə + n o + k o n
 123	- j uu + r ə + t o - - + k o n -	1 2 21 8	12pl	12pl	pem	juurətokon	j uu + r ə + t o + k o n
 124	k ɨ + - + j a - m o + r o	7 3 10 2	12pl	12pl	PPar	kɨ?jamo(ro)	k ɨ + + j a m o + r o
-125	- u k u + r ə + -	9 2 3	12pl	12pl	PPek	ukurə?	u k u + r ə +
-126	- j u + r ə + ʔ n o + k o n -	1 2 27 8	12pl	12pl	PPem	jurəʔnokon	j u + r ə + ʔ n o + k o n
-127	k ɨ + n - + j a - m o	7 24 10	12pl	12pl	PTar	kɨnjamo	k ɨ + n + j a m o
-128	k ɨ + m ə + n - + j a - m o	7 24 24 10	12pl	12pl	PTir	kɨ(mə)njamo	k ɨ + m ə + n + j a m o
-129	k ɨ + w - + j a - m o	7 22 10	12pl	12pl	PWai	kɨwjamo	k ɨ + w + j a m o
-130	- u g o + r o + ŋ - m o	9 2 8	12pl	12pl	PXin	ugoroŋmo	u g o + r o + ŋ m o
-131	k i + k e m o	7 8	12pl	12pl	tam	kikemo	k i + k e m o
-132	k ɨ + m ə + n - + j a - m o	7 24 24 10	12pl	12pl	tri	kɨmənjamo	k ɨ + m ə + n + j a m o
-133	k u k u + ɣ e + k o - -	9 2 8	12pl	12pl	uxc	kukuɣeko	k u k u + ɣ e + k o
-134	k ɨ + w - + j a - m -	7 22 10	12pl	12pl	wai	kɨwjam	k ɨ + w + j a m
-135	k u - - + - + m ə + r - + - a - m - + k o m o	9 3 24 2 10 8	12pl	12pl	way	kunməramkomo	k u + n + m ə + r + a m + k o m o
-136	- i n - a	5	13	13	aka	ina	i n a
-137	- a n j a	5	13	13	aku	anja	a n j a
-138	- ɨ n - a	5	13	13	apa	ɨna	ɨ n a
-139	t͡ʃ i + - - m n a	6 5	13	13	ara	t͡ʃimna	t͡ʃ i + m n a
-140	ʃ i + - - - n a	6 5	13	13	bak	ʃina	ʃ i + n a
-141	- a ɲ - a	5	13	13	car	aɲa	a ɲ a
-142	- a m n a	5	13	13	hix	amna	a m n a
-143	t͡ʃ i + - - m n a	6 5	13	13	ikp	t͡ʃimna	t͡ʃ i + m n a
-144	- i n - a	5	13	13	ing	ina	i n a
-145	n a ʔ n a	5	13	13	kar	naʔna	n a ʔ n a
-146	- a m n a	5	13	13	kax	amna	a m n a
-147	- a n n a	5	13	13	mac	anna	a n n a
-148	- - n ɲ a	5	13	13	mak	nɲa	n ɲ a
-149	n a h - a	5	13	13	map	naha	n a h a
-150	- a n - a	5	13	13	pan	ana	a n a
-151	- i n n a	5	13	13	pem	inna	i n n a
-152	- a n - a	5	13	13	PMan	ana	a n a
-153	- a n - a	5	13	13	pno	ana	a n a
-154	- a m n a	5	13	13	PPar	amna	a m n a
-155	t͡ʃ i + - - m n a	6 5	13	13	PPek	t͡ʃimna	t͡ʃ i + m n a
-156	- i n n a	5	13	13	PPem	inna	i n n a
-157	- i n n a	5	13	13	PPP	inna	i n n a
-158	- a n j a	5	13	13	PTar	anja	a n j a
-159	- a n j a	5	13	13	PTir	anja	a n j a
-160	- a m n a	5	13	13	PWai	amna	a m n a
-161	t͡ʃ i + - - m n a	6 5	13	13	PXin	t͡ʃimna	t͡ʃ i + m n a
-162	- j u + - - m n a	1 5	13	13	tam	jumna	j u + m n a
-163	- a n j a	5	13	13	tri	anja	a n j a
-164	- + - - u + ɣ e	3 1 2	13	13	uxc	tisuɣe	t i s + u + ɣ e
-165	- a m n a	5	13	13	wai	amna	a m n a
-166	- e m n a	5	13	13	way	emna	e m n a
-167	- a ʔ - a	5	13	13	wmr	aʔa	a ʔ a
-168	- a n - a	5	13	13	yab	ana	a n a
-169	n a - n a + r -	5 2	13	13	yuk	nana(r)	n a n a + r
-170	- a m ə + r ə + ʔ n o + k o n -	4 2 27 8	2pl	2pl	aka	amərəʔnokon	a m ə + r ə + ʔ n o + k o n
-171	- ə m ə + - - n - + j a - m o	4 4 10	2pl	2pl	aku	əmənjamo	ə m ə + n + j a m o
-172	- a m a + r a + k o m o	4 2 8	2pl	2pl	apa	amarakomo	a m a + r a + k o m o
-173	- o m o + r o + ŋ - m o	4 2 8	2pl	2pl	ara	omoroŋmo	o m o + r o + ŋ m o
-174	- ə m a + r - + - e - m o	4 2 10	2pl	2pl	bak	əmaremo	ə m a + r + e m o
-175	- a ɲ - + - a - m o + r o	4 10 2	2pl	2pl	car	aɲamoro	a ɲ + a m o + r o
-176	- o m - + ɲ a - m o	4 10	2pl	2pl	hix	omɲamo	o m + ɲ a m o
-177	- o m - + r o + ŋ - m o	4 2 8	2pl	2pl	ikp	omroŋmo	o m + r o + ŋ m o
-178	- a m ə + r ə + ʔ n o + k o n -	4 2 27 8	2pl	2pl	ing	amərəʔnokon	a m ə + r ə + ʔ n o + k o n
-179	- a m ɨ + j a - - - + r o + -	4 10 2 3	2pl	2pl	kar	amɨjaro(n)	a m ɨ + j a + r o + n
-180	- o m - + j a - - - + r ɨ	4 10 2	2pl	2pl	kax	omjarɨ	o m + j a + r ɨ
-181	- a m ɨ + r ɨ + ʔ n ɨ + k o n -	4 2 27 8	2pl	2pl	mac	amɨrɨʔnɨkon	a m ɨ + r ɨ + ʔ n ɨ + k o n
-182	- ə n - + w a - n - + n o	4 10 2	2pl	2pl	mak	ənwanno	ə n + w a n + n o
-183	- a - - + k o n - + t o m o	4 8 21	2pl	2pl	map	akontomo	a + k o n + t o m o
-184	- a m ə + n - + t o n -	4 2 21	2pl	2pl	pan	amənton	a m ə + n + t o n
-185	- ə m - + j a - m o	4 10	2pl	2pl	PC	əmjamo	ə m + j a m o
-186	- a m ə + r ə + - n o + k o n -	4 2 27 8	2pl	2pl	pem	amərənokon	a m ə + r ə + n o + k o n
-187	m ə - - + k o n - + t o m o	4 8 21	2pl	2pl	PMan	məkontomo	m ə + k o n + t o m o
-188	m o - - + k o n - + t o m o	4 8 21	2pl	2pl	pno	mokontomo	m o + k o n + t o m o
-189	- o m - + j a - m o + r o	4 10 2	2pl	2pl	PPar	omjamo(ro)	o m + j a m o + r o
-190	- ə m ə + r ə + -	4 2 3	2pl	2pl	PPek	əmərəjamo	ə m ə + r ə + j a m o
-191	- a m ə + r ə + ʔ n o + k o n -	4 2 27 8	2pl	2pl	PPem	amərəʔnokon	a m ə + r ə + ʔ n o + k o n
-192	- a m ə + r ə + -	4 2 3	2pl	2pl	PPP	amərə?	a m ə + r ə +
-193	- ə n - + j a - m o	4 10	2pl	2pl	PTar	ənjamo	ə n + j a m o
-194	- ə m ə + - - n - + j a - m o	4 4 10	2pl	2pl	PTir	əmənjamo	ə m ə + n + j a m o
-195	- o m - + j a - m o + r o	4 10 2	2pl	2pl	PWai	omjamo(ro)	o m + j a m o + r o
-196	- o m o + r o + ŋ - m o	4 2 8	2pl	2pl	PXin	omoroŋmo	o m o + r o + ŋ m o
-197	- a m - + ɲ a - m o + r o	4 10 2	2pl	2pl	tam	amɲamoro	a m + ɲ a m o + r o
-198	- ə m ə + - - n - + j a - m o	4 4 10	2pl	2pl	tri	əmənjamo	ə m ə + n + j a m o
-199	- a m - + - a - - - + ɣ o	4 10 2	2pl	2pl	uxc	amaɣo	a m + a + ɣ o
-200	- a m - + j a - m - + r o	4 10 2	2pl	2pl	wai	amjamro	a m + j a m + r o
-201	- ə m ə + r - + - a - m - + k o m o	4 2 10 8	2pl	2pl	way	əməramkomo	ə m ə + r + a m + k o m o
-202	- a m ɨ + r ɨ + t ɨ - -	4 2 21	2pl	2pl	wmr	amɨrɨtɨ	a m ɨ + r ɨ + t ɨ
-203	m o - - + n - - - + t o m o	4 8 21	2pl	2pl	yab	montomo	m o + n + t o m o
-204	- a m o + r - + - a - - -	4 2 10	2pl	2pl	yuk	amora	a m o + r + a
-205	- a m o + r - + - a - - -	4 2 10	2pl	2pl	yuk	amora	a m o + r + a
-206	- n ə r ə	12	3anaanim	3anaanim	aku	nərə	n ə r ə
-207	ɨ n o r o	12	3anaanim	3anaanim	apa	ɨnoro	ɨ n o r o
-208	i n ə r a	12	3anaanim	3anaanim	bak	inəra	i n ə r a
-209	- n ə r ə	12	3anaanim	3anaanim	car	nərə	n ə r ə
-210	- n o r o	12	3anaanim	3anaanim	hix	noro	n o r o
-211	i n o r o	12	3anaanim	3anaanim	kar	inoro	i n o r o
-212	- ɲ o r o	12	3anaanim	3anaanim	kar	ɲoro	ɲ o r o
-213	- n o r o	12	3anaanim	3anaanim	kax	noro	n o r o
-214	- ɲ əə r ə	12	invisanim	invisanim	mak	ɲəərə	ɲ əə r ə
-215	- n o r o	12	3anaanim	3anaanim	PPar	noro	n o r o
-216	- n əə r ə	12	3anaanim	3anaanim	PTar	nə(ə)rə	n əə r ə
-217	- n ə r ə	12	3anaanim	3anaanim	PTir	nərə	n ə r ə
-218	- n o r o	12	3anaanim	3anaanim	PWai	noro	n o r o
-219	- n a r e	12	3anaanim	3anaanim	tam	nare	n a r e
-220	- n ə r ə	12	3anaanim	3anaanim	tri	nərə	n ə r ə
-221	ɨ ŋ e l e	12	3anaanim	3anaanim	uxc	ɨŋele	ɨ ŋ e l e
-222	- n o r o	12	3anaanim	3anaanim	wai	noro	n o r o
-223	i n ə r ə + r ə	12 2	3anaanim	3anaanim	way	inərə(rə)	i n ə r ə + r ə
-224	- n - - - + - a - m o + r o	12 10 2	3anaanimpl	3anaanimpl	aku	namoro	n + a m o + r o
-225	ɨ n a r o	12	3anaanimpl	3anaanimpl	apa	ɨnaro	ɨ n a r o
-226	- n - - - + - a - m o + r o	12 10 2	3anaanimpl	3anaanimpl	car	namoro	n + a m o + r o
-227	- ɲ - - - + - a - m o + r o	12 10 2	3anaanimpl	3anaanimpl	hix	ɲamoro	ɲ + a m o + r o
-228	i n a r o + -	12 3	3anaanimpl	3anaanimpl	kar	inaro(n)	i n a r o + n
-229	- ɲ o r o + k o n -	12 8	3anaanimpl	3anaanimpl	kar	ɲorokon	ɲ o r o + k o n
-230	- n - - - + - a - m o + r - + j a - m ɨ	12 10 2 10	3anaanimpl	3anaanimpl	kax	namorjamɨ	n + a m o + r + j a m ɨ
-231	- n - - - + ɲ a - n - + n o	12 10 2	invisanimpl	invisanimpl	mak	(n)ɲanno	n + ɲ a n + n o
-232	i n - - - + - a - m o + r o	12 10 2	3anaanimpl	3anaanimpl	PPar	inamoro	i n + a m o + r o
-233	- n - - - + - a - m o	12 10	3anaanimpl	3anaanimpl	PTar	namo	n + a m o
-234	- n - - - + - a - m o + r o	12 10 2	3anaanimpl	3anaanimpl	PTir	namo(ro)	n + a m o + r o
-235	i n - - - + - a - m o + r o	12 10 2	3anaanimpl	3anaanimpl	PWai	inamoro	i n + a m o + r o
-236	- n - - - + - a - m o	12 10	3anaanimpl	3anaanimpl	tri	namo	n + a m o
-237	ɨ n - - - + - a - - - + ɣ o	12 10 2	3anaanimpl	3anaanimpl	uxc	(ɨ)naɣo	ɨ n + a + ɣ o
-238	- ɲ - - e + ʃ a - m - + r o	12 10 2	3anaanimpl	3anaanimpl	wai	ɲeʃamro	ɲ e + ʃ a m + r o
-239	i n - - - + - a - m o + r o	12 10 2	3anaanimpl	3anaanimpl	way	inamoro	i n + a m o + r o
-240	i r ə	13	3anainan	3anainan	aku	irə	i r ə
-241	ɨ r o	13	3anainan	3anainan	apa	ɨro	ɨ r o
-242	i l ə	13	3anainan	3anainan	bak	ilə	i l ə
-243	i r ə	13	3anainan	3anainan	car	irə	i r ə
-244	ɨ r o	13	3anainan	3anainan	hix	ɨro	ɨ r o
-245	i r o	13	3anainan	3anainan	kar	iro	i r o
-246	i r o	13	3anainan	3anainan	kax	iro	i r o
-247	i j ə	13	invisinan	invisinan	mak	ijə	i j ə
-248	i r o	13	3anainan	3anainan	PPar	iro	i r o
-249	i r ə	13	3anainan	3anainan	PTar	irə	i r ə
-250	i r ə	13	3anainan	3anainan	PTir	irə	i r ə
-251	ɨ r o	13	3anainan	3anainan	PWai	ɨro	ɨ r o
-252	i r ə	13	3anainan	3anainan	tri	irə	i r ə
-253	i l e	13	3anainan	3anainan	uxc	ile	i l e
-254	ɨ l e	13	3anainan	3anainan	uxc	ɨle	ɨ l e
-255	e r o	13	3anainan	3anainan	wai	ero	e r o
-256	i r ə	13	3anainan	3anainan	way	irə	i r ə
-257	i r ɨ	13	3ana	3ana	wmr	irɨ	i r ɨ
-258	i r o + k o n -	13 8	3anainanpl	3anainanpl	kar	irokon	i r o + k o n
-259	i r o + n n e	13 20	3anainanpl	3anainanpl	kax	ironne	i r o + n n e
-260	i r ə + t o m o	13 21	3anainanpl	3anainanpl	tri	irəto(mo)	i r ə + t o m o
-261	m o - k ɨ -	16	distanim	distanim	apa	mokɨ	m o k ɨ
-262	m oo - k - -	16	distanim	distanim	ara	mook	m oo k
-263	m o - g ɨ - + n	16 26	distanim	distanim	ara	mogɨ(n)	m o g ɨ + n
-264	m ə - k ə -	16	distanim	distanim	bak	məkə	m ə k ə
-265	m ə - k ɨ -	16	medanim	medanim	car	məkɨ	m ə k ɨ
-266	m o - k ɨ -	16	distanim	distanim	hix	mokɨ	m o k ɨ
-267	- u - g u - + n	16 26	distanim	distanim	ikp	ugun	u g u + n
-268	m ɨ - k ɨ -	16	medanim	medanim	ing	mɨkɨ	m ɨ k ɨ
-269	m o ʔ k ɨ -	16	distanim	distanim	kar	moʔkɨ	m o ʔ k ɨ
-270	m o - k ɨ -	16	distanim	distanim	kax	mokɨ	m o k ɨ
-271	m ə k k ɨ -	16	distanim	distanim	mak	məkkɨ	m ə k k ɨ
-272	m u - k u h	16	distanim	distanim	pan	muku(h)	m u k u h
-273	m o - k ɨ -	16	distanim	distanim	PPar	mokɨ	m o k ɨ
-274	m ə - k ɨ -	16	distanim	distanim	PPek	məkɨ	m ə k ɨ
-275	m ə - k ɨ -	16	distanim	distanim	PTar	məkɨ	m ə k ɨ
-276	m o - k ɨ -	16	distanim	distanim	PWai	mokɨ	m o k ɨ
-277	m o - g ɨ - + n	16 26	distanim	distanim	PXin	mogɨn	m o g ɨ + n
-278	m a - k e -	16	distanim	distanim	tam	make	m a k e
-279	m ə - k ɨ -	16	invisanim	invisanim	tri	mə(kɨ)	m ə k ɨ
-280	- e - k - - + -	16 3	distanim	distanim	uxc	ekise	e k + i s e
-281	m ɨ - k ɨ -	16	distanim	distanim	wai	mɨkɨ	m ɨ k ɨ
-282	m ə - k ɨ -	16	distanim	distanim	way	məkɨ	m ə k ɨ
-283	m ɨ - k ɨ -	16	distanim	distanim	wmr	mɨkɨ	m ɨ k ɨ
-284	- a - k e -	16	dist	dist	yuk	ake	a k e
-285	m o - k - - + - a - m o	16 10	distanimpl	distanimpl	apa	mokamo	m o k + a m o
-286	- a - k a - + - e - m o	16 10	distanimpl	distanimpl	bak	akaemo	a k a + e m o
-287	m ə - k - - + - a - - -	16 10	medanimpl	medanimpl	car	məka	m ə k + a
-288	m o - k - - + j a - m o	16 10	distanimpl	distanimpl	hix	mokjamo	m o k + j a m o
-289	- u - g - - + j a - m -	16 10	distanimpl	distanimpl	ikp	ugjam	u g + j a m
-290	m oo - k ɨ - + k o n -	16 8	distanimpl	distanimpl	kar	mookɨkon	m oo k ɨ + k o n
-291	m o ʔ k - - + - a - n -	16 10	distanimpl	distanimpl	kar	moʔkan	m o ʔ k + a n
-292	m a k k - - + - a - m o	16 10	distanimpl	distanimpl	mak	makkamo	m a k k + a m o
-293	m u - k u - + k o n -	16 8	distanimpl	distanimpl	pan	mukukon	m u k u + k o n
-294	m o - k - - + j a - m o	16 10	distanimpl	distanimpl	PPar	mokjamo	m o k + j a m o
-295	m ə - k ɨ - + j a - m o	16 10	distanimpl	distanimpl	PPek	məkɨjamo	m ə k ɨ + j a m o
-296	m ə - k ɨ - + j a - m o	16 10	distanimpl	distanimpl	PTar	məkɨjamo	m ə k ɨ + j a m o
-297	m o - k - - + j a - m o	16 10	distanimpl	distanimpl	PWai	mokjamo	m o k + j a m o
-298	m o - g ɨ - + j a - m -	16 10	distanimpl	distanimpl	PXin	mogɨjam	m o g ɨ + j a m
-299	m u - k - - + - i a m o	16 10	distanimpl	distanimpl	tam	mukiamo	m u k + i a m o
-300	m ə - k ɨ - + j a - m o	16 10	invisanimpl	invisanimpl	tri	mə(kɨ)ja(mo)	m ə k ɨ + j a m o
-301	- a - k - - + - a - - - + ɣ o	16 10 2	distanimpl	distanimpl	uxc	akaɣo	a k + a + ɣ o
-302	m ɨ - k - - + j a - m -	16 10	distanimpl	distanimpl	wai	mɨkjam	m ɨ k + j a m
-303	m ə - k - - + j a - m o	16 10	distanimpl	distanimpl	way	məkjamo	m ə k + j a m o
-304	- a - k - - + ʃ a - - -	16 10	distpl	distpl	yuk	akʃa	a k + ʃ a
-305	m o n ɨ	14	distinan	distinan	apa	monɨ	m o n ɨ
-306	m o n -	14	distinan	distinan	ara	mon	m o n
-307	m u n -	14	distinan	distinan	ara	mun	m u n
-308	m ə n ɨ	14	distinan	distinan	car	mənɨ	m ə n ɨ
-309	m o n ɨ	14	distinan	distinan	hix	monɨ	m o n ɨ
-310	m u n -	14	distinan	distinan	ikp	mun	m u n
-311	m o n ɨ	14	distinan	distinan	kar	monɨ	m o n ɨ
-312	m o n ɨ	14	distinan	distinan	kax	monɨ	m o n ɨ
-313	m əə n ɨ	14	distinan	distinan	mak	məənɨ	m əə n ɨ
-314	m u h -	14	distinan	distinan	pan	mu(h)	m u h
-315	m o n ɨ	14	distinan	distinan	PPar	monɨ	m o n ɨ
-316	m ə n ɨ	14	distinan	distinan	PTar	mənɨ	m ə n ɨ
-317	m o n ɨ	14	distinan	distinan	PWai	monɨ	m o n ɨ
-318	m o n -	14	distinan	distinan	PXin	mon	m o n
-319	m ə n ɨ	14	invisinan	invisinan	tri	mə(nɨ)	m ə n ɨ
-320	m ɨ n ɨ	14	distinan	distinan	wai	mɨnɨ	m ɨ n ɨ
-321	m ɨ n ɨ	14	distinan	distinan	way	mɨn(ɨ)	m ɨ n ɨ
-322	m ə n ɨ	14	distinan	distinan	yab	mənɨ	m ə n ɨ
-323	- + ʔ n e	3 20	distinanpl	distinanpl	apa	monoʔne	m o n o + ʔ n e
-324	m u - - + j a - m -	14 10	distinanpl	distinanpl	ikp	mujam	m u + j a m
-325	m o n ɨ + k o n -	14 8	distinanpl	distinanpl	kar	monɨkon	m o n ɨ + k o n
-326	m ə n - + t o m o	14 21	invisinanpl	invisinanpl	tri	mənto(mo)	m ə n + t o m o
-327	m ɨ n ɨ + k o m o	14 8	distinanpl	distinanpl	way	mɨn(ɨ)komo	m ɨ n ɨ + k o m o
-328	- - - k ɨ - + r ə	16 2	medanim	medanim	aka	kɨrə	k ɨ + r ə
-329	m ə - k ɨ - + r ə	16 2	medanim	medanim	aku	məkɨrə	m ə k ɨ + r ə
-330	m o - k ɨ - + r o	16 2	medanim	medanim	apa	mokɨro	m o k ɨ + r o
-331	- + w ə - k ə -	3 16	medanim	medanim	bak	awəkə	a + w ə k ə
-332	m ə - k - - + - ə	16 2	distanim	distanim	car	məkə	m ə k + ə
-333	m o - k - - + r o	16 2	medanim	medanim	hix	mokro	m o k + r o
-334	- - - k ɨ - + r ə + r ə	16 2 2	3anaanim	3anaanim	ing	kɨrə(rə)	k ɨ + r ə + r ə
-335	m o ʔ k - - + - o	16 2	medanim	medanim	kar	moʔko	m o ʔ k + o
-336	m o - k o - + r o	16 2	medanim	medanim	kax	mokoro	m o k o + r o
-337	m ɨɨ - k ɨ - + r ɨ	16 2	medanim	medanim	mac	mɨɨkɨrɨ	m ɨɨ k ɨ + r ɨ
-338	m ə ʔ - - - + r ə	16 2	proxanim	proxanim	mak	məʔrə	m ə ʔ + r ə
-339	- - - k ə - + n -	16 2	invisanim	invisanim	pan	kən	k ə + n
-340	m ə ʔ - - - + r ə	16 2	medanim	medanim	pem	məʔrə	m ə ʔ + r ə
-341	m o - k o - + r o	16 2	medanim	medanim	PPar	mokoro	m o k o + r o
-342	m ə - k ɨ - + r ə	16 2	medanim	medanim	PPem	məkɨ(rə)	m ə k ɨ + r ə
-343	m ə - k ɨ - + r ə	16 2	medanim	medanim	PPP	məkɨ(rə)	m ə k ɨ + r ə
-344	m ə - k ɨ - + r ə	16 2	medanim	medanim	PTar	məkɨrə	m ə k ɨ + r ə
-345	m o - k - - + r o	16 2	medanim	medanim	PWai	mokro	m o k + r o
-346	- - - k - - + r e + r e	16 2 2	medanim	medanim	tam	krere	k + r e + r e
-347	m əə - - - - + r ə	16 2	medanim	medanim	tri	məərə	m əə + r ə
-348	m ɨ - k - - + r o	16 2	medanim	medanim	wai	mɨkro	m ɨ k + r o
-349	m ə - k - - + r ə + r ə	16 2 2	medanim	medanim	way	məkrə(rə)	m ə k + r ə + r ə
-350	m o - k - - + - a - - - + r o	16 10 2	medanimpl	medanimpl	apa	mokaro	m o k + a + r o
-351	m ə - k - - + - a - m o + r o	16 10 2	distanimpl	distanimpl	car	məkamoro	m ə k + a m o + r o
-352	m o - k - - + j a - m o	16 10	medanimpl	medanimpl	hix	mokjamo	m o k + j a m o
-353	m ɨ - k ɨ - + j a - m ə	16 10	medanimpl	medanimpl	ing	mɨkɨjamə	m ɨ k ɨ + j a m ə
-354	- - - k - - + - a - m o + r o	16 10 2	3anaanimpl	3anaanimpl	ing	kamo(ro)	k + a m o + r o
-355	m o ʔ k - - + - a - - - + r o + -	16 10 2 3	medanimpl	medanimpl	kar	moʔkaro(n)	m o ʔ k + a + r o + n
-356	m o - k - - + j a - - - + r ɨ	16 10 2	medanimpl	medanimpl	kax	mokjarɨ	m o k + j a + r ɨ
-357	- + - n - k - - + - a - m o + r o	3 16 10 2	medanimpl	medanimpl	mac	inkamoro	i + n k + a m o + r o
-358	- - - k - - + - a - n - + n o	16 10 2	medanimpl	medanimpl	mak	kanno	k + a n + n o
-359	- - - k - - + - a - m ə + n - + t o n -	16 10 2 21	invisanimpl	invisanimpl	pan	kamənton	k + a m ə + n + t o n
-360	m ə - k ɨ - + r ə + j a - m o	16 2 10	medanimpl	medanimpl	PTar	məkɨrəjamo	m ə k ɨ + r ə + j a m o
-361	- - - k - - + - i a m o + r o	16 10 2	medanimpl	medanimpl	tam	kiamoro	k + i a m o + r o
-362	m əə - - - - + j a - m o	16 10	medanimpl	medanimpl	tri	məəja(mo)	m əə + j a m o
-363	m ə - k - - + j a - - - + r ə	16 10 2	medanimpl	medanimpl	way	məkja(rə)	m ə k + j a + r ə
-364	m ə r ə	17	medinan	medinan	aka	mərə	m ə r ə
-365	m ə r ə	17	medinan	medinan	aku	mərə	m ə r ə
-366	m o r o	17	medinan	medinan	apa	moro	m o r o
-367	m o r o	17	medinan	medinan	ara	moro	m o r o
-368	m ə r ə	17	medinan	medinan	bak	mərə	m ə r ə
-369	m ə r ə	17	medinan	medinan	car	mərə	m ə r ə
-370	m o r o	17	medinan	medinan	hix	moro	m o r o
-371	m ə r ə	17	medinan	medinan	ing	mə(r)ə	m ə r ə
-372	m o r o	17	medinan	medinan	kar	moro	m o r o
-373	m o r o	17	medinan	medinan	kax	moro	m o r o
-374	m ɨ r ɨ + r ɨ	17 2	medinan	medinan	mac	mɨrɨrɨ	m ɨ r ɨ + r ɨ
-375	m ə r ə	17	medinan	medinan	mak	mərə	m ə r ə
-376	m ə r ɨ	17	medinan	medinan	map	mərɨ	m ə r ɨ
-377	m ə n -	17	invisinan	invisinan	pan	mən	m ə n
-378	m ə r ə	17	medinan	medinan	pem	mərə	m ə r ə
-379	m o r o	17	medinan	medinan	PPar	moro	m o r o
-380	m ə r ə	17	medinan	medinan	PPek	mərə	m ə r ə
-381	m ə r ə	17	medinan	medinan	PPem	mərə	m ə r ə
-382	m ə r ə	17	medinan	medinan	PPP	mərə	m ə r ə
-383	m ə r ə	17	medinan	medinan	PTar	mərə	m ə r ə
-384	m o r o	17	medinan	medinan	PWai	moro	m o r o
-385	m o r o	17	medinan	medinan	PXin	moro	m o r o
-386	m o r e	17	medinan	medinan	tam	more	m o r e
-387	m ə r ə	17	medinan	medinan	tri	mərə	m ə r ə
-388	- e ɣ e	17	distinan	distinan	uxc	eɣe	e ɣ e
-389	m o r o	17	medinan	medinan	wai	moro	m o r o
-390	m ə r ə	17	medinan	medinan	way	mərə	m ə r ə
-391	m ɨ r ɨ	17	medinan	medinan	wmr	mɨrɨ	m ɨ r ɨ
-392	m ə r ə	17	medinan	medinan	yab	mərə	m ə r ə
-393	m o r o + ʔ n e	17 20	medinanpl	medinanpl	apa	moroʔne	m o r o + ʔ n e
-394	m ə r ə + j a - m ə	17 10	medinanpl	medinanpl	ing	mərəjamə	m ə r ə + j a m ə
-395	m o r o + k o n -	17 8	medinanpl	medinanpl	kar	morokon	m o r o + k o n
-396	m ə n - + k o n -	14 8	invisinanpl	invisinanpl	pan	mənkon	m ə n + k o n
-397	m ə r ə + t o m o	17 21	medinanpl	medinanpl	tri	mərəto(mo)	m ə r ə + t o m o
-398	m ə r ə + k o m o	17 8	medinanpl	medinanpl	way	mərəkomo	m ə r ə + k o m o
-399	m ə ʔ - e	15	proxanim	proxanim	aku	məʔe	m ə ʔ e
-400	m o - s e	15	proxanim	proxanim	apa	mose	m o s e
-401	m o - d e + n	15 26	proxanim	proxanim	ara	moden	m o d e + n
-402	m e - - - + r ə	15 2	proxanim	proxanim	bak	merə	m e + r ə
-403	m ə h - ə	15	proxanim	proxanim	car	məhə	m ə h ə
-404	m o - s o + -	15 3	proxanim	proxanim	hix	mosonɨ	m o s o + n ɨ
-405	- o - r e + n	15 26	proxanim	proxanim	ikp	oren	o r e + n
-406	m o ʔ s e	15	proxanim	proxanim	kar	mo(ʔ)se	m o ʔ s e
-407	m o - s o + r o	15 2	proxanim	proxanim	kax	mosoro	m o s o + r o
-408	m ɨ - s e + r ɨ	15 2	proxanim	proxanim	mac	mɨserɨ	m ɨ s e + r ɨ
-409	m e h - e	15	proxanim	proxanim	map	mehe	m e h e
-410	m ə - h -	15	proxanim	proxanim	pan	məh	m ə h
-411	m ə - s ə + r ə	15 2	proxanim	proxanim	pem	məsərə	m ə s ə + r ə
-412	m o - s o + r o	15 2	proxanim	proxanim	PPar	moso(ro)	m o s o + r o
-413	m ə - t e + r ə	15 2	proxanim	proxanim	PPek	məte(rə)	m ə t e + r ə
-414	m ə - s e	15	proxanim	proxanim	PPem	məse	m ə s e
-415	m ə - s e	15	proxanim	proxanim	PPP	məse	m ə s e
-416	m ə - t͡ʃ e	15	proxanim	proxanim	PTar	mə(t͡ʃ)e	m ə t͡ʃ e
-417	m o - s o	15	proxanim	proxanim	PWai	moso	m o s o
-418	m o - d e + n	15 26	proxanim	proxanim	PXin	moden	m o d e + n
-419	m o - t͡ʃ e	15	proxanim	proxanim	tam	mot͡ʃe	m o t͡ʃ e
-420	m ə e - -	15	proxanim	proxanim	tri	məe	m ə e
-421	- e - s e	15	proxanim	proxanim	uxc	ese	e s e
-422	m o - s o	15	proxanim	proxanim	wai	moso	m o s o
-423	m ə - s i	15	proxanim	proxanim	way	mə(s)i	m ə s i
-424	m ə h - e + r ə	15 2	proxanim	proxanim	way	məhe(rə)	m ə h e + r ə
-425	m a - ʃ -	15	prox	prox	yuk	ma(ʃ)	m a ʃ
-426	m ə e - - + t͡ʃ a - m o	15 10	proxanimpl	proxanimpl	aku	məet͡ʃamo	m ə e + t͡ʃ a m o
-427	m o - ʃ - + - i a m o	15 10	proxanimpl	proxanimpl	apa	moʃiamo	m o ʃ + i a m o
-428	- a - s a + - e - m o	15 10	proxanimpl	proxanimpl	bak	asaemo	a s a + e m o
-429	m ə - - - + s a - - -	15 10	proxanimpl	proxanimpl	car	məsa	m ə + s a
-430	m o - ʃ - + - a - m o	15 10	proxanimpl	proxanimpl	hix	moʃamo	m o ʃ + a m o
-431	w - - - - + - a - m -	15 10	proxanimpl	proxanimpl	ikp	wam	w + a m
-432	m o ʔ s e + k o n -	15 8	proxanimpl	proxanimpl	kar	moʔsekon	m o ʔ s e + k o n
-433	m oo - - - + j a - n -	15 10	proxanimpl	proxanimpl	kar	moojan	m oo + j a n
-434	m o - ʔ - + s a - - - + r o + -	15 10 2 3	proxanimpl	proxanimpl	kar	moʔsaro(n)	m o ʔ + s a + r o + n
-435	m o - ʔ - + t͡ʃ a - - - + r ɨ	15 10 2	proxanimpl	proxanimpl	kax	moʔt͡ʃarɨ	m o ʔ + t͡ʃ a + r ɨ
-436	- + n - - s - + - e - m o + r o	3 15 10 2	proxanimpl	proxanimpl	mac	insemoro	i + n s + e m o + r o
-437	m ə - h - + t͡ʃ a - n - + t o n -	15 10 21	proxanimpl	proxanimpl	pan	məht͡ʃanton	m ə h + t͡ʃ a n + t o n
-438	- + ʔ - - s - + - a - m ə + r ə	3 15 10 2	proxanimpl	proxanimpl	pem	iʔsamərə	i + ʔ s + a m ə + r ə
-439	m o - ʔ - + t͡ʃ a - m o + r o	15 10 2	proxanimpl	proxanimpl	PPar	moʔt͡ʃamo(ro)	m o ʔ + t͡ʃ a m o + r o
-440	m ə - t e + j a - m o	15 10	proxanimpl	proxanimpl	PPek	mətejamo	m ə t e + j a m o
-441	m ə - t͡ʃ e + t͡ʃ a - m o	15 10	proxanimpl	proxanimpl	PTar	mə(t͡ʃ)et͡ʃamo	m ə t͡ʃ e + t͡ʃ a m o
-442	m o - ʃ - + - a - m o	15 10	proxanimpl	proxanimpl	PWai	moʃamo	m o ʃ + a m o
-443	m o - d e + j a - m -	15 10	proxanimpl	proxanimpl	PXin	modejam	m o d e + j a m
-444	- - - t͡ʃ - + - a - m o + r o	15 10 2	proxanimpl	proxanimpl	tam	t͡ʃamoro	t͡ʃ + a m o + r o
-445	m ə e - - + s a - m o	15 10	proxanimpl	proxanimpl	tri	məesa(mo)	m ə e + s a m o
-446	- a - - - + ɣ o	10 2	proxanimpl	proxanimpl	uxc	aɣo	a + ɣ o
-447	m o - ʃ - + - a - m -	15 10	proxanimpl	proxanimpl	wai	moʃam	m o ʃ + a m
-448	m ə - h - + - a - m o	15 10	proxanimpl	proxanimpl	way	məham(o)	m ə h + a m o
-449	m ə - h - + - a - - - + r ə	15 10 2	proxanimpl	proxanimpl	way	məharə	m ə h + a + r ə
-450	m a - ʃ - + - a - - -	15 10	proxpl	proxpl	yuk	maʃa	m a ʃ + a
-451	- + s i n - -	3 19	proxinan	proxinan	way	məsin	m ə + s i n
-452	- s e r ə	18	proxinan	proxinan	aka	serə	s e r ə
-453	- t͡ʃ e r ə	18	proxinan	proxinan	aku	t͡ʃerə	t͡ʃ e r ə
-454	- s e r o	18	proxinan	proxinan	apa	sero	s e r o
-455	- - e r o	18	proxinan	proxinan	ara	ero	e r o
-456	- ʃ i r ə	18	proxinan	proxinan	bak	ʃirə	ʃ i r ə
-457	- - ə r ə	18	proxinan	proxinan	car	ərə	ə r ə
-458	- s ə - - + r ə	18 2	proxinan	proxinan	ing	sə(rə)	s ə + r ə
-459	- - e r o	18	proxinan	proxinan	kar	ero	e r o
-460	- s o r o	18	proxinan	proxinan	kax	soro	s o r o
-461	- s ɨ r ɨ + r ɨ	18 2	proxinan	proxinan	mac	sɨrɨrɨ	s ɨ r ɨ + r ɨ
-462	- - e r ə	18	proxinan	proxinan	mak	erə	e r ə
-463	- s ɨ h -	18	proxinan	proxinan	pan	sɨ(h)	s ɨ h
-464	- s ə r ə	18	proxinan	proxinan	pem	sərə	s ə r ə
-465	- s o r o	18	proxinan	proxinan	PPar	soro	s o r o
-466	- t͡ʃ e r ə	18	proxinan	proxinan	PPek	(t͡ʃ)erə	t͡ʃ e r ə
-467	- s ə r ə	18	proxinan	proxinan	PPem	sərə	s ə r ə
-468	- t͡ʃ e r ə	18	proxinan	proxinan	PTar	(t͡ʃ)erə	t͡ʃ e r ə
-469	- - e r o	18	proxinan	proxinan	PXin	ero	e r o
-470	- s e r ə	18	proxinan	proxinan	tri	serə	s e r ə
-471	i ɣ e - -	18	proxinan	proxinan	uxc	iɣe	i ɣ e
-472	- h e r ə	18	proxinan	proxinan	way	herə	h e r ə
-473	t͡ʃ e n ɨ -	19	proxinan	proxinan	aku	t͡ʃenɨ	t͡ʃ e n ɨ
-474	s e n ɨ -	19	proxinan	proxinan	apa	senɨ	s e n ɨ
-475	- e n - -	19	proxinan	proxinan	ara	en	e n
-476	- e n ɨ -	19	proxinan	proxinan	car	enɨ	e n ɨ
-477	- o n ɨ -	19	proxinan	proxinan	hix	onɨ	o n ɨ
-478	- + - e n - -	3 19	proxinan	proxinan	ikp	nen	n + e n
-479	- e n ɨ -	19	proxinan	proxinan	kar	enɨ	e n ɨ
-480	s e n i -	19	proxinan	proxinan	mac	seni	s e n i
-481	s e n ə k	19	proxinan	proxinan	pem	senək	s e n ə k
-482	t͡ʃ e n - -	19	proxinan	proxinan	PPek	(t͡ʃ)en	t͡ʃ e n
-483	t͡ʃ e n ɨ -	19	proxinan	proxinan	PTar	(t͡ʃ)enɨ	t͡ʃ e n ɨ
-484	- o n ɨ -	19	proxinan	proxinan	PWai	onɨ	o n ɨ
-485	- e n - -	19	proxinan	proxinan	PXin	en	e n
-486	t͡ʃ e n e -	19	proxinan	proxinan	tam	t͡ʃene	t͡ʃ e n e
-487	s e n ɨ -	19	proxinan	proxinan	tri	se(nɨ)	s e n ɨ
-488	- o n - -	19	proxinan	proxinan	wai	on	o n
-489	s i n ɨ -	19	proxinan	proxinan	way	sinɨ	s i n ɨ
-490	s e n i -	19	proxinan	proxinan	yab	(s)eni	s e n i
-491	- s e r o + ʔ n e	18 20	3anaanimpl	3anaanimpl	apa	seroʔne	s e r o + ʔ n e
-492	- - e r o + ŋ - m o	18 8	proxinanpl	proxinanpl	ara	eroŋmo	e r o + ŋ m o
-493	- + - e - - - + j a - m -	3 19 10	proxinanpl	proxinanpl	ikp	nejam	n + e + j a m
-494	- s ə - - + r ə + j a - m ə	18 2 10	proxinanpl	proxinanpl	ing	sə(rə)jamə	s ə + r ə + j a m ə
-495	- - e r o + k o n -	18 8	proxinanpl	proxinanpl	kar	erokon	e r o + k o n
-496	- e n ɨ - + k o n -	19 8	proxinanpl	proxinanpl	kar	enɨkon	e n ɨ + k o n
-497	- s o r o + n n e	18 20	proxinanpl	proxinanpl	kax	soronne	s o r o + n n e
-498	- s ɨ h - + k o n -	18 8	proxinanpl	proxinanpl	pan	sɨ(h)kon	s ɨ h + k o n
-499	- h e r ə + k o m o	18 8	proxinanpl	proxinanpl	way	herəkom(o)	h e r ə + k o m o
-500	s i n - - + k o m o	19 8	proxinanpl	proxinanpl	way	sinkom(o)	s i n + k o m o
-501	t o ʔ -	11	3anaanimpl	3anaanimpl	ing	toʔ	t o ʔ
-502	- - uu + r ɨ + - - ʔ - + k o n -	1 2 21 8	12	12	mac	uurɨʔkon	uu + r ɨ + ʔ + k o n
-503	t o ʔ -	11	3anapl	3anapl	mac	toʔ	t o ʔ
-504	- j uu + r ə + t o - - + k o n -	1 2 21 8	12	12	pem	juurətokon	j uu + r ə + t o + k o n
-505	t o ʔ -	11	3anapl	3anapl	pem	toʔ	t o ʔ
-506	k ɨ + - + r o	7 3 2	12	12	PPar	kɨ?(ro)	k ɨ + + r o
-507	- a m n a	5	13	13	PPar	amna	a m n a
-508	i r o	13	3anainan	3anainan	PPar	iro	i r o
-509	m ə r ə	17	medinan	medinan	PPem	mərə	m ə r ə
-510	- s ə r ə	18	proxinan	proxinan	PPem	sərə	s ə r ə
-511	k ɨ + w ɨ + r o	7 22 2	12	12	PWai	kɨwɨ(ro)	k ɨ + w ɨ + r o
-512	ɨ r o	13	3anainan	3anainan	PWai	ɨro	ɨ r o
-513	- + j a - m o	3 10	distanimpl	distanimpl	tri	ohkɨja(mo)	o h k ɨ + j a m o
-514	- s e r ə + t o m o	18 21	proxinanpl	proxinanpl	tri	serəto(mo)	s e r ə + t o m o
-515	s e n - - + t o m o	19 21	proxinanpl	proxinanpl	tri	sento(mo)	s e n + t o m o
-516	- + - e - k - - + -	3 16 3	invisanim	invisanim	uxc	eekise	e + e k + i s e
-517	m o - - - - + ʃ a - m -	16 10	distanimpl	distanimpl	wai	moʃam	m o + ʃ a m
-518	- o n - -	19	proxinan	proxinan	wai	on	o n
-519	t o t o	11	3anaanimpl	3anaanimpl	way	tot(o)	t o t o
+125	- j u + r ə + ʔ n o + k o n -	1 2 27 8	12pl	12pl	PPem	jurəʔnokon	j u + r ə + ʔ n o + k o n
+126	k ɨ + n - + j a - m o	7 24 10	12pl	12pl	PTar	kɨnjamo	k ɨ + n + j a m o
+127	k ɨ + m ə + n - + j a - m o	7 24 24 10	12pl	12pl	PTir	kɨ(mə)njamo	k ɨ + m ə + n + j a m o
+128	k ɨ + w - + j a - m o	7 22 10	12pl	12pl	PWai	kɨwjamo	k ɨ + w + j a m o
+129	- u g o + r o + ŋ - m o	9 2 8	12pl	12pl	PXin	ugoroŋmo	u g o + r o + ŋ m o
+130	k i + k e m o	7 8	12pl	12pl	tam	kikemo	k i + k e m o
+131	k ɨ + m ə + n - + j a - m o	7 24 24 10	12pl	12pl	tri	kɨmənjamo	k ɨ + m ə + n + j a m o
+132	k u k u + ɣ e + k o - -	9 2 8	12pl	12pl	uxc	kukuɣeko	k u k u + ɣ e + k o
+133	k ɨ + w - + j a - m -	7 22 10	12pl	12pl	wai	kɨwjam	k ɨ + w + j a m
+134	k u - - + - + m ə + r - + - a - m - + k o m o	9 3 24 2 10 8	12pl	12pl	way	kunməramkomo	k u + n + m ə + r + a m + k o m o
+135	- i n - a	5	13	13	aka	ina	i n a
+136	- a n j a	5	13	13	aku	anja	a n j a
+137	- ɨ n - a	5	13	13	apa	ɨna	ɨ n a
+138	t͡ʃ i + - - m n a	6 5	13	13	ara	t͡ʃimna	t͡ʃ i + m n a
+139	ʃ i + - - - n a	6 5	13	13	bak	ʃina	ʃ i + n a
+140	- a ɲ - a	5	13	13	car	aɲa	a ɲ a
+141	- a m n a	5	13	13	hix	amna	a m n a
+142	t͡ʃ i + - - m n a	6 5	13	13	ikp	t͡ʃimna	t͡ʃ i + m n a
+143	- i n - a	5	13	13	ing	ina	i n a
+144	n a ʔ n a	5	13	13	kar	naʔna	n a ʔ n a
+145	- a m n a	5	13	13	kax	amna	a m n a
+146	- a n n a	5	13	13	mac	anna	a n n a
+147	- - n ɲ a	5	13	13	mak	nɲa	n ɲ a
+148	n a h - a	5	13	13	map	naha	n a h a
+149	- a n - a	5	13	13	pan	ana	a n a
+150	- i n n a	5	13	13	pem	inna	i n n a
+151	- a n - a	5	13	13	PMan	ana	a n a
+152	- a n - a	5	13	13	pno	ana	a n a
+153	- a m n a	5	13	13	PPar	amna	a m n a
+154	t͡ʃ i + - - m n a	6 5	13	13	PPek	t͡ʃimna	t͡ʃ i + m n a
+155	- i n n a	5	13	13	PPem	inna	i n n a
+156	- i n n a	5	13	13	PPP	inna	i n n a
+157	- a n j a	5	13	13	PTar	anja	a n j a
+158	- a n j a	5	13	13	PTir	anja	a n j a
+159	- a m n a	5	13	13	PWai	amna	a m n a
+160	t͡ʃ i + - - m n a	6 5	13	13	PXin	t͡ʃimna	t͡ʃ i + m n a
+161	- j u + - - m n a	1 5	13	13	tam	jumna	j u + m n a
+162	- a n j a	5	13	13	tri	anja	a n j a
+163	- + - - u + ɣ e	3 1 2	13	13	uxc	tisuɣe	t i s + u + ɣ e
+164	- a m n a	5	13	13	wai	amna	a m n a
+165	- e m n a	5	13	13	way	emna	e m n a
+166	- a ʔ - a	5	13	13	wmr	aʔa	a ʔ a
+167	- a n - a	5	13	13	yab	ana	a n a
+168	n a - n a + r -	5 2	13	13	yuk	nana(r)	n a n a + r
+169	- a m ə + r ə + ʔ n o + k o n -	4 2 27 8	2pl	2pl	aka	amərəʔnokon	a m ə + r ə + ʔ n o + k o n
+170	- ə m ə + - - n - + j a - m o	4 4 10	2pl	2pl	aku	əmənjamo	ə m ə + n + j a m o
+171	- a m a + r a + k o m o	4 2 8	2pl	2pl	apa	amarakomo	a m a + r a + k o m o
+172	- o m o + r o + ŋ - m o	4 2 8	2pl	2pl	ara	omoroŋmo	o m o + r o + ŋ m o
+173	- ə m a + r - + - e - m o	4 2 10	2pl	2pl	bak	əmaremo	ə m a + r + e m o
+174	- a ɲ - + - a - m o + r o	4 10 2	2pl	2pl	car	aɲamoro	a ɲ + a m o + r o
+175	- o m - + ɲ a - m o	4 10	2pl	2pl	hix	omɲamo	o m + ɲ a m o
+176	- o m - + r o + ŋ - m o	4 2 8	2pl	2pl	ikp	omroŋmo	o m + r o + ŋ m o
+177	- a m ə + r ə + ʔ n o + k o n -	4 2 27 8	2pl	2pl	ing	amərəʔnokon	a m ə + r ə + ʔ n o + k o n
+178	- a m ɨ + j a - - - + r o + -	4 10 2 3	2pl	2pl	kar	amɨjaro(n)	a m ɨ + j a + r o + n
+179	- o m - + j a - - - + r ɨ	4 10 2	2pl	2pl	kax	omjarɨ	o m + j a + r ɨ
+180	- a m ɨ + r ɨ + ʔ n ɨ + k o n -	4 2 27 8	2pl	2pl	mac	amɨrɨʔnɨkon	a m ɨ + r ɨ + ʔ n ɨ + k o n
+181	- ə n - + w a - n - + n o	4 10 2	2pl	2pl	mak	ənwanno	ə n + w a n + n o
+182	- a - - + k o n - + t o m o	4 8 21	2pl	2pl	map	akontomo	a + k o n + t o m o
+183	- a m ə + n - + t o n -	4 2 21	2pl	2pl	pan	amənton	a m ə + n + t o n
+184	- ə m - + j a - m o	4 10	2pl	2pl	PC	əmjamo	ə m + j a m o
+185	- a m ə + r ə + - n o + k o n -	4 2 27 8	2pl	2pl	pem	amərənokon	a m ə + r ə + n o + k o n
+186	m ə - - + k o n - + t o m o	4 8 21	2pl	2pl	PMan	məkontomo	m ə + k o n + t o m o
+187	m o - - + k o n - + t o m o	4 8 21	2pl	2pl	pno	mokontomo	m o + k o n + t o m o
+188	- o m - + j a - m o + r o	4 10 2	2pl	2pl	PPar	omjamo(ro)	o m + j a m o + r o
+189	- ə m ə + r ə + -	4 2 3	2pl	2pl	PPek	əmərəjamo	ə m ə + r ə + j a m o
+190	- a m ə + r ə + ʔ n o + k o n -	4 2 27 8	2pl	2pl	PPem	amərəʔnokon	a m ə + r ə + ʔ n o + k o n
+191	- a m ə + r ə + -	4 2 3	2pl	2pl	PPP	amərə?	a m ə + r ə +
+192	- ə n - + j a - m o	4 10	2pl	2pl	PTar	ənjamo	ə n + j a m o
+193	- ə m ə + - - n - + j a - m o	4 4 10	2pl	2pl	PTir	əmənjamo	ə m ə + n + j a m o
+194	- o m - + j a - m o + r o	4 10 2	2pl	2pl	PWai	omjamo(ro)	o m + j a m o + r o
+195	- o m o + r o + ŋ - m o	4 2 8	2pl	2pl	PXin	omoroŋmo	o m o + r o + ŋ m o
+196	- a m - + ɲ a - m o + r o	4 10 2	2pl	2pl	tam	amɲamoro	a m + ɲ a m o + r o
+197	- ə m ə + - - n - + j a - m o	4 4 10	2pl	2pl	tri	əmənjamo	ə m ə + n + j a m o
+198	- a m - + - a - - - + ɣ o	4 10 2	2pl	2pl	uxc	amaɣo	a m + a + ɣ o
+199	- a m - + j a - m - + r o	4 10 2	2pl	2pl	wai	amjamro	a m + j a m + r o
+200	- ə m ə + r - + - a - m - + k o m o	4 2 10 8	2pl	2pl	way	əməramkomo	ə m ə + r + a m + k o m o
+201	- a m ɨ + r ɨ + t ɨ - -	4 2 21	2pl	2pl	wmr	amɨrɨtɨ	a m ɨ + r ɨ + t ɨ
+202	m o - - + n - - - + t o m o	4 8 21	2pl	2pl	yab	montomo	m o + n + t o m o
+203	- a m o + r - + - a - - -	4 2 10	2pl	2pl	yuk	amora	a m o + r + a
+204	- n ə r ə	12	3anaanim	3anaanim	aku	nərə	n ə r ə
+205	ɨ n o r o	12	3anaanim	3anaanim	apa	ɨnoro	ɨ n o r o
+206	i n ə r a	12	3anaanim	3anaanim	bak	inəra	i n ə r a
+207	- n ə r ə	12	3anaanim	3anaanim	car	nərə	n ə r ə
+208	- n o r o	12	3anaanim	3anaanim	hix	noro	n o r o
+209	i n o r o	12	3anaanim	3anaanim	kar	inoro	i n o r o
+210	- ɲ o r o	12	3anaanim	3anaanim	kar	ɲoro	ɲ o r o
+211	- n o r o	12	3anaanim	3anaanim	kax	noro	n o r o
+212	- ɲ əə r ə	12	invisanim	invisanim	mak	ɲəərə	ɲ əə r ə
+213	- n o r o	12	3anaanim	3anaanim	PPar	noro	n o r o
+214	- n əə r ə	12	3anaanim	3anaanim	PTar	nə(ə)rə	n əə r ə
+215	- n ə r ə	12	3anaanim	3anaanim	PTir	nərə	n ə r ə
+216	- n o r o	12	3anaanim	3anaanim	PWai	noro	n o r o
+217	- n a r e	12	3anaanim	3anaanim	tam	nare	n a r e
+218	- n ə r ə	12	3anaanim	3anaanim	tri	nərə	n ə r ə
+219	ɨ ŋ e l e	12	3anaanim	3anaanim	uxc	ɨŋele	ɨ ŋ e l e
+220	- n o r o	12	3anaanim	3anaanim	wai	noro	n o r o
+221	i n ə r ə + r ə	12 2	3anaanim	3anaanim	way	inərə(rə)	i n ə r ə + r ə
+222	- n - - - + - a - m o + r o	12 10 2	3anaanimpl	3anaanimpl	aku	namoro	n + a m o + r o
+223	ɨ n a r o	12	3anaanimpl	3anaanimpl	apa	ɨnaro	ɨ n a r o
+224	- n - - - + - a - m o + r o	12 10 2	3anaanimpl	3anaanimpl	car	namoro	n + a m o + r o
+225	- ɲ - - - + - a - m o + r o	12 10 2	3anaanimpl	3anaanimpl	hix	ɲamoro	ɲ + a m o + r o
+226	i n a r o + -	12 3	3anaanimpl	3anaanimpl	kar	inaro(n)	i n a r o + n
+227	- ɲ o r o + k o n -	12 8	3anaanimpl	3anaanimpl	kar	ɲorokon	ɲ o r o + k o n
+228	- n - - - + - a - m o + r - + j a - m ɨ	12 10 2 10	3anaanimpl	3anaanimpl	kax	namorjamɨ	n + a m o + r + j a m ɨ
+229	- n - - - + ɲ a - n - + n o	12 10 2	invisanimpl	invisanimpl	mak	(n)ɲanno	n + ɲ a n + n o
+230	i n - - - + - a - m o + r o	12 10 2	3anaanimpl	3anaanimpl	PPar	inamoro	i n + a m o + r o
+231	- n - - - + - a - m o	12 10	3anaanimpl	3anaanimpl	PTar	namo	n + a m o
+232	- n - - - + - a - m o + r o	12 10 2	3anaanimpl	3anaanimpl	PTir	namo(ro)	n + a m o + r o
+233	i n - - - + - a - m o + r o	12 10 2	3anaanimpl	3anaanimpl	PWai	inamoro	i n + a m o + r o
+234	- n - - - + - a - m o	12 10	3anaanimpl	3anaanimpl	tri	namo	n + a m o
+235	ɨ n - - - + - a - - - + ɣ o	12 10 2	3anaanimpl	3anaanimpl	uxc	(ɨ)naɣo	ɨ n + a + ɣ o
+236	- ɲ - - e + ʃ a - m - + r o	12 10 2	3anaanimpl	3anaanimpl	wai	ɲeʃamro	ɲ e + ʃ a m + r o
+237	i n - - - + - a - m o + r o	12 10 2	3anaanimpl	3anaanimpl	way	inamoro	i n + a m o + r o
+238	i r ə	13	3anainan	3anainan	aku	irə	i r ə
+239	ɨ r o	13	3anainan	3anainan	apa	ɨro	ɨ r o
+240	i l ə	13	3anainan	3anainan	bak	ilə	i l ə
+241	i r ə	13	3anainan	3anainan	car	irə	i r ə
+242	ɨ r o	13	3anainan	3anainan	hix	ɨro	ɨ r o
+243	i r o	13	3anainan	3anainan	kar	iro	i r o
+244	i r o	13	3anainan	3anainan	kax	iro	i r o
+245	i j ə	13	invisinan	invisinan	mak	ijə	i j ə
+246	i r o	13	3anainan	3anainan	PPar	iro	i r o
+247	i r ə	13	3anainan	3anainan	PTar	irə	i r ə
+248	i r ə	13	3anainan	3anainan	PTir	irə	i r ə
+249	ɨ r o	13	3anainan	3anainan	PWai	ɨro	ɨ r o
+250	i r ə	13	3anainan	3anainan	tri	irə	i r ə
+251	i l e	13	3anainan	3anainan	uxc	ile	i l e
+252	ɨ l e	13	3anainan	3anainan	uxc	ɨle	ɨ l e
+253	e r o	13	3anainan	3anainan	wai	ero	e r o
+254	i r ə	13	3anainan	3anainan	way	irə	i r ə
+255	i r ɨ	13	3ana	3ana	wmr	irɨ	i r ɨ
+256	i r o + k o n -	13 8	3anainanpl	3anainanpl	kar	irokon	i r o + k o n
+257	i r o + n n e	13 20	3anainanpl	3anainanpl	kax	ironne	i r o + n n e
+258	i r ə + t o m o	13 21	3anainanpl	3anainanpl	tri	irəto(mo)	i r ə + t o m o
+259	m o - k ɨ -	16	distanim	distanim	apa	mokɨ	m o k ɨ
+260	m oo - k - -	16	distanim	distanim	ara	mook	m oo k
+261	m o - g ɨ - + n	16 26	distanim	distanim	ara	mogɨ(n)	m o g ɨ + n
+262	m ə - k ə -	16	distanim	distanim	bak	məkə	m ə k ə
+263	m ə - k ɨ -	16	medanim	medanim	car	məkɨ	m ə k ɨ
+264	m o - k ɨ -	16	distanim	distanim	hix	mokɨ	m o k ɨ
+265	- u - g u - + n	16 26	distanim	distanim	ikp	ugun	u g u + n
+266	m ɨ - k ɨ -	16	medanim	medanim	ing	mɨkɨ	m ɨ k ɨ
+267	m o ʔ k ɨ -	16	distanim	distanim	kar	moʔkɨ	m o ʔ k ɨ
+268	m o - k ɨ -	16	distanim	distanim	kax	mokɨ	m o k ɨ
+269	m ə k k ɨ -	16	distanim	distanim	mak	məkkɨ	m ə k k ɨ
+270	m u - k u h	16	distanim	distanim	pan	muku(h)	m u k u h
+271	m o - k ɨ -	16	distanim	distanim	PPar	mokɨ	m o k ɨ
+272	m ə - k ɨ -	16	distanim	distanim	PPek	məkɨ	m ə k ɨ
+273	m ə - k ɨ -	16	distanim	distanim	PTar	məkɨ	m ə k ɨ
+274	m o - k ɨ -	16	distanim	distanim	PWai	mokɨ	m o k ɨ
+275	m o - g ɨ - + n	16 26	distanim	distanim	PXin	mogɨn	m o g ɨ + n
+276	m a - k e -	16	distanim	distanim	tam	make	m a k e
+277	m ə - k ɨ -	16	invisanim	invisanim	tri	mə(kɨ)	m ə k ɨ
+278	- e - k - - + -	16 3	distanim	distanim	uxc	ekise	e k + i s e
+279	m ɨ - k ɨ -	16	distanim	distanim	wai	mɨkɨ	m ɨ k ɨ
+280	m ə - k ɨ -	16	distanim	distanim	way	məkɨ	m ə k ɨ
+281	m ɨ - k ɨ -	16	distanim	distanim	wmr	mɨkɨ	m ɨ k ɨ
+282	- a - k e -	16	dist	dist	yuk	ake	a k e
+283	m o - k - - + - a - m o	16 10	distanimpl	distanimpl	apa	mokamo	m o k + a m o
+284	- a - k a - + - e - m o	16 10	distanimpl	distanimpl	bak	akaemo	a k a + e m o
+285	m ə - k - - + - a - - -	16 10	medanimpl	medanimpl	car	məka	m ə k + a
+286	m o - k - - + j a - m o	16 10	distanimpl	distanimpl	hix	mokjamo	m o k + j a m o
+287	- u - g - - + j a - m -	16 10	distanimpl	distanimpl	ikp	ugjam	u g + j a m
+288	m oo - k ɨ - + k o n -	16 8	distanimpl	distanimpl	kar	mookɨkon	m oo k ɨ + k o n
+289	m o ʔ k - - + - a - n -	16 10	distanimpl	distanimpl	kar	moʔkan	m o ʔ k + a n
+290	m a k k - - + - a - m o	16 10	distanimpl	distanimpl	mak	makkamo	m a k k + a m o
+291	m u - k u - + k o n -	16 8	distanimpl	distanimpl	pan	mukukon	m u k u + k o n
+292	m o - k - - + j a - m o	16 10	distanimpl	distanimpl	PPar	mokjamo	m o k + j a m o
+293	m ə - k ɨ - + j a - m o	16 10	distanimpl	distanimpl	PPek	məkɨjamo	m ə k ɨ + j a m o
+294	m ə - k ɨ - + j a - m o	16 10	distanimpl	distanimpl	PTar	məkɨjamo	m ə k ɨ + j a m o
+295	m o - k - - + j a - m o	16 10	distanimpl	distanimpl	PWai	mokjamo	m o k + j a m o
+296	m o - g ɨ - + j a - m -	16 10	distanimpl	distanimpl	PXin	mogɨjam	m o g ɨ + j a m
+297	m u - k - - + - i a m o	16 10	distanimpl	distanimpl	tam	mukiamo	m u k + i a m o
+298	m ə - k ɨ - + j a - m o	16 10	invisanimpl	invisanimpl	tri	mə(kɨ)ja(mo)	m ə k ɨ + j a m o
+299	- a - k - - + - a - - - + ɣ o	16 10 2	distanimpl	distanimpl	uxc	akaɣo	a k + a + ɣ o
+300	m ɨ - k - - + j a - m -	16 10	distanimpl	distanimpl	wai	mɨkjam	m ɨ k + j a m
+301	m ə - k - - + j a - m o	16 10	distanimpl	distanimpl	way	məkjamo	m ə k + j a m o
+302	- a - k - - + ʃ a - - -	16 10	distpl	distpl	yuk	akʃa	a k + ʃ a
+303	m o n ɨ	14	distinan	distinan	apa	monɨ	m o n ɨ
+304	m o n -	14	distinan	distinan	ara	mon	m o n
+305	m u n -	14	distinan	distinan	ara	mun	m u n
+306	m ə n ɨ	14	distinan	distinan	car	mənɨ	m ə n ɨ
+307	m o n ɨ	14	distinan	distinan	hix	monɨ	m o n ɨ
+308	m u n -	14	distinan	distinan	ikp	mun	m u n
+309	m o n ɨ	14	distinan	distinan	kar	monɨ	m o n ɨ
+310	m o n ɨ	14	distinan	distinan	kax	monɨ	m o n ɨ
+311	m əə n ɨ	14	distinan	distinan	mak	məənɨ	m əə n ɨ
+312	m u h -	14	distinan	distinan	pan	mu(h)	m u h
+313	m o n ɨ	14	distinan	distinan	PPar	monɨ	m o n ɨ
+314	m ə n ɨ	14	distinan	distinan	PTar	mənɨ	m ə n ɨ
+315	m o n ɨ	14	distinan	distinan	PWai	monɨ	m o n ɨ
+316	m o n -	14	distinan	distinan	PXin	mon	m o n
+317	m ə n ɨ	14	invisinan	invisinan	tri	mə(nɨ)	m ə n ɨ
+318	m ɨ n ɨ	14	distinan	distinan	wai	mɨnɨ	m ɨ n ɨ
+319	m ɨ n ɨ	14	distinan	distinan	way	mɨn(ɨ)	m ɨ n ɨ
+320	m ə n ɨ	14	distinan	distinan	yab	mənɨ	m ə n ɨ
+321	- + ʔ n e	3 20	distinanpl	distinanpl	apa	monoʔne	m o n o + ʔ n e
+322	m u - - + j a - m -	14 10	distinanpl	distinanpl	ikp	mujam	m u + j a m
+323	m o n ɨ + k o n -	14 8	distinanpl	distinanpl	kar	monɨkon	m o n ɨ + k o n
+324	m ə n - + t o m o	14 21	invisinanpl	invisinanpl	tri	mənto(mo)	m ə n + t o m o
+325	m ɨ n ɨ + k o m o	14 8	distinanpl	distinanpl	way	mɨn(ɨ)komo	m ɨ n ɨ + k o m o
+326	- - - k ɨ - + r ə	16 2	medanim	medanim	aka	kɨrə	k ɨ + r ə
+327	m ə - k ɨ - + r ə	16 2	medanim	medanim	aku	məkɨrə	m ə k ɨ + r ə
+328	m o - k ɨ - + r o	16 2	medanim	medanim	apa	mokɨro	m o k ɨ + r o
+329	- + w ə - k ə -	3 16	medanim	medanim	bak	awəkə	a + w ə k ə
+330	m ə - k - - + - ə	16 2	distanim	distanim	car	məkə	m ə k + ə
+331	m o - k - - + r o	16 2	medanim	medanim	hix	mokro	m o k + r o
+332	- - - k ɨ - + r ə + r ə	16 2 2	3anaanim	3anaanim	ing	kɨrə(rə)	k ɨ + r ə + r ə
+333	m o ʔ k - - + - o	16 2	medanim	medanim	kar	moʔko	m o ʔ k + o
+334	m o - k o - + r o	16 2	medanim	medanim	kax	mokoro	m o k o + r o
+335	m ɨɨ - k ɨ - + r ɨ	16 2	medanim	medanim	mac	mɨɨkɨrɨ	m ɨɨ k ɨ + r ɨ
+336	m ə ʔ - - - + r ə	16 2	proxanim	proxanim	mak	məʔrə	m ə ʔ + r ə
+337	- - - k ə - + n -	16 2	invisanim	invisanim	pan	kən	k ə + n
+338	m ə ʔ - - - + r ə	16 2	medanim	medanim	pem	məʔrə	m ə ʔ + r ə
+339	m o - k o - + r o	16 2	medanim	medanim	PPar	mokoro	m o k o + r o
+340	m ə - k ɨ - + r ə	16 2	medanim	medanim	PPem	məkɨ(rə)	m ə k ɨ + r ə
+341	m ə - k ɨ - + r ə	16 2	medanim	medanim	PPP	məkɨ(rə)	m ə k ɨ + r ə
+342	m ə - k ɨ - + r ə	16 2	medanim	medanim	PTar	məkɨrə	m ə k ɨ + r ə
+343	m o - k - - + r o	16 2	medanim	medanim	PWai	mokro	m o k + r o
+344	- - - k - - + r e + r e	16 2 2	medanim	medanim	tam	krere	k + r e + r e
+345	m əə - - - - + r ə	16 2	medanim	medanim	tri	məərə	m əə + r ə
+346	m ɨ - k - - + r o	16 2	medanim	medanim	wai	mɨkro	m ɨ k + r o
+347	m ə - k - - + r ə + r ə	16 2 2	medanim	medanim	way	məkrə(rə)	m ə k + r ə + r ə
+348	m o - k - - + - a - - - + r o	16 10 2	medanimpl	medanimpl	apa	mokaro	m o k + a + r o
+349	m ə - k - - + - a - m o + r o	16 10 2	distanimpl	distanimpl	car	məkamoro	m ə k + a m o + r o
+350	m o - k - - + j a - m o	16 10	medanimpl	medanimpl	hix	mokjamo	m o k + j a m o
+351	m ɨ - k ɨ - + j a - m ə	16 10	medanimpl	medanimpl	ing	mɨkɨjamə	m ɨ k ɨ + j a m ə
+352	- - - k - - + - a - m o + r o	16 10 2	3anaanimpl	3anaanimpl	ing	kamo(ro)	k + a m o + r o
+353	m o ʔ k - - + - a - - - + r o + -	16 10 2 3	medanimpl	medanimpl	kar	moʔkaro(n)	m o ʔ k + a + r o + n
+354	m o - k - - + j a - - - + r ɨ	16 10 2	medanimpl	medanimpl	kax	mokjarɨ	m o k + j a + r ɨ
+355	- + - n - k - - + - a - m o + r o	3 16 10 2	medanimpl	medanimpl	mac	inkamoro	i + n k + a m o + r o
+356	- - - k - - + - a - n - + n o	16 10 2	medanimpl	medanimpl	mak	kanno	k + a n + n o
+357	- - - k - - + - a - m ə + n - + t o n -	16 10 2 21	invisanimpl	invisanimpl	pan	kamənton	k + a m ə + n + t o n
+358	m ə - k ɨ - + r ə + j a - m o	16 2 10	medanimpl	medanimpl	PTar	məkɨrəjamo	m ə k ɨ + r ə + j a m o
+359	- - - k - - + - i a m o + r o	16 10 2	medanimpl	medanimpl	tam	kiamoro	k + i a m o + r o
+360	m əə - - - - + j a - m o	16 10	medanimpl	medanimpl	tri	məəja(mo)	m əə + j a m o
+361	m ə - k - - + j a - - - + r ə	16 10 2	medanimpl	medanimpl	way	məkja(rə)	m ə k + j a + r ə
+362	m ə r ə	17	medinan	medinan	aka	mərə	m ə r ə
+363	m ə r ə	17	medinan	medinan	aku	mərə	m ə r ə
+364	m o r o	17	medinan	medinan	apa	moro	m o r o
+365	m o r o	17	medinan	medinan	ara	moro	m o r o
+366	m ə r ə	17	medinan	medinan	bak	mərə	m ə r ə
+367	m ə r ə	17	medinan	medinan	car	mərə	m ə r ə
+368	m o r o	17	medinan	medinan	hix	moro	m o r o
+369	m ə r ə	17	medinan	medinan	ing	mə(r)ə	m ə r ə
+370	m o r o	17	medinan	medinan	kar	moro	m o r o
+371	m o r o	17	medinan	medinan	kax	moro	m o r o
+372	m ɨ r ɨ + r ɨ	17 2	medinan	medinan	mac	mɨrɨrɨ	m ɨ r ɨ + r ɨ
+373	m ə r ə	17	medinan	medinan	mak	mərə	m ə r ə
+374	m ə r ɨ	17	medinan	medinan	map	mərɨ	m ə r ɨ
+375	m ə n -	17	invisinan	invisinan	pan	mən	m ə n
+376	m ə r ə	17	medinan	medinan	pem	mərə	m ə r ə
+377	m o r o	17	medinan	medinan	PPar	moro	m o r o
+378	m ə r ə	17	medinan	medinan	PPek	mərə	m ə r ə
+379	m ə r ə	17	medinan	medinan	PPem	mərə	m ə r ə
+380	m ə r ə	17	medinan	medinan	PPP	mərə	m ə r ə
+381	m ə r ə	17	medinan	medinan	PTar	mərə	m ə r ə
+382	m o r o	17	medinan	medinan	PWai	moro	m o r o
+383	m o r o	17	medinan	medinan	PXin	moro	m o r o
+384	m o r e	17	medinan	medinan	tam	more	m o r e
+385	m ə r ə	17	medinan	medinan	tri	mərə	m ə r ə
+386	- e ɣ e	17	distinan	distinan	uxc	eɣe	e ɣ e
+387	m o r o	17	medinan	medinan	wai	moro	m o r o
+388	m ə r ə	17	medinan	medinan	way	mərə	m ə r ə
+389	m ɨ r ɨ	17	medinan	medinan	wmr	mɨrɨ	m ɨ r ɨ
+390	m ə r ə	17	medinan	medinan	yab	mərə	m ə r ə
+391	m o r o + ʔ n e	17 20	medinanpl	medinanpl	apa	moroʔne	m o r o + ʔ n e
+392	m ə r ə + j a - m ə	17 10	medinanpl	medinanpl	ing	mərəjamə	m ə r ə + j a m ə
+393	m o r o + k o n -	17 8	medinanpl	medinanpl	kar	morokon	m o r o + k o n
+394	m ə n - + k o n -	14 8	invisinanpl	invisinanpl	pan	mənkon	m ə n + k o n
+395	m ə r ə + t o m o	17 21	medinanpl	medinanpl	tri	mərəto(mo)	m ə r ə + t o m o
+396	m ə r ə + k o m o	17 8	medinanpl	medinanpl	way	mərəkomo	m ə r ə + k o m o
+397	m ə ʔ - e	15	proxanim	proxanim	aku	məʔe	m ə ʔ e
+398	m o - s e	15	proxanim	proxanim	apa	mose	m o s e
+399	m o - d e + n	15 26	proxanim	proxanim	ara	moden	m o d e + n
+400	m e - - - + r ə	15 2	proxanim	proxanim	bak	merə	m e + r ə
+401	m ə h - ə	15	proxanim	proxanim	car	məhə	m ə h ə
+402	m o - s o + -	15 3	proxanim	proxanim	hix	mosonɨ	m o s o + n ɨ
+403	- o - r e + n	15 26	proxanim	proxanim	ikp	oren	o r e + n
+404	m o ʔ s e	15	proxanim	proxanim	kar	mo(ʔ)se	m o ʔ s e
+405	m o - s o + r o	15 2	proxanim	proxanim	kax	mosoro	m o s o + r o
+406	m ɨ - s e + r ɨ	15 2	proxanim	proxanim	mac	mɨserɨ	m ɨ s e + r ɨ
+407	m e h - e	15	proxanim	proxanim	map	mehe	m e h e
+408	m ə - h -	15	proxanim	proxanim	pan	məh	m ə h
+409	m ə - s ə + r ə	15 2	proxanim	proxanim	pem	məsərə	m ə s ə + r ə
+410	m o - s o + r o	15 2	proxanim	proxanim	PPar	moso(ro)	m o s o + r o
+411	m ə - t e + r ə	15 2	proxanim	proxanim	PPek	məte(rə)	m ə t e + r ə
+412	m ə - s e	15	proxanim	proxanim	PPem	məse	m ə s e
+413	m ə - s e	15	proxanim	proxanim	PPP	məse	m ə s e
+414	m ə - t͡ʃ e	15	proxanim	proxanim	PTar	mə(t͡ʃ)e	m ə t͡ʃ e
+415	m o - s o	15	proxanim	proxanim	PWai	moso	m o s o
+416	m o - d e + n	15 26	proxanim	proxanim	PXin	moden	m o d e + n
+417	m o - t͡ʃ e	15	proxanim	proxanim	tam	mot͡ʃe	m o t͡ʃ e
+418	m ə e - -	15	proxanim	proxanim	tri	məe	m ə e
+419	- e - s e	15	proxanim	proxanim	uxc	ese	e s e
+420	m o - s o	15	proxanim	proxanim	wai	moso	m o s o
+421	m ə - s i	15	proxanim	proxanim	way	mə(s)i	m ə s i
+422	m ə h - e + r ə	15 2	proxanim	proxanim	way	məhe(rə)	m ə h e + r ə
+423	m a - ʃ -	15	prox	prox	yuk	ma(ʃ)	m a ʃ
+424	m ə e - - + t͡ʃ a - m o	15 10	proxanimpl	proxanimpl	aku	məet͡ʃamo	m ə e + t͡ʃ a m o
+425	m o - ʃ - + - i a m o	15 10	proxanimpl	proxanimpl	apa	moʃiamo	m o ʃ + i a m o
+426	- a - s a + - e - m o	15 10	proxanimpl	proxanimpl	bak	asaemo	a s a + e m o
+427	m ə - - - + s a - - -	15 10	proxanimpl	proxanimpl	car	məsa	m ə + s a
+428	m o - ʃ - + - a - m o	15 10	proxanimpl	proxanimpl	hix	moʃamo	m o ʃ + a m o
+429	w - - - - + - a - m -	15 10	proxanimpl	proxanimpl	ikp	wam	w + a m
+430	m o ʔ s e + k o n -	15 8	proxanimpl	proxanimpl	kar	moʔsekon	m o ʔ s e + k o n
+431	m oo - - - + j a - n -	15 10	proxanimpl	proxanimpl	kar	moojan	m oo + j a n
+432	m o - ʔ - + s a - - - + r o + -	15 10 2 3	proxanimpl	proxanimpl	kar	moʔsaro(n)	m o ʔ + s a + r o + n
+433	m o - ʔ - + t͡ʃ a - - - + r ɨ	15 10 2	proxanimpl	proxanimpl	kax	moʔt͡ʃarɨ	m o ʔ + t͡ʃ a + r ɨ
+434	- + n - - s - + - e - m o + r o	3 15 10 2	proxanimpl	proxanimpl	mac	insemoro	i + n s + e m o + r o
+435	m ə - h - + t͡ʃ a - n - + t o n -	15 10 21	proxanimpl	proxanimpl	pan	məht͡ʃanton	m ə h + t͡ʃ a n + t o n
+436	- + ʔ - - s - + - a - m ə + r ə	3 15 10 2	proxanimpl	proxanimpl	pem	iʔsamərə	i + ʔ s + a m ə + r ə
+437	m o - ʔ - + t͡ʃ a - m o + r o	15 10 2	proxanimpl	proxanimpl	PPar	moʔt͡ʃamo(ro)	m o ʔ + t͡ʃ a m o + r o
+438	m ə - t e + j a - m o	15 10	proxanimpl	proxanimpl	PPek	mətejamo	m ə t e + j a m o
+439	m ə - t͡ʃ e + t͡ʃ a - m o	15 10	proxanimpl	proxanimpl	PTar	mə(t͡ʃ)et͡ʃamo	m ə t͡ʃ e + t͡ʃ a m o
+440	m o - ʃ - + - a - m o	15 10	proxanimpl	proxanimpl	PWai	moʃamo	m o ʃ + a m o
+441	m o - d e + j a - m -	15 10	proxanimpl	proxanimpl	PXin	modejam	m o d e + j a m
+442	- - - t͡ʃ - + - a - m o + r o	15 10 2	proxanimpl	proxanimpl	tam	t͡ʃamoro	t͡ʃ + a m o + r o
+443	m ə e - - + s a - m o	15 10	proxanimpl	proxanimpl	tri	məesa(mo)	m ə e + s a m o
+444	- a - - - + ɣ o	10 2	proxanimpl	proxanimpl	uxc	aɣo	a + ɣ o
+445	m o - ʃ - + - a - m -	15 10	proxanimpl	proxanimpl	wai	moʃam	m o ʃ + a m
+446	m ə - h - + - a - m o	15 10	proxanimpl	proxanimpl	way	məham(o)	m ə h + a m o
+447	m ə - h - + - a - - - + r ə	15 10 2	proxanimpl	proxanimpl	way	məharə	m ə h + a + r ə
+448	m a - ʃ - + - a - - -	15 10	proxpl	proxpl	yuk	maʃa	m a ʃ + a
+449	- + s i n - -	3 19	proxinan	proxinan	way	məsin	m ə + s i n
+450	- s e r ə	18	proxinan	proxinan	aka	serə	s e r ə
+451	- t͡ʃ e r ə	18	proxinan	proxinan	aku	t͡ʃerə	t͡ʃ e r ə
+452	- s e r o	18	proxinan	proxinan	apa	sero	s e r o
+453	- - e r o	18	proxinan	proxinan	ara	ero	e r o
+454	- ʃ i r ə	18	proxinan	proxinan	bak	ʃirə	ʃ i r ə
+455	- - ə r ə	18	proxinan	proxinan	car	ərə	ə r ə
+456	- s ə - - + r ə	18 2	proxinan	proxinan	ing	sə(rə)	s ə + r ə
+457	- - e r o	18	proxinan	proxinan	kar	ero	e r o
+458	- s o r o	18	proxinan	proxinan	kax	soro	s o r o
+459	- s ɨ r ɨ + r ɨ	18 2	proxinan	proxinan	mac	sɨrɨrɨ	s ɨ r ɨ + r ɨ
+460	- - e r ə	18	proxinan	proxinan	mak	erə	e r ə
+461	- s ɨ h -	18	proxinan	proxinan	pan	sɨ(h)	s ɨ h
+462	- s ə r ə	18	proxinan	proxinan	pem	sərə	s ə r ə
+463	- s o r o	18	proxinan	proxinan	PPar	soro	s o r o
+464	- t͡ʃ e r ə	18	proxinan	proxinan	PPek	(t͡ʃ)erə	t͡ʃ e r ə
+465	- s ə r ə	18	proxinan	proxinan	PPem	sərə	s ə r ə
+466	- t͡ʃ e r ə	18	proxinan	proxinan	PTar	(t͡ʃ)erə	t͡ʃ e r ə
+467	- - e r o	18	proxinan	proxinan	PXin	ero	e r o
+468	- s e r ə	18	proxinan	proxinan	tri	serə	s e r ə
+469	i ɣ e - -	18	proxinan	proxinan	uxc	iɣe	i ɣ e
+470	- h e r ə	18	proxinan	proxinan	way	herə	h e r ə
+471	t͡ʃ e n ɨ -	19	proxinan	proxinan	aku	t͡ʃenɨ	t͡ʃ e n ɨ
+472	s e n ɨ -	19	proxinan	proxinan	apa	senɨ	s e n ɨ
+473	- e n - -	19	proxinan	proxinan	ara	en	e n
+474	- e n ɨ -	19	proxinan	proxinan	car	enɨ	e n ɨ
+475	- o n ɨ -	19	proxinan	proxinan	hix	onɨ	o n ɨ
+476	- + - e n - -	3 19	proxinan	proxinan	ikp	nen	n + e n
+477	- e n ɨ -	19	proxinan	proxinan	kar	enɨ	e n ɨ
+478	s e n i -	19	proxinan	proxinan	mac	seni	s e n i
+479	s e n ə k	19	proxinan	proxinan	pem	senək	s e n ə k
+480	t͡ʃ e n - -	19	proxinan	proxinan	PPek	(t͡ʃ)en	t͡ʃ e n
+481	t͡ʃ e n ɨ -	19	proxinan	proxinan	PTar	(t͡ʃ)enɨ	t͡ʃ e n ɨ
+482	- o n ɨ -	19	proxinan	proxinan	PWai	onɨ	o n ɨ
+483	- e n - -	19	proxinan	proxinan	PXin	en	e n
+484	t͡ʃ e n e -	19	proxinan	proxinan	tam	t͡ʃene	t͡ʃ e n e
+485	s e n ɨ -	19	proxinan	proxinan	tri	se(nɨ)	s e n ɨ
+486	- o n - -	19	proxinan	proxinan	wai	on	o n
+487	s i n ɨ -	19	proxinan	proxinan	way	sinɨ	s i n ɨ
+488	s e n i -	19	proxinan	proxinan	yab	(s)eni	s e n i
+489	- s e r o + ʔ n e	18 20	3anaanimpl	3anaanimpl	apa	seroʔne	s e r o + ʔ n e
+490	- - e r o + ŋ - m o	18 8	proxinanpl	proxinanpl	ara	eroŋmo	e r o + ŋ m o
+491	- + - e - - - + j a - m -	3 19 10	proxinanpl	proxinanpl	ikp	nejam	n + e + j a m
+492	- s ə - - + r ə + j a - m ə	18 2 10	proxinanpl	proxinanpl	ing	sə(rə)jamə	s ə + r ə + j a m ə
+493	- - e r o + k o n -	18 8	proxinanpl	proxinanpl	kar	erokon	e r o + k o n
+494	- e n ɨ - + k o n -	19 8	proxinanpl	proxinanpl	kar	enɨkon	e n ɨ + k o n
+495	- s o r o + n n e	18 20	proxinanpl	proxinanpl	kax	soronne	s o r o + n n e
+496	- s ɨ h - + k o n -	18 8	proxinanpl	proxinanpl	pan	sɨ(h)kon	s ɨ h + k o n
+497	- h e r ə + k o m o	18 8	proxinanpl	proxinanpl	way	herəkom(o)	h e r ə + k o m o
+498	s i n - - + k o m o	19 8	proxinanpl	proxinanpl	way	sinkom(o)	s i n + k o m o
+499	t o ʔ -	11	3anaanimpl	3anaanimpl	ing	toʔ	t o ʔ
+500	- - uu + r ɨ + - - ʔ - + k o n -	1 2 21 8	12	12	mac	uurɨʔkon	uu + r ɨ + ʔ + k o n
+501	t o ʔ -	11	3anapl	3anapl	mac	toʔ	t o ʔ
+502	- j uu + r ə + t o - - + k o n -	1 2 21 8	12	12	pem	juurətokon	j uu + r ə + t o + k o n
+503	t o ʔ -	11	3anapl	3anapl	pem	toʔ	t o ʔ
+504	k ɨ + - + r o	7 3 2	12	12	PPar	kɨ?(ro)	k ɨ + + r o
+505	- a m n a	5	13	13	PPar	amna	a m n a
+506	i r o	13	3anainan	3anainan	PPar	iro	i r o
+507	m ə r ə	17	medinan	medinan	PPem	mərə	m ə r ə
+508	- s ə r ə	18	proxinan	proxinan	PPem	sərə	s ə r ə
+509	k ɨ + w ɨ + r o	7 22 2	12	12	PWai	kɨwɨ(ro)	k ɨ + w ɨ + r o
+510	ɨ r o	13	3anainan	3anainan	PWai	ɨro	ɨ r o
+511	- + j a - m o	3 10	distanimpl	distanimpl	tri	ohkɨja(mo)	o h k ɨ + j a m o
+512	- s e r ə + t o m o	18 21	proxinanpl	proxinanpl	tri	serəto(mo)	s e r ə + t o m o
+513	s e n - - + t o m o	19 21	proxinanpl	proxinanpl	tri	sento(mo)	s e n + t o m o
+514	- + - e - k - - + -	3 16 3	invisanim	invisanim	uxc	eekise	e + e k + i s e
+515	m o - - - - + ʃ a - m -	16 10	distanimpl	distanimpl	wai	moʃam	m o + ʃ a m
+516	- o n - -	19	proxinan	proxinan	wai	on	o n
+517	t o t o	11	3anaanimpl	3anaanimpl	way	tot(o)	t o t o

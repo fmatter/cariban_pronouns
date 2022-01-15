@@ -149,15 +149,28 @@ for lg in sorted([
     parlist = ["Distance", "Animacy", "Number"]
     dems = temp[temp["Cognateset_ID"].isin(dem_strings)]
     if len(dems) > 0:
+        pyd.separators = ["."]
         dems["Parsed"] = dems["Cognateset_ID"].apply(
             lambda x: pyd.get_parameter_values(x, parlist)
         )
         pars = pd.DataFrame(dems["Parsed"].tolist())
         pars.columns = parlist
         dems = dems.reset_index(drop=True).join(pars)
-
+        dems["Number"] = dems["Number"].map({None: "SG", "PL": "PL"})
     pronouns = pronouns.append(dems)
-    pronouns["Number"] = pronouns["Number"].map({None: "SG", "PL": "PL"})
+
+    # print demonstrative paradigms for single languages
+    pyd.y = ["Animacy", "Number"]
+    pyd.x = ["Distance"]
+    if lg in (["PC", "PTir", "PMan", "pno"]):
+        continue
+    pyd.y_sort = ["ANIM.SG", "ANIM.PL", "INAN.SG", "INAN.PL"]
+    pyd.x_sort = ["PROX", "MED", "DIST"]
+    pyd.separators = ["."]
+    df = pyd.compose_paradigm(dems)
+    df = df.applymap(lambda x: f"*{x}*")
+    df.replace({"**":""}, inplace=True)
+    readme_overview += df.to_markdown() + "\n\n"
 
     all_pronouns = all_pronouns.append(pronouns)
 
@@ -179,8 +192,6 @@ pyd.filters = {
 # "Language_ID": crh.top_languages
 }
 df = pyd.compose_paradigm(all_pronouns)
-
-print(df)
 
 # GRAMMATICALIZATION OF EMPHATIC PARTICLE
 # emp = all_pronouns.copy()
