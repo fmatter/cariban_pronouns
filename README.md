@@ -14,12 +14,13 @@
 | 3ANIM            | *noro*      | *in+amo+ro*      |
 | 3INAN            | *iro*       |                  |
 
-|           | PROX             | MED       | DIST       |
-|:----------|:-----------------|:----------|:-----------|
-| ANIM.SG   | *moso(+ro)*      | *moko+ro* | *mokɨ*     |
-| ANIM.PL   | *moʔ+t͡ʃamo(+ro)* |           | *mok+jamo* |
-| INAN.SG   |                  | *moro*    | *monɨ*     |
-| INAN-1.SG | *soro*           |           |            |
+|           | PROX             | MED             | DIST       |
+|:----------|:-----------------|:----------------|:-----------|
+| ANIM.SG   | *moso(+ro)*      | *moko+ro*       | *mokɨ*     |
+| ANIM.PL   | *moʔ+t͡ʃamo(+ro)* | *mok+jamo(+ro)* | *mok+jamo* |
+| INAN.SG   |                  | *moro*          | *monɨ*     |
+| INAN-2.SG | *onɨ*            |                 |            |
+| INAN-1.SG | *soro*           |                 |            |
 
 **Werikyana**
 | Person/Animacy   | SG         | PL             |
