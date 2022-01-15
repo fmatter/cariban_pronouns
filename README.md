@@ -11,20 +11,18 @@
 | 1+2              | *kɨ+?(+ro)* | *kɨ+?+jamo(+ro)* |
 | 1+3              | *amna*      |                  |
 | 2                | *omo+ro*    | *om+jamo(+ro)*   |
-| 3.INAN           | *iro*       |                  |
-| 3.ANIM           | *noro*      |                  |
-| 3.ANIM.PL        | *in+amo+ro* |                  |
+| 3ANIM            | *noro*      | *in+amo+ro*      |
+| 3INAN            | *iro*       |                  |
 
 **Werikyana**
-| Person/Animacy   | SG             | PL           |
-|:-----------------|:---------------|:-------------|
-| 1                | *owɨ*          |              |
-| 1+2              | *ku+mo+ro*     | *kɨ+m+ja+rɨ* |
-| 1+3              | *amna*         |              |
-| 2                | *omo+ro*       | *om+ja+rɨ*   |
-| 3.INAN           | *iro*          |              |
-| 3.ANIM           | *noro*         |              |
-| 3.ANIM.PL        | *n+amo+r+jamɨ* |              |
+| Person/Animacy   | SG         | PL             |
+|:-----------------|:-----------|:---------------|
+| 1                | *owɨ*      |                |
+| 1+2              | *ku+mo+ro* | *kɨ+m+ja+rɨ*   |
+| 1+3              | *amna*     |                |
+| 2                | *omo+ro*   | *om+ja+rɨ*     |
+| 3ANIM            | *noro*     | *n+amo+r+jamɨ* |
+| 3INAN            | *iro*      |                |
 
 **Proto-Waiwaian**
 | Person/Animacy   | SG           | PL             |
@@ -33,31 +31,28 @@
 | 1+2              | *kɨ+wɨ(+ro)* | *kɨ+w+jamo*    |
 | 1+3              | *amna*       |                |
 | 2                | *omo+ro*     | *om+jamo(+ro)* |
-| 3.INAN           | *ɨro*        |                |
-| 3.ANIM           | *noro*       |                |
-| 3.ANIM.PL        | *in+amo+ro*  |                |
+| 3ANIM            | *noro*       | *in+amo+ro*    |
+| 3INAN            | *ɨro*        |                |
 
 **Hixkaryána**
-| Person/Animacy   | SG         | PL          |
-|:-----------------|:-----------|:------------|
-| 1                | *u+ro*     |             |
-| 1+2              | *kɨ+w+ro*  | *kɨ+w+jamo* |
-| 1+3              | *amna*     |             |
-| 2                | *omo+ro*   | *om+ɲamo*   |
-| 3.INAN           | *ɨro*      |             |
-| 3.ANIM           | *noro*     |             |
-| 3.ANIM.PL        | *ɲ+amo+ro* |             |
+| Person/Animacy   | SG        | PL          |
+|:-----------------|:----------|:------------|
+| 1                | *u+ro*    |             |
+| 1+2              | *kɨ+w+ro* | *kɨ+w+jamo* |
+| 1+3              | *amna*    |             |
+| 2                | *omo+ro*  | *om+ɲamo*   |
+| 3ANIM            | *noro*    | *ɲ+amo+ro*  |
+| 3INAN            | *ɨro*     |             |
 
 **Waiwai**
-| Person/Animacy   | SG          | PL          |
-|:-----------------|:------------|:------------|
-| 1                | *owɨ*       |             |
-| 1+2              | *kɨɨ+wɨ*    | *kɨ+w+jam*  |
-| 1+3              | *amna*      |             |
-| 2                | *amo+ro*    | *am+jam+ro* |
-| 3.INAN           | *ero*       |             |
-| 3.ANIM           | *noro*      |             |
-| 3.ANIM.PL        | *ɲe+ʃam+ro* |             |
+| Person/Animacy   | SG       | PL          |
+|:-----------------|:---------|:------------|
+| 1                | *owɨ*    |             |
+| 1+2              | *kɨɨ+wɨ* | *kɨ+w+jam*  |
+| 1+3              | *amna*   |             |
+| 2                | *amo+ro* | *am+jam+ro* |
+| 3ANIM            | *noro*   | *ɲe+ʃam+ro* |
+| 3INAN            | *ero*    |             |
 
 **Proto-Pekodian**
 | Person   | SG         | PL            |
@@ -98,8 +93,8 @@
 | 1+2              | *ku+rə* | *ku+rə*     |
 | 1+3              | *ʃi+na* |             |
 | 2                | *əmə*   | *əma+r+emo* |
-| 3.INAN           | *ilə*   |             |
-| 3.ANIM           | *inəra* |             |
+| 3ANIM            | *inəra* |             |
+| 3INAN            | *ilə*   |             |
 
 **Proto-Taranoan**
 | Person/Animacy   | SG           | PL          |
@@ -108,18 +103,17 @@
 | 1+2              | *kɨ+mə(+rə)* | *kɨ+n+jamo* |
 | 1+3              | *anja*       |             |
 | 2                | *əmə(+rə)*   | *ən+jamo*   |
-| 3.INAN           | *irə*        |             |
-| 3.ANIM           | *nə(ə)rə*    |             |
-| 3.ANIM.PL        | *n+amo*      |             |
+| 3ANIM            | *nə(ə)rə*    | *n+amo*     |
+| 3INAN            | *irə*        |             |
 
 **Proto-Tiriyoan**
-| Person   | SG                    | PL               |
-|:---------|:----------------------|:-----------------|
-| 1        | *wɨ*                  |                  |
-| 1+2      | *kɨ+mə*               | *kɨ(+mə)+n+jamo* |
-| 1+3      | *anja*                |                  |
-| 2        | *əmə/əmə*             | *əmə+n+jamo*     |
-| 3        | *nərə/n+amo(+ro)/irə* |                  |
+| Person   | SG         | PL               |
+|:---------|:-----------|:-----------------|
+| 1        | *wɨ*       |                  |
+| 1+2      | *kɨ+mə*    | *kɨ(+mə)+n+jamo* |
+| 1+3      | *anja*     |                  |
+| 2        | *əmə/əmə*  | *əmə+n+jamo*     |
+| 3        | *nərə/irə* | *n+amo(+ro)*     |
 
 **Tiriyó**
 | Person/Animacy   | SG      | PL             |
@@ -128,27 +122,28 @@
 | 1+2              | *kɨ+mə* | *kɨ+mə+n+jamo* |
 | 1+3              | *anja*  |                |
 | 2                | *əmə*   | *əmə+n+jamo*   |
-| 3.INAN           | *irə*   |                |
-| 3.ANIM           | *nərə*  |                |
-| 3.ANIM.PL        | *n+amo* |                |
+| 3ANIM            | *nərə*  | *n+amo*        |
+| 3INAN            | *irə*   |                |
 
 **Akuriyó**
-| Person   | SG                  | PL               |
-|:---------|:--------------------|:-----------------|
-| 1        | *wɨ*                |                  |
-| 1+2      | *kɨ+mə*             | *kɨ(+mə)+n+jamo* |
-| 1+3      | *anja*              |                  |
-| 2        | *əmə*               | *əmə+n+jamo*     |
-| 3        | *nərə/n+amo+ro/irə* |                  |
+| Person/Animacy   | SG      | PL               |
+|:-----------------|:--------|:-----------------|
+| 1                | *wɨ*    |                  |
+| 1+2              | *kɨ+mə* | *kɨ(+mə)+n+jamo* |
+| 1+3              | *anja*  |                  |
+| 2                | *əmə*   | *əmə+n+jamo*     |
+| 3ANIM            | *nərə*  | *n+amo+ro*       |
+| 3INAN            | *irə*   |                  |
 
 **Karijona**
-| Person   | SG                  | PL            |
-|:---------|:--------------------|:--------------|
-| 1        | *əwɨ*               |               |
-| 1+2      | *kɨ+mə+rə*          | *kɨ+ɲ+amo+ro* |
-| 1+3      | *aɲa*               |               |
-| 2        | *əmə+rə*            | *aɲ+amo+ro*   |
-| 3        | *nərə/n+amo+ro/irə* |               |
+| Person/Animacy   | SG         | PL            |
+|:-----------------|:-----------|:--------------|
+| 1                | *əwɨ*      |               |
+| 1+2              | *kɨ+mə+rə* | *kɨ+ɲ+amo+ro* |
+| 1+3              | *aɲa*      |               |
+| 2                | *əmə+rə*   | *aɲ+amo+ro*   |
+| 3ANIM            | *nərə*     | *n+amo+ro*    |
+| 3INAN            | *irə*      |               |
 
 **Wayana**
 | Person/Animacy   | SG           | PL                  |
@@ -157,9 +152,8 @@
 | 1+2              | *ku+n+mə*    | *ku+n+mə+r+am+komo* |
 | 1+3              | *emna*       |                     |
 | 2                | *əmə+rə*     | *əmə+r+am+komo*     |
-| 3.INAN           | *irə*        |                     |
-| 3.ANIM           | *inərə(+rə)* |                     |
-| 3.ANIM.PL        | *in+amo+ro*  |                     |
+| 3ANIM            | *inərə(+rə)* | *in+amo+ro*         |
+| 3INAN            | *irə*        |                     |
 
 **Apalaí**
 | Person/Animacy   | SG         | PL              |
@@ -168,31 +162,28 @@
 | 1+2              | *kɨ+mo+ro* | *kɨ+ma+ro+komo* |
 | 1+3              | *ɨna*      |                 |
 | 2                | *omo+ro*   | *ama+ra+komo*   |
-| 3.INAN           | *ɨro*      |                 |
-| 3.ANIM           | *ɨnoro*    |                 |
-| 3.ANIM.PL        | *ɨnaro*    |                 |
+| 3ANIM            | *ɨnoro*    | *ɨnaro*         |
+| 3INAN            | *ɨro*      |                 |
 
 **Kari'ña**
-| Person/Animacy   | SG                   | PL                           |
-|:-----------------|:---------------------|:-----------------------------|
-| 1                | *awu*                |                              |
-| 1+2              | *kɨ+ʔko/kɨ+mo+ro*    | *kɨ+ʔk+a+ro(+n)/kɨ+mo+ja+ro* |
-| 1+3              | *naʔna*              |                              |
-| 2                | *amo+ro*             | *amɨ+ja+ro(+n)*              |
-| 3.INAN           | *iro*                |                              |
-| 3.ANIM           | *inoro/ɲoro*         |                              |
-| 3.ANIM.PL        | *inaro(+n)/ɲoro+kon* |                              |
+| Person/Animacy   | SG                | PL                           |
+|:-----------------|:------------------|:-----------------------------|
+| 1                | *awu*             |                              |
+| 1+2              | *kɨ+ʔko/kɨ+mo+ro* | *kɨ+ʔk+a+ro(+n)/kɨ+mo+ja+ro* |
+| 1+3              | *naʔna*           |                              |
+| 2                | *amo+ro*          | *amɨ+ja+ro(+n)*              |
+| 3ANIM            | *inoro/ɲoro*      | *inaro(+n)/ɲoro+kon*         |
+| 3INAN            | *iro*             |                              |
 
 **Ye'kwana**
-| Person/Animacy   | SG           | PL            |
-|:-----------------|:-------------|:--------------|
-| 1                | *ewɨ*        |               |
-| 1+2              | *kɨ+wɨ*      | *kɨ+n+wan+no* |
-| 1+3              | *nɲa*        |               |
-| 2                | *amə+rə*     | *ən+wan+no*   |
-| 3.INAN           | *ijə*        |               |
-| 3.ANIM           | *ɲəərə*      |               |
-| 3.ANIM.PL        | *(n)+ɲan+no* |               |
+| Person/Animacy   | SG       | PL            |
+|:-----------------|:---------|:--------------|
+| 1                | *ewɨ*    |               |
+| 1+2              | *kɨ+wɨ*  | *kɨ+n+wan+no* |
+| 1+3              | *nɲa*    |               |
+| 2                | *amə+rə* | *ən+wan+no*   |
+| 3ANIM            | *ɲəərə*  | *(n)+ɲan+no*  |
+| 3INAN            | *ijə*    |               |
 
 **Proto-Pemong-Panare**
 | Person   | SG           | PL         |
@@ -292,23 +283,22 @@
 | 2        | *mə+rə*     | *mo+kon+tomo* |
 
 **Upper Xingu Carib**
-| Person/Animacy   | SG          | PL           |
-|:-----------------|:------------|:-------------|
-| 1                | *u+ɣe*      |              |
-| 1+2              | *kuku+ɣe*   | *kuku+ɣe+ko* |
-| 1+3              | *tis+u+ɣe*  |              |
-| 2                | *ee+ɣe*     | *am+a+ɣo*    |
-| 3.INAN           | *ile/ɨle*   |              |
-| 3.ANIM           | *ɨŋele*     |              |
-| 3.ANIM.PL        | *(ɨ)n+a+ɣo* |              |
+| Person/Animacy   | SG         | PL           |
+|:-----------------|:-----------|:-------------|
+| 1                | *u+ɣe*     |              |
+| 1+2              | *kuku+ɣe*  | *kuku+ɣe+ko* |
+| 1+3              | *tis+u+ɣe* |              |
+| 2                | *ee+ɣe*    | *am+a+ɣo*    |
+| 3ANIM            | *ɨŋele*    | *(ɨ)n+a+ɣo*  |
+| 3INAN            | *ile/ɨle*  |              |
 
 **Yukpa**
-| Person   | SG         | PL                |
-|:---------|:-----------|:------------------|
-| 1        | *awɨ(+r)*  |                   |
-| 1+2      | *epɨ*      |                   |
-| 1+3      | *nana(+r)* |                   |
-| 2        | *amo(+r)*  | *amo+r+a/amo+r+a* |
+| Person   | SG         | PL        |
+|:---------|:-----------|:----------|
+| 1        | *awɨ(+r)*  |           |
+| 1+2      | *epɨ*      |           |
+| 1+3      | *nana(+r)* |           |
+| 2        | *amo(+r)*  | *amo+r+a* |
 
 **Waimiri-Atroari**
 | Person/Animacy   | SG       | PL          |
@@ -317,5 +307,5 @@
 | 1+2              | *kɨkɨ*   |             |
 | 1+3              | *aʔa*    |             |
 | 2                | *amɨ+rɨ* | *amɨ+rɨ+tɨ* |
-| 3.INAN           | *irɨ*    |             |
+| 3INAN            | *irɨ*    |             |
 

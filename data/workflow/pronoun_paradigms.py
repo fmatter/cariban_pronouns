@@ -119,6 +119,7 @@ for lg in sorted([
     pronouns3 = temp[temp["Cognateset_ID"].isin(pronoun_strings3)]
 
     if len(pronouns3) > 0:
+        pyd.separators = ["."]
         pronouns3["Parsed"] = pronouns3["Cognateset_ID"].apply(
             lambda x: pyd.get_parameter_values(x, parlist)
         )
@@ -132,7 +133,7 @@ for lg in sorted([
     # individual paradigms
     # pyd.content_string = "Cognates"
     pyd.y = ["Person", "Animacy"]
-    if lg in (["PC", "PPek", "car", "aku", "ing", "aka", "ara", "PMan", "PTir", "yab", "PPP", "map", "pno", "pem", "mac", "tam", "PPem", "pan", "yuk", "ikp", "PXin"]):
+    if lg in (["PC", "PPek", "ing", "aka", "ara", "PMan", "PTir", "yab", "PPP", "map", "pno", "pem", "mac", "tam", "PPem", "pan", "yuk", "ikp", "PXin"]):
         pyd.y = ["Person"]
     pyd.y_sort = ["1", "1+2", "1+3", "2", "3ANIM", "3INAN"]
     pyd.x = ["Number"]
