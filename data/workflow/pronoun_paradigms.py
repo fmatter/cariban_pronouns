@@ -170,6 +170,7 @@ for lg in sorted([
     df = pyd.compose_paradigm(dems)
     df = df.applymap(lambda x: f"*{x}*")
     df.replace({"**":""}, inplace=True)
+    df.index.name = ""
     readme_overview += df.to_markdown() + "\n\n"
 
     all_pronouns = all_pronouns.append(pronouns)
