@@ -171,8 +171,9 @@ pyd.y_sort = list(crh.lg_order().keys())
 # pyd.content_string = "Cognates"
 # pyd.content_string = "Proto_Form"
 pyd.filters = {
-"Cognateset_ID": pronoun_strings,
-"Language_ID": crh.top_languages
+"Cognateset_ID": ["PROX.ANIM.PL", "MED.ANIM.PL", "DIST.ANIM.PL"],
+# "Language_ID": ["mac","PPem", "pem", "ing", ]
+# "Language_ID": crh.top_languages
 }
 df = pyd.compose_paradigm(all_pronouns)
 print(df)
@@ -212,27 +213,27 @@ print(df)
 #     out["fill"] = out["value"].map(coldic)
 #     out.to_file(f"etc/{feature}_data.json",driver="GeoJSON")
 
-# maps = []
-# def export4map(df, feature, col, param=None):
-#     if param:
-#         df = df[df["Cognateset_ID"] == param]
-#     df = df[df["Language_ID"].str[0] != "P"]
-#     df["Language_ID"] = df["Language_ID"].apply(crh.dedialectify)
-#     df = df.rename(columns={"Language_ID": "ID", col: "value"})
-#     out = df[["ID", "value"]]
-#     out.drop_duplicates(subset=["ID", "value"], inplace=True)
-#     out = (
-#         out.groupby(["ID"])["value"]
-#         .apply(lambda x: ", ".join(x.astype(str)))
-#         .reset_index()
-#     )
-#     export_geojson(out, feature)
-#     out.set_index("ID", inplace=True)
-#     out.to_csv(
-#         f"/home/florianm/Dropbox/Uni/Research/LiMiTS/tools/cariban_maps/phylo_map/data/{feature}_data.csv",
-#         index=True,
-#     )
-#     maps.append(feature)
+maps = []
+def export4map(df, feature, col, param=None):
+    if param:
+        df = df[df["Cognateset_ID"] == param]
+    df = df[df["Language_ID"].str[0] != "P"]
+    df["Language_ID"] = df["Language_ID"].apply(crh.dedialectify)
+    df = df.rename(columns={"Language_ID": "ID", col: "value"})
+    out = df[["ID", "value"]]
+    out.drop_duplicates(subset=["ID", "value"], inplace=True)
+    out = (
+        out.groupby(["ID"])["value"]
+        .apply(lambda x: ", ".join(x.astype(str)))
+        .reset_index()
+    )
+    # export_geojson(out, feature)
+    out.set_index("ID", inplace=True)
+    out.to_csv(
+        f"/home/florianm/Dropbox/Uni/Research/LiMiTS/tools/cariban_maps/phylo_map/data/{feature}_data.csv",
+        index=True,
+    )
+    maps.append(feature)
 
 
 # export4map(all_pronouns, "2proto", "Proto_Form", param="2")
@@ -247,10 +248,19 @@ print(df)
 # pl2["Plural"] = pl2["pl"].str.join("+").apply(lambda x: get_proto_form(x, prefix="-"))
 # export4map(pl2, "2plproto", "Plural", param="2PL")
 
-# first = all_pronouns[all_pronouns["Cognateset_ID"] == "1"]
-# first["EMP"] = first["Cognates"].apply(lambda x: "*əwɨ+rə" if "EMP" in x else "*əwɨ")
-# export4map(first, "1emp", "EMP")
+first = all_pronouns[all_pronouns["Cognateset_ID"] == "1"]
+first["EMP"] = first["Cognates"].apply(lambda x: "*əwɨ+rə" if "EMP" in x else "*əwɨ")
 
+def first_form(str):
+    for s in ["ju", "u"]:
+        if str.startswith(s):
+            return s
+    else:
+        return "əwɨ"
+
+first["ju"] = first["Form"].apply(lambda x: first_form(x))
+export4map(first, "1emp", "EMP")
+export4map(first.sort_values(by="ju"), "1form", "ju")
 
 # def incl_formative(cogs):
 #     out = []
@@ -278,6 +288,6 @@ print(df)
 # export4map(incl, "1+2", "form")
 
 
-# f = open(f"/home/florianm/Dropbox/Uni/Research/LiMiTS/tools/cariban_maps/phylo_map/pronoun_maps.txt", "w")
-# f.write("\n".join(maps)+"\n")
-# f.close()
+f = open(f"/home/florianm/Dropbox/Uni/Research/LiMiTS/tools/cariban_maps/phylo_map/pronoun_maps.txt", "w")
+f.write("\n".join(maps)+"\n")
+f.close()

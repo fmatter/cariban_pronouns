@@ -27,3 +27,7 @@
 "INVIS.ANIM.PL","Third person animate invisible plural demonstrative",
 "3ANA.PL","Third person anaphoric plural pronoun",
 "3ANA","Third person anaphoric pronoun",
+"DIST","Distal demonstrative",
+"DIST.PL","Distal plural demonstrative",
+"PROX.PL","Proximal plural demonstrative",
+"PROX","Proximal demonstrative",

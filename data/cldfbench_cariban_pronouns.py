@@ -26,8 +26,8 @@ class Dataset(BaseDataset):
         pass
 
     def cmd_makecldf(self, args):
-        print(dir(self.metadata))
-        print(self.metadata)
+
+        edictor_output = pd.DataFrame()
         args.writer.cldf.add_component("CognateTable")
         args.writer.cldf.add_component("CognatesetTable")
         args.writer.cldf.add_component("LanguageTable")
@@ -87,6 +87,12 @@ class Dataset(BaseDataset):
         forms = pd.read_csv("raw/forms.csv", keep_default_na=False)
         forms = forms[forms["Cognates"] != ""]
         cogsets = pd.read_csv("raw/cognatesets.csv", keep_default_na=False)
+        cogsets.index = cogsets.index + 1
+        cognum = dict(zip(cogsets["ID"], cogsets.index.astype(str)))
+        
+        def str2numcog(cogsets):
+            return " ".join([cognum[x] for x in cogsets.split("+")])
+
         def check_cognates(row):
             if row["Cognates"].count("+") != row["Form"].count("+"):
                 print(row)
@@ -111,7 +117,7 @@ class Dataset(BaseDataset):
             cog_df["Segments"] = cog_df["Form"].apply(segmentify)
             cog_df = cog_df[cog_df["Segments"] != ""]
             seglist = lingpy.align.multiple.Multiple(list(cog_df["Segments"]))
-            seglist.align(method="library", model="asjp")
+            seglist.align(method="progressive")
             cog_df["Alignment"] = seglist.alm_matrix
             cog_df["Alignment"] = cog_df["Alignment"].apply(lambda x: " ".join(x))
             for j, row_i in cog_df.iterrows():
@@ -130,8 +136,10 @@ class Dataset(BaseDataset):
                     "Contribution_ID": "pronouns",
                 }
             )
+            edictor_alignment = []
             for segment_slice, cog_id in enumerate(row["Cognates"].split("+")):
                 if cog_id == "?":
+                    edictor_alignment.append("-")
                     continue
                 align_key = f"{i}-{segment_slice+1}"
                 if align_key not in alignments:
@@ -148,6 +156,17 @@ class Dataset(BaseDataset):
                         "Contribution_ID": "pronouns",
                     }
                 )
+                edictor_alignment.append(" ".join(alignment))
+            for par in row["Parameter_ID"].split("; "):
+                edictor_output = edictor_output.append(                {
+                        "DOCULECT": row["Language_ID"],
+                        "CONCEPT": slug(par),
+                        "CONCEPTID": slug(par),
+                        "IPA": row["Form"].replace("+", ""),
+                        "SEGMENTS": segmentify(row["Form"]),
+                        "COGIDS": str2numcog(row["Cognates"]),
+                        "ALIGNMENT": " + ".join(edictor_alignment)
+                    }, ignore_index=True)
             lg_ids.append(row["Language_ID"])
             for source in row["Source"].split(";"):
                 found_sources.append(source.split("[")[0])
@@ -181,3 +200,5 @@ class Dataset(BaseDataset):
         sources = self.etc_dir.read_bib("cariban_references_out.bib")
         sources = [x for x in sources if x.id in found_sources]
         args.writer.cldf.add_sources(*sources)
+        edictor_output.index.name="ID"
+        edictor_output.to_csv("etc/pronouns_edictor.tsv", sep="\t")

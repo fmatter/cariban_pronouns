@@ -12,14 +12,7 @@
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:source": "sources.bib",
     "dc:title": "An etymologically annotated list of pronouns and third person deictics in Cariban languages.",
-    "dcat:accessURL": "git@github.com:fmatter/cariban_pronouns",
     "prov:wasDerivedFrom": [
-        {
-            "rdf:about": "git@github.com:fmatter/cariban_pronouns",
-            "rdf:type": "prov:Entity",
-            "dc:created": "64bb2ec",
-            "dc:title": "Repository"
-        },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
@@ -45,7 +38,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 458,
+            "dc:extent": 488,
             "tableSchema": {
                 "columns": [
                     {
@@ -150,7 +143,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 809,
+            "dc:extent": 864,
             "tableSchema": {
                 "columns": [
                     {
@@ -362,7 +355,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 28,
+            "dc:extent": 32,
             "tableSchema": {
                 "columns": [
                     {
