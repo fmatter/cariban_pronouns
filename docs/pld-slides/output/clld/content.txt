@@ -8,7 +8,7 @@
 
 ## First person
 
-[Form pc-16](FormTable?#cldf:pc-16)
 
+[Cognate set 1abs](CognatesetTable?#cldf:1abs)
 
 

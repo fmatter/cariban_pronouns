@@ -89,6 +89,26 @@ class Dataset(BaseDataset):
         forms["Segments"] = forms["Form"].apply(segmentify)
 
         alignments = {}
+
+        # print(set(list(forms["Cognateset_ID"])))
+
+        cog_df = forms[((forms["Cognateset_ID"] == "1") & ~(forms["Language_ID"].str.contains("P")))]
+        cog_df.reset_index(inplace=True)
+        print(cog_df)
+        seglist = lingpy.align.multiple.Multiple(list(cog_df["Segments"]))
+        seglist.align(method="progressive")
+        cog_df["Alignment"] = seglist.alm_matrix
+        # cog_df["Alignment"] = cog_df["Alignment"].apply(lambda x: " ".join(x))
+        for rec in cog_df.to_dict("records"):
+            args.writer.objects["CognateTable"].append(
+                {
+                    "ID": f"""{rec["ID"]}-1""",
+                    "Form_ID": rec["ID"],
+                    "Cognateset_ID": "1abs",
+                    "Alignment": rec["Alignment"],
+                }
+            )
+
         for i, row in cogsets.iterrows():
             if row["ID"] == "?":
                 continue
@@ -99,11 +119,11 @@ class Dataset(BaseDataset):
                     "Description": row["Description"],
                 }
             )
+            if "abs" in row["ID"]:
+                continue
             cog_df = cldfh.get_cognates(forms, row["ID"], form_col="Segments")
             cog_df["Segments"] = cog_df["Form"].str.strip(" ")
             cog_df = cog_df[cog_df["Segments"] != ""]
-            # # print(row["ID"])
-            # # print(list(cog_df["Segments"]))
             seglist = lingpy.align.multiple.Multiple(list(cog_df["Segments"]))
             seglist.align(method="progressive")
             cog_df["Alignment"] = seglist.alm_matrix
@@ -142,7 +162,6 @@ class Dataset(BaseDataset):
                         "Cognateset_ID": slug(cog_id),
                         "Segment_Slice": str(segment_slice + 1),
                         "Alignment": alignment,
-                        # "Contribution_ID": "pronouns",
                     }
                 )
                 edictor_alignment.append(" ".join(alignment))
@@ -173,24 +192,13 @@ class Dataset(BaseDataset):
                         "Glottocode": crh.get_glottocode(lg),
                     }
                 )
-        print(alignments)
-        # languages = pd.read_csv("raw/languages.csv")
-        # for i, row in languages.iterrows():
-        #     if row["ID"] in lg_ids:
-        #         args.writer.objects["LanguageTable"].append(
-        #             {
-        #                 "ID": row["ID"],
-        #                 "Name": row["Orthographic"],
-        #                 "Glottocode": row["Glottocode"],
-        #             }
-        #         )
 
         meanings = pd.read_csv("raw/meanings.csv", keep_default_na=False)
         meanings["ID"] = meanings["ID"].apply(slug)
         for i, row in meanings.iterrows():
             args.writer.objects["ParameterTable"].append(row.to_dict())
 
-        sources = self.etc_dir.read_bib("cariban_references_out.bib")
+        sources = self.etc_dir.read_bib("etc/cariban_references_out.bib")
         sources = [x for x in sources if x.id in contained_sources]
         args.writer.cldf.add_sources(*sources)
         edictor_output.index.name = "ID"

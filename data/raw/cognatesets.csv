@@ -1,29 +1,30 @@
-"ID","Form","Description"
-"1","əwɨ","First person"
-"EMP","rə","Emphatic particle"
-"?",,"Unknown material"
-"2","əmə","Second person"
-"1a3","apina","First person exclusive"
-"ti","ti","Formative"
-"1a2","kɨ","First person inclusive"
-"PL-1","komo","Plural marker"
-"uku","uku","First person inclusive"
-"PL-2","jamo","Plural marker"
-"toto","toto","3PL"
-"a.anim","inərə","Third person anaphoric"
-"a.inan","irə","Third person anaphoric, inanimate"
-"d.inan","mənɨ","Inanimate distal demonstrative"
-"p.anim","mətjə","Animate proximal demonstrative"
-"d.anim","məkɨ","Animate distal demonstrative"
-"m.inan","mərə","Inanimate medial demonstrative"
-"p.inan-1","(tj)ərə","Inanimate proximal demonstrative 1"
-"p.inan-2","(tj)ənɨ","Inanimate proximal demonstrative 2"
-"PL-4","ʔne","Plural marker"
-"PL-3","tomo","Plural marker"
-"wform","wɨ","Formative"
-"hform","hɨ","Formative"
-"mform","mə","Formative"
-"1a2ep","epɨnə","Tentative, maybe multimorphemic, maybe related to *apina"
-"xinsg","n","Possibly a reflex of EMP?"
-"pempl","ʔno","Combined with reflex of *komo"
-"karform","ʔko","Formative"
+ID,Form,Description
+1,əwɨ,First person
+EMP,rə,Emphatic particle
+?,,Unknown material
+2,əmə,Second person
+1a3,apina,First person exclusive
+ti,ti,Formative
+1a2,kɨ,First person inclusive
+PL-1,komo,Plural marker
+uku,uku,First person inclusive
+PL-2,jamo,Plural marker
+toto,toto,3PL
+a.anim,inərə,Third person anaphoric
+a.inan,irə,"Third person anaphoric, inanimate"
+d.inan,mənɨ,Inanimate distal demonstrative
+p.anim,mətjə,Animate proximal demonstrative
+d.anim,məkɨ,Animate distal demonstrative
+m.inan,mərə,Inanimate medial demonstrative
+p.inan-1,(tj)ərə,Inanimate proximal demonstrative 1
+p.inan-2,(tj)ənɨ,Inanimate proximal demonstrative 2
+PL-4,ʔne,Plural marker
+PL-3,tomo,Plural marker
+wform,wɨ,Formative
+hform,hɨ,Formative
+mform,mə,Formative
+1a2ep,epɨnə,"Tentative, maybe multimorphemic, maybe related to *apina"
+xinsg,n,Possibly a reflex of EMP?
+pempl,ʔno,Combined with reflex of *komo
+karform,ʔko,Formative
+1abs,-,First person
