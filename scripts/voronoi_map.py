@@ -14,7 +14,9 @@ area.crs = "EPSG:4326"
 area = area.to_crs(epsg=3395)  # convert to World Mercator CRS
 area_shape = area.iloc[0].geometry  # get the Polygon
 
-lg_df = pd.read_csv("/home/florianm/Dropbox/Uni/Research/LiMiTS/tools/cariban_meta/cldf/languages.csv")
+lg_df = pd.read_csv(
+    "/home/florianm/Dropbox/Uni/Research/LiMiTS/tools/cariban_meta/cldf/languages.csv"
+)
 lg_df = lg_df[~(pd.isnull(lg_df["Longitude"]))]
 lg_df = lg_df[lg_df["Alive"] == True]
 lg_df = lg_df[pd.isnull(lg_df["Dialect_Of"])]
@@ -24,7 +26,7 @@ lg_df.reset_index(inplace=True)
 gdf = gpd.GeoDataFrame(lg_df)
 gdf.geometry = gdf.apply(lambda x: Point(x["Longitude"], x["Latitude"]), axis=1)
 gdf.crs = "EPSG:4326"
-gdf = gdf[["ID","geometry"]]
+gdf = gdf[["ID", "geometry"]]
 gdf = gdf.to_crs(area.crs)
 coords = points_to_coords(gdf.geometry)
 

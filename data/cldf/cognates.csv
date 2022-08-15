@@ -1,951 +1,965 @@
-ID,Form_ID,Cognateset_ID,Segment_Slice,Alignment,Source,Contribution_ID
-0_0,0,1,1,- - u,,pronouns
-0_1,0,emp,2,r ə,,pronouns
-1_0,1,1,1,- w ɨ,,pronouns
-2_0,2,1,1,ɨ w ɨ,,pronouns
-3_0,3,1,1,- - u,,pronouns
-3_1,3,emp,2,r o,,pronouns
-4_0,4,1,1,- - u,,pronouns
-4_1,4,emp,2,r ə,,pronouns
-5_0,5,1,1,ə w ɨ,,pronouns
-6_0,6,1,1,- - u,,pronouns
-6_1,6,emp,2,r o,,pronouns
-7_0,7,1,1,- - u,,pronouns
-7_1,7,emp,2,r o,,pronouns
-8_0,8,1,1,- - u,,pronouns
-8_1,8,emp,2,r ə,,pronouns
-9_0,9,1,1,a w u,,pronouns
-10_0,10,1,1,o w ɨ,,pronouns
-11_0,11,1,1,- - uu,,pronouns
-11_1,11,emp,2,r ɨ,,pronouns
-12_0,12,1,1,e w ɨ,,pronouns
-13_0,13,1,1,- w ɨ,,pronouns
-13_1,13,hform,2,h ɨ,,pronouns
-14_0,14,1,1,- - u,,pronouns
-14_1,14,hform,2,h ɨ,,pronouns
-15_0,15,1,1,- j u,,pronouns
-16_0,16,1,1,ə w ɨ,,pronouns
-16_1,16,emp,2,r ə,,pronouns
-17_0,17,1,1,- j uu,,pronouns
-17_1,17,emp,2,r ə,,pronouns
-18_0,18,1,1,- w ɨ,,pronouns
-18_1,18,emp,2,r ə,,pronouns
-19_0,19,1,1,- w ɨ,,pronouns
-19_1,19,hform,2,h ɨ,,pronouns
-20_0,20,1,1,- - u,,pronouns
-20_1,20,emp,2,r ə,,pronouns
-21_0,21,1,1,- w ɨ,,pronouns
-21_1,21,hform,2,h -,,pronouns
-22_0,22,1,1,o w ɨ,,pronouns
-22_1,22,emp,2,r o,,pronouns
-23_0,23,1,1,- - u,,pronouns
-23_1,23,emp,2,r ə,,pronouns
-24_0,24,1,1,- j u,,pronouns
-24_1,24,emp,2,r ə,,pronouns
-25_0,25,1,1,- j u,,pronouns
-25_1,25,emp,2,r ə,,pronouns
-26_0,26,1,1,ə w ɨ,,pronouns
-27_0,27,1,1,- w ɨ,,pronouns
-28_0,28,1,1,o w ɨ,,pronouns
-28_1,28,emp,2,r o,,pronouns
-29_0,29,1,1,- - u,,pronouns
-29_1,29,emp,2,r o,,pronouns
-30_0,30,1,1,- - u,,pronouns
-30_1,30,emp,2,r e,,pronouns
-31_0,31,1,1,- w ɨɨ,,pronouns
-32_0,32,1,1,- - u,,pronouns
-32_1,32,emp,2,ɣ e,,pronouns
-33_0,33,1,1,o w ɨ,,pronouns
-34_0,34,1,1,ɨ w u,,pronouns
-35_0,35,1,1,a w ɨ,,pronouns
-36_0,36,1,1,- w ɨ,,pronouns
-36_1,36,emp,2,r ə,,pronouns
-37_0,37,1,1,a w ɨ,,pronouns
-37_1,37,emp,2,r -,,pronouns
-38_0,38,2,1,- a m ə,,pronouns
-38_1,38,emp,2,r ə,,pronouns
-39_0,39,2,1,- ə m ə,,pronouns
-40_0,40,2,1,- o m o,,pronouns
-40_1,40,emp,2,r o,,pronouns
-41_0,41,2,1,- o m o,,pronouns
-41_1,41,emp,2,r o,,pronouns
-42_0,42,2,1,- ə m ə,,pronouns
-43_0,43,2,1,- ə m ə,,pronouns
-43_1,43,emp,2,r ə,,pronouns
-44_0,44,2,1,- o m o,,pronouns
-44_1,44,emp,2,r o,,pronouns
-45_0,45,2,1,- o m -,,pronouns
-45_1,45,emp,2,r o,,pronouns
-46_0,46,2,1,- a m ə,,pronouns
-46_1,46,emp,2,r ə,,pronouns
-47_0,47,2,1,- a m o,,pronouns
-47_1,47,emp,2,r o,,pronouns
-48_0,48,2,1,- o m o,,pronouns
-48_1,48,emp,2,r o,,pronouns
-49_0,49,2,1,- a m ɨ,,pronouns
-49_1,49,emp,2,r ɨ,,pronouns
-50_0,50,2,1,- a m ə,,pronouns
-50_1,50,emp,2,r ə,,pronouns
-51_0,51,2,1,m ə - -,,pronouns
-51_1,51,emp,2,r ə,,pronouns
-52_0,52,2,1,- a m ə,,pronouns
-52_1,52,emp,2,n -,,pronouns
-53_0,53,2,1,- ə m ə,,pronouns
-53_1,53,emp,2,r ə,,pronouns
-54_0,54,2,1,- a m ə,,pronouns
-54_1,54,emp,2,r ə,,pronouns
-55_0,55,2,1,m ə - -,,pronouns
-55_1,55,emp,2,r ə,,pronouns
-56_0,56,2,1,m ə - -,,pronouns
-56_1,56,emp,2,r ə,,pronouns
-57_0,57,2,1,- o m o,,pronouns
-57_1,57,emp,2,r o,,pronouns
-58_0,58,2,1,- ə m ə,,pronouns
-58_1,58,emp,2,r ə,,pronouns
-59_0,59,2,1,- a m ə,,pronouns
-59_1,59,emp,2,r ə,,pronouns
-60_0,60,2,1,- a m ə,,pronouns
-60_1,60,emp,2,r ə,,pronouns
-61_0,61,2,1,- ə m ə,,pronouns
-61_1,61,emp,2,r ə,,pronouns
-62_0,62,2,1,- ə m ə,,pronouns
-63_0,63,2,1,- ə m ə,,pronouns
-64_0,64,2,1,- o m o,,pronouns
-64_1,64,emp,2,r o,,pronouns
-65_0,65,2,1,- o m o,,pronouns
-65_1,65,emp,2,r o,,pronouns
-66_0,66,2,1,- a m a,,pronouns
-66_1,66,emp,2,r e,,pronouns
-67_0,67,2,1,- ə m ə,,pronouns
-68_0,68,2,1,- ee - -,,pronouns
-68_1,68,emp,2,ɣ e,,pronouns
-69_0,69,2,1,- a m o,,pronouns
-69_1,69,emp,2,r o,,pronouns
-70_0,70,2,1,- ə m ə,,pronouns
-70_1,70,emp,2,r ə,,pronouns
-71_0,71,2,1,- a m ɨ,,pronouns
-71_1,71,emp,2,r ɨ,,pronouns
-72_0,72,2,1,m ə - -,,pronouns
-72_1,72,emp,2,r ə,,pronouns
-73_0,73,2,1,- a m o,,pronouns
-73_1,73,emp,2,r -,,pronouns
-74_0,74,1a2,1,k ɨ,,pronouns
-74_1,74,mform,2,m ə,,pronouns
-75_0,75,1a2,1,k ɨ,,pronouns
-75_1,75,mform,2,m o,,pronouns
-75_2,75,emp,3,r o,,pronouns
-76_0,76,uku,1,- u g o,,pronouns
-76_1,76,emp,2,r o,,pronouns
-77_0,77,1a2,1,k ɨ,,pronouns
-77_1,77,mform,2,m ə,,pronouns
-77_2,77,emp,3,r ə,,pronouns
-78_0,78,1a2,1,k ɨ,,pronouns
-78_1,78,wform,2,w -,,pronouns
-78_2,78,emp,3,r o,,pronouns
-79_0,79,uku,1,- u g -,,pronouns
-79_1,79,emp,2,r o,,pronouns
-80_0,80,1a2,1,k ɨ,,pronouns
-80_1,80,karform,2,ʔ k o,,pronouns
-81_0,81,1a2,1,k ɨ,,pronouns
-81_1,81,mform,2,m o,,pronouns
-81_2,81,emp,3,r o,,pronouns
-82_0,82,1a2,1,k u,,pronouns
-82_1,82,mform,2,m o,,pronouns
-82_2,82,emp,3,r o,,pronouns
-83_0,83,1,1,- - uu,,pronouns
-83_1,83,emp,2,r ɨ,,pronouns
-83_2,83,pl3,3,- - ʔ -,,pronouns
-83_3,83,pl1,4,k o n -,,pronouns
-84_0,84,1a2,1,k ɨ,,pronouns
-84_1,84,wform,2,w ɨ,,pronouns
-85_0,85,1a2ep,1,e ʔ - n ə,,pronouns
-86_0,86,1,1,- j u,,pronouns
-86_1,86,pl3,2,t o - -,,pronouns
-87_0,87,1,1,- j uu,,pronouns
-87_1,87,emp,2,r ə,,pronouns
-87_2,87,pl3,3,t o - -,,pronouns
-88_0,88,1a2ep,1,e p ɨ n ə,,pronouns
-89_0,89,1a2ep,1,e ʔ - n ə,,pronouns
-90_0,90,1a2,1,k ɨ,,pronouns
-90_2,90,emp,3,r o,,pronouns
-91_0,91,uku,1,- u k u,,pronouns
-91_1,91,emp,2,r ə,,pronouns
-92_0,92,1,1,- j u,,pronouns
-92_1,92,emp,2,r ə,,pronouns
-92_2,92,pl3,3,t o - -,,pronouns
-92_3,92,pl1,4,k o n -,,pronouns
-93_0,93,1,1,- j u,,pronouns
-93_1,93,emp,2,r ə,,pronouns
-93_2,93,pl3,3,t o - -,,pronouns
-94_0,94,1a2,1,k ɨ,,pronouns
-94_1,94,mform,2,m ə,,pronouns
-94_2,94,emp,3,r ə,,pronouns
-95_0,95,1a2,1,k ɨ,,pronouns
-95_1,95,mform,2,m ə,,pronouns
-96_0,96,1a2,1,k ɨ,,pronouns
-96_1,96,wform,2,w ɨ,,pronouns
-96_2,96,emp,3,r o,,pronouns
-97_0,97,uku,1,- u g o,,pronouns
-97_1,97,emp,2,r o,,pronouns
-98_0,98,1a2,1,k i,,pronouns
-98_1,98,wform,2,w e,,pronouns
-99_0,99,1a2,1,k ɨ,,pronouns
-99_1,99,mform,2,m ə,,pronouns
-100_0,100,uku,1,k u k u,,pronouns
-100_1,100,emp,2,ɣ e,,pronouns
-101_0,101,1a2,1,k ɨɨ,,pronouns
-101_1,101,wform,2,w ɨ,,pronouns
-102_0,102,1a2,1,k u,,pronouns
-102_2,102,mform,3,m ə,,pronouns
-103_0,103,uku,1,k ɨ k ɨ,,pronouns
-104_0,104,1a2ep,1,e h - n ə,,pronouns
-105_0,105,1a2ep,1,e p - - ɨ,,pronouns
-106_0,106,uku,1,k u - -,,pronouns
-106_1,106,emp,2,r ə,,pronouns
-107_0,107,1,1,- - u,,pronouns
-107_1,107,emp,2,r ə,,pronouns
-107_2,107,pempl,3,ʔ n o,,pronouns
-107_3,107,pl1,4,k o n -,,pronouns
-108_0,108,1a2,1,k ɨ,,pronouns
-108_1,108,mform,2,m ə,,pronouns
-108_2,108,mform,3,n -,,pronouns
-108_3,108,pl2,4,j a - m o,,pronouns
-109_0,109,1a2,1,k ɨ,,pronouns
-109_1,109,mform,2,m a,,pronouns
-109_2,109,emp,3,r o,,pronouns
-109_3,109,pl1,4,k o m o,,pronouns
-110_0,110,uku,1,- u g o,,pronouns
-110_1,110,emp,2,r o,,pronouns
-110_2,110,pl1,3,ŋ - m o,,pronouns
-111_0,111,1a2,1,k ɨ,,pronouns
-111_1,111,mform,2,ɲ -,,pronouns
-111_2,111,pl2,3,- a - m o,,pronouns
-111_3,111,emp,4,r o,,pronouns
-112_0,112,1a2,1,k ɨ,,pronouns
-112_1,112,wform,2,w -,,pronouns
-112_2,112,pl2,3,j a - m o,,pronouns
-113_0,113,uku,1,- u g -,,pronouns
-113_1,113,emp,2,r o,,pronouns
-113_2,113,pl1,3,ŋ - m o,,pronouns
-114_0,114,1,1,- - u,,pronouns
-114_1,114,emp,2,r ə,,pronouns
-114_2,114,pempl,3,ʔ n o,,pronouns
-114_3,114,pl1,4,k o n -,,pronouns
-115_0,115,1a2,1,k ɨ,,pronouns
-115_1,115,karform,2,ʔ k -,,pronouns
-115_2,115,pl2,3,- a - - -,,pronouns
-115_3,115,emp,4,r o,,pronouns
-116_0,116,1a2,1,k ɨ,,pronouns
-116_1,116,mform,2,m o,,pronouns
-116_2,116,pl2,3,j a - - -,,pronouns
-116_3,116,emp,4,r o,,pronouns
-117_0,117,1a2,1,k ɨ,,pronouns
-117_1,117,mform,2,m -,,pronouns
-117_2,117,pl2,3,j a - - -,,pronouns
-117_3,117,emp,4,r ɨ,,pronouns
-118_0,118,1,1,- - uu,,pronouns
-118_1,118,emp,2,r ɨ,,pronouns
-118_2,118,pempl,3,ʔ n ɨ,,pronouns
-118_3,118,pl1,4,k o n -,,pronouns
-119_0,119,1a2,1,k ɨ,,pronouns
-119_1,119,mform,2,n -,,pronouns
-119_2,119,pl2,3,w a - n -,,pronouns
-119_3,119,emp,4,n o,,pronouns
-120_0,120,1,1,- j u,,pronouns
-120_2,120,pl1,3,k o n -,,pronouns
-121_0,121,1,1,- j uu,,pronouns
-121_1,121,emp,2,r ə,,pronouns
-121_2,121,pempl,3,- n o,,pronouns
-121_3,121,pl1,4,k o n -,,pronouns
-122_0,122,1,1,- j uu,,pronouns
-122_1,122,emp,2,r ə,,pronouns
-122_2,122,pl3,3,t o - -,,pronouns
-122_3,122,pl1,4,k o n -,,pronouns
-123_0,123,1a2,1,k ɨ,,pronouns
-123_2,123,pl2,3,j a - m o,,pronouns
-123_3,123,emp,4,r o,,pronouns
-124_0,124,1,1,- j u,,pronouns
-124_1,124,emp,2,r ə,,pronouns
-124_2,124,pempl,3,ʔ n o,,pronouns
-124_3,124,pl1,4,k o n -,,pronouns
-125_0,125,1a2,1,k ɨ,,pronouns
-125_1,125,mform,2,n -,,pronouns
-125_2,125,pl2,3,j a - m o,,pronouns
-126_0,126,1a2,1,k ɨ,,pronouns
-126_1,126,mform,2,m ə,,pronouns
-126_2,126,mform,3,n -,,pronouns
-126_3,126,pl2,4,j a - m o,,pronouns
-127_0,127,1a2,1,k ɨ,,pronouns
-127_1,127,wform,2,w -,,pronouns
-127_2,127,pl2,3,j a - m o,,pronouns
-128_0,128,uku,1,- u g o,,pronouns
-128_1,128,emp,2,r o,,pronouns
-128_2,128,pl1,3,ŋ - m o,,pronouns
-129_0,129,1a2,1,k i,,pronouns
-129_1,129,pl1,2,k e m o,,pronouns
-130_0,130,1a2,1,k ɨ,,pronouns
-130_1,130,mform,2,m ə,,pronouns
-130_2,130,mform,3,n -,,pronouns
-130_3,130,pl2,4,j a - m o,,pronouns
-131_0,131,uku,1,k u k u,,pronouns
-131_1,131,emp,2,ɣ e,,pronouns
-131_2,131,pl1,3,k o - -,,pronouns
-132_0,132,1a2,1,k ɨ,,pronouns
-132_1,132,wform,2,w -,,pronouns
-132_2,132,pl2,3,j a - m -,,pronouns
-133_0,133,uku,1,k u - -,,pronouns
-133_2,133,mform,3,m ə,,pronouns
-133_3,133,emp,4,r -,,pronouns
-133_4,133,pl2,5,- a - m -,,pronouns
-133_5,133,pl1,6,k o m o,,pronouns
-134_0,134,1a3,1,i - n - - - a,,pronouns
-135_0,135,1a3,1,a - n - - j a,,pronouns
-136_0,136,1a3,1,ɨ - n - - - a,,pronouns
-137_0,137,ti,1,t͡ʃ i,,pronouns
-137_1,137,1a3,2,- m n - - - a,,pronouns
-138_0,138,ti,1,ʃ i,,pronouns
-138_1,138,1a3,2,- - n - - - a,,pronouns
-139_0,139,1a3,1,a - ɲ - - - a,,pronouns
-140_0,140,1a3,1,a m n - - - a,,pronouns
-141_0,141,ti,1,t͡ʃ i,,pronouns
-141_1,141,1a3,2,- m n - - - a,,pronouns
-142_0,142,1a3,1,i - n - - - a,,pronouns
-143_0,143,1a3,1,- - n a ʔ n a,,pronouns
-144_0,144,1a3,1,a m n - - - a,,pronouns
-145_0,145,1a3,1,a - n - - n a,,pronouns
-146_0,146,1a3,1,- - n - - ɲ a,,pronouns
-147_0,147,1a3,1,- - n a h - a,,pronouns
-148_0,148,1a3,1,a - n - - - a,,pronouns
-149_0,149,1a3,1,i - n - - n a,,pronouns
-150_0,150,1a3,1,a - n - - - a,,pronouns
-151_0,151,1a3,1,a - n - - - a,,pronouns
-152_0,152,1a3,1,a m n - - - a,,pronouns
-153_0,153,ti,1,t͡ʃ i,,pronouns
-153_1,153,1a3,2,- m n - - - a,,pronouns
-154_0,154,1a3,1,i - n - - n a,,pronouns
-155_0,155,1a3,1,i - n - - n a,,pronouns
-156_0,156,1a3,1,a - n - - j a,,pronouns
-157_0,157,1a3,1,a - n - - j a,,pronouns
-158_0,158,1a3,1,a m n - - - a,,pronouns
-159_0,159,ti,1,t͡ʃ i,,pronouns
-159_1,159,1a3,2,- m n - - - a,,pronouns
-160_0,160,1,1,- j u,,pronouns
-160_1,160,1a3,2,- m n - - - a,,pronouns
-161_0,161,1a3,1,a - n - - j a,,pronouns
-162_1,162,1,2,- - u,,pronouns
-162_2,162,emp,3,ɣ e,,pronouns
-163_0,163,1a3,1,a m n - - - a,,pronouns
-164_0,164,1a3,1,e m n - - - a,,pronouns
-165_0,165,1a3,1,- - - a ʔ - a,,pronouns
-166_0,166,1a3,1,a - n - - - a,,pronouns
-167_0,167,1a3,1,- - n a - n a,,pronouns
-167_1,167,emp,2,r -,,pronouns
-168_0,168,2,1,- a m ə,,pronouns
-168_1,168,emp,2,r ə,,pronouns
-168_2,168,pempl,3,ʔ n o,,pronouns
-168_3,168,pl1,4,k o n -,,pronouns
-169_0,169,2,1,- ə m ə,,pronouns
-169_1,169,2,2,- - n -,,pronouns
-169_2,169,pl2,3,j a - m o,,pronouns
-170_0,170,2,1,- a m a,,pronouns
-170_1,170,emp,2,r a,,pronouns
-170_2,170,pl1,3,k o m o,,pronouns
-171_0,171,2,1,- o m o,,pronouns
-171_1,171,emp,2,r o,,pronouns
-171_2,171,pl1,3,ŋ - m o,,pronouns
-172_0,172,2,1,- ə m a,,pronouns
-172_1,172,emp,2,r -,,pronouns
-172_2,172,pl2,3,- e - m o,,pronouns
-173_0,173,2,1,- a ɲ -,,pronouns
-173_1,173,pl2,2,- a - m o,,pronouns
-173_2,173,emp,3,r o,,pronouns
-174_0,174,2,1,- o m -,,pronouns
-174_1,174,pl2,2,ɲ a - m o,,pronouns
-175_0,175,2,1,- o m -,,pronouns
-175_1,175,emp,2,r o,,pronouns
-175_2,175,pl1,3,ŋ - m o,,pronouns
-176_0,176,2,1,- a m ə,,pronouns
-176_1,176,emp,2,r ə,,pronouns
-176_2,176,pempl,3,ʔ n o,,pronouns
-176_3,176,pl1,4,k o n -,,pronouns
-177_0,177,2,1,- a m ɨ,,pronouns
-177_1,177,pl2,2,j a - - -,,pronouns
-177_2,177,emp,3,r o,,pronouns
-178_0,178,2,1,- o m -,,pronouns
-178_1,178,pl2,2,j a - - -,,pronouns
-178_2,178,emp,3,r ɨ,,pronouns
-179_0,179,2,1,- a m ɨ,,pronouns
-179_1,179,emp,2,r ɨ,,pronouns
-179_2,179,pempl,3,ʔ n ɨ,,pronouns
-179_3,179,pl1,4,k o n -,,pronouns
-180_0,180,2,1,- ə n -,,pronouns
-180_1,180,pl2,2,w a - n -,,pronouns
-180_2,180,emp,3,n o,,pronouns
-181_0,181,2,1,- a - -,,pronouns
-181_1,181,pl1,2,k o n -,,pronouns
-181_2,181,pl3,3,t o m o,,pronouns
-182_0,182,2,1,- a m ə,,pronouns
-182_1,182,emp,2,n -,,pronouns
-182_2,182,pl3,3,t o n -,,pronouns
-183_0,183,2,1,- ə m -,,pronouns
-183_1,183,pl2,2,j a - m o,,pronouns
-184_0,184,2,1,- a m ə,,pronouns
-184_1,184,emp,2,r ə,,pronouns
-184_2,184,pempl,3,- n o,,pronouns
-184_3,184,pl1,4,k o n -,,pronouns
-185_0,185,2,1,m ə - -,,pronouns
-185_1,185,pl1,2,k o n -,,pronouns
-185_2,185,pl3,3,t o m o,,pronouns
-186_0,186,2,1,m o - -,,pronouns
-186_1,186,pl1,2,k o n -,,pronouns
-186_2,186,pl3,3,t o m o,,pronouns
-187_0,187,2,1,- o m -,,pronouns
-187_1,187,pl2,2,j a - m o,,pronouns
-187_2,187,emp,3,r o,,pronouns
-188_0,188,2,1,- ə m ə,,pronouns
-188_1,188,emp,2,r ə,,pronouns
-189_0,189,2,1,- a m ə,,pronouns
-189_1,189,emp,2,r ə,,pronouns
-189_2,189,pempl,3,ʔ n o,,pronouns
-189_3,189,pl1,4,k o n -,,pronouns
-190_0,190,2,1,- a m ə,,pronouns
-190_1,190,emp,2,r ə,,pronouns
-191_0,191,2,1,- ə n -,,pronouns
-191_1,191,pl2,2,j a - m o,,pronouns
-192_0,192,2,1,- ə m ə,,pronouns
-192_1,192,2,2,- - n -,,pronouns
-192_2,192,pl2,3,j a - m o,,pronouns
-193_0,193,2,1,- o m -,,pronouns
-193_1,193,pl2,2,j a - m o,,pronouns
-193_2,193,emp,3,r o,,pronouns
-194_0,194,2,1,- o m o,,pronouns
-194_1,194,emp,2,r o,,pronouns
-194_2,194,pl1,3,ŋ - m o,,pronouns
-195_0,195,2,1,- a m -,,pronouns
-195_1,195,pl2,2,ɲ a - m o,,pronouns
-195_2,195,emp,3,r o,,pronouns
-196_0,196,2,1,- ə m ə,,pronouns
-196_1,196,2,2,- - n -,,pronouns
-196_2,196,pl2,3,j a - m o,,pronouns
-197_0,197,2,1,- a m -,,pronouns
-197_1,197,pl2,2,- a - - -,,pronouns
-197_2,197,emp,3,ɣ o,,pronouns
-198_0,198,2,1,- a m -,,pronouns
-198_1,198,pl2,2,j a - m -,,pronouns
-198_2,198,emp,3,r o,,pronouns
-199_0,199,2,1,- ə m ə,,pronouns
-199_1,199,emp,2,r -,,pronouns
-199_2,199,pl2,3,- a - m -,,pronouns
-199_3,199,pl1,4,k o m o,,pronouns
-200_0,200,2,1,- a m ɨ,,pronouns
-200_1,200,emp,2,r ɨ,,pronouns
-200_2,200,pl3,3,t ɨ - -,,pronouns
-201_0,201,2,1,m o - -,,pronouns
-201_1,201,pl1,2,n - - -,,pronouns
-201_2,201,pl3,3,t o m o,,pronouns
-202_0,202,2,1,- a m o,,pronouns
-202_1,202,emp,2,r -,,pronouns
-202_2,202,pl2,3,- a - - -,,pronouns
-203_0,203,aanim,1,- n ə r ə,,pronouns
-204_0,204,aanim,1,ɨ n o r o,,pronouns
-205_0,205,aanim,1,i n ə r a,,pronouns
-206_0,206,aanim,1,- n ə r ə,,pronouns
-207_0,207,aanim,1,- n o r o,,pronouns
-208_0,208,aanim,1,i n o r o,,pronouns
-209_0,209,aanim,1,- ɲ o r o,,pronouns
-210_0,210,aanim,1,- n o r o,,pronouns
-211_0,211,aanim,1,- ɲ əə r ə,,pronouns
-212_0,212,aanim,1,- n o r o,,pronouns
-213_0,213,aanim,1,- n əə r ə,,pronouns
-214_0,214,aanim,1,- n ə r ə,,pronouns
-215_0,215,aanim,1,- n o r o,,pronouns
-216_0,216,aanim,1,- n a r e,,pronouns
-217_0,217,aanim,1,- n ə r ə,,pronouns
-218_0,218,aanim,1,ɨ ŋ e l e,,pronouns
-219_0,219,aanim,1,- n o r o,,pronouns
-220_0,220,aanim,1,i n ə r ə,,pronouns
-220_1,220,emp,2,r ə,,pronouns
-221_0,221,aanim,1,- n - - -,,pronouns
-221_1,221,pl2,2,- a - m o,,pronouns
-221_2,221,emp,3,r o,,pronouns
-222_0,222,aanim,1,ɨ n a r o,,pronouns
-223_0,223,aanim,1,- n - - -,,pronouns
-223_1,223,pl2,2,- a - m o,,pronouns
-223_2,223,emp,3,r o,,pronouns
-224_0,224,aanim,1,- ɲ - - -,,pronouns
-224_1,224,pl2,2,- a - m o,,pronouns
-224_2,224,emp,3,r o,,pronouns
-225_0,225,aanim,1,i n a r o,,pronouns
-226_0,226,aanim,1,- ɲ o r o,,pronouns
-226_1,226,pl1,2,k o n -,,pronouns
-227_0,227,aanim,1,- n - - -,,pronouns
-227_1,227,pl2,2,- a - m o,,pronouns
-227_2,227,emp,3,r -,,pronouns
-227_3,227,pl2,4,j a - m ɨ,,pronouns
-228_0,228,aanim,1,- n - - -,,pronouns
-228_1,228,pl2,2,ɲ a - n -,,pronouns
-228_2,228,emp,3,n o,,pronouns
-229_0,229,aanim,1,i n - - -,,pronouns
-229_1,229,pl2,2,- a - m o,,pronouns
-229_2,229,emp,3,r o,,pronouns
-230_0,230,aanim,1,- n - - -,,pronouns
-230_1,230,pl2,2,- a - m o,,pronouns
-231_0,231,aanim,1,- n - - -,,pronouns
-231_1,231,pl2,2,- a - m o,,pronouns
-231_2,231,emp,3,r o,,pronouns
-232_0,232,aanim,1,i n - - -,,pronouns
-232_1,232,pl2,2,- a - m o,,pronouns
-232_2,232,emp,3,r o,,pronouns
-233_0,233,aanim,1,- n - - -,,pronouns
-233_1,233,pl2,2,- a - m o,,pronouns
-234_0,234,aanim,1,ɨ n - - -,,pronouns
-234_1,234,pl2,2,- a - - -,,pronouns
-234_2,234,emp,3,ɣ o,,pronouns
-235_0,235,aanim,1,- ɲ - - e,,pronouns
-235_1,235,pl2,2,ʃ a - m -,,pronouns
-235_2,235,emp,3,r o,,pronouns
-236_0,236,aanim,1,i n - - -,,pronouns
-236_1,236,pl2,2,- a - m o,,pronouns
-236_2,236,emp,3,r o,,pronouns
-237_0,237,ainan,1,i r ə,,pronouns
-238_0,238,ainan,1,ɨ r o,,pronouns
-239_0,239,ainan,1,i l ə,,pronouns
-240_0,240,ainan,1,i r ə,,pronouns
-241_0,241,ainan,1,ɨ r o,,pronouns
-242_0,242,ainan,1,i r o,,pronouns
-243_0,243,ainan,1,i r o,,pronouns
-244_0,244,ainan,1,i j ə,,pronouns
-245_0,245,ainan,1,i r o,,pronouns
-246_0,246,ainan,1,i r ə,,pronouns
-247_0,247,ainan,1,i r ə,,pronouns
-248_0,248,ainan,1,ɨ r o,,pronouns
-249_0,249,ainan,1,i r ə,,pronouns
-250_0,250,ainan,1,i l e,,pronouns
-251_0,251,ainan,1,ɨ l e,,pronouns
-252_0,252,ainan,1,e r o,,pronouns
-253_0,253,ainan,1,i r ə,,pronouns
-254_0,254,ainan,1,i r ɨ,,pronouns
-255_0,255,ainan,1,i r o,,pronouns
-255_1,255,pl1,2,k o n -,,pronouns
-256_0,256,ainan,1,i r o,,pronouns
-256_1,256,pl4,2,n n e,,pronouns
-257_0,257,ainan,1,i r ə,,pronouns
-257_1,257,pl3,2,t o m o,,pronouns
-258_0,258,danim,1,m o - k ɨ -,,pronouns
-259_0,259,danim,1,m oo - k - -,,pronouns
-260_0,260,danim,1,m o - g ɨ -,,pronouns
-260_1,260,xinsg,2,n,,pronouns
-261_0,261,danim,1,m ə - k ə -,,pronouns
-262_0,262,danim,1,m ə - k ɨ -,,pronouns
-263_0,263,danim,1,m o - k ɨ -,,pronouns
-264_0,264,danim,1,- u - g u -,,pronouns
-264_1,264,xinsg,2,n,,pronouns
-265_0,265,danim,1,m ɨ - k ɨ -,,pronouns
-266_0,266,danim,1,m o ʔ k ɨ -,,pronouns
-267_0,267,danim,1,m o - k ɨ -,,pronouns
-268_0,268,danim,1,m ə k k ɨ -,,pronouns
-269_0,269,danim,1,m u - k u h,,pronouns
-270_0,270,danim,1,m o - k ɨ -,,pronouns
-271_0,271,danim,1,m ə - k ɨ -,,pronouns
-272_0,272,danim,1,m ə - k ɨ -,,pronouns
-273_0,273,danim,1,m o - k ɨ -,,pronouns
-274_0,274,danim,1,m o - g ɨ -,,pronouns
-274_1,274,xinsg,2,n,,pronouns
-275_0,275,danim,1,m a - k e -,,pronouns
-276_0,276,danim,1,m ə - k ɨ -,,pronouns
-277_0,277,danim,1,- e - k - -,,pronouns
-278_0,278,danim,1,m ɨ - k ɨ -,,pronouns
-279_0,279,danim,1,m ə - k ɨ -,,pronouns
-280_0,280,danim,1,m ɨ - k ɨ -,,pronouns
-281_0,281,danim,1,- a - k e -,,pronouns
-282_0,282,danim,1,m o - k - -,,pronouns
-282_1,282,pl2,2,- a - m o,,pronouns
-283_0,283,danim,1,- a - k a -,,pronouns
-283_1,283,pl2,2,- e - m o,,pronouns
-284_0,284,danim,1,m ə - k - -,,pronouns
-284_1,284,pl2,2,- a - - -,,pronouns
-285_0,285,danim,1,m o - k - -,,pronouns
-285_1,285,pl2,2,j a - m o,,pronouns
-286_0,286,danim,1,- u - g - -,,pronouns
-286_1,286,pl2,2,j a - m -,,pronouns
-287_0,287,danim,1,m oo - k ɨ -,,pronouns
-287_1,287,pl1,2,k o n -,,pronouns
-288_0,288,danim,1,m o ʔ k - -,,pronouns
-288_1,288,pl2,2,- a - n -,,pronouns
-289_0,289,danim,1,m a k k - -,,pronouns
-289_1,289,pl2,2,- a - m o,,pronouns
-290_0,290,danim,1,m u - k u -,,pronouns
-290_1,290,pl1,2,k o n -,,pronouns
-291_0,291,danim,1,m o - k - -,,pronouns
-291_1,291,pl2,2,j a - m o,,pronouns
-292_0,292,danim,1,m ə - k ɨ -,,pronouns
-292_1,292,pl2,2,j a - m o,,pronouns
-293_0,293,danim,1,m ə - k ɨ -,,pronouns
-293_1,293,pl2,2,j a - m o,,pronouns
-294_0,294,danim,1,m o - k - -,,pronouns
-294_1,294,pl2,2,j a - m o,,pronouns
-295_0,295,danim,1,m o - g ɨ -,,pronouns
-295_1,295,pl2,2,j a - m -,,pronouns
-296_0,296,danim,1,m u - k - -,,pronouns
-296_1,296,pl2,2,- i a m o,,pronouns
-297_0,297,danim,1,m ə - k ɨ -,,pronouns
-297_1,297,pl2,2,j a - m o,,pronouns
-298_0,298,danim,1,- a - k - -,,pronouns
-298_1,298,pl2,2,- a - - -,,pronouns
-298_2,298,emp,3,ɣ o,,pronouns
-299_0,299,danim,1,m ɨ - k - -,,pronouns
-299_1,299,pl2,2,j a - m -,,pronouns
-300_0,300,danim,1,m ə - k - -,,pronouns
-300_1,300,pl2,2,j a - m o,,pronouns
-301_0,301,danim,1,- a - k - -,,pronouns
-301_1,301,pl2,2,ʃ a - - -,,pronouns
-302_0,302,dinan,1,m o n ɨ,,pronouns
-303_0,303,dinan,1,m o n -,,pronouns
-304_0,304,dinan,1,m u n -,,pronouns
-305_0,305,dinan,1,m ə n ɨ,,pronouns
-306_0,306,dinan,1,m o n ɨ,,pronouns
-307_0,307,dinan,1,m u n -,,pronouns
-308_0,308,dinan,1,m o n ɨ,,pronouns
-309_0,309,dinan,1,m o n ɨ,,pronouns
-310_0,310,dinan,1,m əə n ɨ,,pronouns
-311_0,311,dinan,1,m u h -,,pronouns
-312_0,312,dinan,1,m o n ɨ,,pronouns
-313_0,313,dinan,1,m ə n ɨ,,pronouns
-314_0,314,dinan,1,m o n ɨ,,pronouns
-315_0,315,dinan,1,m o n -,,pronouns
-316_0,316,dinan,1,m ə n ɨ,,pronouns
-317_0,317,dinan,1,m ɨ n ɨ,,pronouns
-318_0,318,dinan,1,m ɨ n ɨ,,pronouns
-319_0,319,dinan,1,m ə n ɨ,,pronouns
-320_1,320,pl4,2,ʔ n e,,pronouns
-321_0,321,dinan,1,m u - -,,pronouns
-321_1,321,pl2,2,j a - m -,,pronouns
-322_0,322,dinan,1,m o n ɨ,,pronouns
-322_1,322,pl1,2,k o n -,,pronouns
-323_0,323,dinan,1,m ə n -,,pronouns
-323_1,323,pl3,2,t o m o,,pronouns
-324_0,324,dinan,1,m ɨ n ɨ,,pronouns
-324_1,324,pl1,2,k o m o,,pronouns
-325_0,325,danim,1,- - - k ɨ -,,pronouns
-325_1,325,emp,2,r ə,,pronouns
-326_0,326,danim,1,m ə - k ɨ -,,pronouns
-326_1,326,emp,2,r ə,,pronouns
-327_0,327,danim,1,m o - k ɨ -,,pronouns
-327_1,327,emp,2,r o,,pronouns
-328_1,328,danim,2,w ə - k ə -,,pronouns
-329_0,329,danim,1,m ə - k - -,,pronouns
-329_1,329,emp,2,- ə,,pronouns
-330_0,330,danim,1,m o - k - -,,pronouns
-330_1,330,emp,2,r o,,pronouns
-331_0,331,danim,1,- - - k ɨ -,,pronouns
-331_1,331,emp,2,r ə,,pronouns
-331_2,331,emp,3,r ə,,pronouns
-332_0,332,danim,1,m o ʔ k - -,,pronouns
-332_1,332,emp,2,- o,,pronouns
-333_0,333,danim,1,m o - k o -,,pronouns
-333_1,333,emp,2,r o,,pronouns
-334_0,334,danim,1,m ɨɨ - k ɨ -,,pronouns
-334_1,334,emp,2,r ɨ,,pronouns
-335_0,335,danim,1,m ə ʔ - - -,,pronouns
-335_1,335,emp,2,r ə,,pronouns
-336_0,336,danim,1,- - - k ə -,,pronouns
-336_1,336,emp,2,n -,,pronouns
-337_0,337,danim,1,m ə ʔ - - -,,pronouns
-337_1,337,emp,2,r ə,,pronouns
-338_0,338,danim,1,m o - k o -,,pronouns
-338_1,338,emp,2,r o,,pronouns
-339_0,339,danim,1,m ə - k ɨ -,,pronouns
-339_1,339,emp,2,r ə,,pronouns
-340_0,340,danim,1,m ə - k ɨ -,,pronouns
-340_1,340,emp,2,r ə,,pronouns
-341_0,341,danim,1,m ə - k ɨ -,,pronouns
-341_1,341,emp,2,r ə,,pronouns
-342_0,342,danim,1,m o - k - -,,pronouns
-342_1,342,emp,2,r o,,pronouns
-343_0,343,danim,1,- - - k - -,,pronouns
-343_1,343,emp,2,r e,,pronouns
-343_2,343,emp,3,r e,,pronouns
-344_0,344,danim,1,m əə - - - -,,pronouns
-344_1,344,emp,2,r ə,,pronouns
-345_0,345,danim,1,m ɨ - k - -,,pronouns
-345_1,345,emp,2,r o,,pronouns
-346_0,346,danim,1,m ə - k - -,,pronouns
-346_1,346,emp,2,r ə,,pronouns
-346_2,346,emp,3,r ə,,pronouns
-347_0,347,danim,1,m o - k - -,,pronouns
-347_1,347,pl2,2,- a - - -,,pronouns
-347_2,347,emp,3,r o,,pronouns
-348_0,348,danim,1,m ə - k - -,,pronouns
-348_1,348,pl2,2,- a - m o,,pronouns
-348_2,348,emp,3,r o,,pronouns
-349_0,349,danim,1,m o - k - -,,pronouns
-349_1,349,pl2,2,j a - m o,,pronouns
-350_0,350,danim,1,m ɨ - k ɨ -,,pronouns
-350_1,350,pl2,2,j a - m ə,,pronouns
-351_0,351,danim,1,- - - k - -,,pronouns
-351_1,351,pl2,2,- a - m o,,pronouns
-351_2,351,emp,3,r o,,pronouns
-352_0,352,danim,1,m o ʔ k - -,,pronouns
-352_1,352,pl2,2,- a - - -,,pronouns
-352_2,352,emp,3,r o,,pronouns
-353_0,353,danim,1,m o - k - -,,pronouns
-353_1,353,pl2,2,j a - - -,,pronouns
-353_2,353,emp,3,r ɨ,,pronouns
-354_1,354,danim,2,- n - k - -,,pronouns
-354_2,354,pl2,3,- a - m o,,pronouns
-354_3,354,emp,4,r o,,pronouns
-355_0,355,danim,1,- - - k - -,,pronouns
-355_1,355,pl2,2,- a - n -,,pronouns
-355_2,355,emp,3,n o,,pronouns
-356_0,356,danim,1,- - - k - -,,pronouns
-356_1,356,pl2,2,- a - m ə,,pronouns
-356_2,356,emp,3,n -,,pronouns
-356_3,356,pl3,4,t o n -,,pronouns
-358_0,358,danim,1,m ə - k ɨ -,,pronouns
-358_1,358,emp,2,r ə,,pronouns
-358_2,358,pl2,3,j a - m o,,pronouns
-359_0,359,danim,1,- - - k - -,,pronouns
-359_1,359,pl2,2,- i a m o,,pronouns
-359_2,359,emp,3,r o,,pronouns
-360_0,360,danim,1,m əə - - - -,,pronouns
-360_1,360,pl2,2,j a - m o,,pronouns
-361_0,361,danim,1,m ə - k - -,,pronouns
-361_1,361,pl2,2,j a - - -,,pronouns
-361_2,361,emp,3,r ə,,pronouns
-362_0,362,minan,1,m ə r ə,,pronouns
-363_0,363,minan,1,m ə r ə,,pronouns
-364_0,364,minan,1,m o r o,,pronouns
-365_0,365,minan,1,m o r o,,pronouns
-366_0,366,minan,1,m ə r ə,,pronouns
-367_0,367,minan,1,m ə r ə,,pronouns
-368_0,368,minan,1,m o r o,,pronouns
-369_0,369,minan,1,m ə r ə,,pronouns
-370_0,370,minan,1,m o r o,,pronouns
-371_0,371,minan,1,m o r o,,pronouns
-372_0,372,minan,1,m ɨ r ɨ,,pronouns
-372_1,372,emp,2,r ɨ,,pronouns
-373_0,373,minan,1,m ə r ə,,pronouns
-374_0,374,minan,1,m ə r ɨ,,pronouns
-375_0,375,minan,1,m ə n -,,pronouns
-376_0,376,minan,1,m ə r ə,,pronouns
-377_0,377,minan,1,m o r o,,pronouns
-378_0,378,minan,1,m ə r ə,,pronouns
-379_0,379,minan,1,m ə r ə,,pronouns
-380_0,380,minan,1,m ə r ə,,pronouns
-381_0,381,minan,1,m ə r ə,,pronouns
-382_0,382,minan,1,m o r o,,pronouns
-383_0,383,minan,1,m o r o,,pronouns
-384_0,384,minan,1,m o r e,,pronouns
-385_0,385,minan,1,m ə r ə,,pronouns
-386_0,386,minan,1,- e ɣ e,,pronouns
-387_0,387,minan,1,m o r o,,pronouns
-388_0,388,minan,1,m ə r ə,,pronouns
-389_0,389,minan,1,m ɨ r ɨ,,pronouns
-390_0,390,minan,1,m ə r ə,,pronouns
-391_0,391,minan,1,m o r o,,pronouns
-391_1,391,pl4,2,ʔ n e,,pronouns
-392_0,392,minan,1,m ə r ə,,pronouns
-392_1,392,pl2,2,j a - m ə,,pronouns
-393_0,393,minan,1,m o r o,,pronouns
-393_1,393,pl1,2,k o n -,,pronouns
-395_0,395,dinan,1,m ə n -,,pronouns
-395_1,395,pl1,2,k o n -,,pronouns
-396_0,396,minan,1,m ə r ə,,pronouns
-396_1,396,pl3,2,t o m o,,pronouns
-397_0,397,minan,1,m ə r ə,,pronouns
-397_1,397,pl1,2,k o m o,,pronouns
-398_0,398,panim,1,m ə ʔ - e,,pronouns
-399_0,399,panim,1,m o - s e,,pronouns
-400_0,400,panim,1,m o - d e,,pronouns
-400_1,400,xinsg,2,n,,pronouns
-401_0,401,panim,1,m e - - -,,pronouns
-401_1,401,emp,2,r ə,,pronouns
-402_0,402,panim,1,m ə h - ə,,pronouns
-403_0,403,panim,1,m o - s o,,pronouns
-404_0,404,panim,1,- o - r e,,pronouns
-404_1,404,xinsg,2,n,,pronouns
-405_0,405,panim,1,m o ʔ s e,,pronouns
-406_0,406,panim,1,m o - s o,,pronouns
-406_1,406,emp,2,r o,,pronouns
-407_0,407,panim,1,m ɨ - s e,,pronouns
-407_1,407,emp,2,r ɨ,,pronouns
-408_0,408,panim,1,m e h - e,,pronouns
-409_0,409,panim,1,m ə - h -,,pronouns
-410_0,410,panim,1,m ə - s ə,,pronouns
-410_1,410,emp,2,r ə,,pronouns
-411_0,411,panim,1,m o - s o,,pronouns
-411_1,411,emp,2,r o,,pronouns
-412_0,412,panim,1,m ə - t e,,pronouns
-412_1,412,emp,2,r ə,,pronouns
-413_0,413,panim,1,m ə - s e,,pronouns
-414_0,414,panim,1,m ə - s e,,pronouns
-415_0,415,panim,1,m ə - t͡ʃ e,,pronouns
-416_0,416,panim,1,m o - s o,,pronouns
-417_0,417,panim,1,m o - d e,,pronouns
-417_1,417,xinsg,2,n,,pronouns
-418_0,418,panim,1,m o - t͡ʃ e,,pronouns
-419_0,419,panim,1,m ə e - -,,pronouns
-420_0,420,panim,1,- e - s e,,pronouns
-421_0,421,panim,1,m o - s o,,pronouns
-422_0,422,panim,1,m ə - s i,,pronouns
-423_0,423,panim,1,m ə h - e,,pronouns
-423_1,423,emp,2,r ə,,pronouns
-424_0,424,panim,1,m a - ʃ -,,pronouns
-425_0,425,panim,1,m ə e - -,,pronouns
-425_1,425,pl2,2,t͡ʃ a - m o,,pronouns
-426_0,426,panim,1,m o - ʃ -,,pronouns
-426_1,426,pl2,2,- i a m o,,pronouns
-427_0,427,panim,1,- a - s a,,pronouns
-427_1,427,pl2,2,- e - m o,,pronouns
-428_0,428,panim,1,m ə - - -,,pronouns
-428_1,428,pl2,2,s a - - -,,pronouns
-429_0,429,panim,1,m o - ʃ -,,pronouns
-429_1,429,pl2,2,- a - m o,,pronouns
-430_0,430,panim,1,w - - - -,,pronouns
-430_1,430,pl2,2,- a - m -,,pronouns
-431_0,431,panim,1,m o ʔ s e,,pronouns
-431_1,431,pl1,2,k o n -,,pronouns
-432_0,432,panim,1,m oo - - -,,pronouns
-432_1,432,pl2,2,j a - n -,,pronouns
-433_0,433,panim,1,m o - ʔ -,,pronouns
-433_1,433,pl2,2,s a - - -,,pronouns
-433_2,433,emp,3,r o,,pronouns
-434_0,434,panim,1,m o - ʔ -,,pronouns
-434_1,434,pl2,2,t͡ʃ a - - -,,pronouns
-434_2,434,emp,3,r ɨ,,pronouns
-435_1,435,panim,2,n - - s -,,pronouns
-435_2,435,pl2,3,- e - m o,,pronouns
-435_3,435,emp,4,r o,,pronouns
-436_0,436,panim,1,m ə - h -,,pronouns
-436_1,436,pl2,2,t͡ʃ a - n -,,pronouns
-436_2,436,pl3,3,t o n -,,pronouns
-437_1,437,panim,2,ʔ - - s -,,pronouns
-437_2,437,pl2,3,- a - m ə,,pronouns
-437_3,437,emp,4,r ə,,pronouns
-438_0,438,panim,1,m o - ʔ -,,pronouns
-438_1,438,pl2,2,t͡ʃ a - m o,,pronouns
-438_2,438,emp,3,r o,,pronouns
-439_0,439,panim,1,m ə - t e,,pronouns
-439_1,439,pl2,2,j a - m o,,pronouns
-440_0,440,panim,1,m ə - t͡ʃ e,,pronouns
-440_1,440,pl2,2,t͡ʃ a - m o,,pronouns
-441_0,441,panim,1,m o - ʃ -,,pronouns
-441_1,441,pl2,2,- a - m o,,pronouns
-442_0,442,panim,1,m o - d e,,pronouns
-442_1,442,pl2,2,j a - m -,,pronouns
-443_0,443,panim,1,- - - t͡ʃ -,,pronouns
-443_1,443,pl2,2,- a - m o,,pronouns
-443_2,443,emp,3,r o,,pronouns
-444_0,444,panim,1,m ə e - -,,pronouns
-444_1,444,pl2,2,s a - m o,,pronouns
-445_0,445,pl2,1,- a - - -,,pronouns
-445_1,445,emp,2,ɣ o,,pronouns
-446_0,446,panim,1,m o - ʃ -,,pronouns
-446_1,446,pl2,2,- a - m -,,pronouns
-447_0,447,panim,1,m ə - h -,,pronouns
-447_1,447,pl2,2,- a - m o,,pronouns
-448_0,448,panim,1,m ə - h -,,pronouns
-448_1,448,pl2,2,- a - - -,,pronouns
-448_2,448,emp,3,r ə,,pronouns
-449_0,449,panim,1,m a - ʃ -,,pronouns
-449_1,449,pl2,2,- a - - -,,pronouns
-450_1,450,pinan2,2,s i n - -,,pronouns
-451_0,451,pinan1,1,- s e r ə,,pronouns
-452_0,452,pinan1,1,- t͡ʃ e r ə,,pronouns
-453_0,453,pinan1,1,- s e r o,,pronouns
-454_0,454,pinan1,1,- - e r o,,pronouns
-455_0,455,pinan1,1,- ʃ i r ə,,pronouns
-456_0,456,pinan1,1,- - ə r ə,,pronouns
-457_0,457,pinan1,1,- s ə - -,,pronouns
-457_1,457,emp,2,r ə,,pronouns
-458_0,458,pinan1,1,- - e r o,,pronouns
-459_0,459,pinan1,1,- s o r o,,pronouns
-460_0,460,pinan1,1,- s ɨ r ɨ,,pronouns
-460_1,460,emp,2,r ɨ,,pronouns
-461_0,461,pinan1,1,- - e r ə,,pronouns
-462_0,462,pinan1,1,- s ɨ h -,,pronouns
-463_0,463,pinan1,1,- s ə r ə,,pronouns
-464_0,464,pinan1,1,- s o r o,,pronouns
-465_0,465,pinan1,1,- t͡ʃ e r ə,,pronouns
-466_0,466,pinan1,1,- s ə r ə,,pronouns
-467_0,467,pinan1,1,- t͡ʃ e r ə,,pronouns
-468_0,468,pinan1,1,- - e r o,,pronouns
-469_0,469,pinan1,1,- s e r ə,,pronouns
-470_0,470,pinan1,1,i ɣ e - -,,pronouns
-471_0,471,pinan1,1,- h e r ə,,pronouns
-472_0,472,pinan2,1,t͡ʃ e n ɨ -,,pronouns
-473_0,473,pinan2,1,s e n ɨ -,,pronouns
-474_0,474,pinan2,1,- e n - -,,pronouns
-475_0,475,pinan2,1,- e n ɨ -,,pronouns
-476_0,476,pinan2,1,- o n ɨ -,,pronouns
-477_1,477,pinan2,2,- e n - -,,pronouns
-478_0,478,pinan2,1,- e n ɨ -,,pronouns
-479_0,479,pinan2,1,s e n i -,,pronouns
-480_0,480,pinan2,1,s e n ə k,,pronouns
-481_0,481,pinan2,1,t͡ʃ e n - -,,pronouns
-482_0,482,pinan2,1,t͡ʃ e n ɨ -,,pronouns
-483_0,483,pinan2,1,- o n ɨ -,,pronouns
-484_0,484,pinan2,1,- e n - -,,pronouns
-485_0,485,pinan2,1,t͡ʃ e n e -,,pronouns
-486_0,486,pinan2,1,s e n ɨ -,,pronouns
-487_0,487,pinan2,1,- o n - -,,pronouns
-488_0,488,pinan2,1,s i n ɨ -,,pronouns
-489_0,489,pinan2,1,s e n i -,,pronouns
-490_0,490,pinan1,1,- s e r o,,pronouns
-490_1,490,pl4,2,ʔ n e,,pronouns
-492_0,492,pinan1,1,- - e r o,,pronouns
-492_1,492,pl1,2,ŋ - m o,,pronouns
-493_1,493,pinan2,2,- e - - -,,pronouns
-493_2,493,pl2,3,j a - m -,,pronouns
-494_0,494,pinan1,1,- s ə - -,,pronouns
-494_1,494,emp,2,r ə,,pronouns
-494_2,494,pl2,3,j a - m ə,,pronouns
-495_0,495,pinan1,1,- - e r o,,pronouns
-495_1,495,pl1,2,k o n -,,pronouns
-496_0,496,pinan2,1,- e n ɨ -,,pronouns
-496_1,496,pl1,2,k o n -,,pronouns
-497_0,497,pinan1,1,- s o r o,,pronouns
-497_1,497,pl4,2,n n e,,pronouns
-498_0,498,pinan1,1,- s ɨ h -,,pronouns
-498_1,498,pl1,2,k o n -,,pronouns
-499_0,499,pinan1,1,- h e r ə,,pronouns
-499_1,499,pl1,2,k o m o,,pronouns
-500_0,500,pinan2,1,s i n - -,,pronouns
-500_1,500,pl1,2,k o m o,,pronouns
-501_0,501,toto,1,t o ʔ -,,pronouns
-502_0,502,1,1,- - uu,,pronouns
-502_1,502,emp,2,r ɨ,,pronouns
-502_2,502,pl3,3,- - ʔ -,,pronouns
-502_3,502,pl1,4,k o n -,,pronouns
-503_0,503,toto,1,t o ʔ -,,pronouns
-508_0,508,1,1,- j uu,,pronouns
-508_1,508,emp,2,r ə,,pronouns
-508_2,508,pl3,3,t o - -,,pronouns
-508_3,508,pl1,4,k o n -,,pronouns
-509_0,509,toto,1,t o ʔ -,,pronouns
-517_0,517,1a2,1,k ɨ,,pronouns
-517_2,517,emp,3,r o,,pronouns
-518_0,518,1a3,1,a m n - - - a,,pronouns
-519_0,519,ainan,1,i r o,,pronouns
-520_0,520,minan,1,m ə r ə,,pronouns
-521_0,521,pinan1,1,- s ə r ə,,pronouns
-522_0,522,1a2,1,k ɨ,,pronouns
-522_1,522,wform,2,w ɨ,,pronouns
-522_2,522,emp,3,r o,,pronouns
-523_0,523,ainan,1,ɨ r o,,pronouns
-524_1,524,pl2,2,j a - m o,,pronouns
-525_0,525,pinan1,1,- s e r ə,,pronouns
-525_1,525,pl3,2,t o m o,,pronouns
-526_0,526,pinan2,1,s e n - -,,pronouns
-526_1,526,pl3,2,t o m o,,pronouns
-530_1,530,danim,2,- e - k - -,,pronouns
-531_0,531,danim,1,m o - - - -,,pronouns
-531_1,531,pl2,2,ʃ a - m -,,pronouns
-532_0,532,pinan2,1,- o n - -,,pronouns
-534_0,534,toto,1,t o t o,,pronouns
-542_0,542,dinan,1,m ə n -,,pronouns
-543_0,543,danim,1,m o - k - -,,pronouns
-543_1,543,pl2,2,j a - m o,,pronouns
-543_2,543,emp,3,r o,,pronouns
-544_0,544,pinan2,1,- o n ɨ -,,pronouns
-545_0,545,1a3,1,a - - i p n a,,pronouns
+ID,Form_ID,Cognateset_ID,Segment_Slice,Alignment,Source
+aka-0_0,aka-0,1,1,- - u,
+aka-0_1,aka-0,emp,2,r ə,
+aku-1_0,aku-1,1,1,- w ɨ,
+apa-2_0,apa-2,1,1,ɨ w ɨ,
+ara-3_0,ara-3,1,1,- - u,
+ara-3_1,ara-3,emp,2,r o,
+bak-4_0,bak-4,1,1,- - u,
+bak-4_1,bak-4,emp,2,r ə,
+car-5_0,car-5,1,1,ə w ɨ,
+hix-6_0,hix-6,1,1,- - u,
+hix-6_1,hix-6,emp,2,r o,
+ikp-7_0,ikp-7,1,1,- - u,
+ikp-7_1,ikp-7,emp,2,r o,
+ing-8_0,ing-8,1,1,- - u,
+ing-8_1,ing-8,emp,2,r ə,
+kar-9_0,kar-9,1,1,a w u,
+kax-10_0,kax-10,1,1,o w ɨ,
+mac-11_0,mac-11,1,1,- - uu,
+mac-11_1,mac-11,emp,2,r ɨ,
+mak-12_0,mak-12,1,1,e w ɨ,
+map-13_0,map-13,1,1,- w ɨ,
+map-13_1,map-13,hform,2,h ɨ,
+map-14_0,map-14,1,1,- - u,
+map-14_1,map-14,hform,2,h ɨ,
+pan-15_0,pan-15,1,1,- j u,
+PC-16_0,PC-16,1,1,ə w ɨ,
+PC-16_1,PC-16,emp,2,r ə,
+pem-17_0,pem-17,1,1,- j uu,
+pem-17_1,pem-17,emp,2,r ə,
+PMan-18_0,PMan-18,1,1,- w ɨ,
+PMan-18_1,PMan-18,emp,2,r ə,
+PMan-19_0,PMan-19,1,1,- w ɨ,
+PMan-19_1,PMan-19,hform,2,h ɨ,
+pno-20_0,pno-20,1,1,- - u,
+pno-20_1,pno-20,emp,2,r ə,
+pno-21_0,pno-21,1,1,- w ɨ,
+pno-21_1,pno-21,hform,2,h -,
+PPar-22_0,PPar-22,1,1,o w ɨ,
+PPar-22_1,PPar-22,emp,2,r o,
+PPek-23_0,PPek-23,1,1,- - u,
+PPek-23_1,PPek-23,emp,2,r ə,
+PPem-24_0,PPem-24,1,1,- j u,
+PPem-24_1,PPem-24,emp,2,r ə,
+PPP-25_0,PPP-25,1,1,- j u,
+PPP-25_1,PPP-25,emp,2,r ə,
+PTar-26_0,PTar-26,1,1,ə w ɨ,
+PTir-27_0,PTir-27,1,1,- w ɨ,
+PWai-28_0,PWai-28,1,1,o w ɨ,
+PWai-28_1,PWai-28,emp,2,r o,
+PXin-29_0,PXin-29,1,1,- - u,
+PXin-29_1,PXin-29,emp,2,r o,
+tam-30_0,tam-30,1,1,- - u,
+tam-30_1,tam-30,emp,2,r e,
+tri-31_0,tri-31,1,1,- w ɨɨ,
+uxc-32_0,uxc-32,1,1,- - u,
+uxc-32_1,uxc-32,emp,2,ɣ e,
+wai-33_0,wai-33,1,1,o w ɨ,
+way-34_0,way-34,1,1,ɨ w u,
+wmr-35_0,wmr-35,1,1,a w ɨ,
+yab-36_0,yab-36,1,1,- w ɨ,
+yab-36_1,yab-36,emp,2,r ə,
+yuk-37_0,yuk-37,1,1,a w ɨ,
+yuk-37_1,yuk-37,emp,2,r -,
+aka-38_0,aka-38,2,1,- a m ə,
+aka-38_1,aka-38,emp,2,r ə,
+aku-39_0,aku-39,2,1,- ə m ə,
+apa-40_0,apa-40,2,1,- o m o,
+apa-40_1,apa-40,emp,2,r o,
+ara-41_0,ara-41,2,1,- o m o,
+ara-41_1,ara-41,emp,2,r o,
+bak-42_0,bak-42,2,1,- ə m ə,
+car-43_0,car-43,2,1,- ə m ə,
+car-43_1,car-43,emp,2,r ə,
+hix-44_0,hix-44,2,1,- o m o,
+hix-44_1,hix-44,emp,2,r o,
+ikp-45_0,ikp-45,2,1,- o m -,
+ikp-45_1,ikp-45,emp,2,r o,
+ing-46_0,ing-46,2,1,- a m ə,
+ing-46_1,ing-46,emp,2,r ə,
+kar-47_0,kar-47,2,1,- a m o,
+kar-47_1,kar-47,emp,2,r o,
+kax-48_0,kax-48,2,1,- o m o,
+kax-48_1,kax-48,emp,2,r o,
+mac-49_0,mac-49,2,1,- a m ɨ,
+mac-49_1,mac-49,emp,2,r ɨ,
+mak-50_0,mak-50,2,1,- a m ə,
+mak-50_1,mak-50,emp,2,r ə,
+map-51_0,map-51,2,1,m ə - -,
+map-51_1,map-51,emp,2,r ə,
+pan-52_0,pan-52,2,1,- a m ə,
+pan-52_1,pan-52,emp,2,n -,
+PC-53_0,PC-53,2,1,- ə m ə,
+PC-53_1,PC-53,emp,2,r ə,
+pem-54_0,pem-54,2,1,- a m ə,
+pem-54_1,pem-54,emp,2,r ə,
+PMan-55_0,PMan-55,2,1,m ə - -,
+PMan-55_1,PMan-55,emp,2,r ə,
+pno-56_0,pno-56,2,1,m ə - -,
+pno-56_1,pno-56,emp,2,r ə,
+PPar-57_0,PPar-57,2,1,- o m o,
+PPar-57_1,PPar-57,emp,2,r o,
+PPek-58_0,PPek-58,2,1,- ə m ə,
+PPek-58_1,PPek-58,emp,2,r ə,
+PPem-59_0,PPem-59,2,1,- a m ə,
+PPem-59_1,PPem-59,emp,2,r ə,
+PPP-60_0,PPP-60,2,1,- a m ə,
+PPP-60_1,PPP-60,emp,2,r ə,
+PTar-61_0,PTar-61,2,1,- ə m ə,
+PTar-61_1,PTar-61,emp,2,r ə,
+PTir-62_0,PTir-62,2,1,- ə m ə,
+PTir-63_0,PTir-63,2,1,- ə m ə,
+PWai-64_0,PWai-64,2,1,- o m o,
+PWai-64_1,PWai-64,emp,2,r o,
+PXin-65_0,PXin-65,2,1,- o m o,
+PXin-65_1,PXin-65,emp,2,r o,
+tam-66_0,tam-66,2,1,- a m a,
+tam-66_1,tam-66,emp,2,r e,
+tri-67_0,tri-67,2,1,- ə m ə,
+uxc-68_0,uxc-68,2,1,- ee - -,
+uxc-68_1,uxc-68,emp,2,ɣ e,
+wai-69_0,wai-69,2,1,- a m o,
+wai-69_1,wai-69,emp,2,r o,
+way-70_0,way-70,2,1,- ə m ə,
+way-70_1,way-70,emp,2,r ə,
+wmr-71_0,wmr-71,2,1,- a m ɨ,
+wmr-71_1,wmr-71,emp,2,r ɨ,
+yab-72_0,yab-72,2,1,m ə - -,
+yab-72_1,yab-72,emp,2,r ə,
+yuk-73_0,yuk-73,2,1,- a m o,
+yuk-73_1,yuk-73,emp,2,r -,
+aku-74_0,aku-74,1a2,1,k ɨ,
+aku-74_1,aku-74,mform,2,m ə,
+apa-75_0,apa-75,1a2,1,k ɨ,
+apa-75_1,apa-75,mform,2,m o,
+apa-75_2,apa-75,emp,3,r o,
+ara-76_0,ara-76,uku,1,- u g o,
+ara-76_1,ara-76,emp,2,r o,
+car-77_0,car-77,1a2,1,k ɨ,
+car-77_1,car-77,mform,2,m ə,
+car-77_2,car-77,emp,3,r ə,
+hix-78_0,hix-78,1a2,1,k ɨ,
+hix-78_1,hix-78,wform,2,w -,
+hix-78_2,hix-78,emp,3,r o,
+ikp-79_0,ikp-79,uku,1,- u g -,
+ikp-79_1,ikp-79,emp,2,r o,
+kar-80_0,kar-80,1a2,1,k ɨ,
+kar-80_1,kar-80,karform,2,ʔ k o,
+kar-81_0,kar-81,1a2,1,k ɨ,
+kar-81_1,kar-81,mform,2,m o,
+kar-81_2,kar-81,emp,3,r o,
+kax-82_0,kax-82,1a2,1,k u,
+kax-82_1,kax-82,mform,2,m o,
+kax-82_2,kax-82,emp,3,r o,
+mac-83_0,mac-83,1,1,- - uu,
+mac-83_1,mac-83,emp,2,r ɨ,
+mac-83_2,mac-83,pl3,3,- - ʔ -,
+mac-83_3,mac-83,pl1,4,k o n -,
+mak-84_0,mak-84,1a2,1,k ɨ,
+mak-84_1,mak-84,wform,2,w ɨ,
+map-85_0,map-85,1a2ep,1,e ʔ - n ə,
+pan-86_0,pan-86,1,1,- j u,
+pan-86_1,pan-86,pl3,2,t o - -,
+pem-87_0,pem-87,1,1,- j uu,
+pem-87_1,pem-87,emp,2,r ə,
+pem-87_2,pem-87,pl3,3,t o - -,
+PMan-88_0,PMan-88,1a2ep,1,e p ɨ n ə,
+pno-89_0,pno-89,1a2ep,1,e ʔ - n ə,
+PPar-90_0,PPar-90,1a2,1,k ɨ,
+PPar-90_2,PPar-90,emp,3,r o,
+PPek-91_0,PPek-91,uku,1,- u k u,
+PPek-91_1,PPek-91,emp,2,r ə,
+PPem-92_0,PPem-92,1,1,- j u,
+PPem-92_1,PPem-92,emp,2,r ə,
+PPem-92_2,PPem-92,pl3,3,t o - -,
+PPem-92_3,PPem-92,pl1,4,k o n -,
+PPP-93_0,PPP-93,1,1,- j u,
+PPP-93_1,PPP-93,emp,2,r ə,
+PPP-93_2,PPP-93,pl3,3,t o - -,
+PTar-94_0,PTar-94,1a2,1,k ɨ,
+PTar-94_1,PTar-94,mform,2,m ə,
+PTar-94_2,PTar-94,emp,3,r ə,
+PTir-95_0,PTir-95,1a2,1,k ɨ,
+PTir-95_1,PTir-95,mform,2,m ə,
+PWai-96_0,PWai-96,1a2,1,k ɨ,
+PWai-96_1,PWai-96,wform,2,w ɨ,
+PWai-96_2,PWai-96,emp,3,r o,
+PXin-97_0,PXin-97,uku,1,- u g o,
+PXin-97_1,PXin-97,emp,2,r o,
+tam-98_0,tam-98,1a2,1,k i,
+tam-98_1,tam-98,wform,2,w e,
+tri-99_0,tri-99,1a2,1,k ɨ,
+tri-99_1,tri-99,mform,2,m ə,
+uxc-100_0,uxc-100,uku,1,k u k u,
+uxc-100_1,uxc-100,emp,2,ɣ e,
+wai-101_0,wai-101,1a2,1,k ɨɨ,
+wai-101_1,wai-101,wform,2,w ɨ,
+way-102_0,way-102,1a2,1,k u,
+way-102_2,way-102,mform,3,m ə,
+wmr-103_0,wmr-103,uku,1,k ɨ k ɨ,
+yab-104_0,yab-104,1a2ep,1,e h - n ə,
+yuk-105_0,yuk-105,1a2ep,1,e p - - ɨ,
+bak-106_0,bak-106,uku,1,k u - -,
+bak-106_1,bak-106,emp,2,r ə,
+aka-107_0,aka-107,1,1,- - u,
+aka-107_1,aka-107,emp,2,r ə,
+aka-107_2,aka-107,pempl,3,ʔ n o,
+aka-107_3,aka-107,pl1,4,k o n -,
+aku-108_0,aku-108,1a2,1,k ɨ,
+aku-108_1,aku-108,mform,2,m ə,
+aku-108_2,aku-108,mform,3,n -,
+aku-108_3,aku-108,pl2,4,j a - m o,
+apa-109_0,apa-109,1a2,1,k ɨ,
+apa-109_1,apa-109,mform,2,m a,
+apa-109_2,apa-109,emp,3,r o,
+apa-109_3,apa-109,pl1,4,k o m o,
+ara-110_0,ara-110,uku,1,- u g o,
+ara-110_1,ara-110,emp,2,r o,
+ara-110_2,ara-110,pl1,3,ŋ - m o,
+car-111_0,car-111,1a2,1,k ɨ,
+car-111_1,car-111,mform,2,ɲ -,
+car-111_2,car-111,pl2,3,- a - m o,
+car-111_3,car-111,emp,4,r o,
+hix-112_0,hix-112,1a2,1,k ɨ,
+hix-112_1,hix-112,wform,2,w -,
+hix-112_2,hix-112,pl2,3,j a - m o,
+ikp-113_0,ikp-113,uku,1,- u g -,
+ikp-113_1,ikp-113,emp,2,r o,
+ikp-113_2,ikp-113,pl1,3,ŋ - m o,
+ing-114_0,ing-114,1,1,- - u,
+ing-114_1,ing-114,emp,2,r ə,
+ing-114_2,ing-114,pempl,3,ʔ n o,
+ing-114_3,ing-114,pl1,4,k o n -,
+kar-115_0,kar-115,1a2,1,k ɨ,
+kar-115_1,kar-115,karform,2,ʔ k -,
+kar-115_2,kar-115,pl2,3,- a - - -,
+kar-115_3,kar-115,emp,4,r o,
+kar-116_0,kar-116,1a2,1,k ɨ,
+kar-116_1,kar-116,mform,2,m o,
+kar-116_2,kar-116,pl2,3,j a - - -,
+kar-116_3,kar-116,emp,4,r o,
+kax-117_0,kax-117,1a2,1,k ɨ,
+kax-117_1,kax-117,mform,2,m -,
+kax-117_2,kax-117,pl2,3,j a - - -,
+kax-117_3,kax-117,emp,4,r ɨ,
+mac-118_0,mac-118,1,1,- - uu,
+mac-118_1,mac-118,emp,2,r ɨ,
+mac-118_2,mac-118,pempl,3,ʔ n ɨ,
+mac-118_3,mac-118,pl1,4,k o n -,
+mak-119_0,mak-119,1a2,1,k ɨ,
+mak-119_1,mak-119,mform,2,n -,
+mak-119_2,mak-119,pl2,3,w a - n -,
+mak-119_3,mak-119,emp,4,n o,
+pan-120_0,pan-120,1,1,- j u,
+pan-120_2,pan-120,pl1,3,k o n -,
+pem-121_0,pem-121,1,1,- j uu,
+pem-121_1,pem-121,emp,2,r ə,
+pem-121_2,pem-121,pempl,3,- n o,
+pem-121_3,pem-121,pl1,4,k o n -,
+pem-122_0,pem-122,1,1,- j uu,
+pem-122_1,pem-122,emp,2,r ə,
+pem-122_2,pem-122,pl3,3,t o - -,
+pem-122_3,pem-122,pl1,4,k o n -,
+PPar-123_0,PPar-123,1a2,1,k ɨ,
+PPar-123_2,PPar-123,pl2,3,j a - m o,
+PPar-123_3,PPar-123,emp,4,r o,
+PPem-124_0,PPem-124,1,1,- j u,
+PPem-124_1,PPem-124,emp,2,r ə,
+PPem-124_2,PPem-124,pempl,3,ʔ n o,
+PPem-124_3,PPem-124,pl1,4,k o n -,
+PTar-125_0,PTar-125,1a2,1,k ɨ,
+PTar-125_1,PTar-125,mform,2,n -,
+PTar-125_2,PTar-125,pl2,3,j a - m o,
+PTir-126_0,PTir-126,1a2,1,k ɨ,
+PTir-126_1,PTir-126,mform,2,m ə,
+PTir-126_2,PTir-126,mform,3,n -,
+PTir-126_3,PTir-126,pl2,4,j a - m o,
+PWai-127_0,PWai-127,1a2,1,k ɨ,
+PWai-127_1,PWai-127,wform,2,w -,
+PWai-127_2,PWai-127,pl2,3,j a - m o,
+PXin-128_0,PXin-128,uku,1,- u g o,
+PXin-128_1,PXin-128,emp,2,r o,
+PXin-128_2,PXin-128,pl1,3,ŋ - m o,
+tam-129_0,tam-129,1a2,1,k i,
+tam-129_1,tam-129,pl1,2,k e m o,
+tri-130_0,tri-130,1a2,1,k ɨ,
+tri-130_1,tri-130,mform,2,m ə,
+tri-130_2,tri-130,mform,3,n -,
+tri-130_3,tri-130,pl2,4,j a - m o,
+uxc-131_0,uxc-131,uku,1,k u k u,
+uxc-131_1,uxc-131,emp,2,ɣ e,
+uxc-131_2,uxc-131,pl1,3,k o - -,
+wai-132_0,wai-132,1a2,1,k ɨ,
+wai-132_1,wai-132,wform,2,w -,
+wai-132_2,wai-132,pl2,3,j a - m -,
+way-133_0,way-133,1a2,1,k u,
+way-133_2,way-133,mform,3,m ə,
+way-133_3,way-133,emp,4,r -,
+way-133_4,way-133,pl2,5,- a - m -,
+way-133_5,way-133,pl1,6,k o m o,
+aka-134_0,aka-134,1a3,1,i - n - - - a,
+aku-135_0,aku-135,1a3,1,a - n - - j a,
+apa-136_0,apa-136,1a3,1,ɨ - n - - - a,
+ara-137_0,ara-137,ti,1,t͡ʃ i,
+ara-137_1,ara-137,1a3,2,- m n - - - a,
+bak-138_0,bak-138,ti,1,ʃ i,
+bak-138_1,bak-138,1a3,2,- - n - - - a,
+car-139_0,car-139,1a3,1,a - ɲ - - - a,
+hix-140_0,hix-140,1a3,1,a m n - - - a,
+ikp-141_0,ikp-141,ti,1,t͡ʃ i,
+ikp-141_1,ikp-141,1a3,2,- m n - - - a,
+ing-142_0,ing-142,1a3,1,i - n - - - a,
+kar-143_0,kar-143,1a3,1,- - n a ʔ n a,
+kax-144_0,kax-144,1a3,1,a m n - - - a,
+mac-145_0,mac-145,1a3,1,a - n - - n a,
+mak-146_0,mak-146,1a3,1,- - n - - ɲ a,
+map-147_0,map-147,1a3,1,- - n a h - a,
+pan-148_0,pan-148,1a3,1,a - n - - - a,
+pem-149_0,pem-149,1a3,1,i - n - - n a,
+PMan-150_0,PMan-150,1a3,1,a - n - - - a,
+pno-151_0,pno-151,1a3,1,a - n - - - a,
+PPar-152_0,PPar-152,1a3,1,a m n - - - a,
+PPek-153_0,PPek-153,ti,1,t͡ʃ i,
+PPek-153_1,PPek-153,1a3,2,- m n - - - a,
+PPem-154_0,PPem-154,1a3,1,i - n - - n a,
+PPP-155_0,PPP-155,1a3,1,i - n - - n a,
+PTar-156_0,PTar-156,1a3,1,a - n - - j a,
+PTir-157_0,PTir-157,1a3,1,a - n - - j a,
+PWai-158_0,PWai-158,1a3,1,a m n - - - a,
+PXin-159_0,PXin-159,ti,1,t͡ʃ i,
+PXin-159_1,PXin-159,1a3,2,- m n - - - a,
+tam-160_0,tam-160,1,1,- j u,
+tam-160_1,tam-160,1a3,2,- m n - - - a,
+tri-161_0,tri-161,1a3,1,a - n - - j a,
+uxc-162_1,uxc-162,1,2,- - u,
+uxc-162_2,uxc-162,emp,3,ɣ e,
+wai-163_0,wai-163,1a3,1,a m n - - - a,
+way-164_0,way-164,1a3,1,e m n - - - a,
+wmr-165_0,wmr-165,1a3,1,- - - a ʔ - a,
+yab-166_0,yab-166,1a3,1,a - n - - - a,
+yuk-167_0,yuk-167,1a3,1,- - n a - n a,
+yuk-167_1,yuk-167,emp,2,r -,
+aka-168_0,aka-168,2,1,- a m ə,
+aka-168_1,aka-168,emp,2,r ə,
+aka-168_2,aka-168,pempl,3,ʔ n o,
+aka-168_3,aka-168,pl1,4,k o n -,
+aku-169_0,aku-169,2,1,- ə m ə,
+aku-169_1,aku-169,2,2,- - n -,
+aku-169_2,aku-169,pl2,3,j a - m o,
+apa-170_0,apa-170,2,1,- a m a,
+apa-170_1,apa-170,emp,2,r a,
+apa-170_2,apa-170,pl1,3,k o m o,
+ara-171_0,ara-171,2,1,- o m o,
+ara-171_1,ara-171,emp,2,r o,
+ara-171_2,ara-171,pl1,3,ŋ - m o,
+bak-172_0,bak-172,2,1,- ə m a,
+bak-172_1,bak-172,emp,2,r -,
+bak-172_2,bak-172,pl2,3,- e - m o,
+car-173_0,car-173,2,1,- a ɲ -,
+car-173_1,car-173,pl2,2,- a - m o,
+car-173_2,car-173,emp,3,r o,
+hix-174_0,hix-174,2,1,- o m -,
+hix-174_1,hix-174,pl2,2,ɲ a - m o,
+ikp-175_0,ikp-175,2,1,- o m -,
+ikp-175_1,ikp-175,emp,2,r o,
+ikp-175_2,ikp-175,pl1,3,ŋ - m o,
+ing-176_0,ing-176,2,1,- a m ə,
+ing-176_1,ing-176,emp,2,r ə,
+ing-176_2,ing-176,pempl,3,ʔ n o,
+ing-176_3,ing-176,pl1,4,k o n -,
+kar-177_0,kar-177,2,1,- a m ɨ,
+kar-177_1,kar-177,pl2,2,j a - - -,
+kar-177_2,kar-177,emp,3,r o,
+kax-178_0,kax-178,2,1,- o m -,
+kax-178_1,kax-178,pl2,2,j a - - -,
+kax-178_2,kax-178,emp,3,r ɨ,
+mac-179_0,mac-179,2,1,- a m ɨ,
+mac-179_1,mac-179,emp,2,r ɨ,
+mac-179_2,mac-179,pempl,3,ʔ n ɨ,
+mac-179_3,mac-179,pl1,4,k o n -,
+mak-180_0,mak-180,2,1,- ə n -,
+mak-180_1,mak-180,pl2,2,w a - n -,
+mak-180_2,mak-180,emp,3,n o,
+map-181_0,map-181,2,1,- a - -,
+map-181_1,map-181,pl1,2,k o n -,
+map-181_2,map-181,pl3,3,t o m o,
+pan-182_0,pan-182,2,1,- a m ə,
+pan-182_1,pan-182,emp,2,n -,
+pan-182_2,pan-182,pl3,3,t o n -,
+PC-183_0,PC-183,2,1,- ə m -,
+PC-183_1,PC-183,pl2,2,j a - m o,
+pem-184_0,pem-184,2,1,- a m ə,
+pem-184_1,pem-184,emp,2,r ə,
+pem-184_2,pem-184,pempl,3,- n o,
+pem-184_3,pem-184,pl1,4,k o n -,
+PMan-185_0,PMan-185,2,1,m ə - -,
+PMan-185_1,PMan-185,pl1,2,k o n -,
+PMan-185_2,PMan-185,pl3,3,t o m o,
+pno-186_0,pno-186,2,1,m o - -,
+pno-186_1,pno-186,pl1,2,k o n -,
+pno-186_2,pno-186,pl3,3,t o m o,
+PPar-187_0,PPar-187,2,1,- o m -,
+PPar-187_1,PPar-187,pl2,2,j a - m o,
+PPar-187_2,PPar-187,emp,3,r o,
+PPek-188_0,PPek-188,2,1,- ə m ə,
+PPek-188_1,PPek-188,emp,2,r ə,
+PPem-189_0,PPem-189,2,1,- a m ə,
+PPem-189_1,PPem-189,emp,2,r ə,
+PPem-189_2,PPem-189,pempl,3,ʔ n o,
+PPem-189_3,PPem-189,pl1,4,k o n -,
+PPP-190_0,PPP-190,2,1,- a m ə,
+PPP-190_1,PPP-190,emp,2,r ə,
+PTar-191_0,PTar-191,2,1,- ə n -,
+PTar-191_1,PTar-191,pl2,2,j a - m o,
+PTir-192_0,PTir-192,2,1,- ə m ə,
+PTir-192_1,PTir-192,2,2,- - n -,
+PTir-192_2,PTir-192,pl2,3,j a - m o,
+PWai-193_0,PWai-193,2,1,- o m -,
+PWai-193_1,PWai-193,pl2,2,j a - m o,
+PWai-193_2,PWai-193,emp,3,r o,
+PXin-194_0,PXin-194,2,1,- o m o,
+PXin-194_1,PXin-194,emp,2,r o,
+PXin-194_2,PXin-194,pl1,3,ŋ - m o,
+tam-195_0,tam-195,2,1,- a m -,
+tam-195_1,tam-195,pl2,2,ɲ a - m o,
+tam-195_2,tam-195,emp,3,r o,
+tri-196_0,tri-196,2,1,- ə m ə,
+tri-196_1,tri-196,2,2,- - n -,
+tri-196_2,tri-196,pl2,3,j a - m o,
+uxc-197_0,uxc-197,2,1,- a m -,
+uxc-197_1,uxc-197,pl2,2,- a - - -,
+uxc-197_2,uxc-197,emp,3,ɣ o,
+wai-198_0,wai-198,2,1,- a m -,
+wai-198_1,wai-198,pl2,2,j a - m -,
+wai-198_2,wai-198,emp,3,r o,
+way-199_0,way-199,2,1,- ə m ə,
+way-199_1,way-199,emp,2,r -,
+way-199_2,way-199,pl2,3,- a - m -,
+way-199_3,way-199,pl1,4,k o m o,
+wmr-200_0,wmr-200,2,1,- a m ɨ,
+wmr-200_1,wmr-200,emp,2,r ɨ,
+wmr-200_2,wmr-200,pl3,3,t ɨ - -,
+yab-201_0,yab-201,2,1,m o - -,
+yab-201_1,yab-201,pl1,2,n - - -,
+yab-201_2,yab-201,pl3,3,t o m o,
+yuk-202_0,yuk-202,2,1,- a m o,
+yuk-202_1,yuk-202,emp,2,r -,
+yuk-202_2,yuk-202,pl2,3,- a - - -,
+aku-203_0,aku-203,aanim,1,- n ə r ə,
+apa-204_0,apa-204,aanim,1,ɨ n o r o,
+bak-205_0,bak-205,aanim,1,i n ə r a,
+car-206_0,car-206,aanim,1,- n ə r ə,
+hix-207_0,hix-207,aanim,1,- n o r o,
+kar-208_0,kar-208,aanim,1,i n o r o,
+kar-209_0,kar-209,aanim,1,- ɲ o r o,
+kax-210_0,kax-210,aanim,1,- n o r o,
+mak-211_0,mak-211,aanim,1,- ɲ əə r ə,
+PPar-212_0,PPar-212,aanim,1,- n o r o,
+PTar-213_0,PTar-213,aanim,1,- n əə r ə,
+PTir-214_0,PTir-214,aanim,1,- n ə r ə,
+PWai-215_0,PWai-215,aanim,1,- n o r o,
+tam-216_0,tam-216,aanim,1,- n a r e,
+tri-217_0,tri-217,aanim,1,- n ə r ə,
+uxc-218_0,uxc-218,aanim,1,ɨ ŋ e l e,
+wai-219_0,wai-219,aanim,1,- n o r o,
+way-220_0,way-220,aanim,1,i n ə r ə,
+way-220_1,way-220,emp,2,r ə,
+aku-221_0,aku-221,aanim,1,- n - - -,
+aku-221_1,aku-221,pl2,2,- a - m o,
+aku-221_2,aku-221,emp,3,r o,
+apa-222_0,apa-222,aanim,1,ɨ n a r o,
+car-223_0,car-223,aanim,1,- n - - -,
+car-223_1,car-223,pl2,2,- a - m o,
+car-223_2,car-223,emp,3,r o,
+hix-224_0,hix-224,aanim,1,- ɲ - - -,
+hix-224_1,hix-224,pl2,2,- a - m o,
+hix-224_2,hix-224,emp,3,r o,
+kar-225_0,kar-225,aanim,1,i n a r o,
+kar-226_0,kar-226,aanim,1,- ɲ o r o,
+kar-226_1,kar-226,pl1,2,k o n -,
+kax-227_0,kax-227,aanim,1,- n - - -,
+kax-227_1,kax-227,pl2,2,- a - m o,
+kax-227_2,kax-227,emp,3,r -,
+kax-227_3,kax-227,pl2,4,j a - m ɨ,
+mak-228_0,mak-228,aanim,1,- n - - -,
+mak-228_1,mak-228,pl2,2,ɲ a - n -,
+mak-228_2,mak-228,emp,3,n o,
+PPar-229_0,PPar-229,aanim,1,i n - - -,
+PPar-229_1,PPar-229,pl2,2,- a - m o,
+PPar-229_2,PPar-229,emp,3,r o,
+PTar-230_0,PTar-230,aanim,1,- n - - -,
+PTar-230_1,PTar-230,pl2,2,- a - m o,
+PTir-231_0,PTir-231,aanim,1,- n - - -,
+PTir-231_1,PTir-231,pl2,2,- a - m o,
+PTir-231_2,PTir-231,emp,3,r o,
+PWai-232_0,PWai-232,aanim,1,i n - - -,
+PWai-232_1,PWai-232,pl2,2,- a - m o,
+PWai-232_2,PWai-232,emp,3,r o,
+tri-233_0,tri-233,aanim,1,- n - - -,
+tri-233_1,tri-233,pl2,2,- a - m o,
+uxc-234_0,uxc-234,aanim,1,ɨ n - - -,
+uxc-234_1,uxc-234,pl2,2,- a - - -,
+uxc-234_2,uxc-234,emp,3,ɣ o,
+wai-235_0,wai-235,aanim,1,- ɲ - - e,
+wai-235_1,wai-235,pl2,2,ʃ a - m -,
+wai-235_2,wai-235,emp,3,r o,
+way-236_0,way-236,aanim,1,i n - - -,
+way-236_1,way-236,pl2,2,- a - m o,
+way-236_2,way-236,emp,3,r o,
+aku-237_0,aku-237,ainan,1,i r ə,
+apa-238_0,apa-238,ainan,1,ɨ r o,
+bak-239_0,bak-239,ainan,1,i l ə,
+car-240_0,car-240,ainan,1,i r ə,
+hix-241_0,hix-241,ainan,1,ɨ r o,
+kar-242_0,kar-242,ainan,1,i r o,
+kax-243_0,kax-243,ainan,1,i r o,
+mak-244_0,mak-244,ainan,1,i j ə,
+PPar-245_0,PPar-245,ainan,1,i r o,
+PTar-246_0,PTar-246,ainan,1,i r ə,
+PTir-247_0,PTir-247,ainan,1,i r ə,
+PWai-248_0,PWai-248,ainan,1,ɨ r o,
+tri-249_0,tri-249,ainan,1,i r ə,
+uxc-250_0,uxc-250,ainan,1,i l e,
+uxc-251_0,uxc-251,ainan,1,ɨ l e,
+wai-252_0,wai-252,ainan,1,e r o,
+way-253_0,way-253,ainan,1,i r ə,
+wmr-254_0,wmr-254,ainan,1,i r ɨ,
+kar-255_0,kar-255,ainan,1,i r o,
+kar-255_1,kar-255,pl1,2,k o n -,
+kax-256_0,kax-256,ainan,1,i r o,
+kax-256_1,kax-256,pl4,2,n n e,
+tri-257_0,tri-257,ainan,1,i r ə,
+tri-257_1,tri-257,pl3,2,t o m o,
+apa-258_0,apa-258,danim,1,m o - k ɨ -,
+ara-259_0,ara-259,danim,1,m oo - k - -,
+ara-260_0,ara-260,danim,1,m o - g ɨ -,
+ara-260_1,ara-260,xinsg,2,n,
+bak-261_0,bak-261,danim,1,m ə - k ə -,
+car-262_0,car-262,danim,1,m ə - k ɨ -,
+hix-danim_0,hix-danim,danim,1,m o - k ɨ -,
+ikp-264_0,ikp-264,danim,1,- u - g u -,
+ikp-264_1,ikp-264,xinsg,2,n,
+ing-265_0,ing-265,danim,1,m ɨ - k ɨ -,
+kar-266_0,kar-266,danim,1,m o ʔ k ɨ -,
+kax-267_0,kax-267,danim,1,m o - k ɨ -,
+mak-268_0,mak-268,danim,1,m ə k k ɨ -,
+pan-269_0,pan-269,danim,1,m u - k u h,
+PPar-270_0,PPar-270,danim,1,m o - k ɨ -,
+PPek-271_0,PPek-271,danim,1,m ə - k ɨ -,
+PTar-272_0,PTar-272,danim,1,m ə - k ɨ -,
+PWai-273_0,PWai-273,danim,1,m o - k ɨ -,
+PXin-274_0,PXin-274,danim,1,m o - g ɨ -,
+PXin-274_1,PXin-274,xinsg,2,n,
+tam-275_0,tam-275,danim,1,m a - k e -,
+tri-276_0,tri-276,danim,1,m ə - k ɨ -,
+uxc-277_0,uxc-277,danim,1,- e - k - -,
+wai-278_0,wai-278,danim,1,m ɨ - k ɨ -,
+way-279_0,way-279,danim,1,m ə - k ɨ -,
+wmr-280_0,wmr-280,danim,1,m ɨ - k ɨ -,
+yuk-281_0,yuk-281,danim,1,- a - k e -,
+apa-282_0,apa-282,danim,1,m o - k - -,
+apa-282_1,apa-282,pl2,2,- a - m o,
+bak-283_0,bak-283,danim,1,- a - k a -,
+bak-283_1,bak-283,pl2,2,- e - m o,
+car-284_0,car-284,danim,1,m ə - k - -,
+car-284_1,car-284,pl2,2,- a - - -,
+ikp-286_0,ikp-286,danim,1,- u - g - -,
+ikp-286_1,ikp-286,pl2,2,j a - m -,
+kar-287_0,kar-287,danim,1,m oo - k ɨ -,
+kar-287_1,kar-287,pl1,2,k o n -,
+kar-288_0,kar-288,danim,1,m o ʔ k - -,
+kar-288_1,kar-288,pl2,2,- a - n -,
+mak-289_0,mak-289,danim,1,m a k k - -,
+mak-289_1,mak-289,pl2,2,- a - m o,
+pan-290_0,pan-290,danim,1,m u - k u -,
+pan-290_1,pan-290,pl1,2,k o n -,
+PPar-291_0,PPar-291,danim,1,m o - k - -,
+PPar-291_1,PPar-291,pl2,2,j a - m o,
+PPek-292_0,PPek-292,danim,1,m ə - k - -,
+PPek-292_1,PPek-292,pl2,2,j a - m o,
+PTar-293_0,PTar-293,danim,1,m ə - k - -,
+PTar-293_1,PTar-293,pl2,2,j a - m o,
+PWai-294_0,PWai-294,danim,1,m o - k - -,
+PWai-294_1,PWai-294,pl2,2,j a - m o,
+PXin-295_0,PXin-295,danim,1,m o - g - -,
+PXin-295_1,PXin-295,pl2,2,j a - m -,
+tam-296_0,tam-296,danim,1,m u - k - -,
+tam-296_1,tam-296,pl2,2,- i a m o,
+tri-297_0,tri-297,danim,1,m ə - k ɨ -,
+tri-297_1,tri-297,pl2,2,j a - m o,
+uxc-298_0,uxc-298,danim,1,- a - k - -,
+uxc-298_1,uxc-298,pl2,2,- a - - -,
+uxc-298_2,uxc-298,emp,3,ɣ o,
+wai-299_0,wai-299,danim,1,m ɨ - k - -,
+wai-299_1,wai-299,pl2,2,j a - m -,
+way-300_0,way-300,danim,1,m ə - k - -,
+way-300_1,way-300,pl2,2,j a - m o,
+yuk-301_0,yuk-301,danim,1,- a - k - -,
+yuk-301_1,yuk-301,pl2,2,ʃ a - - -,
+apa-302_0,apa-302,dinan,1,m o n ɨ,
+ara-303_0,ara-303,dinan,1,m o n -,
+ara-304_0,ara-304,dinan,1,m u n -,
+car-305_0,car-305,dinan,1,m ə n ɨ,
+hix-306_0,hix-306,dinan,1,m o n ɨ,
+ikp-307_0,ikp-307,dinan,1,m u n -,
+kar-308_0,kar-308,dinan,1,m o n ɨ,
+kax-309_0,kax-309,dinan,1,m o n ɨ,
+mak-310_0,mak-310,dinan,1,m əə n ɨ,
+pan-311_0,pan-311,dinan,1,m u h -,
+PPar-312_0,PPar-312,dinan,1,m o n ɨ,
+PTar-313_0,PTar-313,dinan,1,m ə n ɨ,
+PWai-314_0,PWai-314,dinan,1,m o n ɨ,
+PXin-315_0,PXin-315,dinan,1,m o n -,
+tri-316_0,tri-316,dinan,1,m ə n ɨ,
+wai-317_0,wai-317,dinan,1,m ɨ n ɨ,
+way-318_0,way-318,dinan,1,m ɨ n ɨ,
+yab-319_0,yab-319,dinan,1,m ə n ɨ,
+apa-320_1,apa-320,pl4,2,ʔ n e,
+ikp-321_0,ikp-321,dinan,1,m u - -,
+ikp-321_1,ikp-321,pl2,2,j a - m -,
+kar-322_0,kar-322,dinan,1,m o n ɨ,
+kar-322_1,kar-322,pl1,2,k o n -,
+tri-323_0,tri-323,dinan,1,m ə n -,
+tri-323_1,tri-323,pl3,2,t o m o,
+way-324_0,way-324,dinan,1,m ɨ n ɨ,
+way-324_1,way-324,pl1,2,k o m o,
+aka-325_0,aka-325,danim,1,- - - k ɨ -,
+aka-325_1,aka-325,emp,2,r ə,
+aku-326_0,aku-326,danim,1,m ə - k ɨ -,
+aku-326_1,aku-326,emp,2,r ə,
+apa-327_0,apa-327,danim,1,m o - k ɨ -,
+apa-327_1,apa-327,emp,2,r o,
+bak-328_1,bak-328,danim,2,w ə - k ə -,
+car-329_0,car-329,danim,1,m ə - k - -,
+car-329_1,car-329,emp,2,- ə,
+hix-330_0,hix-330,danim,1,m o - k - -,
+hix-330_1,hix-330,emp,2,r o,
+ing-331_0,ing-331,danim,1,- - - k ɨ -,
+ing-331_1,ing-331,emp,2,r ə,
+ing-331_2,ing-331,emp,3,r ə,
+kar-332_0,kar-332,danim,1,m o ʔ k - -,
+kar-332_1,kar-332,emp,2,- o,
+kax-333_0,kax-333,danim,1,m o - k o -,
+kax-333_1,kax-333,emp,2,r o,
+mac-334_0,mac-334,danim,1,m ɨɨ - k ɨ -,
+mac-334_1,mac-334,emp,2,r ɨ,
+mak-335_0,mak-335,danim,1,m ə ʔ - - -,
+mak-335_1,mak-335,emp,2,r ə,
+pan-336_0,pan-336,danim,1,- - - k ə -,
+pan-336_1,pan-336,emp,2,n -,
+pem-337_0,pem-337,danim,1,m ə ʔ - - -,
+pem-337_1,pem-337,emp,2,r ə,
+PPar-338_0,PPar-338,danim,1,m o - k o -,
+PPar-338_1,PPar-338,emp,2,r o,
+PPem-339_0,PPem-339,danim,1,m ə - k ɨ -,
+PPem-339_1,PPem-339,emp,2,r ə,
+PPP-340_0,PPP-340,danim,1,m ə - k ɨ -,
+PPP-340_1,PPP-340,emp,2,r ə,
+PTar-341_0,PTar-341,danim,1,m ə - k ɨ -,
+PTar-341_1,PTar-341,emp,2,r ə,
+PWai-342_0,PWai-342,danim,1,m o - k - -,
+PWai-342_1,PWai-342,emp,2,r o,
+tam-343_0,tam-343,danim,1,- - - k - -,
+tam-343_1,tam-343,emp,2,r e,
+tam-343_2,tam-343,emp,3,r e,
+tri-344_0,tri-344,danim,1,m əə - - - -,
+tri-344_1,tri-344,emp,2,r ə,
+wai-345_0,wai-345,danim,1,m ɨ - k - -,
+wai-345_1,wai-345,emp,2,r o,
+way-346_0,way-346,danim,1,m ə - k - -,
+way-346_1,way-346,emp,2,r ə,
+way-346_2,way-346,emp,3,r ə,
+apa-347_0,apa-347,danim,1,m o - k - -,
+apa-347_1,apa-347,pl2,2,- a - - -,
+apa-347_2,apa-347,emp,3,r o,
+car-348_0,car-348,danim,1,m ə - k - -,
+car-348_1,car-348,pl2,2,- a - m o,
+car-348_2,car-348,emp,3,r o,
+hix-349_0,hix-349,danim,1,m o - k - -,
+hix-349_1,hix-349,pl2,2,j a - m o,
+ing-350_0,ing-350,danim,1,m ɨ - k ɨ -,
+ing-350_1,ing-350,pl2,2,j a - m ə,
+ing-351_0,ing-351,danim,1,- - - k - -,
+ing-351_1,ing-351,pl2,2,- a - m o,
+ing-351_2,ing-351,emp,3,r o,
+kar-352_0,kar-352,danim,1,m o ʔ k - -,
+kar-352_1,kar-352,pl2,2,- a - - -,
+kar-352_2,kar-352,emp,3,r o,
+kax-353_0,kax-353,danim,1,m o - k - -,
+kax-353_1,kax-353,pl2,2,j a - - -,
+kax-353_2,kax-353,emp,3,r ɨ,
+mac-354_1,mac-354,danim,2,- n - k - -,
+mac-354_2,mac-354,pl2,3,- a - m o,
+mac-354_3,mac-354,emp,4,r o,
+mak-355_0,mak-355,danim,1,- - - k - -,
+mak-355_1,mak-355,pl2,2,- a - n -,
+mak-355_2,mak-355,emp,3,n o,
+pan-356_0,pan-356,danim,1,- - - k - -,
+pan-356_1,pan-356,pl2,2,- a - m ə,
+pan-356_2,pan-356,emp,3,n -,
+pan-356_3,pan-356,pl3,4,t o n -,
+PTar-358_0,PTar-358,danim,1,m ə - k ɨ -,
+PTar-358_1,PTar-358,emp,2,r ə,
+PTar-358_2,PTar-358,pl2,3,j a - m o,
+tam-359_0,tam-359,danim,1,- - - k - -,
+tam-359_1,tam-359,pl2,2,- i a m o,
+tam-359_2,tam-359,emp,3,r o,
+tri-360_0,tri-360,danim,1,m əə - - - -,
+tri-360_1,tri-360,pl2,2,j a - m o,
+way-361_0,way-361,danim,1,m ə - k - -,
+way-361_1,way-361,pl2,2,j a - - -,
+way-361_2,way-361,emp,3,r ə,
+aka-362_0,aka-362,minan,1,m ə r ə,
+aku-363_0,aku-363,minan,1,m ə r ə,
+apa-364_0,apa-364,minan,1,m o r o,
+ara-365_0,ara-365,minan,1,m o r o,
+bak-366_0,bak-366,minan,1,m ə r ə,
+car-367_0,car-367,minan,1,m ə r ə,
+hix-368_0,hix-368,minan,1,m o r o,
+ing-369_0,ing-369,minan,1,m ə r ə,
+kar-370_0,kar-370,minan,1,m o r o,
+kax-371_0,kax-371,minan,1,m o r o,
+mac-372_0,mac-372,minan,1,m ɨ r ɨ,
+mac-372_1,mac-372,emp,2,r ɨ,
+mak-373_0,mak-373,minan,1,m ə r ə,
+map-374_0,map-374,minan,1,m ə r ɨ,
+pan-375_0,pan-375,minan,1,m ə n -,
+pem-376_0,pem-376,minan,1,m ə r ə,
+PPar-377_0,PPar-377,minan,1,m o r o,
+PPek-378_0,PPek-378,minan,1,m ə r ə,
+PPem-379_0,PPem-379,minan,1,m ə r ə,
+PPP-380_0,PPP-380,minan,1,m ə r ə,
+PTar-381_0,PTar-381,minan,1,m ə r ə,
+PWai-382_0,PWai-382,minan,1,m o r o,
+PXin-383_0,PXin-383,minan,1,m o r o,
+tam-384_0,tam-384,minan,1,m o r e,
+tri-385_0,tri-385,minan,1,m ə r ə,
+uxc-386_0,uxc-386,minan,1,- e ɣ e,
+wai-387_0,wai-387,minan,1,m o r o,
+way-388_0,way-388,minan,1,m ə r ə,
+wmr-389_0,wmr-389,minan,1,m ɨ r ɨ,
+yab-390_0,yab-390,minan,1,m ə r ə,
+apa-391_0,apa-391,minan,1,m o r o,
+apa-391_1,apa-391,pl4,2,ʔ n e,
+ing-392_0,ing-392,minan,1,m ə r ə,
+ing-392_1,ing-392,pl2,2,j a - m ə,
+kar-393_0,kar-393,minan,1,m o r o,
+kar-393_1,kar-393,pl1,2,k o n -,
+pan-395_0,pan-395,dinan,1,m ə n -,
+pan-395_1,pan-395,pl1,2,k o n -,
+tri-396_0,tri-396,minan,1,m ə r ə,
+tri-396_1,tri-396,pl3,2,t o m o,
+way-397_0,way-397,minan,1,m ə r ə,
+way-397_1,way-397,pl1,2,k o m o,
+aku-398_0,aku-398,panim,1,m ə ʔ - e,
+apa-399_0,apa-399,panim,1,m o s - e,
+ara-400_0,ara-400,panim,1,m o d - e,
+ara-400_1,ara-400,xinsg,2,n,
+bak-401_0,bak-401,panim,1,m e - - -,
+bak-401_1,bak-401,emp,2,r ə,
+car-402_0,car-402,panim,1,m ə h - ə,
+hix-403_0,hix-403,panim,1,m o s - o,
+ikp-404_0,ikp-404,panim,1,- o r - e,
+ikp-404_1,ikp-404,xinsg,2,n,
+kar-405_0,kar-405,panim,1,m o ʔ s e,
+kax-406_0,kax-406,panim,1,m o s - o,
+kax-406_1,kax-406,emp,2,r o,
+mac-407_0,mac-407,panim,1,m ɨ s - e,
+mac-407_1,mac-407,emp,2,r ɨ,
+map-408_0,map-408,panim,1,m e h - e,
+pan-409_0,pan-409,panim,1,m ə h - -,
+pem-410_0,pem-410,panim,1,m ə s - ə,
+pem-410_1,pem-410,emp,2,r ə,
+PPar-411_0,PPar-411,panim,1,m o s - o,
+PPar-411_1,PPar-411,emp,2,r o,
+PPek-412_0,PPek-412,panim,1,m ə t - e,
+PPek-412_1,PPek-412,emp,2,r ə,
+PPem-413_0,PPem-413,panim,1,m ə s - e,
+PPP-414_0,PPP-414,panim,1,m ə s - e,
+PTar-415_0,PTar-415,panim,1,m ə t͡ʃ - e,
+PWai-416_0,PWai-416,panim,1,m o s - o,
+PXin-417_0,PXin-417,panim,1,m o d - e,
+PXin-417_1,PXin-417,xinsg,2,n,
+tam-418_0,tam-418,panim,1,m o t͡ʃ - e,
+tri-419_0,tri-419,panim,1,m ə - - e,
+uxc-420_0,uxc-420,panim,1,- e s - e,
+wai-421_0,wai-421,panim,1,m o s - o,
+way-422_0,way-422,panim,1,m ə s - i,
+way-423_0,way-423,panim,1,m ə h - e,
+way-423_1,way-423,emp,2,r ə,
+yuk-424_0,yuk-424,panim,1,m a ʃ - -,
+aku-425_0,aku-425,panim,1,m ə - - e,
+aku-425_1,aku-425,pl2,2,t͡ʃ a - m o,
+apa-426_0,apa-426,panim,1,m o ʃ - -,
+apa-426_1,apa-426,pl2,2,- i a m o,
+bak-427_0,bak-427,panim,1,- a s - a,
+bak-427_1,bak-427,pl2,2,- e - m o,
+car-428_0,car-428,panim,1,m ə - - -,
+car-428_1,car-428,pl2,2,s a - - -,
+hix-429_0,hix-429,panim,1,m o ʃ - -,
+hix-429_1,hix-429,pl2,2,- a - m o,
+ikp-430_0,ikp-430,panim,1,w - - - -,
+ikp-430_1,ikp-430,pl2,2,- a - m -,
+kar-431_0,kar-431,panim,1,m o ʔ s e,
+kar-431_1,kar-431,pl1,2,k o n -,
+kar-432_0,kar-432,panim,1,m oo - - -,
+kar-432_1,kar-432,pl2,2,j a - n -,
+kar-433_0,kar-433,panim,1,m o ʔ - -,
+kar-433_1,kar-433,pl2,2,s a - - -,
+kar-433_2,kar-433,emp,3,r o,
+kax-434_0,kax-434,panim,1,m o ʔ - -,
+kax-434_1,kax-434,pl2,2,t͡ʃ a - - -,
+kax-434_2,kax-434,emp,3,r ɨ,
+mac-435_1,mac-435,panim,2,n - s - -,
+mac-435_2,mac-435,pl2,3,- e - m o,
+mac-435_3,mac-435,emp,4,r o,
+pan-436_0,pan-436,panim,1,m ə h - -,
+pan-436_1,pan-436,pl2,2,t͡ʃ a - n -,
+pan-436_2,pan-436,pl3,3,t o n -,
+pem-437_1,pem-437,panim,2,ʔ - s - -,
+pem-437_2,pem-437,pl2,3,- a - m ə,
+pem-437_3,pem-437,emp,4,r ə,
+PPar-438_0,PPar-438,panim,1,m o ʔ - -,
+PPar-438_1,PPar-438,pl2,2,t͡ʃ a - m o,
+PPar-438_2,PPar-438,emp,3,r o,
+PPek-439_0,PPek-439,panim,1,m ə t - -,
+PPek-439_1,PPek-439,pl2,2,j a - m o,
+PTar-440_0,PTar-440,panim,1,m ə t͡ʃ - e,
+PTar-440_1,PTar-440,pl2,2,t͡ʃ a - m o,
+PWai-441_0,PWai-441,panim,1,m o ʃ - -,
+PWai-441_1,PWai-441,pl2,2,- a - m o,
+PXin-442_0,PXin-442,panim,1,m o d - -,
+PXin-442_1,PXin-442,pl2,2,j a - m -,
+tam-443_0,tam-443,panim,1,- - t͡ʃ - -,
+tam-443_1,tam-443,pl2,2,- a - m o,
+tam-443_2,tam-443,emp,3,r o,
+tri-444_0,tri-444,panim,1,m ə - - e,
+tri-444_1,tri-444,pl2,2,s a - m o,
+uxc-445_0,uxc-445,pl2,1,- a - - -,
+uxc-445_1,uxc-445,emp,2,ɣ o,
+wai-446_0,wai-446,panim,1,m o ʃ - -,
+wai-446_1,wai-446,pl2,2,- a - m -,
+way-447_0,way-447,panim,1,m ə h - -,
+way-447_1,way-447,pl2,2,- a - m o,
+way-448_0,way-448,panim,1,m ə h - -,
+way-448_1,way-448,pl2,2,- a - - -,
+way-448_2,way-448,emp,3,r ə,
+yuk-449_0,yuk-449,panim,1,m a ʃ - -,
+yuk-449_1,yuk-449,pl2,2,- a - - -,
+way-450_1,way-450,pinan2,2,s - i n - -,
+aka-451_0,aka-451,pinan1,1,- s e r ə -,
+aku-452_0,aku-452,pinan1,1,t͡ʃ - e r ə -,
+apa-453_0,apa-453,pinan1,1,- s e r o -,
+ara-454_0,ara-454,pinan1,1,- - e r o -,
+bak-455_0,bak-455,pinan1,1,- ʃ i r ə -,
+car-456_0,car-456,pinan1,1,- - ə r ə -,
+ing-457_0,ing-457,pinan1,1,- s ə r ə -,
+kar-458_0,kar-458,pinan1,1,- - e r o -,
+kax-459_0,kax-459,pinan1,1,- s o r o -,
+mac-460_0,mac-460,pinan1,1,- s ɨ r ɨ -,
+mac-460_1,mac-460,emp,2,r ɨ,
+mak-461_0,mak-461,pinan1,1,- - e r ə -,
+pan-462_0,pan-462,pinan1,1,- - - s ɨ h,
+pem-463_0,pem-463,pinan1,1,- s ə r ə -,
+PPar-464_0,PPar-464,pinan1,1,- s o r o -,
+PPek-465_0,PPek-465,pinan1,1,t͡ʃ - e r ə -,
+PPem-466_0,PPem-466,pinan1,1,- s ə r ə -,
+PTar-467_0,PTar-467,pinan1,1,t͡ʃ - e r ə -,
+PXin-468_0,PXin-468,pinan1,1,- - e r o -,
+tri-469_0,tri-469,pinan1,1,- s e r ə -,
+uxc-470_0,uxc-470,pinan1,1,- - i ɣ e -,
+way-471_0,way-471,pinan1,1,- h e r ə -,
+aku-472_0,aku-472,pinan2,1,t͡ʃ - e n ɨ -,
+apa-473_0,apa-473,pinan2,1,s - e n ɨ -,
+ara-474_0,ara-474,pinan2,1,- - e n - -,
+car-475_0,car-475,pinan2,1,- - e n ɨ -,
+hix-476_0,hix-476,pinan2,1,- - o n ɨ -,
+ikp-477_1,ikp-477,pinan2,2,- - e n - -,
+kar-478_0,kar-478,pinan2,1,- - e n ɨ -,
+mac-479_0,mac-479,pinan2,1,s - e n i -,
+pem-480_0,pem-480,pinan2,1,s - e n ə k,
+PPek-481_0,PPek-481,pinan2,1,t͡ʃ - e n - -,
+PTar-482_0,PTar-482,pinan2,1,t͡ʃ - e n ɨ -,
+PWai-483_0,PWai-483,pinan2,1,- - o n ɨ -,
+PXin-484_0,PXin-484,pinan2,1,- - e n - -,
+tam-485_0,tam-485,pinan2,1,t͡ʃ - e n e -,
+tri-486_0,tri-486,pinan2,1,s - e n ɨ -,
+wai-487_0,wai-487,pinan2,1,- - o n - -,
+way-488_0,way-488,pinan2,1,s - i n ɨ -,
+yab-489_0,yab-489,pinan2,1,s - e n i -,
+apa-490_0,apa-490,pinan1,1,- s e r o -,
+apa-490_1,apa-490,pl4,2,ʔ n e,
+ara-492_0,ara-492,pinan1,1,- - e r o -,
+ara-492_1,ara-492,pl1,2,ŋ - m o,
+ikp-493_1,ikp-493,pinan2,2,- - e - - -,
+ikp-493_2,ikp-493,pl2,3,j a - m -,
+ing-494_0,ing-494,pinan1,1,- - - s ə -,
+ing-494_1,ing-494,emp,2,r ə,
+ing-494_2,ing-494,pl2,3,j a - m ə,
+kar-495_0,kar-495,pinan1,1,- - e r o -,
+kar-495_1,kar-495,pl1,2,k o n -,
+kar-496_0,kar-496,pinan2,1,- - e n ɨ -,
+kar-496_1,kar-496,pl1,2,k o n -,
+kax-497_0,kax-497,pinan1,1,- s o r o -,
+kax-497_1,kax-497,pl4,2,n n e,
+pan-498_0,pan-498,pinan1,1,- - - s ɨ h,
+pan-498_1,pan-498,pl1,2,k o n -,
+way-499_0,way-499,pinan1,1,- h e r ə -,
+way-499_1,way-499,pl1,2,k o m o,
+way-500_0,way-500,pinan2,1,s - i n - -,
+way-500_1,way-500,pl1,2,k o m o,
+ing-501_0,ing-501,toto,1,t o ʔ -,
+mac-502_0,mac-502,1,1,- - uu,
+mac-502_1,mac-502,emp,2,r ɨ,
+mac-502_2,mac-502,pl3,3,- - ʔ -,
+mac-502_3,mac-502,pl1,4,k o n -,
+mac-503_0,mac-503,toto,1,t o ʔ -,
+pem-508_0,pem-508,1,1,- j uu,
+pem-508_1,pem-508,emp,2,r ə,
+pem-508_2,pem-508,pl3,3,t o - -,
+pem-508_3,pem-508,pl1,4,k o n -,
+pem-509_0,pem-509,toto,1,t o ʔ -,
+PPar-517_0,PPar-517,1a2,1,k ɨ,
+PPar-517_2,PPar-517,emp,3,r o,
+PPar-518_0,PPar-518,ainan,1,i r o,
+PPem-519_0,PPem-519,minan,1,m ə r ə,
+PPem-520_0,PPem-520,pinan1,1,- s ə r ə -,
+PWai-521_0,PWai-521,1a2,1,k ɨ,
+PWai-521_1,PWai-521,wform,2,w ɨ,
+PWai-521_2,PWai-521,emp,3,r o,
+PWai-522_0,PWai-522,ainan,1,ɨ r o,
+tri-523_1,tri-523,pl2,2,j a - m o,
+tri-524_0,tri-524,pinan1,1,- s e r ə -,
+tri-524_1,tri-524,pl3,2,t o m o,
+tri-525_0,tri-525,pinan2,1,s - e n - -,
+tri-525_1,tri-525,pl3,2,t o m o,
+uxc-529_1,uxc-529,danim,2,- e - k - -,
+wai-530_0,wai-530,danim,1,m o - - - -,
+wai-530_1,wai-530,pl2,2,ʃ a - m -,
+wai-531_0,wai-531,pinan2,1,- - o n - -,
+way-533_0,way-533,toto,1,t o t o,
+PPek-541_0,PPek-541,dinan,1,m ə n -,
+PPar-542_0,PPar-542,danim,1,m o - k - -,
+PPar-542_1,PPar-542,pl2,2,j a - m o,
+PPar-542_2,PPar-542,emp,3,r o,
+PPar-543_0,PPar-543,pinan2,1,- - o n ɨ -,
+PC-544_0,PC-544,1a3,1,a - - i p n a,
+PC-545_0,PC-545,1a2,1,k ɨ,
+PC-546_0,PC-546,1a2,1,k ɨ,
+PC-546_2,PC-546,pl2,3,j a - m o,
+PC-547_0,PC-547,aanim,1,i n ə r ə,
+PC-548_0,PC-548,aanim,1,i n - - -,
+PC-548_1,PC-548,pl2,2,j a - m o,
+PC-549_0,PC-549,ainan,1,i r ə,
+PC-550_0,PC-550,panim,1,m ə t j ə,
+PC-551_0,PC-551,panim,1,m ə t j -,
+PC-551_1,PC-551,pl2,2,- a - m o,
+PC-552_0,PC-552,pinan1,1,t j ə r ə -,
+PC-553_0,PC-553,pinan2,1,t j ə n ɨ -,
+PC-554_0,PC-554,minan,1,m ə r ə,
+PC-555_0,PC-555,danim,1,m ə - k ɨ -,
+PC-556_0,PC-556,danim,1,m ə - k - -,
+PC-556_1,PC-556,pl2,2,j a - m o,
+PC-557_0,PC-557,dinan,1,m ə n ɨ,
+hix-pl-2_0,hix-pl-2,pl2,1,j a - m o,

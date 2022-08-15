@@ -1,0 +1,1072 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{alves2017arara}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=13feb86e76702387ceb8c0bf67633a1e}{%
+           family={Alves},
+           familyi={A\bibinitperiod},
+           given={Ana\bibnamedelimb Carolina\bibnamedelima Ferreira},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Universidade de São Paulo}%
+      }
+      \strng{namehash}{13feb86e76702387ceb8c0bf67633a1e}
+      \strng{fullhash}{13feb86e76702387ceb8c0bf67633a1e}
+      \strng{bibnamehash}{13feb86e76702387ceb8c0bf67633a1e}
+      \strng{authorbibnamehash}{13feb86e76702387ceb8c0bf67633a1e}
+      \strng{authornamehash}{13feb86e76702387ceb8c0bf67633a1e}
+      \strng{authorfullhash}{13feb86e76702387ceb8c0bf67633a1e}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Morfofonologia, morfossintaxe e o sistema de tempo, aspecto e modo em {Arara} ({Karib})}
+      \field{type}{phdthesis}
+      \field{year}{2017}
+      \keyw{arara}
+    \endentry
+    \entry{maquiritaricaceres2011}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=128c3d47301501bd10a1e656a0454988}{%
+           family={Cáceres},
+           familyi={C\bibinitperiod},
+           given={Natalia},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Université Lumière Lyon 2}%
+      }
+      \strng{namehash}{128c3d47301501bd10a1e656a0454988}
+      \strng{fullhash}{128c3d47301501bd10a1e656a0454988}
+      \strng{bibnamehash}{128c3d47301501bd10a1e656a0454988}
+      \strng{authorbibnamehash}{128c3d47301501bd10a1e656a0454988}
+      \strng{authornamehash}{128c3d47301501bd10a1e656a0454988}
+      \strng{authorfullhash}{128c3d47301501bd10a1e656a0454988}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Grammaire fonctionnelle-typologique du ye'kwana, langue caribe du {Venezuela}}
+      \field{type}{phdthesis}
+      \field{year}{2011}
+      \keyw{maqui,grammar}
+    \endentry
+    \entry{akawaiocaesar2003}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c1c1f7977e3696e5146ff12022b7341a}{%
+           family={Caesar-Fox},
+           familyi={C\bibinithyphendelim F\bibinitperiod},
+           given={Desrey\bibnamedelima Clementine},
+           giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Rice University}%
+      }
+      \strng{namehash}{c1c1f7977e3696e5146ff12022b7341a}
+      \strng{fullhash}{c1c1f7977e3696e5146ff12022b7341a}
+      \strng{bibnamehash}{c1c1f7977e3696e5146ff12022b7341a}
+      \strng{authorbibnamehash}{c1c1f7977e3696e5146ff12022b7341a}
+      \strng{authornamehash}{c1c1f7977e3696e5146ff12022b7341a}
+      \strng{authorfullhash}{c1c1f7977e3696e5146ff12022b7341a}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{Variants of {Akawaio} spoken at {Waramadong}}
+      \field{title}{Zauro'nödok Agawayo Yau}
+      \field{type}{phdthesis}
+      \field{year}{2003}
+      \keyw{kapon,grammar}
+    \endentry
+    \entry{camargo2010wayana}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=120a63358f5eff2de38105f53c733b1f}{%
+           family={Camargo},
+           familyi={C\bibinitperiod},
+           given={Eliane},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c6c40fa467bc8e3579afcaf8819602d3}{%
+           family={Tapinkili},
+           familyi={T\bibinitperiod},
+           given={Anaiman},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {CELIA/DRAC-Guyane, TEKUREMAI}%
+      }
+      \strng{namehash}{0b84c6fcd11409c771e08b42365c525d}
+      \strng{fullhash}{0b84c6fcd11409c771e08b42365c525d}
+      \strng{bibnamehash}{0b84c6fcd11409c771e08b42365c525d}
+      \strng{authorbibnamehash}{0b84c6fcd11409c771e08b42365c525d}
+      \strng{authornamehash}{0b84c6fcd11409c771e08b42365c525d}
+      \strng{authorfullhash}{0b84c6fcd11409c771e08b42365c525d}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Hakëne omijau eitop Wajana-Palasisi / Dictionnaire bilingue Wayana-Français}
+      \field{year}{2010}
+      \keyw{wayana}
+    \endentry
+    \entry{cruz2005fonologia}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=91cc667dc4bdf2ab9e34464877a27854}{%
+           family={Cruz},
+           familyi={C\bibinitperiod},
+           given={Maria\bibnamedelimb Odileiz\bibnamedelima Sousa},
+           giveni={M\bibinitperiod\bibinitdelim O\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Vrije Universiteit Amsterdam}%
+      }
+      \strng{namehash}{91cc667dc4bdf2ab9e34464877a27854}
+      \strng{fullhash}{91cc667dc4bdf2ab9e34464877a27854}
+      \strng{bibnamehash}{91cc667dc4bdf2ab9e34464877a27854}
+      \strng{authorbibnamehash}{91cc667dc4bdf2ab9e34464877a27854}
+      \strng{authornamehash}{91cc667dc4bdf2ab9e34464877a27854}
+      \strng{authorfullhash}{91cc667dc4bdf2ab9e34464877a27854}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{{Kaʔpon-Brasil}}
+      \field{title}{Fonologia e gramática {Ingarikó}}
+      \field{type}{phdthesis}
+      \field{year}{2005}
+      \keyw{kapon,grammar}
+    \endentry
+    \entry{derbyshire1999carib}{incollection}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=471e5ea64777f0da122641cb46f2ca3f}{%
+           family={Derbyshire},
+           familyi={D\bibinitperiod},
+           given={Desmond\bibnamedelima C.},
+           giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=ad0bddc9e4f425a16073c9cfd1558f47}{%
+           family={Dixon},
+           familyi={D\bibinitperiod},
+           given={R.M.W.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=55f750ddc3253d618ceaa3904b7fe33c}{%
+           family={Aikhenvald},
+           familyi={A\bibinitperiod},
+           given={Alexandra\bibnamedelima Y.},
+           giveni={A\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{471e5ea64777f0da122641cb46f2ca3f}
+      \strng{fullhash}{471e5ea64777f0da122641cb46f2ca3f}
+      \strng{bibnamehash}{471e5ea64777f0da122641cb46f2ca3f}
+      \strng{authorbibnamehash}{471e5ea64777f0da122641cb46f2ca3f}
+      \strng{authornamehash}{471e5ea64777f0da122641cb46f2ca3f}
+      \strng{authorfullhash}{471e5ea64777f0da122641cb46f2ca3f}
+      \strng{editorbibnamehash}{1ff7ada86b1cbd153adb0ec1b2e70e71}
+      \strng{editornamehash}{1ff7ada86b1cbd153adb0ec1b2e70e71}
+      \strng{editorfullhash}{1ff7ada86b1cbd153adb0ec1b2e70e71}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The {Amazonian} Languages}
+      \field{title}{Carib}
+      \field{year}{1999}
+      \field{pages}{23\bibrangedash 64}
+      \range{pages}{42}
+    \endentry
+    \entry{souza1993arara}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3bbbf541c8f49b46280ff8207bc178aa}{%
+           family={Souza},
+           familyi={S\bibinitperiod},
+           given={Shirley\bibnamedelimb Dias\bibnamedelima Cardoso},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Universidade de Brasília}%
+      }
+      \strng{namehash}{3bbbf541c8f49b46280ff8207bc178aa}
+      \strng{fullhash}{3bbbf541c8f49b46280ff8207bc178aa}
+      \strng{bibnamehash}{3bbbf541c8f49b46280ff8207bc178aa}
+      \strng{authorbibnamehash}{3bbbf541c8f49b46280ff8207bc178aa}
+      \strng{authornamehash}{3bbbf541c8f49b46280ff8207bc178aa}
+      \strng{authorfullhash}{3bbbf541c8f49b46280ff8207bc178aa}
+      \field{extraname}{1}
+      \field{sortinit}{d}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Alguns aspectos morfológicos da língua {Arara} ({Karib})}
+      \field{type}{mathesis}
+      \field{year}{1993}
+      \keyw{arara}
+    \endentry
+    \entry{desouza2010arara}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3bbbf541c8f49b46280ff8207bc178aa}{%
+           family={Souza},
+           familyi={S\bibinitperiod},
+           given={Shirley\bibnamedelimb Dias\bibnamedelima Cardoso},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {University of North Dakota}%
+      }
+      \strng{namehash}{3bbbf541c8f49b46280ff8207bc178aa}
+      \strng{fullhash}{3bbbf541c8f49b46280ff8207bc178aa}
+      \strng{bibnamehash}{3bbbf541c8f49b46280ff8207bc178aa}
+      \strng{authorbibnamehash}{3bbbf541c8f49b46280ff8207bc178aa}
+      \strng{authornamehash}{3bbbf541c8f49b46280ff8207bc178aa}
+      \strng{authorfullhash}{3bbbf541c8f49b46280ff8207bc178aa}
+      \field{extraname}{2}
+      \field{sortinit}{d}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The morphology of nouns in the {Ugoroŋmo} language ({Arara of Pará})}
+      \field{type}{mathesis}
+      \field{year}{2010}
+      \keyw{arara}
+    \endentry
+    \entry{kuikurodossantos2007}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a3e3dee284b04b1c06deb4140b688897}{%
+           family={Santos},
+           familyi={S\bibinitperiod},
+           given={Gélsama\bibnamedelimb Mara\bibnamedelima Ferreira},
+           giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0,
+           prefix={dos},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Universidade Federal do Rio de Janeiro}%
+      }
+      \strng{namehash}{a3e3dee284b04b1c06deb4140b688897}
+      \strng{fullhash}{a3e3dee284b04b1c06deb4140b688897}
+      \strng{bibnamehash}{a3e3dee284b04b1c06deb4140b688897}
+      \strng{authorbibnamehash}{a3e3dee284b04b1c06deb4140b688897}
+      \strng{authornamehash}{a3e3dee284b04b1c06deb4140b688897}
+      \strng{authorfullhash}{a3e3dee284b04b1c06deb4140b688897}
+      \field{sortinit}{d}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{Gerando nomes e verbos}
+      \field{title}{Morfologia {Kuikuro}}
+      \field{type}{phdthesis}
+      \field{year}{2007}
+      \keyw{kuikuro,grammar}
+    \endentry
+    \entry{cldf2017}{misc}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=951238340aa8b7462747dcf6168e4cd3}{%
+           family={Forkel},
+           familyi={F\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5cfa103df0e9c1d9472d24db038f1e37}{%
+           family={List},
+           familyi={L\bibinitperiod},
+           given={Johann-Mattis},
+           giveni={J\bibinithyphendelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d9b362c429886f61e89c1fdea069b662}{%
+           family={Cysouw},
+           familyi={C\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d450f95f3402a3f308500dc33706566b}{%
+           family={Greenhill},
+           familyi={G\bibinitperiod},
+           given={Simon\bibnamedelima J.},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4b5430a7384cd3f6dccbee0a3790bcf2}
+      \strng{fullhash}{461021d644b3cbc4d7b22eafb262884f}
+      \strng{bibnamehash}{4b5430a7384cd3f6dccbee0a3790bcf2}
+      \strng{authorbibnamehash}{4b5430a7384cd3f6dccbee0a3790bcf2}
+      \strng{authornamehash}{4b5430a7384cd3f6dccbee0a3790bcf2}
+      \strng{authorfullhash}{461021d644b3cbc4d7b22eafb262884f}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{CLDF 1.0}
+      \field{year}{2017}
+      \verb{doi}
+      \verb 10.5281/zenodo.1117644
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.5281/zenodo.1117644
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5281/zenodo.1117644
+      \endverb
+    \endentry
+    \entry{garcia2006diccionario}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5133a654175662b51fcf6889de1b4111}{%
+           family={García\bibnamedelima Ferrer},
+           familyi={G\bibinitperiod\bibinitdelim F\bibinitperiod},
+           given={Donaldo\bibnamedelima José},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Universidad del Zulia}%
+      }
+      \strng{namehash}{5133a654175662b51fcf6889de1b4111}
+      \strng{fullhash}{5133a654175662b51fcf6889de1b4111}
+      \strng{bibnamehash}{5133a654175662b51fcf6889de1b4111}
+      \strng{authorbibnamehash}{5133a654175662b51fcf6889de1b4111}
+      \strng{authornamehash}{5133a654175662b51fcf6889de1b4111}
+      \strng{authorfullhash}{5133a654175662b51fcf6889de1b4111}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Diccionario piloto pemón-español}
+      \field{type}{bathesis}
+      \field{year}{2006}
+      \keyw{pemon}
+    \endentry
+    \entry{gildea2004classification}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d8b2762393c72820211747ea3cde8f5b}{%
+           family={Gildea},
+           familyi={G\bibinitperiod},
+           given={Spike},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d8b2762393c72820211747ea3cde8f5b}
+      \strng{fullhash}{d8b2762393c72820211747ea3cde8f5b}
+      \strng{bibnamehash}{d8b2762393c72820211747ea3cde8f5b}
+      \strng{authorbibnamehash}{d8b2762393c72820211747ea3cde8f5b}
+      \strng{authornamehash}{d8b2762393c72820211747ea3cde8f5b}
+      \strng{authorfullhash}{d8b2762393c72820211747ea3cde8f5b}
+      \field{extraname}{1}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Amerindia}
+      \field{number}{28}
+      \field{title}{Proposing a new branch for the {Cariban} language family}
+      \field{year}{2003}
+      \field{pages}{7\bibrangedash 32}
+      \range{pages}{26}
+      \keyw{overview}
+    \endentry
+    \entry{gildea2015venezuelan}{unpublished}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d8b2762393c72820211747ea3cde8f5b}{%
+           family={Gildea},
+           familyi={G\bibinitperiod},
+           given={Spike},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Université de Lyon}%
+      }
+      \strng{namehash}{d8b2762393c72820211747ea3cde8f5b}
+      \strng{fullhash}{d8b2762393c72820211747ea3cde8f5b}
+      \strng{bibnamehash}{d8b2762393c72820211747ea3cde8f5b}
+      \strng{authorbibnamehash}{d8b2762393c72820211747ea3cde8f5b}
+      \strng{authornamehash}{d8b2762393c72820211747ea3cde8f5b}
+      \strng{authorfullhash}{d8b2762393c72820211747ea3cde8f5b}
+      \field{extraname}{2}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Paper presented at the Working Conference on Venezuelan Cariban Languages}
+      \field{subtitle}{Current Perspectives on the {Venezuelan} Branch Hypothesis}
+      \field{title}{15 years later}
+      \field{urlday}{15}
+      \field{urlmonth}{10}
+      \field{urlyear}{2018}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.academia.edu/30561529/15_years_later_Current_Perspectives_on_the_Venezuelan_Branch_Hypothesis
+      \endverb
+      \verb{url}
+      \verb https://www.academia.edu/30561529/15_years_later_Current_Perspectives_on_the_Venezuelan_Branch_Hypothesis
+      \endverb
+    \endentry
+    \entry{guerrero2019carijo}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0531339f57a295f2c12cd9e3b9d0f31c}{%
+           family={Guerrero\bibnamedelima Beltrán},
+           familyi={G\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={David\bibnamedelima Felipe},
+           giveni={D\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Universidad Nacional de Colombia}%
+      }
+      \strng{namehash}{0531339f57a295f2c12cd9e3b9d0f31c}
+      \strng{fullhash}{0531339f57a295f2c12cd9e3b9d0f31c}
+      \strng{bibnamehash}{0531339f57a295f2c12cd9e3b9d0f31c}
+      \strng{authorbibnamehash}{0531339f57a295f2c12cd9e3b9d0f31c}
+      \strng{authornamehash}{0531339f57a295f2c12cd9e3b9d0f31c}
+      \strng{authorfullhash}{0531339f57a295f2c12cd9e3b9d0f31c}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Grammar of Space in {Karijona}, a {Cariban} language from {Northwest} {Amazonia}}
+      \field{type}{mathesis}
+      \field{year}{2019}
+      \keyw{carijo}
+    \endentry
+    \entry{largo2011yukpa}{unpublished}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8478ac7421cc862c4af9c491a0b79483}{%
+           family={Largo},
+           familyi={L\bibinitperiod},
+           given={Wilson\bibnamedelima S.},
+           giveni={W\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Bogotá: Fundación para el Desarrollo de Pueblos Marginados}%
+      }
+      \strng{namehash}{8478ac7421cc862c4af9c491a0b79483}
+      \strng{fullhash}{8478ac7421cc862c4af9c491a0b79483}
+      \strng{bibnamehash}{8478ac7421cc862c4af9c491a0b79483}
+      \strng{authorbibnamehash}{8478ac7421cc862c4af9c491a0b79483}
+      \strng{authornamehash}{8478ac7421cc862c4af9c491a0b79483}
+      \strng{authorfullhash}{8478ac7421cc862c4af9c491a0b79483}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{\textsc{ms}}
+      \field{title}{Una gramática {Yukpa}}
+      \field{year}{2011}
+      \keyw{yukpa}
+    \endentry
+    \entry{lingpy268}{software}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=5cfa103df0e9c1d9472d24db038f1e37}{%
+           family={List},
+           familyi={L\bibinitperiod},
+           given={Johann-Mattis},
+           giveni={J\bibinithyphendelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d450f95f3402a3f308500dc33706566b}{%
+           family={Greenhill},
+           familyi={G\bibinitperiod},
+           given={Simon\bibnamedelima J},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=287b637fceb22c96d5939c3e09a91426}{%
+           family={Tresoldi},
+           familyi={T\bibinitperiod},
+           given={Tiago},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=951238340aa8b7462747dcf6168e4cd3}{%
+           family={Forkel},
+           familyi={F\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Leipzig}%
+      }
+      \list{publisher}{1}{%
+        {Max Planck Institute for Evolutionary Anthropology}%
+      }
+      \strng{namehash}{3b787f3ad474a95bfa548ea7f7fe8888}
+      \strng{fullhash}{7bd63d5b825f1f2835b48ad2e2d96527}
+      \strng{bibnamehash}{3b787f3ad474a95bfa548ea7f7fe8888}
+      \strng{authorbibnamehash}{3b787f3ad474a95bfa548ea7f7fe8888}
+      \strng{authornamehash}{3b787f3ad474a95bfa548ea7f7fe8888}
+      \strng{authorfullhash}{7bd63d5b825f1f2835b48ad2e2d96527}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{A {Python} library for quantitative tasks in historical linguistics}
+      \field{title}{{LingPy}}
+      \field{version}{v2.6.8}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.5281/zenodo.5144474
+      \endverb
+      \verb{urlraw}
+      \verb https://lingpy.org
+      \endverb
+      \verb{url}
+      \verb https://lingpy.org
+      \endverb
+    \endentry
+    \entry{mattei2002busca}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=53e7e0109f928a1d7108addadddac0cb}{%
+           family={Mattéi-Müller},
+           familyi={M\bibinithyphendelim M\bibinitperiod},
+           given={Marie-Claude},
+           giveni={M\bibinithyphendelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=638705ff9e5086e4b09af062cf784c29}{%
+           family={Cabral},
+           familyi={C\bibinitperiod},
+           given={Ana\bibnamedelimb Suelly\bibnamedelimb Arruda\bibnamedelima Câmara},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=05c7344ab857c96fce5c17628c40eb00}{%
+           family={Rodrigues},
+           familyi={R\bibinitperiod},
+           given={Aryon\bibnamedelima D.},
+           giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Belém}%
+      }
+      \list{publisher}{1}{%
+        {EDUFPA}%
+      }
+      \strng{namehash}{53e7e0109f928a1d7108addadddac0cb}
+      \strng{fullhash}{53e7e0109f928a1d7108addadddac0cb}
+      \strng{bibnamehash}{53e7e0109f928a1d7108addadddac0cb}
+      \strng{authorbibnamehash}{53e7e0109f928a1d7108addadddac0cb}
+      \strng{authornamehash}{53e7e0109f928a1d7108addadddac0cb}
+      \strng{authorfullhash}{53e7e0109f928a1d7108addadddac0cb}
+      \strng{editorbibnamehash}{8d593a569c2e2086c3f4c2666a8a30dc}
+      \strng{editornamehash}{8d593a569c2e2086c3f4c2666a8a30dc}
+      \strng{editorfullhash}{8d593a569c2e2086c3f4c2666a8a30dc}
+      \field{extraname}{1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{mainsubtitle}{fonologia, gramática e história}
+      \field{maintitle}{Línguas indígenas {Brasileiras}}
+      \field{note}{Atas do I Encontro Internacional do Grupo de Trabalho sobre Línguas Indígenas da ANPOLL}
+      \field{title}{En busca de criterios clasificatorios para la Familia {Caribe}}
+      \field{volumes}{2}
+      \field{year}{2002}
+      \field{pages}{37\bibrangedash 53}
+      \range{pages}{17}
+    \endentry
+    \entry{mattei2003pemono}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=53e7e0109f928a1d7108addadddac0cb}{%
+           family={Mattéi-Müller},
+           familyi={M\bibinithyphendelim M\bibinitperiod},
+           given={Marie-Claude},
+           giveni={M\bibinithyphendelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{53e7e0109f928a1d7108addadddac0cb}
+      \strng{fullhash}{53e7e0109f928a1d7108addadddac0cb}
+      \strng{bibnamehash}{53e7e0109f928a1d7108addadddac0cb}
+      \strng{authorbibnamehash}{53e7e0109f928a1d7108addadddac0cb}
+      \strng{authornamehash}{53e7e0109f928a1d7108addadddac0cb}
+      \strng{authorfullhash}{53e7e0109f928a1d7108addadddac0cb}
+      \field{extraname}{2}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Amerindia}
+      \field{number}{28}
+      \field{subtitle}{eslabón perdido entre mapoyo y yawarana, lenguas caribes ergativas de la {Guayana} noroccidental de {Venezuela}}
+      \field{title}{Pémono}
+      \field{year}{2003}
+      \field{pages}{33\bibrangedash 54}
+      \range{pages}{22}
+      \keyw{mapoyo,yawarana}
+    \endentry
+    \entry{muller2021yawarana}{unpublished}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=53e7e0109f928a1d7108addadddac0cb}{%
+           family={Mattéi-Müller},
+           familyi={M\bibinithyphendelim M\bibinitperiod},
+           given={Marie-Claude},
+           giveni={M\bibinithyphendelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d07755ca06beee9f22f7bc39efef9927}{%
+           family={Cáceres\bibnamedelima Arandia},
+           familyi={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={Natalia},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{72ec2e8eed712a881a61ebf791b7f38b}
+      \strng{fullhash}{72ec2e8eed712a881a61ebf791b7f38b}
+      \strng{bibnamehash}{72ec2e8eed712a881a61ebf791b7f38b}
+      \strng{authorbibnamehash}{72ec2e8eed712a881a61ebf791b7f38b}
+      \strng{authornamehash}{72ec2e8eed712a881a61ebf791b7f38b}
+      \strng{authorfullhash}{72ec2e8eed712a881a61ebf791b7f38b}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Flex project with 3583 lexical entries. Database in the author's possession.}
+      \field{title}{Yawarana dictionary}
+      \field{year}{2019}
+    \endentry
+    \entry{meira2002first}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d480752e3ab8be2d90c8a0559714b8ca}{%
+           family={Meira},
+           familyi={M\bibinitperiod},
+           given={Sérgio},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=2b7e0f709a8476598e244032fac0293c}{%
+           family={Crevels},
+           familyi={C\bibinitperiod},
+           given={Mily},
+           giveni={M\bibinitperiod}}}%
+        {{hash=2b7e0f709a8476598e244032fac0293c}{%
+           family={Crevels},
+           familyi={C\bibinitperiod},
+           given={Mily},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d480752e3ab8be2d90c8a0559714b8ca}{%
+           family={Meira},
+           familyi={M\bibinitperiod},
+           given={Sérgio},
+           giveni={S\bibinitperiod}}}%
+        {{hash=9ed6b44b421ef97626281b53d9dc7043}{%
+           family={Voort},
+           familyi={V\bibinitperiod},
+           given={Hein},
+           giveni={H\bibinitperiod},
+           prefix={van\bibnamedelima der},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Leiden}%
+      }
+      \list{publisher}{2}{%
+        {Research institution of Asian, African,}%
+        {Amerindian Studies (CNWS)}%
+      }
+      \strng{namehash}{d480752e3ab8be2d90c8a0559714b8ca}
+      \strng{fullhash}{d480752e3ab8be2d90c8a0559714b8ca}
+      \strng{bibnamehash}{d480752e3ab8be2d90c8a0559714b8ca}
+      \strng{authorbibnamehash}{d480752e3ab8be2d90c8a0559714b8ca}
+      \strng{authornamehash}{d480752e3ab8be2d90c8a0559714b8ca}
+      \strng{authorfullhash}{d480752e3ab8be2d90c8a0559714b8ca}
+      \strng{editorbibnamehash}{c722d61b1a763b3f3898352052d4e76c}
+      \strng{editornamehash}{c722d61b1a763b3f3898352052d4e76c}
+      \strng{editorfullhash}{23b727eb3bebe6d48d7c365805219c6a}
+      \field{extraname}{1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booksubtitle}{Selected papers from the 50th International Congress of {Americanists} in {Warsaw} and the {Spinoza} Workshop on {Amerindian} Languages in {Leiden}}
+      \field{booktitle}{Current Studies on {South American} Languages}
+      \field{title}{A first comparison of pronominal and demonstrative systems in the {Cariban} language family}
+      \field{year}{2002}
+      \field{pages}{255\bibrangedash 275}
+      \range{pages}{21}
+      \keyw{overview,proto-cariban,pronouns}
+    \endentry
+    \entry{meira2005bakairi}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d480752e3ab8be2d90c8a0559714b8ca}{%
+           family={Meira},
+           familyi={M\bibinitperiod},
+           given={Sérgio},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d480752e3ab8be2d90c8a0559714b8ca}
+      \strng{fullhash}{d480752e3ab8be2d90c8a0559714b8ca}
+      \strng{bibnamehash}{d480752e3ab8be2d90c8a0559714b8ca}
+      \strng{authorbibnamehash}{d480752e3ab8be2d90c8a0559714b8ca}
+      \strng{authornamehash}{d480752e3ab8be2d90c8a0559714b8ca}
+      \strng{authorfullhash}{d480752e3ab8be2d90c8a0559714b8ca}
+      \field{extraname}{2}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Anthropological Linguistics}
+      \field{number}{3}
+      \field{title}{Reconstructing Pre-{Bakairi} Segmental Phonology}
+      \field{volume}{47}
+      \field{year}{2005}
+      \field{pages}{261\bibrangedash 291}
+      \range{pages}{31}
+      \keyw{bakairi}
+    \endentry
+    \entry{meiraDBbakairi}{dataset}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d480752e3ab8be2d90c8a0559714b8ca}{%
+           family={Meira},
+           familyi={M\bibinitperiod},
+           given={Sérgio},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d480752e3ab8be2d90c8a0559714b8ca}
+      \strng{fullhash}{d480752e3ab8be2d90c8a0559714b8ca}
+      \strng{bibnamehash}{d480752e3ab8be2d90c8a0559714b8ca}
+      \strng{authorbibnamehash}{d480752e3ab8be2d90c8a0559714b8ca}
+      \strng{authornamehash}{d480752e3ab8be2d90c8a0559714b8ca}
+      \strng{authorfullhash}{d480752e3ab8be2d90c8a0559714b8ca}
+      \field{extraname}{3}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Bakairí shoebox database}
+      \field{year}{2022}
+    \endentry
+    \entry{meira2005southern}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=d480752e3ab8be2d90c8a0559714b8ca}{%
+           family={Meira},
+           familyi={M\bibinitperiod},
+           given={Sérgio},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c3515aa2c8bf4c5ea0a86ad2da155449}{%
+           family={Franchetto},
+           familyi={F\bibinitperiod},
+           given={Bruna},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b3a7ab801f0dc03a4a6177626102336a}
+      \strng{fullhash}{b3a7ab801f0dc03a4a6177626102336a}
+      \strng{bibnamehash}{b3a7ab801f0dc03a4a6177626102336a}
+      \strng{authorbibnamehash}{b3a7ab801f0dc03a4a6177626102336a}
+      \strng{authornamehash}{b3a7ab801f0dc03a4a6177626102336a}
+      \strng{authorfullhash}{b3a7ab801f0dc03a4a6177626102336a}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of American Linguistics}
+      \field{number}{2}
+      \field{title}{The {Southern} {Cariban} languages and the {Cariban} family}
+      \field{volume}{71}
+      \field{year}{2005}
+      \field{pages}{127\bibrangedash 192}
+      \range{pages}{66}
+      \keyw{classification,overview}
+    \endentry
+    \entry{meira2010origin}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=d480752e3ab8be2d90c8a0559714b8ca}{%
+           family={Meira},
+           familyi={M\bibinitperiod},
+           given={Sérgio},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d8b2762393c72820211747ea3cde8f5b}{%
+           family={Gildea},
+           familyi={G\bibinitperiod},
+           given={Spike},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e9026e969b25714cc2976d11f4106a2c}{%
+           family={Hoff},
+           familyi={H\bibinitperiod},
+           given={Berend\bibnamedelima J.},
+           giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e036bd752273ad671c0757b89adf7674}
+      \strng{fullhash}{47bd949e43a44de760756a2113adcce6}
+      \strng{bibnamehash}{47bd949e43a44de760756a2113adcce6}
+      \strng{authorbibnamehash}{47bd949e43a44de760756a2113adcce6}
+      \strng{authornamehash}{e036bd752273ad671c0757b89adf7674}
+      \strng{authorfullhash}{47bd949e43a44de760756a2113adcce6}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of American Linguistics}
+      \field{number}{4}
+      \field{title}{On the Origin of Ablaut in the {Cariban} Family}
+      \field{volume}{76}
+      \field{year}{2010}
+      \field{pages}{477\bibrangedash 515}
+      \range{pages}{39}
+      \keyw{proto-cariban,relational}
+    \endentry
+    \entry{ikpengpacheco2001}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=68ee507179c0b39562d7dbc46e72f60a}{%
+           family={Pachêco},
+           familyi={P\bibinitperiod},
+           given={Frantomé\bibnamedelima B.},
+           giveni={F\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Universidade Estadual de Campinas}%
+      }
+      \strng{namehash}{68ee507179c0b39562d7dbc46e72f60a}
+      \strng{fullhash}{68ee507179c0b39562d7dbc46e72f60a}
+      \strng{bibnamehash}{68ee507179c0b39562d7dbc46e72f60a}
+      \strng{authorbibnamehash}{68ee507179c0b39562d7dbc46e72f60a}
+      \strng{authornamehash}{68ee507179c0b39562d7dbc46e72f60a}
+      \strng{authorfullhash}{68ee507179c0b39562d7dbc46e72f60a}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Morfossintaxe do verbo {Ikpeng} ({Karíb})}
+      \field{type}{phdthesis}
+      \field{year}{2001}
+      \keyw{ikpeng,grammar}
+    \endentry
+    \entry{panarepayne2013}{book}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=dfa38f99b364f27c7231a296b17624cc}{%
+           family={Payne},
+           familyi={P\bibinitperiod},
+           given={Thomas\bibnamedelima E.},
+           giveni={T\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=1}}%
+        {{un=1,uniquepart=given,hash=87f334b491c5323ddf031985a8fc9e27}{%
+           family={Payne},
+           familyi={P\bibinitperiod},
+           given={Doris\bibnamedelima L.},
+           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{location}{1}{%
+        {Leiden}%
+      }
+      \list{publisher}{1}{%
+        {Brill}%
+      }
+      \strng{namehash}{fccc36e589f852c7232a7d6c5ac4ee6b}
+      \strng{fullhash}{fccc36e589f852c7232a7d6c5ac4ee6b}
+      \strng{bibnamehash}{fccc36e589f852c7232a7d6c5ac4ee6b}
+      \strng{authorbibnamehash}{fccc36e589f852c7232a7d6c5ac4ee6b}
+      \strng{authornamehash}{fccc36e589f852c7232a7d6c5ac4ee6b}
+      \strng{authorfullhash}{fccc36e589f852c7232a7d6c5ac4ee6b}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Brill's Studies in the Indigenous Languages of the Americas}
+      \field{subtitle}{A {Cariban} Language of {Venezuela}}
+      \field{title}{A Typological Grammar of {Panare}}
+      \field{year}{2013}
+      \keyw{panare,grammar}
+    \endentry
+    \entry{stegeman2014akawaio}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c2f4b1bd751606f9ca2340dbe3d9bf07}{%
+           family={Stegeman},
+           familyi={S\bibinitperiod},
+           given={Ray},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ade13939cb6944a2f76b5c8255a4bef8}{%
+           family={Hunter},
+           familyi={H\bibinitperiod},
+           given={Rita},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {SIL International}%
+      }
+      \strng{namehash}{814a0891c661078671f7501941cb4d42}
+      \strng{fullhash}{814a0891c661078671f7501941cb4d42}
+      \strng{bibnamehash}{814a0891c661078671f7501941cb4d42}
+      \strng{authorbibnamehash}{814a0891c661078671f7501941cb4d42}
+      \strng{authornamehash}{814a0891c661078671f7501941cb4d42}
+      \strng{authorfullhash}{814a0891c661078671f7501941cb4d42}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Akawaio}-{English} Dictionary}
+      \field{year}{2014}
+      \verb{urlraw}
+      \verb https://akawaio.webonary.org/
+      \endverb
+      \verb{url}
+      \verb https://akawaio.webonary.org/
+      \endverb
+      \keyw{kapon}
+    \endentry
+    \entry{swiggers2010gramatica}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fc4d8073750e990e02a3f06c14d0ec68}{%
+           family={Swiggers},
+           familyi={S\bibinitperiod},
+           given={Gisela},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Universidad del Zulia}%
+      }
+      \strng{namehash}{fc4d8073750e990e02a3f06c14d0ec68}
+      \strng{fullhash}{fc4d8073750e990e02a3f06c14d0ec68}
+      \strng{bibnamehash}{fc4d8073750e990e02a3f06c14d0ec68}
+      \strng{authorbibnamehash}{fc4d8073750e990e02a3f06c14d0ec68}
+      \strng{authornamehash}{fc4d8073750e990e02a3f06c14d0ec68}
+      \strng{authorfullhash}{fc4d8073750e990e02a3f06c14d0ec68}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Gramática de Referencia del {Pemón}}
+      \field{type}{phdthesis}
+      \field{year}{2010}
+      \keyw{pemon}
+    \endentry
+    \entry{wayanatavares2005}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=839d3aceaad0e9d3581544b3e2c63246}{%
+           family={Tavares},
+           familyi={T\bibinitperiod},
+           given={Petronila\bibnamedelimb da\bibnamedelima Silva},
+           giveni={P\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {University of Houston}%
+      }
+      \list{publisher}{1}{%
+        {UMI}%
+      }
+      \strng{namehash}{839d3aceaad0e9d3581544b3e2c63246}
+      \strng{fullhash}{839d3aceaad0e9d3581544b3e2c63246}
+      \strng{bibnamehash}{839d3aceaad0e9d3581544b3e2c63246}
+      \strng{authorbibnamehash}{839d3aceaad0e9d3581544b3e2c63246}
+      \strng{authornamehash}{839d3aceaad0e9d3581544b3e2c63246}
+      \strng{authorfullhash}{839d3aceaad0e9d3581544b3e2c63246}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A grammar of {Wayana}}
+      \field{type}{phdthesis}
+      \field{year}{2005}
+      \keyw{wayana,grammar}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

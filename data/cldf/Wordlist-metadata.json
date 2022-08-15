@@ -5,25 +5,25 @@
             "@language": "en"
         }
     ],
-    "dc:bibliographicCitation": "Matter, Florian. 2022. 'Cariban pronouns'.",
+    "dc:bibliographicCitation": "Matter, Florian. 2022. 'Cariban pronouns and deictics'.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
-    "dc:description": "TODO",
+    "dc:description": "An etymologically annotated list of pronouns and third person deictics in Cariban languages.",
     "dc:identifier": "github.com/fmatter/cariban_pronouns",
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:source": "sources.bib",
-    "dc:title": "An etymologically annotated list of pronouns and third person deictics in Cariban languages.",
+    "dc:title": "Cariban pronouns and deictics",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.4-35-gfd2a2fed71",
+            "dc:created": "v4.5-13-g791c97e680",
             "dc:title": "Glottolog"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.9.5"
+            "dc:description": "3.7.13"
         },
         {
             "dc:title": "python-packages",
@@ -38,7 +38,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 521,
+            "dc:extent": 533,
             "tableSchema": {
                 "columns": [
                     {
@@ -88,10 +88,6 @@
                         "name": "Source"
                     },
                     {
-                        "datatype": "string",
-                        "name": "Contribution_ID"
-                    },
-                    {
                         "dc:description": "A reference to the meaning denoted by the form",
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#parameterReference",
@@ -122,17 +118,6 @@
                                 "ID"
                             ]
                         }
-                    },
-                    {
-                        "columnReference": [
-                            "Contribution_ID"
-                        ],
-                        "reference": {
-                            "resource": "contributions.csv",
-                            "columnReference": [
-                                "ID"
-                            ]
-                        }
                     }
                 ],
                 "primaryKey": [
@@ -143,7 +128,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 950,
+            "dc:extent": 964,
             "tableSchema": {
                 "columns": [
                     {
@@ -196,10 +181,6 @@
                         "required": false,
                         "separator": ";",
                         "name": "Source"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Contribution_ID"
                     }
                 ],
                 "foreignKeys": [
@@ -220,17 +201,6 @@
                         ],
                         "reference": {
                             "resource": "cognatesets.csv",
-                            "columnReference": [
-                                "ID"
-                            ]
-                        }
-                    },
-                    {
-                        "columnReference": [
-                            "Contribution_ID"
-                        ],
-                        "reference": {
-                            "resource": "contributions.csv",
                             "columnReference": [
                                 "ID"
                             ]
@@ -355,7 +325,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 32,
+            "dc:extent": 33,
             "tableSchema": {
                 "columns": [
                     {
@@ -385,51 +355,6 @@
                 ]
             },
             "url": "parameters.csv"
-        },
-        {
-            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ContributionTable",
-            "dc:extent": 1,
-            "tableSchema": {
-                "columns": [
-                    {
-                        "datatype": {
-                            "base": "string",
-                            "format": "[a-zA-Z0-9_\\-]+"
-                        },
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
-                        "required": true,
-                        "name": "ID"
-                    },
-                    {
-                        "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
-                        "required": false,
-                        "name": "Name"
-                    },
-                    {
-                        "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
-                        "required": false,
-                        "name": "Description"
-                    },
-                    {
-                        "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#contributor",
-                        "required": false,
-                        "name": "Contributor"
-                    },
-                    {
-                        "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#citation",
-                        "required": false,
-                        "name": "Citation"
-                    }
-                ],
-                "primaryKey": [
-                    "ID"
-                ]
-            },
-            "url": "contributions.csv"
         }
     ]
 }

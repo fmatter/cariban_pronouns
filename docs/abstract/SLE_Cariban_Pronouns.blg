@@ -1,0 +1,23 @@
+[0] Config.pm:311> INFO - This is Biber 2.16
+[0] Config.pm:314> INFO - Logfile is 'SLE_Cariban_Pronouns.blg'
+[150] biber:340> INFO - === Sa Jan 15, 2022, 23:40:41
+[184] Biber.pm:415> INFO - Reading 'SLE_Cariban_Pronouns.bcf'
+[338] Biber.pm:952> INFO - Found 29 citekeys in bib section 0
+[369] Biber.pm:4340> INFO - Processing section 0
+[389] Biber.pm:4531> INFO - Looking for bibtex format file 'cariban_references.bib' for section 0
+[434] bibtex.pm:1689> INFO - LaTeX decoding ...
+[1380] bibtex.pm:1494> INFO - Found BibTeX data source '/home/florianm/texmf/bibtex/bib/cariban_references.bib'
+[1703] Biber.pm:4531> INFO - Looking for bibtex format file 'non_cariban_references.bib' for section 0
+[1735] bibtex.pm:1689> INFO - LaTeX decoding ...
+[1920] bibtex.pm:1494> INFO - Found BibTeX data source '/home/florianm/texmf/bibtex/bib/non_cariban_references.bib'
+[1960] Utils.pm:395> WARN - BibTeX subsystem: /tmp/biber_tmp_bt2W/ba0f9b0d799439d8cc537e30c8532164_607304.utf8, line 2, warning: 5 characters of junk seen at toplevel
+[1960] Utils.pm:395> WARN - BibTeX subsystem: /tmp/biber_tmp_bt2W/ba0f9b0d799439d8cc537e30c8532164_607304.utf8, line 103, warning: 11 characters of junk seen at toplevel
+[1960] Utils.pm:395> WARN - BibTeX subsystem: /tmp/biber_tmp_bt2W/ba0f9b0d799439d8cc537e30c8532164_607304.utf8, line 206, warning: 10 characters of junk seen at toplevel
+[1960] Utils.pm:395> WARN - BibTeX subsystem: /tmp/biber_tmp_bt2W/ba0f9b0d799439d8cc537e30c8532164_607304.utf8, line 253, warning: 9 characters of junk seen at toplevel
+[2102] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2102] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2102] Biber.pm:4168> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[2103] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
+[2157] bbl.pm:654> INFO - Writing 'SLE_Cariban_Pronouns.bbl' with encoding 'UTF-8'
+[2185] bbl.pm:757> INFO - Output to SLE_Cariban_Pronouns.bbl
+[2186] Biber.pm:128> INFO - WARNINGS: 4
