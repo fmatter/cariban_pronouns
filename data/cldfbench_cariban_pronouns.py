@@ -4,11 +4,11 @@ from cldfbench import Dataset as BaseDataset
 from segments import Profile, Tokenizer
 import re
 
-# import cldf_helpers as cldfh
 import lingpy
 from clldutils.misc import slug
 import cariban_helpers as crh
 import cldf_helpers as cldfh
+
 
 class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
@@ -122,7 +122,7 @@ class Dataset(BaseDataset):
                     "Segments": row["Segments"].split(" "),
                     "Source": row["Source"].split("; "),
                     "Comment": row["Comments"],
-                    "Parameter_ID": row["Parameter_ID"]
+                    "Parameter_ID": row["Parameter_ID"],
                 }
             )
             edictor_alignment = []
