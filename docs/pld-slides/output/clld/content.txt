@@ -2,13 +2,28 @@
 ## Introduction {#intro}
 
 * reconstruction of [Language PC](LanguageTable?#cldf:PC) pronouns by [meira2002first](sources.bib?with_internal_ref_link&ref#cldf:meira2002first)
-* not much comparative work since
+* not much comparative work on pronouns since
 * comparative work  ([meira2005southern](sources.bib?with_internal_ref_link&ref#cldf:meira2005southern), [meira2010origin](sources.bib?with_internal_ref_link&ref#cldf:meira2010origin)) and new data ([ikpengpacheco2001](sources.bib?with_internal_ref_link&ref#cldf:ikpengpacheco2001), [akawaiocaesar2003](sources.bib?with_internal_ref_link&ref#cldf:akawaiocaesar2003), [mattei2003pemono](sources.bib?with_internal_ref_link&ref#cldf:mattei2003pemono), [cruz2005fonologia](sources.bib?with_internal_ref_link&ref#cldf:cruz2005fonologia), [garcia2006diccionario](sources.bib?with_internal_ref_link&ref#cldf:garcia2006diccionario), [kuikurodossantos2007](sources.bib?with_internal_ref_link&ref#cldf:kuikurodossantos2007), [kuikurodossantos2007](sources.bib?with_internal_ref_link&ref#cldf:kuikurodossantos2007), [camargo2010wayana](sources.bib?with_internal_ref_link&ref#cldf:camargo2010wayana), [desouza2010arara](sources.bib?with_internal_ref_link&ref#cldf:desouza2010arara), [swiggers2010gramatica](sources.bib?with_internal_ref_link&ref#cldf:swiggers2010gramatica), [largo2011yukpa](sources.bib?with_internal_ref_link&ref#cldf:largo2011yukpa), [maquiritaricaceres2011](sources.bib?with_internal_ref_link&ref#cldf:maquiritaricaceres2011), [panarepayne2013](sources.bib?with_internal_ref_link&ref#cldf:panarepayne2013), [stegeman2014akawaio](sources.bib?with_internal_ref_link&ref#cldf:stegeman2014akawaio), [alves2017arara](sources.bib?with_internal_ref_link&ref#cldf:alves2017arara), [guerrero2019carijo](sources.bib?with_internal_ref_link&ref#cldf:guerrero2019carijo), [muller2021yawarana](sources.bib?with_internal_ref_link&ref#cldf:muller2021yawarana))
 
+## The Cariban language family
+![](/static/images/family.svg)
 
 ## First person
 
-
 [Cognate set 1abs](CognatesetTable?#cldf:1abs)
+
+* reconstructible: [Form pc-one](FormTable?no_translation#cldf:pc-one)
+* found throughout the family:
+    * grammaticalization of emphatic marker **rə*
+    * coalescence of *wɨ* to *u*
+* appearance of *j* in [Language pem](LanguageTable?#cldf:pem) and [Language pan](LanguageTable?#cldf:pan) -- via /əwɨ/ > /ɨwɨ/ > /ɨu/ > /ju/? ([meira2002first](sources.bib?with_internal_ref_link&ref#cldf:meira2002first): 259)
+* additional *hɨ* in Manapiarean
+
+## First person: cognacy
+
+![](/static/images/1cog.svg)
+
+## First person: reflex of /əwɨ/
+![](/static/images/1form.svg)
 
 

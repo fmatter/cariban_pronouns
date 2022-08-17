@@ -4,16 +4,56 @@
 		"selected_items":
 		[
 			[
-				"render",
-				"render_cogset"
+				"str",
+				"structure_file"
+			],
+			[
+				"toc",
+				"tocItems"
+			],
+			[
+				"meira",
+				"meira2002first"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"bord",
+				"border-style"
+			],
+			[
+				"s",
+				"unset"
+			],
+			[
+				"marg",
+				"margin-left"
 			],
 			[
 				"align",
-				"alignments"
+				"text-align"
+			],
+			[
+				"background-c",
+				"background-color"
 			],
 			[
 				"Cogn",
-				"Cognateset"
+				"Cognateset_ID"
+			],
+			[
+				"Cognateset",
+				"Cognateset_ID"
+			],
+			[
+				"render",
+				"render_cogset"
 			],
 			[
 				"cha",
@@ -343,18 +383,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "/home/florianm/Dropbox/development/clld_apps/yawarana_sketch_clld/clld_own_markdown.py",
-			"settings":
-			{
-				"buffer_size": 3098,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			},
-			"undo_stack":
-			[
-			]
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -400,46 +428,85 @@
 	},
 	"expanded_folders":
 	[
-		"/home/florianm/Dropbox/research/cariban/papers/cariban_pronouns/cariban-pronouns-sle/content"
+		"/home/florianm/Dropbox/research/cariban/papers/cariban_pronouns/docs/pld-slides/content"
 	],
 	"file_history":
 	[
+		"/home/florianm/Dropbox/development/pylingdocs/pylingdocs-editor/package.json",
+		"/home/florianm/Dropbox/development/pylingdocs/src/pylingdocs/cli.py",
+		"/home/florianm/Dropbox/development/pylingdocs/src/pylingdocs/editor.py",
+		"/home/florianm/Dropbox/development/pylingdocs/src/pylingdocs/data/web/main.js",
+		"/home/florianm/Dropbox/development/map_plz/create_map.py",
+		"/home/florianm/Dropbox/development/pylingdocs/pylingdocs-editor/src/index.js",
+		"/home/florianm/Dropbox/development/pylingdocs/pylingdocs-editor/vue.config.js",
+		"/home/florianm/Dropbox/development/pylingdocs/pylingdocs-editor/webpack.config.js",
+		"/home/florianm/Dropbox/development/pylingdocs/pylingdocs-editor/src/app.scss",
+		"/home/florianm/Dropbox/development/pylingdocs/src/pylingdocs/data/editor.html",
+		"/home/florianm/Dropbox/development/pylingdocs/pylingdocs-editor/node_modules/material-design-icons/README.md",
+		"/home/florianm/Dropbox/development/pylingdocs/pylingdocs-editor/node_modules/v-markdown-editor/package.json",
+		"/home/florianm/Dropbox/development/pylingdocs/pylingdocs-editor/node_modules/v-markdown-editor/dist/v-markdown-editor.css",
+		"/home/florianm/Dropbox/development/pylingdocs/src/pylingdocs/data/web/bundle.css",
+		"/home/florianm/Dropbox/development/pylingdocs/pylingdocs-editor/dist/editor.html",
+		"/home/florianm/Dropbox/development/pylingdocs/pylingdocs-editor/dist/main.js",
+		"/home/florianm/Dropbox/research/cariban/papers/cariban_pronouns/docs/pld-slides/webpack.config.js",
+		"/home/florianm/Dropbox/development/pylingdocs/pylingdocs-editor/src/editor.js",
+		"/home/florianm/Dropbox/development/pylingdocs/pylingdocs-editor/node_modules/v-markdown-editor/README.md",
+		"/home/florianm/Dropbox/development/pylingdocs/pylingdocs-editor/node_modules/vue/package.json",
+		"/home/florianm/Dropbox/development/pylingdocs/pylingdocs-editor/node_modules/vue/README.md",
+		"/home/florianm/Dropbox/development/pylingdocs/pylingdocs-editor/node_modules/vue/LICENSE",
+		"/home/florianm/Dropbox/development/cldf/cldfviz/src/cldfviz/templates/text/CognatesetTable_detail.md",
+		"/home/florianm/Dropbox/development/pylingdocs/src/pylingdocs/data/config.cfg",
+		"/home/florianm/Dropbox/development/pylingdocs/src/pylingdocs/config.py",
+		"/home/florianm/Dropbox/development/pylingdocs/src/pylingdocs/output.py",
+		"/home/florianm/Dropbox/development/pylingdocs/src/pylingdocs/helpers.py",
+		"/home/florianm/Dropbox/development/pylingdocs/src/pylingdocs/models.py",
+		"/home/florianm/Dropbox/research/cariban/papers/cariban_pronouns/docs/pld-slides/content/main.md",
+		"/home/florianm/Dropbox/development/pylingdocs/src/pylingdocs/data/web/editor.js",
+		"/home/florianm/Dropbox/development/pylingdocs/src/pylingdocs/data/format_templates/html/basic/hooks/post_gen_project.py",
+		"/home/florianm/Dropbox/research/cariban/papers/cariban_pronouns/docs/pld-slides/output/html/index.html",
+		"/home/florianm/Dropbox/development/pylingdocs/src/pylingdocs7ed",
+		"/home/florianm/Dropbox/research/cariban/papers/cariban_pronouns/Makefile",
+		"/home/florianm/Dropbox/development/clld_apps/comp_db/cocaco/cocaco/scripts/initializedb.py",
+		"/home/florianm/Dropbox/development/clld-plugins/clld-morphology-plugin/src/clld_morphology_plugin/models.py",
+		"/home/florianm/Dropbox/development/clld_apps/clld/src/clld/db/models/source.py",
+		"/home/florianm/Dropbox/development/clld-plugins/clld-morphology-plugin/src/clld_morphology_plugin/templates/wordform/detail_html.mako",
+		"/home/florianm/Dropbox/research/cariban/papers/cariban_pronouns/cp_clld/clld_own_markdown.py",
+		"/home/florianm/Dropbox/research/cariban/papers/cariban_pronouns/cp_clld/cp_clld/scripts/initializedb.py",
+		"/home/florianm/Dropbox/research/cariban/papers/cariban_pronouns/maps/create_maps.py",
+		"/home/florianm/Dropbox/research/cariban/cariban_references.bib",
+		"/home/florianm/Dropbox/research/cariban/papers/cariban_pronouns/docs/pld-slides/pylingdocs.cfg",
+		"/home/florianm/Dropbox/research/cariban/papers/cariban_pronouns/data/cldfbench_cariban_pronouns.py",
+		"/home/florianm/Dropbox/development/clld-plugins/clld-document-plugin/src/clld_document_plugin/static/clld-slides.css",
+		"/home/florianm/Dropbox/development/clld-plugins/clld-document-plugin/src/clld_document_plugin/templates/document/slides.mako",
+		"/home/florianm/Dropbox/research/cariban/papers/cariban_pronouns/docs/pld-slides/output/clld/content.txt",
+		"/home/florianm/Dropbox/development/clld_apps/yawarana_sketch_clld/clld_own_markdown.py",
+		"/home/florianm/Dropbox/research/cariban/papers/cariban_pronouns/data/cldfbench_cariban_pronouns.",
+		"/home/florianm/Dropbox/research/cariban/papers/cariban_pronouns/docs/pld-slides/content/structure.yaml",
 		"/home/florianm/Dropbox/research/cariban/papers/cariban_pronouns/cp_clld/cp_clld/templates/cognateset/detail_html.mako",
 		"/home/florianm/Dropbox/research/cariban/papers/cariban_pronouns/cp_clld/cp_clld/templates/cp_clld.mako",
-		"/home/florianm/Dropbox/research/cariban/papers/cariban_pronouns/cp_clld/clld_own_markdown.py",
 		"/home/florianm/Dropbox/development/clld-plugins/clld-markdown-plugin/src/clld_markdown_plugin/__init__.py",
 		"/home/florianm/Dropbox/research/cariban/papers/cariban_pronouns/cariban-pronouns-sle/output/clld/content.txt",
 		"/home/florianm/Dropbox/research/cariban/papers/cariban_pronouns/cariban-pronouns-sle/content/1000 main.md",
-		"/home/florianm/Dropbox/research/cariban/papers/cariban_pronouns/data/cldfbench_cariban_pronouns.py",
-		"/home/florianm/Dropbox/development/clld-plugins/clld-document-plugin/src/clld_document_plugin/static/clld-slides.css",
-		"/home/florianm/Dropbox/research/cariban/papers/cariban_pronouns/cp_clld/cp_clld/scripts/initializedb.py",
 		"/home/florianm/Dropbox/development/clld_apps/comp_db/cocaco/cocaco/__init__.py",
 		"/home/florianm/Dropbox/development/clld_apps/yawarana_sketch_clld/yawarana_sketch_clld/scripts/initializedb.py",
 		"/home/florianm/Dropbox/research/cariban/papers/cariban_pronouns/cp_clld/cp_clld/__init__.py",
 		"/home/florianm/Dropbox/research/cariban/papers/cariban_pronouns/cp_clld/cp_clld/models.py",
 		"/home/florianm/Dropbox/development/cldf_helpers/cldf_helpers/__init__.py",
 		"/home/florianm/Dropbox/development/clld_apps/yawarana_sketch_clld/yawarana_sketch_clld/__init__.py",
-		"/home/florianm/Dropbox/research/cariban/papers/cariban_pronouns/data/cldfbench_cariban_pronouns.",
 		"/home/florianm/Dropbox/research/cariban/papers/cariban_pronouns/cariban-pronouns-sle/pylingdocs.cfg",
 		"/home/florianm/Dropbox/research/cariban/papers/cariban_pronouns/cp-clld/setup.py",
 		"/home/florianm/Dropbox/research/cariban/papers/cariban_pronouns/data/metadata.json",
 		"/home/florianm/Dropbox/research/cariban/papers/cariban_pronouns/cariban-pronouns-pld/metadata.yaml",
 		"/home/florianm/Dropbox/research/cariban/papers/cariban_pronouns/cariban-pronouns-pld/content/1000 main.md.md",
 		"/home/florianm/Dropbox/research/cariban/papers/cariban_pronouns/cariban-pronouns-pld/pylingdocs.cfg",
-		"/home/florianm/Dropbox/development/clld-plugins/clld-document-plugin/src/clld_document_plugin/templates/document/slides.mako",
 		"/home/florianm/Dropbox/research/cariban/yawarana/parsing_ambiguity/output/clld/content.txt",
-		"/home/florianm/Dropbox/development/pylingdocs/src/pylingdocs/output.py",
 		"/home/florianm/Dropbox/research/cariban/yawarana/parsing_ambiguity/pylingdocs.cfg",
 		"/home/florianm/Dropbox/research/cariban/yawarana/parsing_ambiguity/content/1000 main.md",
 		"/home/florianm/Dropbox/development/clld-plugins/clld-morphology-plugin/src/clld_morphology_plugin/templates/morpheme/detail_html.mako",
 		"/home/florianm/Dropbox/development/clld-plugins/clld-corpus-plugin/CHANGELOG.md",
-		"/home/florianm/Dropbox/development/pylingdocs/src/pylingdocs/data/config.cfg",
 		"/home/florianm/Dropbox/research/cariban/yawarana/yawarana-pld-sketch/pylingdocs.cfg",
-		"/home/florianm/Dropbox/development/pylingdocs/src/pylingdocs/helpers.py",
-		"/home/florianm/Dropbox/development/pylingdocs/src/pylingdocs/cli.py",
 		"/home/florianm/Dropbox/development/clld-plugins/clld-document-plugin/src/clld_document_plugin/__init__.py",
 		"/home/florianm/Dropbox/development/clld-plugins/clld-document-plugin/src/clld_document_plugin/util.py",
-		"/home/florianm/Dropbox/development/pylingdocs/src/pylingdocs/config.py",
 		"/home/florianm/Dropbox/research/cariban/yawarana/yawarana-cldf/compile_cldf.py",
 		"/home/florianm/Dropbox/development/clld-plugins/clld-corpus-plugin/src/clld_corpus_plugin/util.py",
 		"/home/florianm/Dropbox/development/clld_apps/yawarana_sketch_clld/yawarana_sketch_clld/scripts/update_docs.py",
@@ -484,8 +551,6 @@
 		"/home/florianm/Dropbox/research/cariban/yawarana/yaw_sketch/README.md",
 		"/home/florianm/Dropbox/research/cariban/yawarana/yaw_sketch/metadata.yaml",
 		"/home/florianm/Dropbox/development/clld-plugins/clld-morphology-plugin/src/clld_morphology_plugin/cldf/MorphsetTable-metadata.json",
-		"/home/florianm/Dropbox/development/clld-plugins/clld-morphology-plugin/src/clld_morphology_plugin/templates/wordform/detail_html.mako",
-		"/home/florianm/Dropbox/development/clld-plugins/clld-morphology-plugin/src/clld_morphology_plugin/models.py",
 		"/home/florianm/Dropbox/development/clld-plugins/clld-morphology-plugin/var/cldf_ds/create_morpho_cldf.py",
 		"/home/florianm/Dropbox/development/clld-plugins/clld-morphology-plugin/var/clld_test_app/clld_test_app/scripts/initializedb.py",
 		"/home/florianm/Dropbox/development/pylingdocs/tests/test_cli.py",
@@ -494,48 +559,11 @@
 		"/home/florianm/Dropbox/development/pylingdocs/tests/test_models.py",
 		"/home/florianm/Dropbox/development/pylingdocs/tests/test_cl",
 		"/home/florianm/Dropbox/development/uniparser-yawarana/CHANGELOG.md",
-		"/home/florianm/Dropbox/development/uniparser-yawarana/RELEASING.md",
-		"/home/florianm/Dropbox/development/uniparser-yawarana/CITATION.cff",
-		"/home/florianm/Dropbox/development/pynterlinear/tests/test_pynt.py",
-		"/home/florianm/Dropbox/development/quick.py",
-		"/home/florianm/Dropbox/development/clld-plugins/clld-morphology-plugin/src/clld_morphology_plugin/cldf.py",
-		"/home/florianm/Dropbox/development/clld-plugins/clld-morphology-plugin/src/clld_morphology_plugin/templates/morphology_util.mako",
-		"/home/florianm/Dropbox/development/uniparser-yawarana/compile_parser/bad_analyses.yaml",
-		"/home/florianm/Dropbox/development/uniparser-yawarana/compile_parser/disambiguation.cg3",
-		"/home/florianm/Dropbox/research/cariban/yawarana/yawarana_corpus/yawarana_pylacoan/pylacoan_pipeline.py",
-		"/home/florianm/Dropbox/development/uniparser-yawarana/src/uniparser_yawarana/data/disambiguation.cg3",
-		"/home/florianm/Dropbox/research/cariban/yawarana/yawarana-parsing-ambiguity/pylingdocs.cfg",
-		"/home/florianm/Dropbox/research/cariban/yawarana/yawarana_corpus/yawarana_pylacoan/morpho_ambiguous.txt",
-		"/home/florianm/Dropbox/research/cariban/yawarana/yaw_cldf/etc/refs.json",
-		"/home/florianm/Dropbox/research/cariban/yawarana/yawarana-parsing-ambiguity/content/.pld_menudata.json",
-		"/home/florianm/Dropbox/research/cariban/cariban_references.bib",
-		"/home/florianm/Dropbox/research/cariban/yawarana/yaw_cldf/compile_cldf.py",
-		"/home/florianm/Dropbox/research/cariban/yawarana/yawarana-parsing-ambiguity/metadata.yaml",
-		"/home/florianm/Dropbox/research/cariban/yawarana/yaw_sketch/RELEASING.md",
-		"/home/florianm/Dropbox/research/cariban/yawarana/yaw_cldf/sync_bib.py",
-		"/home/florianm/Dropbox/research/cariban/yawarana/yaw_sketch/pylingdocs.cfg",
-		"/home/florianm/Dropbox/research/cariban/yawarana/yaw_sketch/CITATION.cff",
-		"/home/florianm/Dropbox/research/cariban/yawarana/yawarana-parsing-ambiguity/content/structure.yaml",
-		"/home/florianm/Dropbox/research/cariban/yawarana/yaw_sketch/content/3100 possession.md",
-		"/home/florianm/Dropbox/development/clld-plugins/clld-corpus-plugin/src/clld_corpus_plugin/interfaces.py",
-		"/home/florianm/Dropbox/development/clld-plugins/clld-corpus-plugin/var/clld_test_app/clld_test_app/__init__.py",
-		"/home/florianm/Dropbox/research/cariban/yawarana/yaw_sketch/output/plain/document.txt",
-		"/home/florianm/Dropbox/development/clld-plugins/clld-corpus-plugin/src/clld_corpus_plugin/models.py",
-		"/home/florianm/Dropbox/development/pylingdocs/src/pylingdocs/data/cldf/ExampleSlices-metadata.json",
-		"/home/florianm/Dropbox/development/pylingdocs/src/pylingdocs/data/cldf/MorphsetTable-metadata.json",
-		"/home/florianm/Dropbox/development/pylingdocs/src/pylingdocs/data/cldf/MorphTable-metadata.json",
-		"/home/florianm/Dropbox/development/pylacoan/src/pylacoan/helpers.py",
-		"/home/florianm/Dropbox/development/clld-plugins/clld-corpus-plugin/var/clld_test_app/clld_test_app/scripts/initializedb.py",
-		"/home/florianm/Dropbox/development/clld-plugins/clld-corpus-plugin/src/clld_corpus_plugin/__init__.py",
-		"/home/florianm/Dropbox/development/pylingdocs/src/pylingdocs/data/cldf/FormSlices-metadata.json",
-		"/home/florianm/Dropbox/research/cariban/yawarana/yaw_cldf/cldf/ExampleSlices",
-		"/home/florianm/Dropbox/research/cariban/yawarana/yaw_cldf/cldf/FormSlices",
-		"/home/florianm/Dropbox/research/cariban/cldf_datasets/meira_cldf/create_cldf_dataset.py",
-		"/home/florianm/Dropbox/research/cariban/yawarana/yaw_sketch/content/1000 verbs.md"
+		"/home/florianm/Dropbox/development/uniparser-yawarana/RELEASING.md"
 	],
 	"find":
 	{
-		"height": 38.0
+		"height": 41.0
 	},
 	"find_in_files":
 	{
@@ -549,113 +577,134 @@
 		"case_sensitive": true,
 		"find_history":
 		[
-			"Hallo",
-			"CognateTable",
-			"alignments",
-			"alignm",
-			"contained_sources",
-			"sources",
-			"line-",
-			"}{",
-			"FormTable",
-			"article",
-			"book",
-			"ambigu",
-			"\n#",
-			"clld",
-			"Chapter",
-			"clld",
-			"clld_",
-			"preview",
-			"previw",
-			"def preview",
-			"class CLLD",
-			"clld_d",
-			"helpers",
-			"clld_",
-			"refresh_clld_db",
-			"clld",
-			"Document",
-			"WEE",
-			"document",
-			"preview",
-			"html",
-			"Chapter",
-			"args",
-			"initializedb",
-			"Transl",
-			"transl",
-			"tags",
-			"Translat",
-			"Transla",
-			"ExampleTable",
-			".pos.",
-			".pos",
-			"\"?\"",
-			"jpë",
-			".jpë",
-			"rather",
-			"Wordform",
-			"analysis.wf",
-			"wf_anal",
-			"choice",
-			"pëkë",
-			"cop",
-			"go_",
-			"say",
-			".se",
-			"topo",
-			"ëjpï",
-			"ëjp",
-			"ta-ri",
-			"bare_example",
-			"Meaning",
-			"lexemes.csv",
-			"sys",
-			"bibtex_rev",
-			"cff_fields",
-			"tree",
-			"readme",
-			"cff",
-			"_cff",
-			"CFF",
-			"cff",
-			"CFF",
-			"cff",
-			"CFF",
-			"split_ref",
-			"metadata",
-			"release",
-			"Rendering",
-			"not found",
-			"metadata.yaml",
-			"meaning_senten",
-			"form_tokens",
-			"sentence_ass",
-			"FormSlice",
-			"tokens",
-			"form_tokens",
-			"tokens",
-			"triomeira",
-			"Slice",
-			"Form\"",
-			"Form",
-			"[]",
-			"resolve",
-			"()",
-			"ambigu",
-			"ambiguo",
-			"Ambiguit",
-			"self.ambigu",
-			"jsonlib",
-			"ambiguous",
-			"self.ambigu",
+			"save",
+			"sec:",
+			"methods",
+			"jumpViewer",
+			"jumping",
+			"loadPart",
+			"loadPa",
+			"missing",
+			"pdf",
+			"merge",
+			"astyp",
+			"merge",
+			"custom",
+			"autocom",
+			"addons",
+			"custom",
+			"basicSetup",
+			" ext",
+			"ext",
+			"codemirror",
+			"editor",
+			"custom",
+			"my-ma",
+			"this.codemir",
+			"doc",
+			"editor",
+			"style(",
+			"style",
+			"3",
+			"4",
+			"sec2file",
+			"irreleva",
+			"loadPart",
+			"save",
+			"loadPart",
+			"Click",
+			"click",
+			"red",
+			"save",
+			"modified",
+			"save",
+			"sav",
+			"modified",
+			"edited",
+			"red",
+			"save",
+			"ds",
+			"editor",
+			"source",
+			"Vuetify",
+			"material",
+			"css",
+			"Vuetify",
+			"vuetify",
+			"getElement",
+			"Vuetify",
+			"Vue",
+			"Pinia.",
+			"run_editor",
+			"_get_relative_file",
+			"_load_cldf_dataset",
+			"run_editor",
+			"_load_cldf_dataset",
+			"run_editor",
 			"write",
-			"ambigu",
-			"found_re",
-			"_extract_",
-			"url",
-			"write_rea"
+			"save",
+			"original",
+			"send_file",
+			"output_dir",
+			"write_",
+			"HTML",
+			"STR",
+			"editor",
+			"structure_file",
+			"load_content",
+			"file_id",
+			"load_content",
+			"load_cont",
+			"save",
+			"intro",
+			"phono",
+			"jumpEditor",
+			"jumpEd",
+			"sec2file",
+			"jumpEditor",
+			"loadPart",
+			"this.current",
+			"focus",
+			"contents",
+			"my-markdown-",
+			"codemirror",
+			"editor",
+			"codemir",
+			"currentFile",
+			"jumpEditor",
+			"currentFile",
+			"loadPart",
+			"click",
+			"buildTOC",
+			"build",
+			"buildTo",
+			"_load_structure",
+			"get_structure",
+			"load_content",
+			"run_editor",
+			"title",
+			"store",
+			"\"parts\"",
+			"this.parts",
+			"mounted",
+			"contents",
+			"getfi",
+			"get_fi",
+			"getfi",
+			"getfie",
+			"parts",
+			"Files",
+			"nav",
+			"files",
+			"story",
+			"ablaut",
+			"clt",
+			"HasSourceMixin",
+			"Wordfor",
+			"Form",
+			"Wordform",
+			"parse_citat",
+			"parse_citation"
 		],
 		"highlight": false,
 		"in_selection": false,
@@ -663,6 +712,9 @@
 		"regex": false,
 		"replace_history":
 		[
+			"df",
+			"\"files\"",
+			"this.files",
 			",",
 			"\n",
 			"[]"
@@ -680,42 +732,12 @@
 		{
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "/home/florianm/Dropbox/development/clld_apps/yawarana_sketch_clld/clld_own_markdown.py",
-					"selected": true,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3098,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3098,
-								3098
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 101.5,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"stack_multiselect": false,
-					"type": "text"
-				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 24.0
+		"height": 29.0
 	},
 	"input":
 	{
@@ -748,6 +770,10 @@
 	{
 		"height": 0.0
 	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 138.0
+	},
 	"output.find_results":
 	{
 		"height": 0.0
@@ -756,7 +782,7 @@
 	"project": "cariban-pronouns-sle.sublime-project",
 	"replace":
 	{
-		"height": 68.0
+		"height": 74.0
 	},
 	"save_all_on_build": true,
 	"select_file":
