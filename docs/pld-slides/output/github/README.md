@@ -28,7 +28,7 @@
 
 # The Cariban language family
 
-![](family.svg)
+![](images/family.svg)
 
 # First person
 
@@ -74,11 +74,11 @@ First person
 
 # First person: cognacy
 
-![](1cog.svg)
+![](images/1cog.svg)
 
 # First person: reflex of /əwɨ/
 
-![](1form.svg)
+![](images/1form.svg)
 
 # References
 
