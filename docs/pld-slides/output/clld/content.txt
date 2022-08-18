@@ -13,8 +13,8 @@
 [Cognate set 1abs](CognatesetTable?#cldf:1abs)
 
 * reconstructible: [Form pc-one](FormTable?no_translation#cldf:pc-one)
-* found throughout the family:
-    * grammaticalization of emphatic marker **rə*
+* parallel innovations:
+    * grammaticalization of emphatic marker \**rə*
     * coalescence of *wɨ* to *u*
 * appearance of *j* in [Language pem](LanguageTable?#cldf:pem) and [Language pan](LanguageTable?#cldf:pan) -- via /əwɨ/ > /ɨwɨ/ > /ɨu/ > /ju/? ([meira2002first](sources.bib?with_internal_ref_link&ref#cldf:meira2002first): 259)
 * additional *hɨ* in Manapiarean
@@ -25,5 +25,16 @@
 
 ## First person: reflex of /əwɨ/
 ![](/static/images/1form.svg)
+
+## Second person
+[Cognate set 2abs](CognatesetTable?#cldf:2abs)
+
+* grammaticalization of emphatic \**rə* in almost all languages
+	* optional in at least [Language way](LanguageTable?#cldf:way) and [Language yuk](LanguageTable?#cldf:yuk)
+
+## Second person: cognacy
+![](/static/images/2cog.svg)
+
+
 
 

@@ -92,22 +92,22 @@ class Dataset(BaseDataset):
 
         # print(set(list(forms["Cognateset_ID"])))
 
-        cog_df = forms[((forms["Cognateset_ID"] == "1") & ~(forms["Language_ID"].str.contains("P")))]
-        cog_df.reset_index(inplace=True)
-        print(cog_df)
-        seglist = lingpy.align.multiple.Multiple(list(cog_df["Segments"]))
-        seglist.align(method="progressive")
-        cog_df["Alignment"] = seglist.alm_matrix
-        # cog_df["Alignment"] = cog_df["Alignment"].apply(lambda x: " ".join(x))
-        for rec in cog_df.to_dict("records"):
-            args.writer.objects["CognateTable"].append(
-                {
-                    "ID": f"""{rec["ID"]}-1""",
-                    "Form_ID": rec["ID"],
-                    "Cognateset_ID": "1abs",
-                    "Alignment": rec["Alignment"],
-                }
-            )
+        for abs_cog in ["1", "2"]:
+            cog_df = forms[((forms["Cognateset_ID"] == abs_cog) & ~(forms["Language_ID"].str.contains("P")))]
+            cog_df.reset_index(inplace=True)
+            seglist = lingpy.align.multiple.Multiple(list(cog_df["Segments"]))
+            seglist.align(method="progressive")
+            cog_df["Alignment"] = seglist.alm_matrix
+            # cog_df["Alignment"] = cog_df["Alignment"].apply(lambda x: " ".join(x))
+            for rec in cog_df.to_dict("records"):
+                args.writer.objects["CognateTable"].append(
+                    {
+                        "ID": f"""{rec["ID"]}-abs""",
+                        "Form_ID": rec["ID"],
+                        "Cognateset_ID": f"{abs_cog}abs",
+                        "Alignment": rec["Alignment"],
+                    }
+                )
 
         for i, row in cogsets.iterrows():
             if row["ID"] == "?":

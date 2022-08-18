@@ -65,8 +65,8 @@ First person
 | *awɨ(r)* | Yukpa             | a   | w   | ɨ   | \+  | r   | \-  |
 
 -   reconstructible: əwɨ
--   found throughout the family:
-    -   grammaticalization of emphatic marker \*\*rə\*
+-   parallel innovations:
+    -   grammaticalization of emphatic marker \**rə*
     -   coalescence of *wɨ* to *u*
 -   appearance of *j* in Pemón and Panare – via /əwɨ/ \> /ɨwɨ/ \> /ɨu/
     \> /ju/? ([Meira 2002](#source-meira2002first): 259)
@@ -79,6 +79,47 @@ First person
 # First person: reflex of /əwɨ/
 
 ![](images/1form.svg)
+
+# Second person
+
+Second person
+
+| Form     | Language          | \-  | \-  | \-  | \-  | \-  | \-  |
+|:---------|:------------------|:----|:----|:----|:----|:----|:----|
+| *amərə*  | Akawaio           | a   | m   | ə   | \+  | r   | ə   |
+| *əmə*    | Akuriyó           | ə   | m   | ə   | \-  | \-  | \-  |
+| *omoro*  | Apalaí            | o   | m   | o   | \+  | r   | o   |
+| *omoro*  | Arara             | o   | m   | o   | \+  | r   | o   |
+| *əmə*    | Bakairi           | ə   | m   | ə   | \-  | \-  | \-  |
+| *əmərə*  | Karijona          | ə   | m   | ə   | \+  | r   | ə   |
+| *omoro*  | Hixkaryána        | o   | m   | o   | \+  | r   | o   |
+| *omro*   | Ikpeng            | o   | m   | \-  | \+  | r   | o   |
+| *amərə*  | Ingarikó          | a   | m   | ə   | \+  | r   | ə   |
+| *amoro*  | Kari’ña           | a   | m   | o   | \+  | r   | o   |
+| *omoro*  | Werikyana         | o   | m   | o   | \+  | r   | o   |
+| *amɨrɨ*  | Macushi           | a   | m   | ɨ   | \+  | r   | ɨ   |
+| *amərə*  | Ye’kwana          | a   | m   | ə   | \+  | r   | ə   |
+| *(m)ərə* | Mapoyo            | \-  | m   | ə   | \+  | r   | ə   |
+| *amən*   | Panare            | a   | m   | ə   | \+  | n   | \-  |
+| *amərə*  | Pemón             | a   | m   | ə   | \+  | r   | ə   |
+| *mərə*   | Pémono            | \-  | m   | ə   | \+  | r   | ə   |
+| *amare*  | Tamanaku          | a   | m   | a   | \+  | r   | e   |
+| *əmə*    | Tiriyó            | ə   | m   | ə   | \-  | \-  | \-  |
+| *eeɣe*   | Upper Xingu Carib | \-  | \-  | ee  | \+  | ɣ   | e   |
+| *amoro*  | Waiwai            | a   | m   | o   | \+  | r   | o   |
+| *əmərə*  | Wayana            | ə   | m   | ə   | \+  | r   | ə   |
+| *əmə*    | Wayana            | ə   | m   | ə   | \-  | \-  | \-  |
+| *amɨrɨ*  | Waimiri-Atroari   | a   | m   | ɨ   | \+  | r   | ɨ   |
+| *mərə*   | Yawarana          | \-  | m   | ə   | \+  | r   | ə   |
+| *amo*    | Yukpa             | a   | m   | o   | \-  | \-  | \-  |
+| *amor*   | Yukpa             | a   | m   | o   | \+  | r   | \-  |
+
+-   grammaticalization of emphatic \**rə* in almost all languages
+    -   optional in at least Wayana and Yukpa
+
+# Second person: cognacy
+
+![](images/2cog.svg)
 
 # References
 
