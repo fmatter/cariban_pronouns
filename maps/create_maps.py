@@ -52,6 +52,7 @@ forms["Clade"] = forms["Clade"].replace("aka", "kap")
 forms["Clade"] = forms["Clade"].replace("ing", "kap")
 forms = forms[~(forms["Clade"].str.contains("P"))]
 
+
 def sort_by(df, col, order):
     df[col] = pd.Categorical(df[col], order)
     df = df.sort_values(by=col)
@@ -132,18 +133,27 @@ cogmap12 = {
     "1a2+karform / 1a2+mform+EMP": "*kɨ-mə / kɨ-ʔko",
     "1a2+wform+EMP": "*kɨ-wɨ",
     "1a2+wform": "*kɨ-wɨ",
-    "uku": "*uku",
-    "uku+EMP": "*uku",
+    "uku": "*(k)uku",
+    "uku+EMP": "*(k)uku",
     "1a2cop": "*eti-nə",
     "1a2ep": "epɨ",
     "1+PL-3": "*ju-to",
     "1+EMP+PL-3": "*ju-to",
     "1+EMP+PL-3+PL-1": "*ju-to",
-    "1+EMP+pempl+PL-1": "(u+rə+ʔno+kon)"
+    "1+EMP+pempl+PL-1": "(u+rə+ʔno+kon)",
+}
+color_dict = {
+    "*kɨ-mə": "red",
+    "*kɨ-mə / kɨ-ʔko": "firebrick",
+    "*kɨ-wɨ": "orange",
+    "*(k)uku": "green",
+    "*ju-to": "blue",
+    "*eti-nə": "darkviolet",
+    "epɨ": "darkslategray",
+    "(u+rə+ʔno+kon)": "gray"
 }
 t = forms[forms["Cognateset_ID"] == "1+2"]
 t = stack_lg_values(t, "Cognates")
 t["Value"] = t["Cognates"].map(cogmap12)
 t = sort_by(t, "Value", list(dict.fromkeys(cogmap12.values())))
-print(t)
-plot_map(t, "12cog", legend_size=5.5)
+plot_map(t, "12cog", legend_size=5.5, color_dict=color_dict)
