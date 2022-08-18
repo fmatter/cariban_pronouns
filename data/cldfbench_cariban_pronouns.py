@@ -90,8 +90,6 @@ class Dataset(BaseDataset):
 
         alignments = {}
 
-        # print(set(list(forms["Cognateset_ID"])))
-
         for abs_cog in ["1", "2"]:
             cog_df = forms[((forms["Cognateset_ID"] == abs_cog) & ~(forms["Language_ID"].str.contains("P")))]
             cog_df.reset_index(inplace=True)

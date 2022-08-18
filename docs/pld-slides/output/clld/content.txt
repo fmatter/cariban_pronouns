@@ -35,6 +35,16 @@
 ## Second person: cognacy
 ![](/static/images/2cog.svg)
 
+## First person inclusive (1+2)
+* etymologically very diverse forms
+1. two apparently distinct roots [Cognate set 1a2](CognatesetTable?inline#cldf:1a2) and [Cognate set uku](CognatesetTable?inline#cldf:uku) with same core meaning
+	* [Cognate set 1a2](CognatesetTable?inline#cldf:1a2) combines with different formatives
+    * even within same language ([Language kar](LanguageTable?#cldf:kar))
+2. innovative forms
+	* <span class='smallcaps'>1</span>-<span class='smallcaps'>pl</span> in the Pemon-Panare group
+    * old infinitive form of copula for Manapiarean
+    * unrelated *epɨ* in Yukpan
+
 
 
 

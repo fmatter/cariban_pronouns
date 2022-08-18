@@ -50,6 +50,7 @@ forms.rename(columns={"Language_ID": "Clade"}, inplace=True)
 forms.drop(columns=["ID"], inplace=True)
 forms["Clade"] = forms["Clade"].replace("aka", "kap")
 forms["Clade"] = forms["Clade"].replace("ing", "kap")
+forms = forms[~(forms["Clade"].str.contains("P"))]
 
 def sort_by(df, col, order):
     df[col] = pd.Categorical(df[col], order)
@@ -62,7 +63,8 @@ def stack_lg_values(df, target_col):
     df = df[["Clade", target_col]]
     df.drop_duplicates(["Clade", target_col], inplace=True)
     df.sort_values(by=target_col, inplace=True)
-    return df.groupby(["Clade"])[target_col].apply(' / '.join).reset_index()
+    return df.groupby(["Clade"])[target_col].apply(" / ".join).reset_index()
+
 
 def plot_map(feature_df, name, **kwargs):
     plot(
@@ -85,6 +87,7 @@ def plot_map(feature_df, name, **kwargs):
         f"../docs/pld-slides/images/{name}.svg", bbox_inches="tight", pad_inches=0
     )
 
+
 # fam = pd.read_csv("family.csv")
 # plot_map(fam, "family", legend_size=7)
 
@@ -95,7 +98,6 @@ t = forms[forms["Cognateset_ID"] == "1"]
 t["Value"] = t["Cognates"].map(cogmap1)
 t = sort_by(t, "Value", cogmap1.values())
 # plot_map(t, "1cog")
-
 
 
 def val1(row):
@@ -119,5 +121,29 @@ t = forms[forms["Cognateset_ID"] == "2"]
 t = stack_lg_values(t, "Cognates")
 t["Value"] = t["Cognates"].map(cogmap2)
 t = sort_by(t, "Value", cogmap2.values())
-plot_map(t, "2cog")
+# plot_map(t, "2cog")
 
+
+# 1+2
+cogmap12 = {
+    "1a2+mform+EMP": "*kɨ-mə",
+    "1a2+mform": "*kɨ-mə",
+    "1a2+?+mform": "*kɨ-mə",
+    "1a2+karform / 1a2+mform+EMP": "*kɨ-mə / kɨ-ʔko",
+    "1a2+wform+EMP": "*kɨ-wɨ",
+    "1a2+wform": "*kɨ-wɨ",
+    "uku": "*uku",
+    "uku+EMP": "*uku",
+    "1a2cop": "*eti-nə",
+    "1a2ep": "epɨ",
+    "1+PL-3": "*ju-to",
+    "1+EMP+PL-3": "*ju-to",
+    "1+EMP+PL-3+PL-1": "*ju-to",
+    "1+EMP+pempl+PL-1": "(u+rə+ʔno+kon)"
+}
+t = forms[forms["Cognateset_ID"] == "1+2"]
+t = stack_lg_values(t, "Cognates")
+t["Value"] = t["Cognates"].map(cogmap12)
+t = sort_by(t, "Value", list(dict.fromkeys(cogmap12.values())))
+print(t)
+plot_map(t, "12cog", legend_size=5.5)

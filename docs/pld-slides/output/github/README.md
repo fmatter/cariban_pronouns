@@ -121,6 +121,118 @@ Second person
 
 ![](images/2cog.svg)
 
+# First person inclusive (1+2)
+
+-   etymologically very diverse forms
+
+1.  two apparently distinct roots
+
+First person inclusive
+
+| Form           | Language         | \-  | \-  |
+|:---------------|:-----------------|:----|:----|
+| *kɨmə*         | Akuriyó          | k   | ɨ   |
+| *kɨmoro*       | Apalaí           | k   | ɨ   |
+| *kɨmərə*       | Karijona         | k   | ɨ   |
+| *kɨwro*        | Hixkaryána       | k   | ɨ   |
+| *kɨʔko*        | Kari’ña          | k   | ɨ   |
+| *kɨmoro*       | Kari’ña          | k   | ɨ   |
+| *kumoro*       | Werikyana        | k   | u   |
+| *kɨwɨ*         | Ye’kwana         | k   | ɨ   |
+| *kɨ?(ro)*      | Proto-Parukotoan | k   | ɨ   |
+| *kɨmə(rə)*     | Proto-Taranoan   | k   | ɨ   |
+| *kɨmə*         | Proto-Tiriyoan   | k   | ɨ   |
+| *kɨwɨ(ro)*     | Proto-Waiwaian   | k   | ɨ   |
+| *kiwe*         | Tamanaku         | k   | i   |
+| *kɨmə*         | Tiriyó           | k   | ɨ   |
+| *kɨɨwɨ*        | Waiwai           | k   | ɨɨ  |
+| *kunmə*        | Wayana           | k   | u   |
+| *kɨ?(ro)*      | Proto-Parukotoan | k   | ɨ   |
+| *kɨwɨ(ro)*     | Proto-Waiwaian   | k   | ɨ   |
+| *kɨ?*          | Proto-Cariban    | k   | ɨ   |
+| *kɨ(mə)njamo*  | Akuriyó          | k   | ɨ   |
+| *kɨmarokomo*   | Apalaí           | k   | ɨ   |
+| *kɨɲamoro*     | Karijona         | k   | ɨ   |
+| *kɨwjamo*      | Hixkaryána       | k   | ɨ   |
+| *kɨʔkaro(n)*   | Kari’ña          | k   | ɨ   |
+| *kɨmojaro*     | Kari’ña          | k   | ɨ   |
+| *kɨmjarɨ*      | Werikyana        | k   | ɨ   |
+| *kɨnwanno*     | Ye’kwana         | k   | ɨ   |
+| *kɨ?jamo(ro)*  | Proto-Parukotoan | k   | ɨ   |
+| *kɨnjamo*      | Proto-Taranoan   | k   | ɨ   |
+| *kɨ(mə)njamo*  | Proto-Tiriyoan   | k   | ɨ   |
+| *kɨwjamo*      | Proto-Waiwaian   | k   | ɨ   |
+| *kikemo*       | Tamanaku         | k   | i   |
+| *kɨmənjamo*    | Tiriyó           | k   | ɨ   |
+| *kɨwjam*       | Waiwai           | k   | ɨ   |
+| *kunməramkomo* | Wayana           | k   | u   |
+| *kɨ?jamo*      | Proto-Cariban    | k   | ɨ   |
+
+and
+
+First person inclusive
+
+| Form       | Language          | \-  | \-  | \-  | \-  |
+|:-----------|:------------------|:----|:----|:----|:----|
+| *ugoro*    | Arara             | \-  | u   | g   | o   |
+| *ugro*     | Ikpeng            | \-  | u   | g   | \-  |
+| *ukurə*    | Proto-Pekodian    | \-  | u   | k   | u   |
+| *ugoro*    | Proto-Xinguan     | \-  | u   | g   | o   |
+| *kukuɣe*   | Upper Xingu Carib | k   | u   | k   | u   |
+| *kɨkɨ*     | Waimiri-Atroari   | k   | ɨ   | k   | ɨ   |
+| *kurə*     | Bakairi           | k   | u   | \-  | \-  |
+| *ugoroŋmo* | Arara             | \-  | u   | g   | o   |
+| *ugroŋmo*  | Ikpeng            | \-  | u   | g   | \-  |
+| *ugoroŋmo* | Proto-Xinguan     | \-  | u   | g   | o   |
+| *kukuɣeko* | Upper Xingu Carib | k   | u   | k   | u   |
+
+with same core meaning \*
+
+First person inclusive
+
+| Form           | Language         | \-  | \-  |
+|:---------------|:-----------------|:----|:----|
+| *kɨmə*         | Akuriyó          | k   | ɨ   |
+| *kɨmoro*       | Apalaí           | k   | ɨ   |
+| *kɨmərə*       | Karijona         | k   | ɨ   |
+| *kɨwro*        | Hixkaryána       | k   | ɨ   |
+| *kɨʔko*        | Kari’ña          | k   | ɨ   |
+| *kɨmoro*       | Kari’ña          | k   | ɨ   |
+| *kumoro*       | Werikyana        | k   | u   |
+| *kɨwɨ*         | Ye’kwana         | k   | ɨ   |
+| *kɨ?(ro)*      | Proto-Parukotoan | k   | ɨ   |
+| *kɨmə(rə)*     | Proto-Taranoan   | k   | ɨ   |
+| *kɨmə*         | Proto-Tiriyoan   | k   | ɨ   |
+| *kɨwɨ(ro)*     | Proto-Waiwaian   | k   | ɨ   |
+| *kiwe*         | Tamanaku         | k   | i   |
+| *kɨmə*         | Tiriyó           | k   | ɨ   |
+| *kɨɨwɨ*        | Waiwai           | k   | ɨɨ  |
+| *kunmə*        | Wayana           | k   | u   |
+| *kɨ?(ro)*      | Proto-Parukotoan | k   | ɨ   |
+| *kɨwɨ(ro)*     | Proto-Waiwaian   | k   | ɨ   |
+| *kɨ?*          | Proto-Cariban    | k   | ɨ   |
+| *kɨ(mə)njamo*  | Akuriyó          | k   | ɨ   |
+| *kɨmarokomo*   | Apalaí           | k   | ɨ   |
+| *kɨɲamoro*     | Karijona         | k   | ɨ   |
+| *kɨwjamo*      | Hixkaryána       | k   | ɨ   |
+| *kɨʔkaro(n)*   | Kari’ña          | k   | ɨ   |
+| *kɨmojaro*     | Kari’ña          | k   | ɨ   |
+| *kɨmjarɨ*      | Werikyana        | k   | ɨ   |
+| *kɨnwanno*     | Ye’kwana         | k   | ɨ   |
+| *kɨ?jamo(ro)*  | Proto-Parukotoan | k   | ɨ   |
+| *kɨnjamo*      | Proto-Taranoan   | k   | ɨ   |
+| *kɨ(mə)njamo*  | Proto-Tiriyoan   | k   | ɨ   |
+| *kɨwjamo*      | Proto-Waiwaian   | k   | ɨ   |
+| *kikemo*       | Tamanaku         | k   | i   |
+| *kɨmənjamo*    | Tiriyó           | k   | ɨ   |
+| *kɨwjam*       | Waiwai           | k   | ɨ   |
+| *kunməramkomo* | Wayana           | k   | u   |
+| *kɨ?jamo*      | Proto-Cariban    | k   | ɨ   |
+
+combines with different formatives \* even within same language
+(Kari’ña) 2. innovative forms \* 1-PL in the Pemon-Panare group \* old
+infinitive form of copula for Manapiarean \* unrelated *epɨ* in Yukpan
+
 # References
 
 -   <a id="source-akawaiocaesar2003"> </a>Caesar-Fox, Desrey
