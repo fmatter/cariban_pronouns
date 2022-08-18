@@ -1,10 +1,10 @@
 slides:
-	make doc
+	make docs
 	make clld
 
 all:
-	make map
-	make doc
+	make maps
+	make docs
 	make cldf
 	make clld
 

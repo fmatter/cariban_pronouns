@@ -55,6 +55,9 @@
 * related but rather different forms
 * [src](meira2002first[263]) reconstructs \**apina* or \**aipna*, with different patterns of loss
 * various additional initial elements like /ju/, /t͡ʃi/, /n/
+* rather divergent [wf](map-1a3?nt)
+
+
 
 # 1+3: forms
 

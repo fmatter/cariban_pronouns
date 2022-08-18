@@ -248,6 +248,7 @@ First person exclusive
 -   [Meira 2002](#source-meira2002first): 263 reconstructs \**apina* or
     \**aipna*, with different patterns of loss
 -   various additional initial elements like /ju/, /t͡ʃi/, /n/
+-   rather divergent naha
 
 # 1+3: forms
 

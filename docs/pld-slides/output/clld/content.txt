@@ -56,6 +56,9 @@
 * related but rather different forms
 * [meira2002first](sources.bib?with_internal_ref_link&ref#cldf:meira2002first): 263 reconstructs \**apina* or \**aipna*, with different patterns of loss
 * various additional initial elements like /ju/, /t͡ʃi/, /n/
+* rather divergent [Form map-1a3](FormTable?no_translation#cldf:map-1a3)
+
+
 
 ## 1+3: forms
 
