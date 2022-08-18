@@ -114,7 +114,7 @@ Second person
 | *amo*    | Yukpa             | a   | m   | o   | \-  | \-  | \-  |
 | *amor*   | Yukpa             | a   | m   | o   | \+  | r   | \-  |
 
--   reconstructible: [f](pc-two?nt)
+-   reconstructible: əmə
 -   grammaticalization of emphatic \**rə* in almost all languages
     -   optional in at least Wayana and Yukpa
 
@@ -242,12 +242,16 @@ First person exclusive
 | *aʔa*     | Waimiri-Atroari | a   | ʔ   | \-  | \-  | a   |
 | *ana*     | Yawarana        | a   | \-  | n   | \-  | a   |
 | *nana(r)* | Yukpa           | a   | \-  | n   | \-  | a   |
-| *nana*    | Japreria        |     |     |     |     |     |
+| *nana*    | Japreria        | a   | \-  | n   | \-  | a   |
 
 -   related but rather different forms
 -   [Meira 2002](#source-meira2002first): 263 reconstructs \**apina* or
     \**aipna*, with different patterns of loss
 -   various additional initial elements like /ju/, /t͡ʃi/, /n/
+
+# 1+3: forms
+
+![](images/13form.svg)
 
 # Shared innovations in pronominal systems
 

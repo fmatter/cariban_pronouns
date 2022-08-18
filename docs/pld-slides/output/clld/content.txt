@@ -29,7 +29,7 @@
 ## Second person
 [Cognate set 2abs](CognatesetTable?#cldf:2abs)
 
-* reconstructible: [f](pc-two?nt)
+* reconstructible: [Form pc-two](FormTable?no_translation#cldf:pc-two)
 * grammaticalization of emphatic \**rə* in almost all languages
 	* optional in at least [Language way](LanguageTable?#cldf:way) and [Language yuk](LanguageTable?#cldf:yuk)
 
@@ -56,6 +56,11 @@
 * related but rather different forms
 * [meira2002first](sources.bib?with_internal_ref_link&ref#cldf:meira2002first): 263 reconstructs \**apina* or \**aipna*, with different patterns of loss
 * various additional initial elements like /ju/, /t͡ʃi/, /n/
+
+## 1+3: forms
+
+![](/static/images/13form.svg)
+
 
 ## Shared innovations in pronominal systems
 
