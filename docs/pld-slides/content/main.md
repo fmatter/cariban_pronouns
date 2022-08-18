@@ -65,8 +65,8 @@
 
 # Third person forms
 
-[cogset](3anaanimabs)
-[cogset](ainan)
+[cogset](3aabs)
+[cogset](3iabs)
 
 # Shared innovations in pronominal systems
 

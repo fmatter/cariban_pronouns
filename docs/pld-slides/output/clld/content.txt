@@ -66,8 +66,8 @@
 
 ## Third person forms
 
-[Cognate set 3anaanimabs](CognatesetTable?#cldf:3anaanimabs)
-[Cognate set ainan](CognatesetTable?#cldf:ainan)
+[Cognate set 3aabs](CognatesetTable?#cldf:3aabs)
+[Cognate set 3iabs](CognatesetTable?#cldf:3iabs)
 
 ## Shared innovations in pronominal systems
 

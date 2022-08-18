@@ -90,7 +90,7 @@ class Dataset(BaseDataset):
 
         alignments = {}
 
-        for abs_cog, abs_id in [("1", "1abs"), ("2", "2abs"), ("3ANA.ANIM", "3aabs")]:
+        for abs_cog, abs_id in [("1", "1abs"), ("2", "2abs"), ("3ANA.ANIM", "3aabs"), ("3ANA.INAN", "3iabs")]:
             cog_df = forms[((forms["Cognateset_ID"] == abs_cog) & ~(forms["Language_ID"].str.contains("P")))]
             cog_df.reset_index(inplace=True)
             seglist = lingpy.align.multiple.Multiple(list(cog_df["Segments"]))

@@ -4,10 +4,15 @@ slides:
 
 all:
 	make maps
+	make cldf
 	make docs
+	make clld
+	make readme
+
+data:
 	make cldf
 	make clld
-
+	
 cldf:
 	cd data; cldfbench makecldf cldfbench_cariban_pronouns.py
 
@@ -25,6 +30,3 @@ maps:
 readme:
 	cldf markdown data/cldf/Wordlist-metadata.json > data/cldf/README.md
 
-data:
-	make cldf
-	make clld
