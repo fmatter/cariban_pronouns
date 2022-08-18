@@ -58,11 +58,15 @@
 * rather divergent [wf](map-1a3?nt)
 
 
-
 # 1+3: forms
 
 ![](13form.svg)
 
+
+# Third person forms
+
+[cogset](3anaanimabs)
+[cogset](ainan)
 
 # Shared innovations in pronominal systems
 

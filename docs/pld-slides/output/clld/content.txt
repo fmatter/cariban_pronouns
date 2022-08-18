@@ -59,11 +59,15 @@
 * rather divergent [Form map-1a3](FormTable?no_translation#cldf:map-1a3)
 
 
-
 ## 1+3: forms
 
 ![](/static/images/13form.svg)
 
+
+## Third person forms
+
+[Cognate set 3anaanimabs](CognatesetTable?#cldf:3anaanimabs)
+[Cognate set ainan](CognatesetTable?#cldf:ainan)
 
 ## Shared innovations in pronominal systems
 

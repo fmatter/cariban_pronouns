@@ -3,7 +3,7 @@ import pandas as pd
 from cldfbench import Dataset as BaseDataset
 from segments import Profile, Tokenizer
 import re
-
+from slugify import slugify
 import lingpy
 from clldutils.misc import slug
 import cariban_helpers as crh
@@ -90,7 +90,7 @@ class Dataset(BaseDataset):
 
         alignments = {}
 
-        for abs_cog in ["1", "2"]:
+        for abs_cog, abs_id in [("1", "1abs"), ("2", "2abs"), ("3ANA.ANIM", "3aabs")]:
             cog_df = forms[((forms["Cognateset_ID"] == abs_cog) & ~(forms["Language_ID"].str.contains("P")))]
             cog_df.reset_index(inplace=True)
             seglist = lingpy.align.multiple.Multiple(list(cog_df["Segments"]))
@@ -102,7 +102,7 @@ class Dataset(BaseDataset):
                     {
                         "ID": f"""{rec["ID"]}-abs""",
                         "Form_ID": rec["ID"],
-                        "Cognateset_ID": f"{abs_cog}abs",
+                        "Cognateset_ID": abs_id,
                         "Alignment": rec["Alignment"],
                     }
                 )

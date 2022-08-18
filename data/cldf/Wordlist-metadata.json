@@ -128,7 +128,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 789,
+            "dc:extent": 803,
             "tableSchema": {
                 "columns": [
                     {
@@ -215,7 +215,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognatesetTable",
-            "dc:extent": 31,
+            "dc:extent": 32,
             "tableSchema": {
                 "columns": [
                     {

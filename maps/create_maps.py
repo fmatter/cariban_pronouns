@@ -166,7 +166,7 @@ def val13(row):
         return "*amna"
     elif row["Form"] in ["anja", "aɲa"]:
         return "*anja"
-    elif row["Form"][0:2] == "in":
+    elif row["Form"][0:2] in ["in", "ɨn"]:
         return "*i(n)na"
     elif row["Form"][0:2] == "an":
         return "*a(n)na"

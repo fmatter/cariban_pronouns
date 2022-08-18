@@ -254,6 +254,61 @@ First person exclusive
 
 ![](images/13form.svg)
 
+# Third person forms
+
+Third person anaphoric
+
+| Form        | Language          | \-  | \-  | \-  | \-  | \-  |
+|:------------|:------------------|:----|:----|:----|:----|:----|
+| *nərə*      | Akuriyó           | \-  | n   | ə   | r   | ə   |
+| *ɨnoro*     | Apalaí            | ɨ   | n   | o   | r   | o   |
+| *inəra*     | Bakairi           | i   | n   | ə   | r   | a   |
+| *nərə*      | Karijona          | \-  | n   | ə   | r   | ə   |
+| *noro*      | Hixkaryána        | \-  | n   | o   | r   | o   |
+| *inoro*     | Kari’ña           | i   | n   | o   | r   | o   |
+| *ɲoro*      | Kari’ña           | \-  | ɲ   | o   | r   | o   |
+| *noro*      | Werikyana         | \-  | n   | o   | r   | o   |
+| *nare*      | Tamanaku          | \-  | n   | a   | r   | e   |
+| *nərə*      | Tiriyó            | \-  | n   | ə   | r   | ə   |
+| *ɨŋele*     | Upper Xingu Carib | ɨ   | ŋ   | e   | l   | e   |
+| *noro*      | Waiwai            | \-  | n   | o   | r   | o   |
+| *inərə(rə)* | Wayana            | i   | n   | ə   | r   | ə   |
+| *namoro*    | Akuriyó           | \-  | n   | \-  | \-  | \-  |
+| *ɨnaro*     | Apalaí            | ɨ   | n   | a   | r   | o   |
+| *namoro*    | Karijona          | \-  | n   | \-  | \-  | \-  |
+| *ɲamoro*    | Hixkaryána        | \-  | ɲ   | \-  | \-  | \-  |
+| *inaro(n)*  | Kari’ña           | i   | n   | a   | r   | o   |
+| *ɲorokon*   | Kari’ña           | \-  | ɲ   | o   | r   | o   |
+| *namorjamɨ* | Werikyana         | \-  | n   | \-  | \-  | \-  |
+| *namo*      | Tiriyó            | \-  | n   | \-  | \-  | \-  |
+| *(ɨ)naɣo*   | Upper Xingu Carib | ɨ   | n   | \-  | \-  | \-  |
+| *ɲeʃamro*   | Waiwai            | \-  | ɲ   | \-  | \-  | e   |
+| *inamoro*   | Wayana            | i   | n   | \-  | \-  | \-  |
+| *ɲəərə*     | Ye’kwana          | \-  | ɲ   | əə  | r   | ə   |
+| *(n)ɲanno*  | Ye’kwana          | \-  | n   | \-  | \-  | \-  |
+
+Third person anaphoric, inanimate
+
+| Form        | Language          | \-  | \-  | \-  |
+|:------------|:------------------|:----|:----|:----|
+| *irɨ*       | Waimiri-Atroari   | i   | r   | ɨ   |
+| *irə*       | Akuriyó           | i   | r   | ə   |
+| *ɨro*       | Apalaí            | ɨ   | r   | o   |
+| *ilə*       | Bakairi           | i   | l   | ə   |
+| *irə*       | Karijona          | i   | r   | ə   |
+| *ɨro*       | Hixkaryána        | ɨ   | r   | o   |
+| *iro*       | Kari’ña           | i   | r   | o   |
+| *iro*       | Werikyana         | i   | r   | o   |
+| *irə*       | Tiriyó            | i   | r   | ə   |
+| *ile*       | Upper Xingu Carib | i   | l   | e   |
+| *ɨle*       | Upper Xingu Carib | ɨ   | l   | e   |
+| *ero*       | Waiwai            | e   | r   | o   |
+| *irə*       | Wayana            | i   | r   | ə   |
+| *irokon*    | Kari’ña           | i   | r   | o   |
+| *ironne*    | Werikyana         | i   | r   | o   |
+| *irəto(mo)* | Tiriyó            | i   | r   | ə   |
+| *ijə*       | Ye’kwana          | i   | j   | ə   |
+
 # Shared innovations in pronominal systems
 
 -   Pemon-Panare \**(j)u(-rə)-to* for 1+2
