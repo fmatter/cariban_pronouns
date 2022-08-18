@@ -1,1 +1,0 @@
-../docs/pld-slides/output/github/README.md
