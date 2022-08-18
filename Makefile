@@ -19,3 +19,6 @@ doc:
 
 map:
 	cd maps; python3 create_maps.py
+
+readme:
+	cldf markdown data/cldf/Wordlist-metadata.json > data/cldf/README.md
