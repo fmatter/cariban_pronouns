@@ -52,7 +52,7 @@ mac-49,mac,amɨrɨ,a m ɨ + r ɨ,,macushiabbott1991[99],2
 mak-50,mak,amərə,a m ə + r ə,,maquiritaricaceres2011[167],2
 map-51,map,(m)ərə,m ə + r ə,,muller1975mapoyo[64],2
 pan-52,pan,amən,a m ə + n,,panarepayne2013[88],2
-PC-53,PC,əmə(rə),ə m ə + r ə,Almost all languages have grammaticalized \**rə*.,,2
+pc-two,PC,əmə,ə m ə,Almost all languages have grammaticalized \**rə*.,,2
 pem-54,pem,amərə,a m ə + r ə,,swiggers2010gramatica[120],2
 PMan-55,PMan,mərə,m ə + r ə,,mattei2003pemono[48],2
 pno-56,pno,mərə,m ə + r ə,,mattei2003pemono[48],2
@@ -111,7 +111,7 @@ pem-108,pem,juurətokon,j uu + r ə + t o + k o n,,swiggers2010gramatica[120],12
 PPar-109,PPar,kɨ?(ro),k ɨ + + r o,,,12
 PWai-110,PWai,kɨwɨ(ro),k ɨ + w ɨ + r o,,,12
 PC-111,PC,kɨ?,k ɨ +,,meira2002first[271],12
-bak-112,bak,kurə,k u + r ə,,meiraDBbakairi,12; 12pl
+bak-112,bak,kurə,k u + r ə,,meiraDBbakairi,12
 aka-113,aka,urəʔnokon,u + r ə + ʔ n o + k o n,,stegeman2014akawaio[97],12pl
 aku-114,aku,kɨ(mə)njamo,k ɨ + m ə + n + j a m o,,meira1998proto[64],12pl
 apa-115,apa,kɨmarokomo,k ɨ + m a + r o + k o m o,,koehn1986apalai[95],12pl
@@ -149,11 +149,11 @@ car-146,car,aɲa,a ɲ a,,guerrero2019carijo[76],13
 hix-147,hix,amna,a m n a,,hixkaryanaderby1985[7],13
 ikp-148,ikp,t͡ʃimna,t͡ʃ i + m n a,,ikpengpacheco2001[284],13
 ing-149,ing,ina,i n a,,cruz2005fonologia[162],13
-kar-150,kar,naʔna,n a ʔ n a,,courtz2008carib[53],13
+kar-150,kar,naʔna,n + a ʔ n a,,courtz2008carib[53],13
 kax-151,kax,amna,a m n a,,schuring2018kaxuyana[94],13
 mac-152,mac,anna,a n n a,,macushiabbott1991[99],13
 mak-153,mak,nɲa,n ɲ a,,maquiritaricaceres2011[167],13
-map-154,map,naha,n a h a,,mattei2003pemono[48],13
+map-154,map,naha,n a + h a,,mattei2003pemono[48],13
 pan-155,pan,ana,a n a,,panarepayne2013[88],13
 pem-156,pem,inna,i n n a,,swiggers2010gramatica[120],13
 PMan-157,PMan,ana,a n a,,,13
@@ -173,7 +173,7 @@ wai-170,wai,amna,a m n a,,hawkins2015dictionary,13
 way-171,way,emna,e m n a,,wayanatavares2005[180],13
 wmr-172,wmr,aʔa,a ʔ a,,waimiribruno2003[77],13
 yab-173,yab,ana,a n a,,mattei2003pemono[49],13
-yuk-174,yuk,nana(r),n a n a + r,,largo2011yukpa[57],13
+yuk-174,yuk,nana(r),n + a n a + r,,largo2011yukpa[57],13
 PC-175,PC,aipna,a i p n a,,meira2002first[271],13
 aka-176,aka,amərəʔnokon,a m ə + r ə + ʔ n o + k o n,,akawaiocaesar2003[520],2pl
 aku-177,aku,əmənjamo,ə m ə + n + j a m o,,meira1998proto[64],2pl
@@ -533,3 +533,6 @@ way-555,way,sinkom(o),s i n + k o m o,,wayanatavares2005[184],proxinanpl
 tri-557,tri,serəto(mo),s e r ə + t o m o,,triomeira1999[154],proxinanpl
 tri-558,tri,sento(mo),s e n + t o m o,,triomeira1999[154],proxinanpl
 yuk-559,yuk,maʃa,m a ʃ + a,,meira2003primeras,proxpl
+aka-560,aka,urəʔnokon,u + r ə + ʔ n o + k o n,No distinct forms for 1+2 and 1+2PL,stegeman2014akawaio[97],12
+bak-561,bak,kurə,k u + r ə,,meiraDBbakairi,12pl
+jap-562,jap,nana,n + a n a,,japreriaflores2002[57],13

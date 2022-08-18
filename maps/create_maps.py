@@ -156,4 +156,29 @@ t = forms[forms["Cognateset_ID"] == "1+2"]
 t = stack_lg_values(t, "Cognates")
 t["Value"] = t["Cognates"].map(cogmap12)
 t = sort_by(t, "Value", list(dict.fromkeys(cogmap12.values())))
-plot_map(t, "12cog", legend_size=5.5, color_dict=color_dict)
+# plot_map(t, "12cog", legend_size=5.5, color_dict=color_dict)
+
+
+def val13(row):
+    if row["Cognates"] == "ti+1a3":
+        return "*t͡ʃimna"
+    elif row["Form"] == "amna":
+        return "*amna"
+    elif row["Form"] in ["anja", "aɲa"]:
+        return "*anja"
+    elif row["Form"][0:2] == "in":
+        return "*i(n)na"
+    elif row["Form"][0:2] == "an":
+        return "*a(n)na"
+    elif row["Form"][0:2] == "n+":
+        return "*na(ʔ)na"
+    elif row["Form"] == "tis+u+ɣe":
+        return "tis-u-ɣe"
+    else:
+        return "other"
+# 1+3
+t = forms[forms["Cognateset_ID"] == "1+3"]
+t["Value"] = t.apply(val13, axis=1)
+t = sort_by(t, "Value", ["*amna", "*anja", "*t͡ʃimna", "*a(n)na", "*i(n)na", "*na(ʔ)na", "tis-u-ɣe", "other"])
+plot_map(t, "13form", legend_size=7)
+print(t)

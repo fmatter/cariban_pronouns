@@ -28,6 +28,7 @@
 # Second person
 [cogset](2abs)
 
+* reconstructible: [wf](pc-two?nt)
 * grammaticalization of emphatic \**rə* in almost all languages
 	* optional in at least [lg](way) and [lg](yuk)
 
@@ -47,3 +48,21 @@
 
 # 1+2: Cognacy
 ![](12cog.svg)
+
+# First person exclusive (1+3)
+[cogset](1a3)
+
+* related but rather different forms
+* [src](meira2002first[263]) reconstructs \**apina* or \**aipna*, with different patterns of loss
+* various additional initial elements like /ju/, /t͡ʃi/, /n/
+
+# 1+3: forms
+
+![](13form.svg)
+
+
+# Shared innovations in pronominal systems
+
+* Pemon-Panare \**(j)u(-rə)-to* for [gl](1+2)
+* Pemon-Panare /j/ in first person? (not in [lg](mac) and Kapón)
+* formal developments of [gl](1+3) pronoun in Parukotoan, Pekodian, and Taranoan

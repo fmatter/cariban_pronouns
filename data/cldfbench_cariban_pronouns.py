@@ -107,6 +107,8 @@ class Dataset(BaseDataset):
                     }
                 )
 
+        modern_forms = forms[~(forms["Language_ID"].str.contains("P"))]
+
         for i, row in cogsets.iterrows():
             if row["ID"] == "?":
                 continue
@@ -119,7 +121,7 @@ class Dataset(BaseDataset):
             )
             if "abs" in row["ID"]:
                 continue
-            cog_df = cldfh.get_cognates(forms, row["ID"], form_col="Segments")
+            cog_df = cldfh.get_cognates(modern_forms, row["ID"], form_col="Segments")
             cog_df["Segments"] = cog_df["Form"].str.strip(" ")
             cog_df = cog_df[cog_df["Segments"] != ""]
             seglist = lingpy.align.multiple.Multiple(list(cog_df["Segments"]))
@@ -143,6 +145,11 @@ class Dataset(BaseDataset):
                     "Parameter_ID": row["Parameter_ID"],
                 }
             )
+            lg_ids.append(row["Language_ID"])
+            for source in row["Source"].split("; "):
+                contained_sources.append(source.split("[")[0])
+            if "P" in row["Language_ID"]:
+                continue
             edictor_alignment = []
             for segment_slice, cog_id in enumerate(row["Cognates"].split("+")):
                 if cog_id == "?":
@@ -176,9 +183,6 @@ class Dataset(BaseDataset):
                     },
                     ignore_index=True,
                 )
-            lg_ids.append(row["Language_ID"])
-            for source in row["Source"].split("; "):
-                contained_sources.append(source.split("[")[0])
 
         lg_ids = list(set(lg_ids))
         for lg in crh.lg_order().keys():
