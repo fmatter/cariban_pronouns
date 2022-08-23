@@ -436,6 +436,12 @@
 	],
 	"file_history":
 	[
+		"/home/florianm/Dropbox/development/pylingdocs/RELEASING.md",
+		"/home/florianm/Dropbox/development/pylingdocs/CHANGELOG.md",
+		"/home/florianm/Dropbox/research/cariban/papers/cariban_pronouns/docs/pld-slides/content/.pld_menudata.json",
+		"/home/florianm/Dropbox/research/cariban/papers/cariban_pronouns/docs/pld-slides/content/main.md",
+		"/home/florianm/Dropbox/research/cariban/papers/cariban_pronouns/docs/pld-slides/content/.pld_autocomplete.json",
+		"/home/florianm/Dropbox/development/pylingdocs/src/pylingdocs/helpers.py",
 		"/home/florianm/Dropbox/development/pylingdocs/src/pylingdocs/data/model_templates/wordform/html.md",
 		"/home/florianm/Dropbox/research/cariban/papers/cariban_pronouns/cp_clld/cp_clld/templates/cognateset/detail_html.mako",
 		"/home/florianm/Dropbox/development/pylingdocs/src/pylingdocs/data/model_templates/cognateset/html_detail.md",
@@ -459,7 +465,6 @@
 		"/home/florianm/Dropbox/development/pylingdocs/src/pylingdocs/data/editor.html",
 		"/home/florianm/Dropbox/research/cariban/papers/cariban_pronouns/cp_clld/cp_clld/templates/cp_clld.mako",
 		"/home/florianm/Dropbox/research/cariban/papers/cariban_pronouns/cp_clld/cp_clld/templates/cognateset/cogset_material.mako",
-		"/home/florianm/Dropbox/development/pylingdocs/CHANGELOG.md",
 		"/home/florianm/Dropbox/development/pylingdocs/pylingdocs-editor/CHA",
 		"/home/florianm/Dropbox/development/pylingdocs/tests/data/content/structure.yaml",
 		"/home/florianm/Dropbox/development/pylingdocs/pylingdocs-editor/..tests/data/content/structure.yaml",
@@ -491,8 +496,6 @@
 		"/home/florianm/Dropbox/development/pylingdocs/pylingdocs-editor/node_modules/vue/LICENSE",
 		"/home/florianm/Dropbox/development/pylingdocs/src/pylingdocs/data/config.cfg",
 		"/home/florianm/Dropbox/development/pylingdocs/src/pylingdocs/config.py",
-		"/home/florianm/Dropbox/development/pylingdocs/src/pylingdocs/helpers.py",
-		"/home/florianm/Dropbox/research/cariban/papers/cariban_pronouns/docs/pld-slides/content/main.md",
 		"/home/florianm/Dropbox/development/pylingdocs/src/pylingdocs/data/web/editor.js",
 		"/home/florianm/Dropbox/research/cariban/papers/cariban_pronouns/docs/pld-slides/output/html/index.html",
 		"/home/florianm/Dropbox/development/pylingdocs/src/pylingdocs7ed",
@@ -560,10 +563,7 @@
 		"/home/florianm/Dropbox/research/cariban/yawarana/yawarana_corpus/yawarana_pylacoan/import_texts.py",
 		"/home/florianm/Dropbox/development/uniparser-yawarana/var/yaw_wordforms.py",
 		"/home/florianm/Dropbox/development/pylingdocs/src/pylingdocs/__init__.py",
-		"/home/florianm/Dropbox/research/cariban/yawarana/yawarana-parsing-ambiguity/content/1000 main.md",
-		"/home/florianm/Dropbox/research/cariban/yawarana/yawarana-parsing-ambiguity/output/latex/main.blg",
-		"/home/florianm/Dropbox/research/cariban/yawarana/yawarana-parsing-ambiguity/output/latex/main.tex",
-		"/home/florianm/Dropbox/development/pylingdocs/src/pylingdocs/data/format_templates/latex/memoir/{{cookiecutter.name}}/main.tex"
+		"/home/florianm/Dropbox/research/cariban/yawarana/yawarana-parsing-ambiguity/content/1000 main.md"
 	],
 	"find":
 	{
@@ -581,6 +581,8 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"wayana",
+			"src",
 			"lfts",
 			"render",
 			"styleCogse",
@@ -706,9 +708,7 @@
 			"load_content",
 			"run_editor",
 			"title",
-			"store",
-			"\"parts\"",
-			"this.parts"
+			"store"
 		],
 		"highlight": false,
 		"in_selection": false,
@@ -825,7 +825,7 @@
 	"show_minimap": true,
 	"show_open_files": false,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 246.0,
 	"status_bar_visible": true,
 	"template_settings":

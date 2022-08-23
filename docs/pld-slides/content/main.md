@@ -1,27 +1,30 @@
 # Introduction [label](intro)
 
 * reconstruction of [lg](PC) pronouns by [src](meira2002first)
-* not much comparative work on pronouns since
-* comparative work  [psrc](meira2005southern,meira2010origin) and new data [psrc](ikpengpacheco2001,akawaiocaesar2003,mattei2003pemono,cruz2005fonologia,garcia2006diccionario,kuikurodossantos2007,kuikurodossantos2007,camargo2010wayana,desouza2010arara,swiggers2010gramatica,largo2011yukpa,maquiritaricaceres2011,panarepayne2013,stegeman2014akawaio,alves2017arara,guerrero2019carijo,muller2021yawarana)
+* no dedicated comparative work on pronouns since
+* revisiting prompted by comparative work [psrc](meira2005southern,meira2010origin) and new data [psrc](ikpengpacheco2001,akawaiocaesar2003,mattei2003pemono,cruz2005fonologia,garcia2006diccionario,kuikurodossantos2007,kuikurodossantos2007,camargo2010wayana,desouza2010arara,swiggers2010gramatica,largo2011yukpa,maquiritaricaceres2011,panarepayne2013,stegeman2014akawaio,alves2017arara,guerrero2019carijo,muller2021yawarana)
 
 # The Cariban language family
 ![](family.svg)
 
-# First person
+* solid lower-level branches: Parukotoan, Pekodian, Taranoan
+* tentative higher-level branch: Venezuelan
+* no evidence for Guianan (Taranoan + [lg](way) + [lg](kar)? + [lg](apa)? + [lg](mak))
+* closely related: Pemongan, Manapiarean
 
-[cogset](1abs)
+# First person
 
 * reconstructible: [wf](pc-one?nt)
 * parallel innovations:
     * grammaticalization of emphatic marker \**rə*
     * coalescence of *wɨ* to *u*
 * appearance of *j* in [lg](pem) and [lg](pan) -- via /əwɨ/ > /ɨwɨ/ > /ɨu/ > /ju/? [psrc](meira2002first[259])
-* additional *hɨ* in Manapiarean
+* mysterious *hɨ* in Manapiarean
 
 # First person: cognacy
 
-![](1cog.svg)
-
+![](1cog.svg)[cogset](karform)
+[cogset](karform)
 # First person: reflex of /əwɨ/
 ![](1form.svg)
 
@@ -63,10 +66,15 @@
 ![](13form.svg)
 
 
-# Third person forms
+# Third person anaphoric forms
 
 [cogset](3aabs)
 [cogset](3iabs)
+
+# Third person anaphoric forms
+
+![](3aana.svg)
+![](3iana.svg)
 
 # Shared innovations in pronominal systems
 

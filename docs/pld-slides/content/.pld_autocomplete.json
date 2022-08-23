@@ -136,6 +136,10 @@
         "[lg](yuk)"
     ],
     [
+        "lg:Japreria",
+        "[lg](jap)"
+    ],
+    [
         "lg:Waimiri-Atroari",
         "[lg](wmr)"
     ],
@@ -232,7 +236,7 @@
         "[cogset](mform)"
     ],
     [
-        "cogset:*ep\u0268n\u0259",
+        "cogset:*ep\u0268",
         "[cogset](1a2ep)"
     ],
     [
@@ -246,6 +250,30 @@
     [
         "cogset:*\u0294ko",
         "[cogset](karform)"
+    ],
+    [
+        "cogset:*-",
+        "[cogset](1abs)"
+    ],
+    [
+        "cogset:*-",
+        "[cogset](2abs)"
+    ],
+    [
+        "cogset:*eti-n\u0259",
+        "[cogset](1a2cop)"
+    ],
+    [
+        "cogset:*n",
+        "[cogset](n13)"
+    ],
+    [
+        "cogset:*in\u0259r\u0259",
+        "[cogset](3aabs)"
+    ],
+    [
+        "cogset:*ir\u0259",
+        "[cogset](3iabs)"
     ],
     [
         "wf:ur\u0259",
@@ -312,8 +340,8 @@
         "[wf](pan-15)"
     ],
     [
-        "wf:\u0259w\u0268(r\u0259)",
-        "[wf](PC-16)"
+        "wf:\u0259w\u0268",
+        "[wf](pc-one)"
     ],
     [
         "wf:juur\u0259",
@@ -460,8 +488,8 @@
         "[wf](pan-52)"
     ],
     [
-        "wf:\u0259m\u0259(r\u0259)",
-        "[wf](PC-53)"
+        "wf:\u0259m\u0259",
+        "[wf](pc-two)"
     ],
     [
         "wf:am\u0259r\u0259",
@@ -500,35 +528,35 @@
         "[wf](PTir-62)"
     ],
     [
-        "wf:\u0259m\u0259",
-        "[wf](PTir-63)"
+        "wf:omoro",
+        "[wf](PWai-63)"
     ],
     [
         "wf:omoro",
-        "[wf](PWai-64)"
-    ],
-    [
-        "wf:omoro",
-        "[wf](PXin-65)"
+        "[wf](PXin-64)"
     ],
     [
         "wf:amare",
-        "[wf](tam-66)"
+        "[wf](tam-65)"
     ],
     [
         "wf:\u0259m\u0259",
-        "[wf](tri-67)"
+        "[wf](tri-66)"
     ],
     [
         "wf:ee\u0263e",
-        "[wf](uxc-68)"
+        "[wf](uxc-67)"
     ],
     [
         "wf:amoro",
-        "[wf](wai-69)"
+        "[wf](wai-68)"
     ],
     [
         "wf:\u0259m\u0259r\u0259",
+        "[wf](way-69)"
+    ],
+    [
+        "wf:\u0259m\u0259",
         "[wf](way-70)"
     ],
     [
@@ -540,764 +568,832 @@
         "[wf](yab-72)"
     ],
     [
-        "wf:amo(r)",
+        "wf:amo",
         "[wf](yuk-73)"
     ],
     [
+        "wf:amor",
+        "[wf](yuk-74)"
+    ],
+    [
         "wf:k\u0268m\u0259",
-        "[wf](aku-74)"
+        "[wf](aku-75)"
     ],
     [
         "wf:k\u0268moro",
-        "[wf](apa-75)"
+        "[wf](apa-76)"
     ],
     [
         "wf:ugoro",
-        "[wf](ara-76)"
+        "[wf](ara-77)"
     ],
     [
         "wf:k\u0268m\u0259r\u0259",
-        "[wf](car-77)"
+        "[wf](car-78)"
     ],
     [
         "wf:k\u0268wro",
-        "[wf](hix-78)"
+        "[wf](hix-79)"
     ],
     [
         "wf:ugro",
-        "[wf](ikp-79)"
+        "[wf](ikp-80)"
     ],
     [
         "wf:k\u0268\u0294ko",
-        "[wf](kar-80)"
-    ],
-    [
-        "wf:k\u0268moro",
         "[wf](kar-81)"
     ],
     [
+        "wf:k\u0268moro",
+        "[wf](kar-82)"
+    ],
+    [
         "wf:kumoro",
-        "[wf](kax-82)"
+        "[wf](kax-83)"
     ],
     [
         "wf:uur\u0268\u0294kon",
-        "[wf](mac-83)"
+        "[wf](mac-84)"
     ],
     [
         "wf:k\u0268w\u0268",
-        "[wf](mak-84)"
+        "[wf](mak-85)"
     ],
     [
         "wf:e\u0294n\u0259",
-        "[wf](map-85)"
+        "[wf](map-86)"
     ],
     [
         "wf:juto",
-        "[wf](pan-86)"
+        "[wf](pan-87)"
     ],
     [
         "wf:juur\u0259to",
-        "[wf](pem-87)"
+        "[wf](pem-88)"
     ],
     [
         "wf:ep\u0268n\u0259",
-        "[wf](PMan-88)"
+        "[wf](PMan-89)"
     ],
     [
         "wf:e\u0294n\u0259",
-        "[wf](pno-89)"
+        "[wf](pno-90)"
     ],
     [
         "wf:k\u0268?(ro)",
-        "[wf](PPar-90)"
+        "[wf](PPar-91)"
     ],
     [
         "wf:ukur\u0259",
-        "[wf](PPek-91)"
+        "[wf](PPek-92)"
     ],
     [
         "wf:jur\u0259tokon",
-        "[wf](PPem-92)"
+        "[wf](PPem-93)"
     ],
     [
         "wf:ju(r\u0259)to",
-        "[wf](PPP-93)"
+        "[wf](PPP-94)"
     ],
     [
         "wf:k\u0268m\u0259(r\u0259)",
-        "[wf](PTar-94)"
+        "[wf](PTar-95)"
     ],
     [
         "wf:k\u0268m\u0259",
-        "[wf](PTir-95)"
+        "[wf](PTir-96)"
     ],
     [
         "wf:k\u0268w\u0268(ro)",
-        "[wf](PWai-96)"
+        "[wf](PWai-97)"
     ],
     [
         "wf:ugoro",
-        "[wf](PXin-97)"
+        "[wf](PXin-98)"
     ],
     [
         "wf:kiwe",
-        "[wf](tam-98)"
+        "[wf](tam-99)"
     ],
     [
         "wf:k\u0268m\u0259",
-        "[wf](tri-99)"
+        "[wf](tri-100)"
     ],
     [
         "wf:kuku\u0263e",
-        "[wf](uxc-100)"
+        "[wf](uxc-101)"
     ],
     [
         "wf:k\u0268\u0268w\u0268",
-        "[wf](wai-101)"
+        "[wf](wai-102)"
     ],
     [
         "wf:kunm\u0259",
-        "[wf](way-102)"
+        "[wf](way-103)"
     ],
     [
         "wf:k\u0268k\u0268",
-        "[wf](wmr-103)"
+        "[wf](wmr-104)"
     ],
     [
         "wf:ehn\u0259",
-        "[wf](yab-104)"
+        "[wf](yab-105)"
     ],
     [
         "wf:ep\u0268",
-        "[wf](yuk-105)"
+        "[wf](yuk-106)"
     ],
     [
-        "wf:kur\u0259",
-        "[wf](bak-106)"
-    ],
-    [
-        "wf:ur\u0259\u0294nokon",
-        "[wf](aka-107)"
-    ],
-    [
-        "wf:k\u0268(m\u0259)njamo",
-        "[wf](aku-108)"
-    ],
-    [
-        "wf:k\u0268marokomo",
-        "[wf](apa-109)"
-    ],
-    [
-        "wf:ugoro\u014bmo",
-        "[wf](ara-110)"
-    ],
-    [
-        "wf:k\u0268\u0272amoro",
-        "[wf](car-111)"
-    ],
-    [
-        "wf:k\u0268wjamo",
-        "[wf](hix-112)"
-    ],
-    [
-        "wf:ugro\u014bmo",
-        "[wf](ikp-113)"
-    ],
-    [
-        "wf:ur\u0259\u0294nokon",
-        "[wf](ing-114)"
-    ],
-    [
-        "wf:k\u0268\u0294karo(n)",
-        "[wf](kar-115)"
-    ],
-    [
-        "wf:k\u0268mojaro",
-        "[wf](kar-116)"
-    ],
-    [
-        "wf:k\u0268mjar\u0268",
-        "[wf](kax-117)"
-    ],
-    [
-        "wf:uur\u0268\u0294n\u0268kon",
-        "[wf](mac-118)"
-    ],
-    [
-        "wf:k\u0268nwanno",
-        "[wf](mak-119)"
-    ],
-    [
-        "wf:jutakon",
-        "[wf](pan-120)"
-    ],
-    [
-        "wf:juur\u0259nokon",
-        "[wf](pem-121)"
+        "wf:uur\u0268\u0294kon",
+        "[wf](mac-107)"
     ],
     [
         "wf:juur\u0259tokon",
-        "[wf](pem-122)"
+        "[wf](pem-108)"
     ],
     [
-        "wf:k\u0268?jamo(ro)",
-        "[wf](PPar-123)"
+        "wf:k\u0268?(ro)",
+        "[wf](PPar-109)"
     ],
     [
-        "wf:jur\u0259\u0294nokon",
-        "[wf](PPem-124)"
+        "wf:k\u0268w\u0268(ro)",
+        "[wf](PWai-110)"
     ],
     [
-        "wf:k\u0268njamo",
-        "[wf](PTar-125)"
+        "wf:k\u0268?",
+        "[wf](PC-111)"
+    ],
+    [
+        "wf:kur\u0259",
+        "[wf](bak-112)"
+    ],
+    [
+        "wf:ur\u0259\u0294nokon",
+        "[wf](aka-113)"
     ],
     [
         "wf:k\u0268(m\u0259)njamo",
-        "[wf](PTir-126)"
+        "[wf](aku-114)"
     ],
     [
-        "wf:k\u0268wjamo",
-        "[wf](PWai-127)"
+        "wf:k\u0268marokomo",
+        "[wf](apa-115)"
     ],
     [
         "wf:ugoro\u014bmo",
-        "[wf](PXin-128)"
+        "[wf](ara-116)"
+    ],
+    [
+        "wf:k\u0268\u0272amoro",
+        "[wf](car-117)"
+    ],
+    [
+        "wf:k\u0268wjamo",
+        "[wf](hix-118)"
+    ],
+    [
+        "wf:ugro\u014bmo",
+        "[wf](ikp-119)"
+    ],
+    [
+        "wf:ur\u0259\u0294nokon",
+        "[wf](ing-120)"
+    ],
+    [
+        "wf:k\u0268\u0294karo(n)",
+        "[wf](kar-121)"
+    ],
+    [
+        "wf:k\u0268mojaro",
+        "[wf](kar-122)"
+    ],
+    [
+        "wf:k\u0268mjar\u0268",
+        "[wf](kax-123)"
+    ],
+    [
+        "wf:uur\u0268\u0294n\u0268kon",
+        "[wf](mac-124)"
+    ],
+    [
+        "wf:k\u0268nwanno",
+        "[wf](mak-125)"
+    ],
+    [
+        "wf:jutakon",
+        "[wf](pan-126)"
+    ],
+    [
+        "wf:juur\u0259nokon",
+        "[wf](pem-127)"
+    ],
+    [
+        "wf:juur\u0259tokon",
+        "[wf](pem-128)"
+    ],
+    [
+        "wf:k\u0268?jamo(ro)",
+        "[wf](PPar-129)"
+    ],
+    [
+        "wf:jur\u0259\u0294nokon",
+        "[wf](PPem-130)"
+    ],
+    [
+        "wf:k\u0268njamo",
+        "[wf](PTar-131)"
+    ],
+    [
+        "wf:k\u0268(m\u0259)njamo",
+        "[wf](PTir-132)"
+    ],
+    [
+        "wf:k\u0268wjamo",
+        "[wf](PWai-133)"
+    ],
+    [
+        "wf:ugoro\u014bmo",
+        "[wf](PXin-134)"
     ],
     [
         "wf:kikemo",
-        "[wf](tam-129)"
+        "[wf](tam-135)"
     ],
     [
         "wf:k\u0268m\u0259njamo",
-        "[wf](tri-130)"
+        "[wf](tri-136)"
     ],
     [
         "wf:kuku\u0263eko",
-        "[wf](uxc-131)"
+        "[wf](uxc-137)"
     ],
     [
         "wf:k\u0268wjam",
-        "[wf](wai-132)"
+        "[wf](wai-138)"
     ],
     [
         "wf:kunm\u0259ramkomo",
-        "[wf](way-133)"
+        "[wf](way-139)"
+    ],
+    [
+        "wf:k\u0268?jamo",
+        "[wf](PC-140)"
     ],
     [
         "wf:ina",
-        "[wf](aka-134)"
+        "[wf](aka-141)"
     ],
     [
         "wf:anja",
-        "[wf](aku-135)"
+        "[wf](aku-142)"
     ],
     [
         "wf:\u0268na",
-        "[wf](apa-136)"
+        "[wf](apa-143)"
     ],
     [
         "wf:t\u0361\u0283imna",
-        "[wf](ara-137)"
+        "[wf](ara-144)"
     ],
     [
         "wf:\u0283ina",
-        "[wf](bak-138)"
+        "[wf](bak-145)"
     ],
     [
         "wf:a\u0272a",
-        "[wf](car-139)"
+        "[wf](car-146)"
     ],
     [
         "wf:amna",
-        "[wf](hix-140)"
+        "[wf](hix-147)"
     ],
     [
         "wf:t\u0361\u0283imna",
-        "[wf](ikp-141)"
+        "[wf](ikp-148)"
     ],
     [
         "wf:ina",
-        "[wf](ing-142)"
+        "[wf](ing-149)"
     ],
     [
         "wf:na\u0294na",
-        "[wf](kar-143)"
+        "[wf](kar-150)"
     ],
     [
         "wf:amna",
-        "[wf](kax-144)"
+        "[wf](kax-151)"
     ],
     [
         "wf:anna",
-        "[wf](mac-145)"
+        "[wf](mac-152)"
     ],
     [
         "wf:n\u0272a",
-        "[wf](mak-146)"
+        "[wf](mak-153)"
     ],
     [
         "wf:naha",
-        "[wf](map-147)"
+        "[wf](map-1a3)"
     ],
     [
         "wf:ana",
-        "[wf](pan-148)"
+        "[wf](pan-155)"
     ],
     [
         "wf:inna",
-        "[wf](pem-149)"
+        "[wf](pem-156)"
     ],
     [
         "wf:ana",
-        "[wf](PMan-150)"
+        "[wf](PMan-157)"
     ],
     [
         "wf:ana",
-        "[wf](pno-151)"
+        "[wf](pno-158)"
     ],
     [
         "wf:amna",
-        "[wf](PPar-152)"
+        "[wf](PPar-159)"
     ],
     [
         "wf:t\u0361\u0283imna",
-        "[wf](PPek-153)"
+        "[wf](PPek-160)"
     ],
     [
         "wf:inna",
-        "[wf](PPem-154)"
+        "[wf](PPem-161)"
     ],
     [
         "wf:inna",
-        "[wf](PPP-155)"
+        "[wf](PPP-162)"
     ],
     [
         "wf:anja",
-        "[wf](PTar-156)"
+        "[wf](PTar-163)"
     ],
     [
         "wf:anja",
-        "[wf](PTir-157)"
+        "[wf](PTir-164)"
     ],
     [
         "wf:amna",
-        "[wf](PWai-158)"
+        "[wf](PWai-165)"
     ],
     [
         "wf:t\u0361\u0283imna",
-        "[wf](PXin-159)"
+        "[wf](PXin-166)"
     ],
     [
         "wf:jumna",
-        "[wf](tam-160)"
+        "[wf](tam-167)"
     ],
     [
         "wf:anja",
-        "[wf](tri-161)"
+        "[wf](tri-168)"
     ],
     [
         "wf:tisu\u0263e",
-        "[wf](uxc-162)"
+        "[wf](uxc-169)"
     ],
     [
         "wf:amna",
-        "[wf](wai-163)"
+        "[wf](wai-170)"
     ],
     [
         "wf:emna",
-        "[wf](way-164)"
+        "[wf](way-171)"
     ],
     [
         "wf:a\u0294a",
-        "[wf](wmr-165)"
+        "[wf](wmr-172)"
     ],
     [
         "wf:ana",
-        "[wf](yab-166)"
+        "[wf](yab-173)"
     ],
     [
         "wf:nana(r)",
-        "[wf](yuk-167)"
+        "[wf](yuk-174)"
+    ],
+    [
+        "wf:aipna",
+        "[wf](PC-175)"
     ],
     [
         "wf:am\u0259r\u0259\u0294nokon",
-        "[wf](aka-168)"
+        "[wf](aka-176)"
     ],
     [
         "wf:\u0259m\u0259njamo",
-        "[wf](aku-169)"
+        "[wf](aku-177)"
     ],
     [
         "wf:amarakomo",
-        "[wf](apa-170)"
+        "[wf](apa-178)"
     ],
     [
         "wf:omoro\u014bmo",
-        "[wf](ara-171)"
+        "[wf](ara-179)"
     ],
     [
         "wf:\u0259maremo",
-        "[wf](bak-172)"
+        "[wf](bak-180)"
     ],
     [
         "wf:a\u0272amoro",
-        "[wf](car-173)"
+        "[wf](car-181)"
     ],
     [
         "wf:om\u0272amo",
-        "[wf](hix-174)"
+        "[wf](hix-182)"
     ],
     [
         "wf:omro\u014bmo",
-        "[wf](ikp-175)"
+        "[wf](ikp-183)"
     ],
     [
         "wf:am\u0259r\u0259\u0294nokon",
-        "[wf](ing-176)"
+        "[wf](ing-184)"
     ],
     [
         "wf:am\u0268jaro(n)",
-        "[wf](kar-177)"
+        "[wf](kar-185)"
     ],
     [
         "wf:omjar\u0268",
-        "[wf](kax-178)"
+        "[wf](kax-186)"
     ],
     [
         "wf:am\u0268r\u0268\u0294n\u0268kon",
-        "[wf](mac-179)"
+        "[wf](mac-187)"
     ],
     [
         "wf:\u0259nwanno",
-        "[wf](mak-180)"
+        "[wf](mak-188)"
     ],
     [
         "wf:akontomo",
-        "[wf](map-181)"
+        "[wf](map-189)"
     ],
     [
         "wf:am\u0259nton",
-        "[wf](pan-182)"
+        "[wf](pan-190)"
     ],
     [
         "wf:\u0259mjamo",
-        "[wf](PC-183)"
+        "[wf](PC-191)"
     ],
     [
         "wf:am\u0259r\u0259nokon",
-        "[wf](pem-184)"
+        "[wf](pem-192)"
     ],
     [
         "wf:m\u0259kontomo",
-        "[wf](PMan-185)"
+        "[wf](PMan-193)"
     ],
     [
         "wf:mokontomo",
-        "[wf](pno-186)"
+        "[wf](pno-194)"
     ],
     [
         "wf:omjamo(ro)",
-        "[wf](PPar-187)"
+        "[wf](PPar-195)"
     ],
     [
         "wf:\u0259m\u0259r\u0259jamo",
-        "[wf](PPek-188)"
+        "[wf](PPek-196)"
     ],
     [
         "wf:am\u0259r\u0259\u0294nokon",
-        "[wf](PPem-189)"
+        "[wf](PPem-197)"
     ],
     [
         "wf:am\u0259r\u0259?",
-        "[wf](PPP-190)"
+        "[wf](PPP-198)"
     ],
     [
         "wf:\u0259njamo",
-        "[wf](PTar-191)"
+        "[wf](PTar-199)"
     ],
     [
         "wf:\u0259m\u0259njamo",
-        "[wf](PTir-192)"
+        "[wf](PTir-200)"
     ],
     [
         "wf:omjamo(ro)",
-        "[wf](PWai-193)"
+        "[wf](PWai-201)"
     ],
     [
         "wf:omoro\u014bmo",
-        "[wf](PXin-194)"
+        "[wf](PXin-202)"
     ],
     [
         "wf:am\u0272amoro",
-        "[wf](tam-195)"
+        "[wf](tam-203)"
     ],
     [
         "wf:\u0259m\u0259njamo",
-        "[wf](tri-196)"
+        "[wf](tri-204)"
     ],
     [
         "wf:ama\u0263o",
-        "[wf](uxc-197)"
+        "[wf](uxc-205)"
     ],
     [
         "wf:amjamro",
-        "[wf](wai-198)"
+        "[wf](wai-206)"
     ],
     [
         "wf:\u0259m\u0259ramkomo",
-        "[wf](way-199)"
+        "[wf](way-207)"
     ],
     [
         "wf:am\u0268r\u0268t\u0268",
-        "[wf](wmr-200)"
+        "[wf](wmr-208)"
     ],
     [
         "wf:montomo",
-        "[wf](yab-201)"
+        "[wf](yab-209)"
     ],
     [
         "wf:amora",
-        "[wf](yuk-202)"
-    ],
-    [
-        "wf:n\u0259r\u0259",
-        "[wf](aku-203)"
-    ],
-    [
-        "wf:\u0268noro",
-        "[wf](apa-204)"
-    ],
-    [
-        "wf:in\u0259ra",
-        "[wf](bak-205)"
-    ],
-    [
-        "wf:n\u0259r\u0259",
-        "[wf](car-206)"
-    ],
-    [
-        "wf:noro",
-        "[wf](hix-207)"
-    ],
-    [
-        "wf:inoro",
-        "[wf](kar-208)"
-    ],
-    [
-        "wf:\u0272oro",
-        "[wf](kar-209)"
-    ],
-    [
-        "wf:noro",
-        "[wf](kax-210)"
-    ],
-    [
-        "wf:\u0272\u0259\u0259r\u0259",
-        "[wf](mak-211)"
-    ],
-    [
-        "wf:noro",
-        "[wf](PPar-212)"
-    ],
-    [
-        "wf:n\u0259(\u0259)r\u0259",
-        "[wf](PTar-213)"
-    ],
-    [
-        "wf:n\u0259r\u0259",
-        "[wf](PTir-214)"
-    ],
-    [
-        "wf:noro",
-        "[wf](PWai-215)"
-    ],
-    [
-        "wf:nare",
-        "[wf](tam-216)"
-    ],
-    [
-        "wf:n\u0259r\u0259",
-        "[wf](tri-217)"
-    ],
-    [
-        "wf:\u0268\u014bele",
-        "[wf](uxc-218)"
-    ],
-    [
-        "wf:noro",
-        "[wf](wai-219)"
-    ],
-    [
-        "wf:in\u0259r\u0259(r\u0259)",
-        "[wf](way-220)"
-    ],
-    [
-        "wf:namoro",
-        "[wf](aku-221)"
-    ],
-    [
-        "wf:\u0268naro",
-        "[wf](apa-222)"
-    ],
-    [
-        "wf:namoro",
-        "[wf](car-223)"
-    ],
-    [
-        "wf:\u0272amoro",
-        "[wf](hix-224)"
-    ],
-    [
-        "wf:inaro(n)",
-        "[wf](kar-225)"
-    ],
-    [
-        "wf:\u0272orokon",
-        "[wf](kar-226)"
-    ],
-    [
-        "wf:namorjam\u0268",
-        "[wf](kax-227)"
-    ],
-    [
-        "wf:(n)\u0272anno",
-        "[wf](mak-228)"
-    ],
-    [
-        "wf:inamoro",
-        "[wf](PPar-229)"
-    ],
-    [
-        "wf:namo",
-        "[wf](PTar-230)"
-    ],
-    [
-        "wf:namo(ro)",
-        "[wf](PTir-231)"
-    ],
-    [
-        "wf:inamoro",
-        "[wf](PWai-232)"
-    ],
-    [
-        "wf:namo",
-        "[wf](tri-233)"
-    ],
-    [
-        "wf:(\u0268)na\u0263o",
-        "[wf](uxc-234)"
-    ],
-    [
-        "wf:\u0272e\u0283amro",
-        "[wf](wai-235)"
-    ],
-    [
-        "wf:inamoro",
-        "[wf](way-236)"
-    ],
-    [
-        "wf:ir\u0259",
-        "[wf](aku-237)"
-    ],
-    [
-        "wf:\u0268ro",
-        "[wf](apa-238)"
-    ],
-    [
-        "wf:il\u0259",
-        "[wf](bak-239)"
-    ],
-    [
-        "wf:ir\u0259",
-        "[wf](car-240)"
-    ],
-    [
-        "wf:\u0268ro",
-        "[wf](hix-241)"
-    ],
-    [
-        "wf:iro",
-        "[wf](kar-242)"
-    ],
-    [
-        "wf:iro",
-        "[wf](kax-243)"
-    ],
-    [
-        "wf:ij\u0259",
-        "[wf](mak-244)"
-    ],
-    [
-        "wf:iro",
-        "[wf](PPar-245)"
-    ],
-    [
-        "wf:ir\u0259",
-        "[wf](PTar-246)"
-    ],
-    [
-        "wf:ir\u0259",
-        "[wf](PTir-247)"
-    ],
-    [
-        "wf:\u0268ro",
-        "[wf](PWai-248)"
-    ],
-    [
-        "wf:ir\u0259",
-        "[wf](tri-249)"
-    ],
-    [
-        "wf:ile",
-        "[wf](uxc-250)"
-    ],
-    [
-        "wf:\u0268le",
-        "[wf](uxc-251)"
-    ],
-    [
-        "wf:ero",
-        "[wf](wai-252)"
-    ],
-    [
-        "wf:ir\u0259",
-        "[wf](way-253)"
+        "[wf](yuk-210)"
     ],
     [
         "wf:ir\u0268",
-        "[wf](wmr-254)"
+        "[wf](wmr-212)"
+    ],
+    [
+        "wf:n\u0259r\u0259",
+        "[wf](aku-214)"
+    ],
+    [
+        "wf:\u0268noro",
+        "[wf](apa-215)"
+    ],
+    [
+        "wf:in\u0259ra",
+        "[wf](bak-216)"
+    ],
+    [
+        "wf:n\u0259r\u0259",
+        "[wf](car-217)"
+    ],
+    [
+        "wf:noro",
+        "[wf](hix-218)"
+    ],
+    [
+        "wf:inoro",
+        "[wf](kar-219)"
+    ],
+    [
+        "wf:\u0272oro",
+        "[wf](kar-220)"
+    ],
+    [
+        "wf:noro",
+        "[wf](kax-221)"
+    ],
+    [
+        "wf:noro",
+        "[wf](PPar-222)"
+    ],
+    [
+        "wf:n\u0259(\u0259)r\u0259",
+        "[wf](PTar-223)"
+    ],
+    [
+        "wf:n\u0259r\u0259",
+        "[wf](PTir-224)"
+    ],
+    [
+        "wf:noro",
+        "[wf](PWai-225)"
+    ],
+    [
+        "wf:nare",
+        "[wf](tam-226)"
+    ],
+    [
+        "wf:n\u0259r\u0259",
+        "[wf](tri-227)"
+    ],
+    [
+        "wf:\u0268\u014bele",
+        "[wf](uxc-228)"
+    ],
+    [
+        "wf:noro",
+        "[wf](wai-229)"
+    ],
+    [
+        "wf:in\u0259r\u0259(r\u0259)",
+        "[wf](way-230)"
+    ],
+    [
+        "wf:k\u0268r\u0259(r\u0259)",
+        "[wf](ing-231)"
+    ],
+    [
+        "wf:in\u0259r\u0259",
+        "[wf](PC-232)"
+    ],
+    [
+        "wf:namoro",
+        "[wf](aku-233)"
+    ],
+    [
+        "wf:\u0268naro",
+        "[wf](apa-234)"
+    ],
+    [
+        "wf:namoro",
+        "[wf](car-235)"
+    ],
+    [
+        "wf:\u0272amoro",
+        "[wf](hix-236)"
+    ],
+    [
+        "wf:inaro(n)",
+        "[wf](kar-237)"
+    ],
+    [
+        "wf:\u0272orokon",
+        "[wf](kar-238)"
+    ],
+    [
+        "wf:namorjam\u0268",
+        "[wf](kax-239)"
+    ],
+    [
+        "wf:inamoro",
+        "[wf](PPar-240)"
+    ],
+    [
+        "wf:namo",
+        "[wf](PTar-241)"
+    ],
+    [
+        "wf:namo(ro)",
+        "[wf](PTir-242)"
+    ],
+    [
+        "wf:inamoro",
+        "[wf](PWai-243)"
+    ],
+    [
+        "wf:namo",
+        "[wf](tri-244)"
+    ],
+    [
+        "wf:(\u0268)na\u0263o",
+        "[wf](uxc-245)"
+    ],
+    [
+        "wf:\u0272e\u0283amro",
+        "[wf](wai-246)"
+    ],
+    [
+        "wf:inamoro",
+        "[wf](way-247)"
+    ],
+    [
+        "wf:kamo(ro)",
+        "[wf](ing-248)"
+    ],
+    [
+        "wf:sero\u0294ne",
+        "[wf](apa-249)"
+    ],
+    [
+        "wf:to\u0294",
+        "[wf](ing-250)"
+    ],
+    [
+        "wf:tot(o)",
+        "[wf](way-251)"
+    ],
+    [
+        "wf:injamo",
+        "[wf](PC-252)"
+    ],
+    [
+        "wf:ir\u0259",
+        "[wf](aku-253)"
+    ],
+    [
+        "wf:\u0268ro",
+        "[wf](apa-254)"
+    ],
+    [
+        "wf:il\u0259",
+        "[wf](bak-255)"
+    ],
+    [
+        "wf:ir\u0259",
+        "[wf](car-256)"
+    ],
+    [
+        "wf:\u0268ro",
+        "[wf](hix-257)"
+    ],
+    [
+        "wf:iro",
+        "[wf](kar-258)"
+    ],
+    [
+        "wf:iro",
+        "[wf](kax-259)"
+    ],
+    [
+        "wf:iro",
+        "[wf](PPar-260)"
+    ],
+    [
+        "wf:ir\u0259",
+        "[wf](PTar-261)"
+    ],
+    [
+        "wf:ir\u0259",
+        "[wf](PTir-262)"
+    ],
+    [
+        "wf:\u0268ro",
+        "[wf](PWai-263)"
+    ],
+    [
+        "wf:ir\u0259",
+        "[wf](tri-264)"
+    ],
+    [
+        "wf:ile",
+        "[wf](uxc-265)"
+    ],
+    [
+        "wf:\u0268le",
+        "[wf](uxc-266)"
+    ],
+    [
+        "wf:ero",
+        "[wf](wai-267)"
+    ],
+    [
+        "wf:ir\u0259",
+        "[wf](way-268)"
+    ],
+    [
+        "wf:iro",
+        "[wf](PPar-269)"
+    ],
+    [
+        "wf:\u0268ro",
+        "[wf](PWai-270)"
+    ],
+    [
+        "wf:ir\u0259",
+        "[wf](PC-271)"
     ],
     [
         "wf:irokon",
-        "[wf](kar-255)"
+        "[wf](kar-272)"
     ],
     [
         "wf:ironne",
-        "[wf](kax-256)"
+        "[wf](kax-273)"
     ],
     [
         "wf:ir\u0259to(mo)",
-        "[wf](tri-257)"
+        "[wf](tri-274)"
+    ],
+    [
+        "wf:to\u0294",
+        "[wf](mac-275)"
+    ],
+    [
+        "wf:to\u0294",
+        "[wf](pem-276)"
+    ],
+    [
+        "wf:ake",
+        "[wf](yuk-278)"
     ],
     [
         "wf:mok\u0268",
-        "[wf](apa-258)"
+        "[wf](apa-279)"
     ],
     [
         "wf:mook",
-        "[wf](ara-259)"
+        "[wf](ara-280)"
     ],
     [
         "wf:mog\u0268(n)",
-        "[wf](ara-260)"
+        "[wf](ara-281)"
     ],
     [
         "wf:m\u0259k\u0259",
-        "[wf](bak-261)"
-    ],
-    [
-        "wf:m\u0259k\u0268",
-        "[wf](car-262)"
+        "[wf](bak-282)"
     ],
     [
         "wf:mok\u0268",
@@ -1305,1078 +1401,1402 @@
     ],
     [
         "wf:ugun",
-        "[wf](ikp-264)"
-    ],
-    [
-        "wf:m\u0268k\u0268",
-        "[wf](ing-265)"
+        "[wf](ikp-284)"
     ],
     [
         "wf:mo\u0294k\u0268",
-        "[wf](kar-266)"
+        "[wf](kar-285)"
     ],
     [
         "wf:mok\u0268",
-        "[wf](kax-267)"
+        "[wf](kax-286)"
     ],
     [
         "wf:m\u0259kk\u0268",
-        "[wf](mak-268)"
+        "[wf](mak-287)"
     ],
     [
         "wf:muku(h)",
-        "[wf](pan-269)"
+        "[wf](pan-288)"
     ],
     [
         "wf:mok\u0268",
-        "[wf](PPar-270)"
+        "[wf](PPar-289)"
     ],
     [
         "wf:m\u0259k\u0268",
-        "[wf](PPek-271)"
+        "[wf](PPek-290)"
     ],
     [
         "wf:m\u0259k\u0268",
-        "[wf](PTar-272)"
+        "[wf](PTar-291)"
     ],
     [
         "wf:mok\u0268",
-        "[wf](PWai-273)"
+        "[wf](PWai-292)"
     ],
     [
         "wf:mog\u0268n",
-        "[wf](PXin-274)"
+        "[wf](PXin-293)"
     ],
     [
         "wf:make",
-        "[wf](tam-275)"
-    ],
-    [
-        "wf:m\u0259(k\u0268)",
-        "[wf](tri-276)"
+        "[wf](tam-294)"
     ],
     [
         "wf:ekise",
-        "[wf](uxc-277)"
+        "[wf](uxc-295)"
     ],
     [
         "wf:m\u0268k\u0268",
-        "[wf](wai-278)"
+        "[wf](wai-296)"
     ],
     [
         "wf:m\u0259k\u0268",
-        "[wf](way-279)"
+        "[wf](way-297)"
     ],
     [
         "wf:m\u0268k\u0268",
-        "[wf](wmr-280)"
-    ],
-    [
-        "wf:ake",
-        "[wf](yuk-281)"
-    ],
-    [
-        "wf:mokamo",
-        "[wf](apa-282)"
-    ],
-    [
-        "wf:akaemo",
-        "[wf](bak-283)"
-    ],
-    [
-        "wf:m\u0259ka",
-        "[wf](car-284)"
-    ],
-    [
-        "wf:ugjam",
-        "[wf](ikp-286)"
-    ],
-    [
-        "wf:mook\u0268kon",
-        "[wf](kar-287)"
-    ],
-    [
-        "wf:mo\u0294kan",
-        "[wf](kar-288)"
-    ],
-    [
-        "wf:makkamo",
-        "[wf](mak-289)"
-    ],
-    [
-        "wf:mukukon",
-        "[wf](pan-290)"
-    ],
-    [
-        "wf:mokjamo",
-        "[wf](PPar-291)"
-    ],
-    [
-        "wf:m\u0259kjamo",
-        "[wf](PPek-292)"
-    ],
-    [
-        "wf:m\u0259kjamo",
-        "[wf](PTar-293)"
-    ],
-    [
-        "wf:mokjamo",
-        "[wf](PWai-294)"
-    ],
-    [
-        "wf:mogjam",
-        "[wf](PXin-295)"
-    ],
-    [
-        "wf:mukiamo",
-        "[wf](tam-296)"
-    ],
-    [
-        "wf:m\u0259(k\u0268)ja(mo)",
-        "[wf](tri-297)"
-    ],
-    [
-        "wf:aka\u0263o",
-        "[wf](uxc-298)"
-    ],
-    [
-        "wf:m\u0268kjam",
-        "[wf](wai-299)"
-    ],
-    [
-        "wf:m\u0259kjamo",
-        "[wf](way-300)"
-    ],
-    [
-        "wf:ak\u0283a",
-        "[wf](yuk-301)"
-    ],
-    [
-        "wf:mon\u0268",
-        "[wf](apa-302)"
-    ],
-    [
-        "wf:mon",
-        "[wf](ara-303)"
-    ],
-    [
-        "wf:mun",
-        "[wf](ara-304)"
-    ],
-    [
-        "wf:m\u0259n\u0268",
-        "[wf](car-305)"
-    ],
-    [
-        "wf:mon\u0268",
-        "[wf](hix-306)"
-    ],
-    [
-        "wf:mun",
-        "[wf](ikp-307)"
-    ],
-    [
-        "wf:mon\u0268",
-        "[wf](kar-308)"
-    ],
-    [
-        "wf:mon\u0268",
-        "[wf](kax-309)"
-    ],
-    [
-        "wf:m\u0259\u0259n\u0268",
-        "[wf](mak-310)"
-    ],
-    [
-        "wf:mu(h)",
-        "[wf](pan-311)"
-    ],
-    [
-        "wf:mon\u0268",
-        "[wf](PPar-312)"
-    ],
-    [
-        "wf:m\u0259n\u0268",
-        "[wf](PTar-313)"
-    ],
-    [
-        "wf:mon\u0268",
-        "[wf](PWai-314)"
-    ],
-    [
-        "wf:mon",
-        "[wf](PXin-315)"
-    ],
-    [
-        "wf:m\u0259(n\u0268)",
-        "[wf](tri-316)"
-    ],
-    [
-        "wf:m\u0268n\u0268",
-        "[wf](wai-317)"
-    ],
-    [
-        "wf:m\u0268n(\u0268)",
-        "[wf](way-318)"
-    ],
-    [
-        "wf:m\u0259n\u0268",
-        "[wf](yab-319)"
-    ],
-    [
-        "wf:mono\u0294ne",
-        "[wf](apa-320)"
-    ],
-    [
-        "wf:mujam",
-        "[wf](ikp-321)"
-    ],
-    [
-        "wf:mon\u0268kon",
-        "[wf](kar-322)"
-    ],
-    [
-        "wf:m\u0259nto(mo)",
-        "[wf](tri-323)"
-    ],
-    [
-        "wf:m\u0268n(\u0268)komo",
-        "[wf](way-324)"
-    ],
-    [
-        "wf:k\u0268r\u0259",
-        "[wf](aka-325)"
-    ],
-    [
-        "wf:m\u0259k\u0268r\u0259",
-        "[wf](aku-326)"
-    ],
-    [
-        "wf:mok\u0268ro",
-        "[wf](apa-327)"
-    ],
-    [
-        "wf:aw\u0259k\u0259",
-        "[wf](bak-328)"
+        "[wf](wmr-298)"
     ],
     [
         "wf:m\u0259k\u0259",
-        "[wf](car-329)"
+        "[wf](car-299)"
     ],
     [
-        "wf:mokro",
-        "[wf](hix-330)"
+        "wf:m\u0259k\u0268",
+        "[wf](PC-304)"
     ],
     [
-        "wf:k\u0268r\u0259(r\u0259)",
-        "[wf](ing-331)"
+        "wf:mokamo",
+        "[wf](apa-305)"
     ],
     [
-        "wf:mo\u0294ko",
-        "[wf](kar-332)"
+        "wf:akaemo",
+        "[wf](bak-306)"
     ],
     [
-        "wf:mokoro",
-        "[wf](kax-333)"
+        "wf:ugjam",
+        "[wf](ikp-308)"
     ],
     [
-        "wf:m\u0268\u0268k\u0268r\u0268",
-        "[wf](mac-334)"
+        "wf:mook\u0268kon",
+        "[wf](kar-309)"
     ],
     [
-        "wf:m\u0259\u0294r\u0259",
-        "[wf](mak-335)"
+        "wf:mo\u0294kan",
+        "[wf](kar-310)"
     ],
     [
-        "wf:k\u0259n",
-        "[wf](pan-336)"
+        "wf:makkamo",
+        "[wf](mak-311)"
     ],
     [
-        "wf:m\u0259\u0294r\u0259",
-        "[wf](pem-337)"
-    ],
-    [
-        "wf:mokoro",
-        "[wf](PPar-338)"
-    ],
-    [
-        "wf:m\u0259k\u0268(r\u0259)",
-        "[wf](PPem-339)"
-    ],
-    [
-        "wf:m\u0259k\u0268(r\u0259)",
-        "[wf](PPP-340)"
-    ],
-    [
-        "wf:m\u0259k\u0268r\u0259",
-        "[wf](PTar-341)"
-    ],
-    [
-        "wf:mokro",
-        "[wf](PWai-342)"
-    ],
-    [
-        "wf:krere",
-        "[wf](tam-343)"
-    ],
-    [
-        "wf:m\u0259\u0259r\u0259",
-        "[wf](tri-344)"
-    ],
-    [
-        "wf:m\u0268kro",
-        "[wf](wai-345)"
-    ],
-    [
-        "wf:m\u0259kr\u0259(r\u0259)",
-        "[wf](way-346)"
-    ],
-    [
-        "wf:mokaro",
-        "[wf](apa-347)"
-    ],
-    [
-        "wf:m\u0259kamoro",
-        "[wf](car-348)"
+        "wf:mukukon",
+        "[wf](pan-312)"
     ],
     [
         "wf:mokjamo",
-        "[wf](hix-349)"
+        "[wf](PPar-313)"
     ],
     [
-        "wf:m\u0268k\u0268jam\u0259",
-        "[wf](ing-350)"
+        "wf:m\u0259kjamo",
+        "[wf](PPek-314)"
     ],
     [
-        "wf:kamo(ro)",
-        "[wf](ing-351)"
+        "wf:m\u0259kjamo",
+        "[wf](PTar-315)"
     ],
     [
-        "wf:mo\u0294karo(n)",
-        "[wf](kar-352)"
+        "wf:mokjamo",
+        "[wf](PWai-316)"
     ],
     [
-        "wf:mokjar\u0268",
-        "[wf](kax-353)"
+        "wf:mogjam",
+        "[wf](PXin-317)"
     ],
     [
-        "wf:inkamoro",
-        "[wf](mac-354)"
+        "wf:mukiamo",
+        "[wf](tam-318)"
     ],
     [
-        "wf:kanno",
-        "[wf](mak-355)"
+        "wf:aka\u0263o",
+        "[wf](uxc-319)"
     ],
     [
-        "wf:kam\u0259nton",
-        "[wf](pan-356)"
+        "wf:m\u0268kjam",
+        "[wf](wai-320)"
     ],
     [
-        "wf:m\u0259k\u0268r\u0259jamo",
-        "[wf](PTar-358)"
+        "wf:m\u0259kjamo",
+        "[wf](way-321)"
     ],
     [
-        "wf:kiamoro",
-        "[wf](tam-359)"
-    ],
-    [
-        "wf:m\u0259\u0259ja(mo)",
-        "[wf](tri-360)"
-    ],
-    [
-        "wf:m\u0259kja(r\u0259)",
-        "[wf](way-361)"
-    ],
-    [
-        "wf:m\u0259r\u0259",
-        "[wf](aka-362)"
-    ],
-    [
-        "wf:m\u0259r\u0259",
-        "[wf](aku-363)"
-    ],
-    [
-        "wf:moro",
-        "[wf](apa-364)"
-    ],
-    [
-        "wf:moro",
-        "[wf](ara-365)"
-    ],
-    [
-        "wf:m\u0259r\u0259",
-        "[wf](bak-366)"
-    ],
-    [
-        "wf:m\u0259r\u0259",
-        "[wf](car-367)"
-    ],
-    [
-        "wf:moro",
-        "[wf](hix-368)"
-    ],
-    [
-        "wf:m\u0259(r)\u0259",
-        "[wf](ing-369)"
-    ],
-    [
-        "wf:moro",
-        "[wf](kar-370)"
-    ],
-    [
-        "wf:moro",
-        "[wf](kax-371)"
-    ],
-    [
-        "wf:m\u0268r\u0268r\u0268",
-        "[wf](mac-372)"
-    ],
-    [
-        "wf:m\u0259r\u0259",
-        "[wf](mak-373)"
-    ],
-    [
-        "wf:m\u0259r\u0268",
-        "[wf](map-374)"
-    ],
-    [
-        "wf:m\u0259n",
-        "[wf](pan-375)"
-    ],
-    [
-        "wf:m\u0259r\u0259",
-        "[wf](pem-376)"
-    ],
-    [
-        "wf:moro",
-        "[wf](PPar-377)"
-    ],
-    [
-        "wf:m\u0259r\u0259",
-        "[wf](PPek-378)"
-    ],
-    [
-        "wf:m\u0259r\u0259",
-        "[wf](PPem-379)"
-    ],
-    [
-        "wf:m\u0259r\u0259",
-        "[wf](PPP-380)"
-    ],
-    [
-        "wf:m\u0259r\u0259",
-        "[wf](PTar-381)"
-    ],
-    [
-        "wf:moro",
-        "[wf](PWai-382)"
-    ],
-    [
-        "wf:moro",
-        "[wf](PXin-383)"
-    ],
-    [
-        "wf:more",
-        "[wf](tam-384)"
-    ],
-    [
-        "wf:m\u0259r\u0259",
-        "[wf](tri-385)"
-    ],
-    [
-        "wf:e\u0263e",
-        "[wf](uxc-386)"
-    ],
-    [
-        "wf:moro",
-        "[wf](wai-387)"
-    ],
-    [
-        "wf:m\u0259r\u0259",
-        "[wf](way-388)"
-    ],
-    [
-        "wf:m\u0268r\u0268",
-        "[wf](wmr-389)"
-    ],
-    [
-        "wf:m\u0259r\u0259",
-        "[wf](yab-390)"
-    ],
-    [
-        "wf:moro\u0294ne",
-        "[wf](apa-391)"
-    ],
-    [
-        "wf:m\u0259r\u0259jam\u0259",
-        "[wf](ing-392)"
-    ],
-    [
-        "wf:morokon",
-        "[wf](kar-393)"
-    ],
-    [
-        "wf:m\u0259nkon",
-        "[wf](pan-395)"
-    ],
-    [
-        "wf:m\u0259r\u0259to(mo)",
-        "[wf](tri-396)"
-    ],
-    [
-        "wf:m\u0259r\u0259komo",
-        "[wf](way-397)"
-    ],
-    [
-        "wf:m\u0259\u0294e",
-        "[wf](aku-398)"
-    ],
-    [
-        "wf:mose",
-        "[wf](apa-399)"
-    ],
-    [
-        "wf:moden",
-        "[wf](ara-400)"
-    ],
-    [
-        "wf:mer\u0259",
-        "[wf](bak-401)"
-    ],
-    [
-        "wf:m\u0259h\u0259",
-        "[wf](car-402)"
-    ],
-    [
-        "wf:moson\u0268",
-        "[wf](hix-403)"
-    ],
-    [
-        "wf:oren",
-        "[wf](ikp-404)"
-    ],
-    [
-        "wf:mo(\u0294)se",
-        "[wf](kar-405)"
-    ],
-    [
-        "wf:mosoro",
-        "[wf](kax-406)"
-    ],
-    [
-        "wf:m\u0268ser\u0268",
-        "[wf](mac-407)"
-    ],
-    [
-        "wf:mehe",
-        "[wf](map-408)"
-    ],
-    [
-        "wf:m\u0259h",
-        "[wf](pan-409)"
-    ],
-    [
-        "wf:m\u0259s\u0259r\u0259",
-        "[wf](pem-410)"
-    ],
-    [
-        "wf:moso(ro)",
-        "[wf](PPar-411)"
-    ],
-    [
-        "wf:m\u0259te(r\u0259)",
-        "[wf](PPek-412)"
-    ],
-    [
-        "wf:m\u0259se",
-        "[wf](PPem-413)"
-    ],
-    [
-        "wf:m\u0259se",
-        "[wf](PPP-414)"
-    ],
-    [
-        "wf:m\u0259(t\u0361\u0283)e",
-        "[wf](PTar-415)"
-    ],
-    [
-        "wf:moso",
-        "[wf](PWai-416)"
-    ],
-    [
-        "wf:moden",
-        "[wf](PXin-417)"
-    ],
-    [
-        "wf:mot\u0361\u0283e",
-        "[wf](tam-418)"
-    ],
-    [
-        "wf:m\u0259e",
-        "[wf](tri-419)"
-    ],
-    [
-        "wf:ese",
-        "[wf](uxc-420)"
-    ],
-    [
-        "wf:moso",
-        "[wf](wai-421)"
-    ],
-    [
-        "wf:m\u0259(s)i",
-        "[wf](way-422)"
-    ],
-    [
-        "wf:m\u0259he(r\u0259)",
-        "[wf](way-423)"
-    ],
-    [
-        "wf:ma(\u0283)",
-        "[wf](yuk-424)"
-    ],
-    [
-        "wf:m\u0259et\u0361\u0283amo",
-        "[wf](aku-425)"
-    ],
-    [
-        "wf:mo\u0283iamo",
-        "[wf](apa-426)"
-    ],
-    [
-        "wf:asaemo",
-        "[wf](bak-427)"
-    ],
-    [
-        "wf:m\u0259sa",
-        "[wf](car-428)"
-    ],
-    [
-        "wf:mo\u0283amo",
-        "[wf](hix-429)"
-    ],
-    [
-        "wf:wam",
-        "[wf](ikp-430)"
-    ],
-    [
-        "wf:mo\u0294sekon",
-        "[wf](kar-431)"
-    ],
-    [
-        "wf:moojan",
-        "[wf](kar-432)"
-    ],
-    [
-        "wf:mo\u0294saro(n)",
-        "[wf](kar-433)"
-    ],
-    [
-        "wf:mo\u0294t\u0361\u0283ar\u0268",
-        "[wf](kax-434)"
-    ],
-    [
-        "wf:insemoro",
-        "[wf](mac-435)"
-    ],
-    [
-        "wf:m\u0259ht\u0361\u0283anton",
-        "[wf](pan-436)"
-    ],
-    [
-        "wf:i\u0294sam\u0259r\u0259",
-        "[wf](pem-437)"
-    ],
-    [
-        "wf:mo\u0294t\u0361\u0283amo(ro)",
-        "[wf](PPar-438)"
-    ],
-    [
-        "wf:m\u0259tjamo",
-        "[wf](PPek-439)"
-    ],
-    [
-        "wf:m\u0259(t\u0361\u0283)et\u0361\u0283amo",
-        "[wf](PTar-440)"
-    ],
-    [
-        "wf:mo\u0283amo",
-        "[wf](PWai-441)"
-    ],
-    [
-        "wf:modjam",
-        "[wf](PXin-442)"
-    ],
-    [
-        "wf:t\u0361\u0283amoro",
-        "[wf](tam-443)"
-    ],
-    [
-        "wf:m\u0259esa(mo)",
-        "[wf](tri-444)"
-    ],
-    [
-        "wf:a\u0263o",
-        "[wf](uxc-445)"
-    ],
-    [
-        "wf:mo\u0283am",
-        "[wf](wai-446)"
-    ],
-    [
-        "wf:m\u0259ham(o)",
-        "[wf](way-447)"
-    ],
-    [
-        "wf:m\u0259har\u0259",
-        "[wf](way-448)"
-    ],
-    [
-        "wf:ma\u0283a",
-        "[wf](yuk-449)"
-    ],
-    [
-        "wf:m\u0259sin",
-        "[wf](way-450)"
-    ],
-    [
-        "wf:ser\u0259",
-        "[wf](aka-451)"
-    ],
-    [
-        "wf:t\u0361\u0283er\u0259",
-        "[wf](aku-452)"
-    ],
-    [
-        "wf:sero",
-        "[wf](apa-453)"
-    ],
-    [
-        "wf:ero",
-        "[wf](ara-454)"
-    ],
-    [
-        "wf:\u0283ir\u0259",
-        "[wf](bak-455)"
-    ],
-    [
-        "wf:\u0259r\u0259",
-        "[wf](car-456)"
-    ],
-    [
-        "wf:s\u0259(r\u0259)",
-        "[wf](ing-457)"
-    ],
-    [
-        "wf:ero",
-        "[wf](kar-458)"
-    ],
-    [
-        "wf:soro",
-        "[wf](kax-459)"
-    ],
-    [
-        "wf:s\u0268r\u0268r\u0268",
-        "[wf](mac-460)"
-    ],
-    [
-        "wf:er\u0259",
-        "[wf](mak-461)"
-    ],
-    [
-        "wf:s\u0268(h)",
-        "[wf](pan-462)"
-    ],
-    [
-        "wf:s\u0259r\u0259",
-        "[wf](pem-463)"
-    ],
-    [
-        "wf:soro",
-        "[wf](PPar-464)"
-    ],
-    [
-        "wf:(t\u0361\u0283)er\u0259",
-        "[wf](PPek-465)"
-    ],
-    [
-        "wf:s\u0259r\u0259",
-        "[wf](PPem-466)"
-    ],
-    [
-        "wf:(t\u0361\u0283)er\u0259",
-        "[wf](PTar-467)"
-    ],
-    [
-        "wf:ero",
-        "[wf](PXin-468)"
-    ],
-    [
-        "wf:ser\u0259",
-        "[wf](tri-469)"
-    ],
-    [
-        "wf:i\u0263e",
-        "[wf](uxc-470)"
-    ],
-    [
-        "wf:her\u0259",
-        "[wf](way-471)"
-    ],
-    [
-        "wf:t\u0361\u0283en\u0268",
-        "[wf](aku-472)"
-    ],
-    [
-        "wf:sen\u0268",
-        "[wf](apa-473)"
-    ],
-    [
-        "wf:en",
-        "[wf](ara-474)"
-    ],
-    [
-        "wf:en\u0268",
-        "[wf](car-475)"
-    ],
-    [
-        "wf:on\u0268",
-        "[wf](hix-476)"
-    ],
-    [
-        "wf:nen",
-        "[wf](ikp-477)"
-    ],
-    [
-        "wf:en\u0268",
-        "[wf](kar-478)"
-    ],
-    [
-        "wf:seni",
-        "[wf](mac-479)"
-    ],
-    [
-        "wf:sen\u0259k",
-        "[wf](pem-480)"
-    ],
-    [
-        "wf:(t\u0361\u0283)en",
-        "[wf](PPek-481)"
-    ],
-    [
-        "wf:(t\u0361\u0283)en\u0268",
-        "[wf](PTar-482)"
-    ],
-    [
-        "wf:on\u0268",
-        "[wf](PWai-483)"
-    ],
-    [
-        "wf:en",
-        "[wf](PXin-484)"
-    ],
-    [
-        "wf:t\u0361\u0283ene",
-        "[wf](tam-485)"
-    ],
-    [
-        "wf:se(n\u0268)",
-        "[wf](tri-486)"
-    ],
-    [
-        "wf:on",
-        "[wf](wai-487)"
-    ],
-    [
-        "wf:sin\u0268",
-        "[wf](way-488)"
-    ],
-    [
-        "wf:(s)eni",
-        "[wf](yab-489)"
-    ],
-    [
-        "wf:sero\u0294ne",
-        "[wf](apa-490)"
-    ],
-    [
-        "wf:ero\u014bmo",
-        "[wf](ara-492)"
-    ],
-    [
-        "wf:nejam",
-        "[wf](ikp-493)"
-    ],
-    [
-        "wf:s\u0259(r\u0259)jam\u0259",
-        "[wf](ing-494)"
-    ],
-    [
-        "wf:erokon",
-        "[wf](kar-495)"
-    ],
-    [
-        "wf:en\u0268kon",
-        "[wf](kar-496)"
-    ],
-    [
-        "wf:soronne",
-        "[wf](kax-497)"
-    ],
-    [
-        "wf:s\u0268(h)kon",
-        "[wf](pan-498)"
-    ],
-    [
-        "wf:her\u0259kom(o)",
-        "[wf](way-499)"
-    ],
-    [
-        "wf:sinkom(o)",
-        "[wf](way-500)"
-    ],
-    [
-        "wf:to\u0294",
-        "[wf](ing-501)"
-    ],
-    [
-        "wf:uur\u0268\u0294kon",
-        "[wf](mac-502)"
-    ],
-    [
-        "wf:to\u0294",
-        "[wf](mac-503)"
-    ],
-    [
-        "wf:juur\u0259tokon",
-        "[wf](pem-508)"
-    ],
-    [
-        "wf:to\u0294",
-        "[wf](pem-509)"
-    ],
-    [
-        "wf:k\u0268?(ro)",
-        "[wf](PPar-517)"
-    ],
-    [
-        "wf:iro",
-        "[wf](PPar-518)"
-    ],
-    [
-        "wf:m\u0259r\u0259",
-        "[wf](PPem-519)"
-    ],
-    [
-        "wf:s\u0259r\u0259",
-        "[wf](PPem-520)"
-    ],
-    [
-        "wf:k\u0268w\u0268(ro)",
-        "[wf](PWai-521)"
-    ],
-    [
-        "wf:\u0268ro",
-        "[wf](PWai-522)"
+        "wf:m\u0259kamoro",
+        "[wf](car-322)"
     ],
     [
         "wf:ohk\u0268ja(mo)",
-        "[wf](tri-523)"
-    ],
-    [
-        "wf:ser\u0259to(mo)",
-        "[wf](tri-524)"
-    ],
-    [
-        "wf:sento(mo)",
-        "[wf](tri-525)"
-    ],
-    [
-        "wf:eekise",
-        "[wf](uxc-529)"
+        "[wf](tri-325)"
     ],
     [
         "wf:mo\u0283am",
-        "[wf](wai-530)"
+        "[wf](wai-326)"
     ],
     [
-        "wf:on",
-        "[wf](wai-531)"
+        "wf:m\u0259kjamo",
+        "[wf](PC-327)"
     ],
     [
-        "wf:tot(o)",
-        "[wf](way-533)"
+        "wf:mon\u0268",
+        "[wf](apa-328)"
+    ],
+    [
+        "wf:mon",
+        "[wf](ara-329)"
+    ],
+    [
+        "wf:mun",
+        "[wf](ara-330)"
+    ],
+    [
+        "wf:m\u0259n\u0268",
+        "[wf](car-331)"
+    ],
+    [
+        "wf:mon\u0268",
+        "[wf](hix-332)"
+    ],
+    [
+        "wf:mun",
+        "[wf](ikp-333)"
+    ],
+    [
+        "wf:mon\u0268",
+        "[wf](kar-334)"
+    ],
+    [
+        "wf:mon\u0268",
+        "[wf](kax-335)"
+    ],
+    [
+        "wf:m\u0259\u0259n\u0268",
+        "[wf](mak-336)"
+    ],
+    [
+        "wf:mu(h)",
+        "[wf](pan-337)"
+    ],
+    [
+        "wf:mon\u0268",
+        "[wf](PPar-338)"
+    ],
+    [
+        "wf:m\u0259n\u0268",
+        "[wf](PTar-339)"
+    ],
+    [
+        "wf:mon\u0268",
+        "[wf](PWai-340)"
+    ],
+    [
+        "wf:mon",
+        "[wf](PXin-341)"
+    ],
+    [
+        "wf:m\u0268n\u0268",
+        "[wf](wai-342)"
+    ],
+    [
+        "wf:m\u0268n(\u0268)",
+        "[wf](way-343)"
+    ],
+    [
+        "wf:m\u0259n\u0268",
+        "[wf](yab-344)"
+    ],
+    [
+        "wf:e\u0263e",
+        "[wf](uxc-345)"
     ],
     [
         "wf:m\u0259n",
-        "[wf](PPek-541)"
+        "[wf](PPek-349)"
+    ],
+    [
+        "wf:m\u0259n\u0268",
+        "[wf](PC-350)"
+    ],
+    [
+        "wf:mono\u0294ne",
+        "[wf](apa-351)"
+    ],
+    [
+        "wf:mujam",
+        "[wf](ikp-352)"
+    ],
+    [
+        "wf:mon\u0268kon",
+        "[wf](kar-353)"
+    ],
+    [
+        "wf:m\u0268n(\u0268)komo",
+        "[wf](way-354)"
+    ],
+    [
+        "wf:ak\u0283a",
+        "[wf](yuk-356)"
+    ],
+    [
+        "wf:\u0272\u0259\u0259r\u0259",
+        "[wf](mak-358)"
+    ],
+    [
+        "wf:m\u0259(k\u0268)",
+        "[wf](tri-359)"
+    ],
+    [
+        "wf:k\u0259n",
+        "[wf](pan-360)"
+    ],
+    [
+        "wf:eekise",
+        "[wf](uxc-361)"
+    ],
+    [
+        "wf:(n)\u0272anno",
+        "[wf](mak-362)"
+    ],
+    [
+        "wf:m\u0259(k\u0268)ja(mo)",
+        "[wf](tri-363)"
+    ],
+    [
+        "wf:kam\u0259nton",
+        "[wf](pan-364)"
+    ],
+    [
+        "wf:ij\u0259",
+        "[wf](mak-365)"
+    ],
+    [
+        "wf:m\u0259(n\u0268)",
+        "[wf](tri-366)"
+    ],
+    [
+        "wf:m\u0259n",
+        "[wf](pan-367)"
+    ],
+    [
+        "wf:m\u0259nto(mo)",
+        "[wf](tri-368)"
+    ],
+    [
+        "wf:m\u0259nkon",
+        "[wf](pan-369)"
+    ],
+    [
+        "wf:m\u0259k\u0268",
+        "[wf](car-370)"
+    ],
+    [
+        "wf:m\u0268k\u0268",
+        "[wf](ing-371)"
+    ],
+    [
+        "wf:k\u0268r\u0259",
+        "[wf](aka-372)"
+    ],
+    [
+        "wf:m\u0259k\u0268r\u0259",
+        "[wf](aku-373)"
+    ],
+    [
+        "wf:mok\u0268ro",
+        "[wf](apa-374)"
+    ],
+    [
+        "wf:aw\u0259k\u0259",
+        "[wf](bak-375)"
+    ],
+    [
+        "wf:mokro",
+        "[wf](hix-376)"
+    ],
+    [
+        "wf:mo\u0294ko",
+        "[wf](kar-377)"
+    ],
+    [
+        "wf:mokoro",
+        "[wf](kax-378)"
+    ],
+    [
+        "wf:m\u0268\u0268k\u0268r\u0268",
+        "[wf](mac-379)"
+    ],
+    [
+        "wf:m\u0259\u0294r\u0259",
+        "[wf](pem-380)"
+    ],
+    [
+        "wf:mokoro",
+        "[wf](PPar-381)"
+    ],
+    [
+        "wf:m\u0259k\u0268(r\u0259)",
+        "[wf](PPem-382)"
+    ],
+    [
+        "wf:m\u0259k\u0268(r\u0259)",
+        "[wf](PPP-383)"
+    ],
+    [
+        "wf:m\u0259k\u0268r\u0259",
+        "[wf](PTar-384)"
+    ],
+    [
+        "wf:mokro",
+        "[wf](PWai-385)"
+    ],
+    [
+        "wf:krere",
+        "[wf](tam-386)"
+    ],
+    [
+        "wf:m\u0259\u0259r\u0259",
+        "[wf](tri-387)"
+    ],
+    [
+        "wf:m\u0268kro",
+        "[wf](wai-388)"
+    ],
+    [
+        "wf:m\u0259kr\u0259(r\u0259)",
+        "[wf](way-389)"
+    ],
+    [
+        "wf:m\u0259ka",
+        "[wf](car-391)"
+    ],
+    [
+        "wf:mokaro",
+        "[wf](apa-392)"
+    ],
+    [
+        "wf:mokjamo",
+        "[wf](hix-393)"
+    ],
+    [
+        "wf:m\u0268k\u0268jam\u0259",
+        "[wf](ing-394)"
+    ],
+    [
+        "wf:mo\u0294karo(n)",
+        "[wf](kar-395)"
+    ],
+    [
+        "wf:mokjar\u0268",
+        "[wf](kax-396)"
+    ],
+    [
+        "wf:inkamoro",
+        "[wf](mac-397)"
+    ],
+    [
+        "wf:kanno",
+        "[wf](mak-398)"
+    ],
+    [
+        "wf:m\u0259k\u0268r\u0259jamo",
+        "[wf](PTar-400)"
+    ],
+    [
+        "wf:kiamoro",
+        "[wf](tam-401)"
+    ],
+    [
+        "wf:m\u0259\u0259ja(mo)",
+        "[wf](tri-402)"
+    ],
+    [
+        "wf:m\u0259kja(r\u0259)",
+        "[wf](way-403)"
     ],
     [
         "wf:mokjamo(ro)",
-        "[wf](PPar-542)"
+        "[wf](PPar-404)"
+    ],
+    [
+        "wf:m\u0259r\u0259",
+        "[wf](aka-405)"
+    ],
+    [
+        "wf:m\u0259r\u0259",
+        "[wf](aku-406)"
+    ],
+    [
+        "wf:moro",
+        "[wf](apa-407)"
+    ],
+    [
+        "wf:moro",
+        "[wf](ara-408)"
+    ],
+    [
+        "wf:m\u0259r\u0259",
+        "[wf](bak-409)"
+    ],
+    [
+        "wf:m\u0259r\u0259",
+        "[wf](car-410)"
+    ],
+    [
+        "wf:moro",
+        "[wf](hix-411)"
+    ],
+    [
+        "wf:m\u0259(r)\u0259",
+        "[wf](ing-412)"
+    ],
+    [
+        "wf:moro",
+        "[wf](kar-413)"
+    ],
+    [
+        "wf:moro",
+        "[wf](kax-414)"
+    ],
+    [
+        "wf:m\u0268r\u0268r\u0268",
+        "[wf](mac-415)"
+    ],
+    [
+        "wf:m\u0259r\u0259",
+        "[wf](mak-416)"
+    ],
+    [
+        "wf:m\u0259r\u0268",
+        "[wf](map-417)"
+    ],
+    [
+        "wf:m\u0259r\u0259",
+        "[wf](pem-418)"
+    ],
+    [
+        "wf:moro",
+        "[wf](PPar-419)"
+    ],
+    [
+        "wf:m\u0259r\u0259",
+        "[wf](PPek-420)"
+    ],
+    [
+        "wf:m\u0259r\u0259",
+        "[wf](PPem-421)"
+    ],
+    [
+        "wf:m\u0259r\u0259",
+        "[wf](PPP-422)"
+    ],
+    [
+        "wf:m\u0259r\u0259",
+        "[wf](PTar-423)"
+    ],
+    [
+        "wf:moro",
+        "[wf](PWai-424)"
+    ],
+    [
+        "wf:moro",
+        "[wf](PXin-425)"
+    ],
+    [
+        "wf:more",
+        "[wf](tam-426)"
+    ],
+    [
+        "wf:m\u0259r\u0259",
+        "[wf](tri-427)"
+    ],
+    [
+        "wf:moro",
+        "[wf](wai-428)"
+    ],
+    [
+        "wf:m\u0259r\u0259",
+        "[wf](way-429)"
+    ],
+    [
+        "wf:m\u0268r\u0268",
+        "[wf](wmr-430)"
+    ],
+    [
+        "wf:m\u0259r\u0259",
+        "[wf](yab-431)"
+    ],
+    [
+        "wf:m\u0259r\u0259",
+        "[wf](PPem-434)"
+    ],
+    [
+        "wf:m\u0259r\u0259",
+        "[wf](PC-435)"
+    ],
+    [
+        "wf:moro\u0294ne",
+        "[wf](apa-436)"
+    ],
+    [
+        "wf:m\u0259r\u0259jam\u0259",
+        "[wf](ing-437)"
+    ],
+    [
+        "wf:morokon",
+        "[wf](kar-438)"
+    ],
+    [
+        "wf:m\u0259r\u0259to(mo)",
+        "[wf](tri-440)"
+    ],
+    [
+        "wf:m\u0259r\u0259komo",
+        "[wf](way-441)"
+    ],
+    [
+        "wf:-jamo",
+        "[wf](hix-pl-2)"
+    ],
+    [
+        "wf:ma(\u0283)",
+        "[wf](yuk-443)"
+    ],
+    [
+        "wf:m\u0259\u0294r\u0259",
+        "[wf](mak-444)"
+    ],
+    [
+        "wf:m\u0259\u0294e",
+        "[wf](aku-445)"
+    ],
+    [
+        "wf:mose",
+        "[wf](apa-446)"
+    ],
+    [
+        "wf:moden",
+        "[wf](ara-447)"
+    ],
+    [
+        "wf:mer\u0259",
+        "[wf](bak-448)"
+    ],
+    [
+        "wf:m\u0259h\u0259",
+        "[wf](car-449)"
+    ],
+    [
+        "wf:moson\u0268",
+        "[wf](hix-450)"
+    ],
+    [
+        "wf:oren",
+        "[wf](ikp-451)"
+    ],
+    [
+        "wf:mo(\u0294)se",
+        "[wf](kar-452)"
+    ],
+    [
+        "wf:mosoro",
+        "[wf](kax-453)"
+    ],
+    [
+        "wf:m\u0268ser\u0268",
+        "[wf](mac-454)"
+    ],
+    [
+        "wf:mehe",
+        "[wf](map-455)"
+    ],
+    [
+        "wf:m\u0259h",
+        "[wf](pan-456)"
+    ],
+    [
+        "wf:m\u0259s\u0259r\u0259",
+        "[wf](pem-457)"
+    ],
+    [
+        "wf:moso(ro)",
+        "[wf](PPar-458)"
+    ],
+    [
+        "wf:m\u0259te(r\u0259)",
+        "[wf](PPek-459)"
+    ],
+    [
+        "wf:m\u0259se",
+        "[wf](PPem-460)"
+    ],
+    [
+        "wf:m\u0259se",
+        "[wf](PPP-461)"
+    ],
+    [
+        "wf:m\u0259(t\u0361\u0283)e",
+        "[wf](PTar-462)"
+    ],
+    [
+        "wf:moso",
+        "[wf](PWai-463)"
+    ],
+    [
+        "wf:moden",
+        "[wf](PXin-464)"
+    ],
+    [
+        "wf:mot\u0361\u0283e",
+        "[wf](tam-465)"
+    ],
+    [
+        "wf:m\u0259e",
+        "[wf](tri-466)"
+    ],
+    [
+        "wf:ese",
+        "[wf](uxc-467)"
+    ],
+    [
+        "wf:moso",
+        "[wf](wai-468)"
+    ],
+    [
+        "wf:m\u0259(s)i",
+        "[wf](way-469)"
+    ],
+    [
+        "wf:m\u0259he(r\u0259)",
+        "[wf](way-470)"
+    ],
+    [
+        "wf:m\u0259tj\u0259",
+        "[wf](PC-472)"
+    ],
+    [
+        "wf:m\u0259et\u0361\u0283amo",
+        "[wf](aku-473)"
+    ],
+    [
+        "wf:mo\u0283iamo",
+        "[wf](apa-474)"
+    ],
+    [
+        "wf:asaemo",
+        "[wf](bak-475)"
+    ],
+    [
+        "wf:m\u0259sa",
+        "[wf](car-476)"
+    ],
+    [
+        "wf:mo\u0283amo",
+        "[wf](hix-477)"
+    ],
+    [
+        "wf:wam",
+        "[wf](ikp-478)"
+    ],
+    [
+        "wf:mo\u0294sekon",
+        "[wf](kar-479)"
+    ],
+    [
+        "wf:moojan",
+        "[wf](kar-480)"
+    ],
+    [
+        "wf:mo\u0294saro(n)",
+        "[wf](kar-481)"
+    ],
+    [
+        "wf:mo\u0294t\u0361\u0283ar\u0268",
+        "[wf](kax-482)"
+    ],
+    [
+        "wf:insemoro",
+        "[wf](mac-483)"
+    ],
+    [
+        "wf:m\u0259ht\u0361\u0283anton",
+        "[wf](pan-484)"
+    ],
+    [
+        "wf:i\u0294sam\u0259r\u0259",
+        "[wf](pem-485)"
+    ],
+    [
+        "wf:mo\u0294t\u0361\u0283amo(ro)",
+        "[wf](PPar-486)"
+    ],
+    [
+        "wf:m\u0259tjamo",
+        "[wf](PPek-487)"
+    ],
+    [
+        "wf:m\u0259(t\u0361\u0283)et\u0361\u0283amo",
+        "[wf](PTar-488)"
+    ],
+    [
+        "wf:mo\u0283amo",
+        "[wf](PWai-489)"
+    ],
+    [
+        "wf:modjam",
+        "[wf](PXin-490)"
+    ],
+    [
+        "wf:t\u0361\u0283amoro",
+        "[wf](tam-491)"
+    ],
+    [
+        "wf:m\u0259esa(mo)",
+        "[wf](tri-492)"
+    ],
+    [
+        "wf:a\u0263o",
+        "[wf](uxc-493)"
+    ],
+    [
+        "wf:mo\u0283am",
+        "[wf](wai-494)"
+    ],
+    [
+        "wf:m\u0259ham(o)",
+        "[wf](way-495)"
+    ],
+    [
+        "wf:m\u0259har\u0259",
+        "[wf](way-496)"
+    ],
+    [
+        "wf:m\u0259tjamo",
+        "[wf](PC-497)"
+    ],
+    [
+        "wf:m\u0259sin",
+        "[wf](way-498)"
+    ],
+    [
+        "wf:ser\u0259",
+        "[wf](aka-499)"
+    ],
+    [
+        "wf:t\u0361\u0283er\u0259",
+        "[wf](aku-500)"
+    ],
+    [
+        "wf:sero",
+        "[wf](apa-501)"
+    ],
+    [
+        "wf:ero",
+        "[wf](ara-502)"
+    ],
+    [
+        "wf:\u0283ir\u0259",
+        "[wf](bak-503)"
+    ],
+    [
+        "wf:\u0259r\u0259",
+        "[wf](car-504)"
+    ],
+    [
+        "wf:s\u0259(r\u0259)",
+        "[wf](ing-505)"
+    ],
+    [
+        "wf:ero",
+        "[wf](kar-506)"
+    ],
+    [
+        "wf:soro",
+        "[wf](kax-507)"
+    ],
+    [
+        "wf:s\u0268r\u0268r\u0268",
+        "[wf](mac-508)"
+    ],
+    [
+        "wf:er\u0259",
+        "[wf](mak-509)"
+    ],
+    [
+        "wf:s\u0268(h)",
+        "[wf](pan-510)"
+    ],
+    [
+        "wf:s\u0259r\u0259",
+        "[wf](pem-511)"
+    ],
+    [
+        "wf:soro",
+        "[wf](PPar-512)"
+    ],
+    [
+        "wf:(t\u0361\u0283)er\u0259",
+        "[wf](PPek-513)"
+    ],
+    [
+        "wf:s\u0259r\u0259",
+        "[wf](PPem-514)"
+    ],
+    [
+        "wf:(t\u0361\u0283)er\u0259",
+        "[wf](PTar-515)"
+    ],
+    [
+        "wf:ero",
+        "[wf](PXin-516)"
+    ],
+    [
+        "wf:ser\u0259",
+        "[wf](tri-517)"
+    ],
+    [
+        "wf:i\u0263e",
+        "[wf](uxc-518)"
+    ],
+    [
+        "wf:her\u0259",
+        "[wf](way-519)"
+    ],
+    [
+        "wf:t\u0361\u0283en\u0268",
+        "[wf](aku-520)"
+    ],
+    [
+        "wf:sen\u0268",
+        "[wf](apa-521)"
+    ],
+    [
+        "wf:en",
+        "[wf](ara-522)"
+    ],
+    [
+        "wf:en\u0268",
+        "[wf](car-523)"
+    ],
+    [
+        "wf:on\u0268",
+        "[wf](hix-524)"
+    ],
+    [
+        "wf:nen",
+        "[wf](ikp-525)"
+    ],
+    [
+        "wf:en\u0268",
+        "[wf](kar-526)"
+    ],
+    [
+        "wf:seni",
+        "[wf](mac-527)"
+    ],
+    [
+        "wf:sen\u0259k",
+        "[wf](pem-528)"
+    ],
+    [
+        "wf:(t\u0361\u0283)en",
+        "[wf](PPek-529)"
+    ],
+    [
+        "wf:(t\u0361\u0283)en\u0268",
+        "[wf](PTar-530)"
+    ],
+    [
+        "wf:on\u0268",
+        "[wf](PWai-531)"
+    ],
+    [
+        "wf:en",
+        "[wf](PXin-532)"
+    ],
+    [
+        "wf:t\u0361\u0283ene",
+        "[wf](tam-533)"
+    ],
+    [
+        "wf:se(n\u0268)",
+        "[wf](tri-534)"
+    ],
+    [
+        "wf:on",
+        "[wf](wai-535)"
+    ],
+    [
+        "wf:sin\u0268",
+        "[wf](way-536)"
+    ],
+    [
+        "wf:(s)eni",
+        "[wf](yab-537)"
+    ],
+    [
+        "wf:s\u0259r\u0259",
+        "[wf](PPem-538)"
+    ],
+    [
+        "wf:on",
+        "[wf](wai-539)"
     ],
     [
         "wf:on\u0268",
         "[wf](PPar-543)"
     ],
     [
-        "wf:aipna",
+        "wf:(tj)\u0259r\u0259",
         "[wf](PC-544)"
     ],
     [
-        "wf:k\u0268?",
+        "wf:(tj)\u0259n\u0268",
         "[wf](PC-545)"
     ],
     [
-        "wf:k\u0268?jamo",
-        "[wf](PC-546)"
+        "wf:ero\u014bmo",
+        "[wf](ara-547)"
     ],
     [
-        "wf:in\u0259r\u0259",
-        "[wf](PC-547)"
+        "wf:nejam",
+        "[wf](ikp-548)"
     ],
     [
-        "wf:injamo",
-        "[wf](PC-548)"
+        "wf:s\u0259(r\u0259)jam\u0259",
+        "[wf](ing-549)"
     ],
     [
-        "wf:ir\u0259",
-        "[wf](PC-549)"
+        "wf:erokon",
+        "[wf](kar-550)"
     ],
     [
-        "wf:m\u0259tj\u0259",
-        "[wf](PC-550)"
+        "wf:en\u0268kon",
+        "[wf](kar-551)"
     ],
     [
-        "wf:m\u0259tjamo",
-        "[wf](PC-551)"
+        "wf:soronne",
+        "[wf](kax-552)"
     ],
     [
-        "wf:(tj)\u0259r\u0259",
-        "[wf](PC-552)"
+        "wf:s\u0268(h)kon",
+        "[wf](pan-553)"
     ],
     [
-        "wf:(tj)\u0259n\u0268",
-        "[wf](PC-553)"
+        "wf:her\u0259kom(o)",
+        "[wf](way-554)"
     ],
     [
-        "wf:m\u0259r\u0259",
-        "[wf](PC-554)"
+        "wf:sinkom(o)",
+        "[wf](way-555)"
     ],
     [
-        "wf:m\u0259k\u0268",
-        "[wf](PC-555)"
+        "wf:ser\u0259to(mo)",
+        "[wf](tri-557)"
     ],
     [
-        "wf:m\u0259kjamo",
-        "[wf](PC-556)"
+        "wf:sento(mo)",
+        "[wf](tri-558)"
     ],
     [
-        "wf:m\u0259n\u0268",
-        "[wf](PC-557)"
+        "wf:ma\u0283a",
+        "[wf](yuk-559)"
     ],
     [
-        "wf:-jamo",
-        "[wf](hix-pl-2)"
+        "wf:ur\u0259\u0294nokon",
+        "[wf](aka-560)"
+    ],
+    [
+        "wf:kur\u0259",
+        "[wf](bak-561)"
+    ],
+    [
+        "wf:nana",
+        "[wf](jap-562)"
+    ],
+    [
+        "src:akawaiocaesar2003 Caesar-Fox, Desrey Clementine. 2003. Zauro'n\u00f6dok Agawayo Yau: Variants of Akawaio spoken at Waramadong. (Doctoral dissertation).",
+        "[src](akawaiocaesar2003)"
+    ],
+    [
+        "psrc:akawaiocaesar2003 Caesar-Fox, Desrey Clementine. 2003. Zauro'n\u00f6dok Agawayo Yau: Variants of Akawaio spoken at Waramadong. (Doctoral dissertation).",
+        "[psrc](akawaiocaesar2003)"
+    ],
+    [
+        "src:alvarez2016esbozo \u00c1lvarez, Jos\u00e9. 2016. Esbozo de una gram\u00e1tica de la lengua Kari\u2019\u00f1a. (unpublished).",
+        "[src](alvarez2016esbozo)"
+    ],
+    [
+        "psrc:alvarez2016esbozo \u00c1lvarez, Jos\u00e9. 2016. Esbozo de una gram\u00e1tica de la lengua Kari\u2019\u00f1a. (unpublished).",
+        "[psrc](alvarez2016esbozo)"
+    ],
+    [
+        "src:alves2017arara Alves, Ana Carolina Ferreira. 2017. Morfofonologia, morfossintaxe e o sistema de tempo, aspecto e modo em Arara (Karib). (Doctoral dissertation).",
+        "[src](alves2017arara)"
+    ],
+    [
+        "psrc:alves2017arara Alves, Ana Carolina Ferreira. 2017. Morfofonologia, morfossintaxe e o sistema de tempo, aspecto e modo em Arara (Karib). (Doctoral dissertation).",
+        "[psrc](alves2017arara)"
+    ],
+    [
+        "src:camargo2010wayana Camargo, Eliane and Tapinkili, Anaiman. 2010. Hak\u00ebne omijau eitop Wajana-Palasisi / Dictionnaire bilingue Wayana-Fran\u00e7ais. Paris: CELIA/DRAC-Guyane, TEKUREMAI.",
+        "[src](camargo2010wayana)"
+    ],
+    [
+        "psrc:camargo2010wayana Camargo, Eliane and Tapinkili, Anaiman. 2010. Hak\u00ebne omijau eitop Wajana-Palasisi / Dictionnaire bilingue Wayana-Fran\u00e7ais. Paris: CELIA/DRAC-Guyane, TEKUREMAI.",
+        "[psrc](camargo2010wayana)"
+    ],
+    [
+        "src:courtz2008carib Courtz, Henk. 2008. A Carib grammar and dictionary. Toronto: Magoria Books.",
+        "[src](courtz2008carib)"
+    ],
+    [
+        "psrc:courtz2008carib Courtz, Henk. 2008. A Carib grammar and dictionary. Toronto: Magoria Books.",
+        "[psrc](courtz2008carib)"
+    ],
+    [
+        "src:cruz2005fonologia Cruz, Maria Odileiz Sousa. 2005. Fonologia e gram\u00e1tica Ingarik\u00f3: Ka\u0294pon-Brasil. (Doctoral dissertation).",
+        "[src](cruz2005fonologia)"
+    ],
+    [
+        "psrc:cruz2005fonologia Cruz, Maria Odileiz Sousa. 2005. Fonologia e gram\u00e1tica Ingarik\u00f3: Ka\u0294pon-Brasil. (Doctoral dissertation).",
+        "[psrc](cruz2005fonologia)"
+    ],
+    [
+        "src:desouza2010arara de Souza, Shirley Dias Cardoso. 2010. The morphology of nouns in the Ugoro\u014bmo language (Arara of Par\u00e1). (MA thesis).",
+        "[src](desouza2010arara)"
+    ],
+    [
+        "psrc:desouza2010arara de Souza, Shirley Dias Cardoso. 2010. The morphology of nouns in the Ugoro\u014bmo language (Arara of Par\u00e1). (MA thesis).",
+        "[psrc](desouza2010arara)"
+    ],
+    [
+        "src:garcia2006diccionario Garc\u00eda Ferrer, Donaldo Jos\u00e9. 2006. Diccionario piloto pem\u00f3n-espa\u00f1ol. (MA thesis).",
+        "[src](garcia2006diccionario)"
+    ],
+    [
+        "psrc:garcia2006diccionario Garc\u00eda Ferrer, Donaldo Jos\u00e9. 2006. Diccionario piloto pem\u00f3n-espa\u00f1ol. (MA thesis).",
+        "[psrc](garcia2006diccionario)"
+    ],
+    [
+        "src:gilij1781saggio Gilij, Filippo Salvadore. 1782. Saggio di Storia {Americana}, o sia Storia Naturale, Civile, e Sacra De regni, e delle provincie {Spagnuole} di Terra-ferma nell' {America} meridionale. (2.) Rome: Luigi Perego Salvioni.",
+        "[src](gilij1781saggio)"
+    ],
+    [
+        "psrc:gilij1781saggio Gilij, Filippo Salvadore. 1782. Saggio di Storia {Americana}, o sia Storia Naturale, Civile, e Sacra De regni, e delle provincie {Spagnuole} di Terra-ferma nell' {America} meridionale. (2.) Rome: Luigi Perego Salvioni.",
+        "[psrc](gilij1781saggio)"
+    ],
+    [
+        "src:gilij1782saggio Gilij, Filippo Salvadore. 1782. Saggio di Storia {Americana}, o sia Storia Naturale, Civile, e Sacra De regni, e delle provincie {Spagnuole} di Terra-ferma nell' {America} meridionale. (3.) Rome: Luigi Perego Salvioni.",
+        "[src](gilij1782saggio)"
+    ],
+    [
+        "psrc:gilij1782saggio Gilij, Filippo Salvadore. 1782. Saggio di Storia {Americana}, o sia Storia Naturale, Civile, e Sacra De regni, e delle provincie {Spagnuole} di Terra-ferma nell' {America} meridionale. (3.) Rome: Luigi Perego Salvioni.",
+        "[psrc](gilij1782saggio)"
+    ],
+    [
+        "src:gilij1784saggio Gilij, Filippo Salvadore. 1780--1784. Saggio di Storia Americana, o sia Storia Naturale, Civile, e Sacra De regni, e delle provincie Spagnuole di Terra-ferma nell' America meridionale. Rome: Luigi Perego Salvioni.",
+        "[src](gilij1784saggio)"
+    ],
+    [
+        "psrc:gilij1784saggio Gilij, Filippo Salvadore. 1780--1784. Saggio di Storia Americana, o sia Storia Naturale, Civile, e Sacra De regni, e delle provincie Spagnuole di Terra-ferma nell' America meridionale. Rome: Luigi Perego Salvioni.",
+        "[psrc](gilij1784saggio)"
+    ],
+    [
+        "src:guerrero2019carijo Guerrero Beltr\u00e1n, David Felipe. 2019. The Grammar of Space in Karijona, a Cariban language from Northwest Amazonia. (MA thesis).",
+        "[src](guerrero2019carijo)"
+    ],
+    [
+        "psrc:guerrero2019carijo Guerrero Beltr\u00e1n, David Felipe. 2019. The Grammar of Space in Karijona, a Cariban language from Northwest Amazonia. (MA thesis).",
+        "[psrc](guerrero2019carijo)"
+    ],
+    [
+        "src:hawkins2015dictionary Hawkins, Robert E. and Key, Mary Ritchie. 2015. Wai Wai. In Key, Mary Ritchie and Comrie, Bernard (eds.), The Intercontinental Dictionary Series. Leipzig: Max Planck Institute for Evolutionary Anthropology.",
+        "[src](hawkins2015dictionary)"
+    ],
+    [
+        "psrc:hawkins2015dictionary Hawkins, Robert E. and Key, Mary Ritchie. 2015. Wai Wai. In Key, Mary Ritchie and Comrie, Bernard (eds.), The Intercontinental Dictionary Series. Leipzig: Max Planck Institute for Evolutionary Anthropology.",
+        "[psrc](hawkins2015dictionary)"
+    ],
+    [
+        "src:hixkaryanaderby1985 Derbyshire, Desmond C. 1985. Hixkaryana and Linguistic Typology. Dallas: Summer Institute of Linguistics.",
+        "[src](hixkaryanaderby1985)"
+    ],
+    [
+        "psrc:hixkaryanaderby1985 Derbyshire, Desmond C. 1985. Hixkaryana and Linguistic Typology. Dallas: Summer Institute of Linguistics.",
+        "[psrc](hixkaryanaderby1985)"
+    ],
+    [
+        "src:hoff1968carib Hoff, Berend J. 1968. The Carib Language: Phonology, Morphophonology, Morphology, Texts and Word Index. (Verhandelingen van het Koninklijk instituut voor taal-, land- en volkenkunde, 55.) The Hague: Martinus Nijhoff.",
+        "[src](hoff1968carib)"
+    ],
+    [
+        "psrc:hoff1968carib Hoff, Berend J. 1968. The Carib Language: Phonology, Morphophonology, Morphology, Texts and Word Index. (Verhandelingen van het Koninklijk instituut voor taal-, land- en volkenkunde, 55.) The Hague: Martinus Nijhoff.",
+        "[psrc](hoff1968carib)"
+    ],
+    [
+        "src:ikpengpacheco2001 Pach\u00eaco, Frantom\u00e9 B. 2001. Morfossintaxe do verbo Ikpeng (Kar\u00edb). (Doctoral dissertation).",
+        "[src](ikpengpacheco2001)"
+    ],
+    [
+        "psrc:ikpengpacheco2001 Pach\u00eaco, Frantom\u00e9 B. 2001. Morfossintaxe do verbo Ikpeng (Kar\u00edb). (Doctoral dissertation).",
+        "[psrc](ikpengpacheco2001)"
+    ],
+    [
+        "src:japreriaflores2002 Flores, Elexander. 2002. Morfosintaxis del Japreria. (MA thesis).",
+        "[src](japreriaflores2002)"
+    ],
+    [
+        "psrc:japreriaflores2002 Flores, Elexander. 2002. Morfosintaxis del Japreria. (MA thesis).",
+        "[psrc](japreriaflores2002)"
+    ],
+    [
+        "src:koehn1986apalai Koehn, Edward and Koehn, Sally. 1986. Apalai. In Derbyshire, Desmond C. and Pullum, Geoffrey K. (eds.), Handbook of Amazonian Languages, 33\u2013127. Berlin/New York: Mouton de Gruyter.",
+        "[src](koehn1986apalai)"
+    ],
+    [
+        "psrc:koehn1986apalai Koehn, Edward and Koehn, Sally. 1986. Apalai. In Derbyshire, Desmond C. and Pullum, Geoffrey K. (eds.), Handbook of Amazonian Languages, 33\u2013127. Berlin/New York: Mouton de Gruyter.",
+        "[psrc](koehn1986apalai)"
+    ],
+    [
+        "src:kuikurodossantos2007 dos Santos, G\u00e9lsama Mara Ferreira. 2007. Morfologia Kuikuro: Gerando nomes e verbos. (Doctoral dissertation).",
+        "[src](kuikurodossantos2007)"
+    ],
+    [
+        "psrc:kuikurodossantos2007 dos Santos, G\u00e9lsama Mara Ferreira. 2007. Morfologia Kuikuro: Gerando nomes e verbos. (Doctoral dissertation).",
+        "[psrc](kuikurodossantos2007)"
+    ],
+    [
+        "src:largo2011yukpa Largo, Wilson S. 2011. Una gram\u00e1tica Yukpa. (unpublished).",
+        "[src](largo2011yukpa)"
+    ],
+    [
+        "psrc:largo2011yukpa Largo, Wilson S. 2011. Una gram\u00e1tica Yukpa. (unpublished).",
+        "[psrc](largo2011yukpa)"
+    ],
+    [
+        "src:macushiabbott1991 Abbott, Miriam. 1991. Macushi. In Derbyshire, Desmond C. and Pullum, Geoffrey K. (eds.), Handbook of Amazonian Languages, 23\u2013160. Berlin/New York: Mouton de Gruyter.",
+        "[src](macushiabbott1991)"
+    ],
+    [
+        "psrc:macushiabbott1991 Abbott, Miriam. 1991. Macushi. In Derbyshire, Desmond C. and Pullum, Geoffrey K. (eds.), Handbook of Amazonian Languages, 23\u2013160. Berlin/New York: Mouton de Gruyter.",
+        "[psrc](macushiabbott1991)"
+    ],
+    [
+        "src:maquiritaricaceres2011 C\u00e1ceres, Natalia. 2011. Grammaire fonctionnelle-typologique du ye'kwana, langue caribe du Venezuela. (Doctoral dissertation).",
+        "[src](maquiritaricaceres2011)"
+    ],
+    [
+        "psrc:maquiritaricaceres2011 C\u00e1ceres, Natalia. 2011. Grammaire fonctionnelle-typologique du ye'kwana, langue caribe du Venezuela. (Doctoral dissertation).",
+        "[psrc](maquiritaricaceres2011)"
+    ],
+    [
+        "src:maquiritarihall1988 Hall, Katherine Lee. 1988. The Morphosyntax of Discourse in De'kwana Carib. (Doctoral dissertation).",
+        "[src](maquiritarihall1988)"
+    ],
+    [
+        "psrc:maquiritarihall1988 Hall, Katherine Lee. 1988. The Morphosyntax of Discourse in De'kwana Carib. (Doctoral dissertation).",
+        "[psrc](maquiritarihall1988)"
+    ],
+    [
+        "src:mattei1994diccionario Matt\u00e9i-M\u00fcller, Marie-Claude. 1994. Diccionario ilustrado Panare-Espa\u00f1ol, \u00cdndice Espa\u00f1ol-Panare: Un aporte al estudio de los Panares-E'\u00f1epa. Caracas: Graficas Armitano.",
+        "[src](mattei1994diccionario)"
+    ],
+    [
+        "psrc:mattei1994diccionario Matt\u00e9i-M\u00fcller, Marie-Claude. 1994. Diccionario ilustrado Panare-Espa\u00f1ol, \u00cdndice Espa\u00f1ol-Panare: Un aporte al estudio de los Panares-E'\u00f1epa. Caracas: Graficas Armitano.",
+        "[psrc](mattei1994diccionario)"
+    ],
+    [
+        "src:mattei2003pemono Matt\u00e9i-M\u00fcller, Marie-Claude. 2003. P\u00e9mono: eslab\u00f3n perdido entre mapoyo y yawarana, lenguas caribes ergativas de la Guayana noroccidental de Venezuela. Amerindia. 33\u201354.",
+        "[src](mattei2003pemono)"
+    ],
+    [
+        "psrc:mattei2003pemono Matt\u00e9i-M\u00fcller, Marie-Claude. 2003. P\u00e9mono: eslab\u00f3n perdido entre mapoyo y yawarana, lenguas caribes ergativas de la Guayana noroccidental de Venezuela. Amerindia. 33\u201354.",
+        "[psrc](mattei2003pemono)"
+    ],
+    [
+        "src:meira1998proto Meira, S\u00e9rgio. 1998. A reconstruction of Proto-Taranoan: Phonology and Inflectional Morphology. (MA thesis).",
+        "[src](meira1998proto)"
+    ],
+    [
+        "psrc:meira1998proto Meira, S\u00e9rgio. 1998. A reconstruction of Proto-Taranoan: Phonology and Inflectional Morphology. (MA thesis).",
+        "[psrc](meira1998proto)"
+    ],
+    [
+        "src:meira2002first Meira, S\u00e9rgio. 2002. A first comparison of pronominal and demonstrative systems in the Cariban language family. In Crevels, Mily and Crevels, Mily and Meira, S\u00e9rgio and van der Voort, Hein (eds.), Current Studies on South American Languages: Selected papers from the 50th International Congress of Americanists in Warsaw and the Spinoza Workshop on Amerindian Languages in Leiden, 255\u2013275. Leiden: Research institution of Asian, African, and Amerindian Studies (CNWS).",
+        "[src](meira2002first)"
+    ],
+    [
+        "psrc:meira2002first Meira, S\u00e9rgio. 2002. A first comparison of pronominal and demonstrative systems in the Cariban language family. In Crevels, Mily and Crevels, Mily and Meira, S\u00e9rgio and van der Voort, Hein (eds.), Current Studies on South American Languages: Selected papers from the 50th International Congress of Americanists in Warsaw and the Spinoza Workshop on Amerindian Languages in Leiden, 255\u2013275. Leiden: Research institution of Asian, African, and Amerindian Studies (CNWS).",
+        "[psrc](meira2002first)"
+    ],
+    [
+        "src:meira2003primeras Meira, S\u00e9rgio. 2003. Primeras observaciones sobre la lengua yukpa. Lingua Americana 7.",
+        "[src](meira2003primeras)"
+    ],
+    [
+        "psrc:meira2003primeras Meira, S\u00e9rgio. 2003. Primeras observaciones sobre la lengua yukpa. Lingua Americana 7.",
+        "[psrc](meira2003primeras)"
+    ],
+    [
+        "src:meira2005bakairi Meira, S\u00e9rgio. 2005. Reconstructing Pre-Bakairi Segmental Phonology. Anthropological Linguistics 47. 261\u2013291.",
+        "[src](meira2005bakairi)"
+    ],
+    [
+        "psrc:meira2005bakairi Meira, S\u00e9rgio. 2005. Reconstructing Pre-Bakairi Segmental Phonology. Anthropological Linguistics 47. 261\u2013291.",
+        "[psrc](meira2005bakairi)"
+    ],
+    [
+        "src:meira2005southern Meira, S\u00e9rgio and Franchetto, Bruna. 2005. The Southern Cariban languages and the Cariban family. International Journal of American Linguistics 71. 127\u2013192.",
+        "[src](meira2005southern)"
+    ],
+    [
+        "psrc:meira2005southern Meira, S\u00e9rgio and Franchetto, Bruna. 2005. The Southern Cariban languages and the Cariban family. International Journal of American Linguistics 71. 127\u2013192.",
+        "[psrc](meira2005southern)"
+    ],
+    [
+        "src:meira2010origin Meira, S\u00e9rgio and Gildea, Spike and Hoff, Berend J. 2010. On the Origin of Ablaut in the Cariban Family. International Journal of American Linguistics 76. 477\u2013515.",
+        "[src](meira2010origin)"
+    ],
+    [
+        "psrc:meira2010origin Meira, S\u00e9rgio and Gildea, Spike and Hoff, Berend J. 2010. On the Origin of Ablaut in the Cariban Family. International Journal of American Linguistics 76. 477\u2013515.",
+        "[psrc](meira2010origin)"
+    ],
+    [
+        "src:meiraDBakuriyo Meira, S\u00e9rgio. 2022. Akuriy\u00f3 shoebox database.",
+        "[src](meiraDBakuriyo)"
+    ],
+    [
+        "psrc:meiraDBakuriyo Meira, S\u00e9rgio. 2022. Akuriy\u00f3 shoebox database.",
+        "[psrc](meiraDBakuriyo)"
+    ],
+    [
+        "src:meiraDBbakairi Meira, S\u00e9rgio. 2022. Bakair\u00ed shoebox database.",
+        "[src](meiraDBbakairi)"
+    ],
+    [
+        "psrc:meiraDBbakairi Meira, S\u00e9rgio. 2022. Bakair\u00ed shoebox database.",
+        "[psrc](meiraDBbakairi)"
+    ],
+    [
+        "src:mendez1959yawarana M\u00e9ndez-Arocha, Alberto. 1959. Un vocabulario Yabarana con Apuntes Fon\u00e9ticos. Antropol\u00f3gica 7. 65\u201384.",
+        "[src](mendez1959yawarana)"
+    ],
+    [
+        "psrc:mendez1959yawarana M\u00e9ndez-Arocha, Alberto. 1959. Un vocabulario Yabarana con Apuntes Fon\u00e9ticos. Antropol\u00f3gica 7. 65\u201384.",
+        "[psrc](mendez1959yawarana)"
+    ],
+    [
+        "src:mosonyi1978kalina Mosonyi, Jorge C. 1978. Diccionario b\u00e1sico del idioma Cari\u00f1a. Caracas: UCAB.",
+        "[src](mosonyi1978kalina)"
+    ],
+    [
+        "psrc:mosonyi1978kalina Mosonyi, Jorge C. 1978. Diccionario b\u00e1sico del idioma Cari\u00f1a. Caracas: UCAB.",
+        "[psrc](mosonyi1978kalina)"
+    ],
+    [
+        "src:muller1975mapoyo Matt\u00e9i-M\u00fcller, Marie Claude. 1975. Vocabulario b\u00e1sico de la lengua mapoya. Antropol\u00f3gica 42. 57\u201378.",
+        "[src](muller1975mapoyo)"
+    ],
+    [
+        "psrc:muller1975mapoyo Matt\u00e9i-M\u00fcller, Marie Claude. 1975. Vocabulario b\u00e1sico de la lengua mapoya. Antropol\u00f3gica 42. 57\u201378.",
+        "[psrc](muller1975mapoyo)"
+    ],
+    [
+        "src:muller2021yawarana Matt\u00e9i-M\u00fcller, Marie-Claude and C\u00e1ceres Arandia, Natalia. 2019. Yawarana dictionary. (Flex project with 3583 lexical entries. Database in the author's possession.)",
+        "[src](muller2021yawarana)"
+    ],
+    [
+        "psrc:muller2021yawarana Matt\u00e9i-M\u00fcller, Marie-Claude and C\u00e1ceres Arandia, Natalia. 2019. Yawarana dictionary. (Flex project with 3583 lexical entries. Database in the author's possession.)",
+        "[psrc](muller2021yawarana)"
+    ],
+    [
+        "src:panarepayne2013 Payne, Thomas E. and Payne, Doris L. 2013. A Typological Grammar of Panare: A Cariban Language of Venezuela. (Brill's Studies in the Indigenous Languages of the Americas.) Leiden: Brill.",
+        "[src](panarepayne2013)"
+    ],
+    [
+        "psrc:panarepayne2013 Payne, Thomas E. and Payne, Doris L. 2013. A Typological Grammar of Panare: A Cariban Language of Venezuela. (Brill's Studies in the Indigenous Languages of the Americas.) Leiden: Brill.",
+        "[psrc](panarepayne2013)"
+    ],
+    [
+        "src:robayo2000avance Robayo Moreno, Camilo Alberto. 2000. Avance sobre morfolog\u00eda carijona. In Gonz\u00e1lez de P\u00e9rez, Mar\u00eda Stella and Rodr\u00edguez de Montes, Mar\u00eda Luisa (eds.), Lenguas ind\u00edgenas de Colombia, 171\u2013180. Santaf\u00e9 de Bogot\u00e1: Instituto Caro y Cuervo.",
+        "[src](robayo2000avance)"
+    ],
+    [
+        "psrc:robayo2000avance Robayo Moreno, Camilo Alberto. 2000. Avance sobre morfolog\u00eda carijona. In Gonz\u00e1lez de P\u00e9rez, Mar\u00eda Stella and Rodr\u00edguez de Montes, Mar\u00eda Luisa (eds.), Lenguas ind\u00edgenas de Colombia, 171\u2013180. Santaf\u00e9 de Bogot\u00e1: Instituto Caro y Cuervo.",
+        "[psrc](robayo2000avance)"
+    ],
+    [
+        "src:schuring2018kaxuyana Schuring, Phillip Arthur. n.d. Uma gram\u00e1tica morfossint\u00e1tica b\u00e2sica da l\u00edngua Katxuyana. (unpublished).",
+        "[src](schuring2018kaxuyana)"
+    ],
+    [
+        "psrc:schuring2018kaxuyana Schuring, Phillip Arthur. n.d. Uma gram\u00e1tica morfossint\u00e1tica b\u00e2sica da l\u00edngua Katxuyana. (unpublished).",
+        "[psrc](schuring2018kaxuyana)"
+    ],
+    [
+        "src:souza1993arara de Souza, Shirley Dias Cardoso. 1993. Alguns aspectos morfol\u00f3gicos da l\u00edngua Arara (Karib). (MA thesis).",
+        "[src](souza1993arara)"
+    ],
+    [
+        "psrc:souza1993arara de Souza, Shirley Dias Cardoso. 1993. Alguns aspectos morfol\u00f3gicos da l\u00edngua Arara (Karib). (MA thesis).",
+        "[psrc](souza1993arara)"
+    ],
+    [
+        "src:stegeman2014akawaio Stegeman, Ray and Hunter, Rita. 2014. Akawaio-English Dictionary. SIL International.",
+        "[src](stegeman2014akawaio)"
+    ],
+    [
+        "psrc:stegeman2014akawaio Stegeman, Ray and Hunter, Rita. 2014. Akawaio-English Dictionary. SIL International.",
+        "[psrc](stegeman2014akawaio)"
+    ],
+    [
+        "src:swiggers2010gramatica Swiggers, Gisela. 2010. Gram\u00e1tica de Referencia del Pem\u00f3n. (Doctoral dissertation).",
+        "[src](swiggers2010gramatica)"
+    ],
+    [
+        "psrc:swiggers2010gramatica Swiggers, Gisela. 2010. Gram\u00e1tica de Referencia del Pem\u00f3n. (Doctoral dissertation).",
+        "[psrc](swiggers2010gramatica)"
+    ],
+    [
+        "src:triomeira1999 Meira, S\u00e9rgio. 1999. A Grammar of Tiriy\u00f3. (Doctoral dissertation).",
+        "[src](triomeira1999)"
+    ],
+    [
+        "psrc:triomeira1999 Meira, S\u00e9rgio. 1999. A Grammar of Tiriy\u00f3. (Doctoral dissertation).",
+        "[psrc](triomeira1999)"
+    ],
+    [
+        "src:waimiribruno2003 Bruno, Ana Carla dos Santos. 2003. Waimiri Atroari Grammar: Some Phonological, Morphological, and Syntactic Aspects. (Doctoral dissertation).",
+        "[src](waimiribruno2003)"
+    ],
+    [
+        "psrc:waimiribruno2003 Bruno, Ana Carla dos Santos. 2003. Waimiri Atroari Grammar: Some Phonological, Morphological, and Syntactic Aspects. (Doctoral dissertation).",
+        "[psrc](waimiribruno2003)"
+    ],
+    [
+        "src:waiwaihawkins1998 Hawkins, Robert E. 1998. Wai Wai. In Derbyshire, Desmond C. and Pullum, Geoffrey K. (eds.), Handbook of Amazonian Languages, 25\u2013224. Berlin/New York: Mouton de Gruyter.",
+        "[src](waiwaihawkins1998)"
+    ],
+    [
+        "psrc:waiwaihawkins1998 Hawkins, Robert E. 1998. Wai Wai. In Derbyshire, Desmond C. and Pullum, Geoffrey K. (eds.), Handbook of Amazonian Languages, 25\u2013224. Berlin/New York: Mouton de Gruyter.",
+        "[psrc](waiwaihawkins1998)"
+    ],
+    [
+        "src:wayanatavares2005 Tavares, Petronila da Silva. 2005. A grammar of Wayana. UMI. (Doctoral dissertation).",
+        "[src](wayanatavares2005)"
+    ],
+    [
+        "psrc:wayanatavares2005 Tavares, Petronila da Silva. 2005. A grammar of Wayana. UMI. (Doctoral dissertation).",
+        "[psrc](wayanatavares2005)"
     ]
 ]

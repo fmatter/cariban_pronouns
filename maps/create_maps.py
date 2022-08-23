@@ -56,7 +56,7 @@ forms = forms[~(forms["Clade"].str.contains("P"))]
 def sort_by(df, col, order):
     df[col] = pd.Categorical(df[col], order)
     df = df.sort_values(by=col)
-    df[col] = t[col].astype(str)
+    df[col] = df[col].astype(str)
     return df
 
 
@@ -89,8 +89,9 @@ def plot_map(feature_df, name, **kwargs):
     )
 
 
-# fam = pd.read_csv("family.csv")
-# plot_map(fam, "family", legend_size=7)
+fam = pd.read_csv("family.csv")
+fam = sort_by(fam, "Value", ["Yukpan", "Venezuelan", "Taranoan", "Parukotoan", "Pekodian", "Isolate"])
+plot_map(fam, "family", legend_size=7)
 
 
 # FIRST PERSON
@@ -180,5 +181,14 @@ def val13(row):
 t = forms[forms["Cognateset_ID"] == "1+3"]
 t["Value"] = t.apply(val13, axis=1)
 t = sort_by(t, "Value", ["*amna", "*anja", "*t͡ʃimna", "*a(n)na", "*i(n)na", "*na(ʔ)na", "tis-u-ɣe", "other"])
-plot_map(t, "13form", legend_size=7)
-print(t)
+# plot_map(t, "13form", legend_size=7)
+
+
+# 3ana
+t = forms[forms["Cognateset_ID"] == "3ANA.ANIM"]
+t["Value"] = "*inərə"
+plot_map(t, "3aana")
+
+t = forms[forms["Cognateset_ID"] == "3ANA.INAN"]
+t["Value"] = "*irə"
+plot_map(t, "3iana")

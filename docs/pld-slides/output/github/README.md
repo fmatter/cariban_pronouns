@@ -25,6 +25,8 @@
     2017](#source-alves2017arara), [Guerrero Beltrán
     2019](#source-guerrero2019carijo), [Mattéi-Müller and Cáceres
     Arandia 2019](#source-muller2021yawarana))
+-   and then also
+-   but what about me?
 
 # The Cariban language family
 
@@ -70,7 +72,7 @@ First person
     -   coalescence of *wɨ* to *u*
 -   appearance of *j* in Pemón and Panare – via /əwɨ/ \> /ɨwɨ/ \> /ɨu/
     \> /ju/? ([Meira 2002](#source-meira2002first): 259)
--   additional *hɨ* in Manapiarean
+-   mysterious *hɨ* in Manapiarean
 
 # First person: cognacy
 
@@ -254,7 +256,7 @@ First person exclusive
 
 ![](images/13form.svg)
 
-# Third person forms
+# Third person anaphoric forms
 
 Third person anaphoric
 
@@ -293,6 +295,10 @@ Third person anaphoric, inanimate
 | *ero* | Waiwai            | e   | r   | o   |
 | *irə* | Wayana            | i   | r   | ə   |
 | *ijə* | Ye’kwana          | i   | j   | ə   |
+
+# Third person anaphoric forms
+
+![](images/3aana.svg) ![](images/3iana.svg)
 
 # Shared innovations in pronominal systems
 
