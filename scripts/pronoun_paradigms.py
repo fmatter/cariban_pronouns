@@ -31,19 +31,20 @@ cogdic["?"] = "?"
 #     return out
 
 
-# def get_proto_form(str, prefix="", sep="-"):
-#     if str == "":
-#         return ""
-#     proto_string = []
-#     for x in str.split("+"):
-#         if x in cogdic:
-#             proto_string.append(cogdic[x])
-#         else:
-#             proto_string.append(x)
-#     return "*" + prefix + sep.join(proto_string)
+def get_proto_form(str, prefix="", sep="-"):
+    if str == "":
+        return ""
+    proto_string = []
+    for x in str.split("+"):
+        if x in cogdic:
+            proto_string.append(cogdic[x])
+        else:
+            proto_string.append(x)
+    return "*" + prefix + sep.join(proto_string)
 
 
-# forms["Proto_Form"] = forms["Cognates"].map(get_proto_form)
+forms["Proto_Form"] = forms["Cognates"].map(get_proto_form)
+print(forms)
 
 # forms["Cognateset_ID"] = forms["Cognateset_ID"].apply(lambda x: x.split("; "))
 # forms = forms.explode("Cognateset_ID")
