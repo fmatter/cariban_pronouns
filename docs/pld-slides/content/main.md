@@ -23,8 +23,8 @@
 
 # First person: cognacy
 
-![](1cog.svg)[cogset](karform)
-[cogset](karform)
+![](1cog.svg)
+
 # First person: reflex of /əwɨ/
 ![](1form.svg)
 
@@ -34,6 +34,7 @@
 * reconstructible: [wf](pc-two?nt)
 * grammaticalization of emphatic \**rə* in almost all languages
 	* optional in at least [lg](way) and [lg](yuk)
+    * absent in Tiriyoan and [lg](bak)
 
 # Second person: cognacy
 ![](2cog.svg)
@@ -81,3 +82,4 @@
 * Pemon-Panare \**(j)u(-rə)-to* for [gl](1+2)
 * Pemon-Panare /j/ in first person? (not in [lg](mac) and Kapón)
 * formal developments of [gl](1+3) pronoun in Parukotoan, Pekodian, and Taranoan
+

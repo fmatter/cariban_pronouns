@@ -30,3 +30,5 @@ maps:
 readme:
 	cldf markdown data/cldf/Wordlist-metadata.json > data/cldf/README.md
 
+paradigms:
+	python3 scripts/pronoun_paradigms.py
