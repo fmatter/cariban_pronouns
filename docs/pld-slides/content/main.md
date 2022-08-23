@@ -83,3 +83,8 @@
 * Pemon-Panare /j/ in first person? (not in [lg](mac) and Kapón)
 * formal developments of [gl](1+3) pronoun in Parukotoan, Pekodian, and Taranoan
 
+
+[table](par_pro)
+[table](tar_pro)
+[table](pek_pro)
+[table](ppp_pro)

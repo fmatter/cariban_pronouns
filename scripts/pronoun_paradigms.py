@@ -1,5 +1,5 @@
 import pandas as pd
-import pyradigms as pyd
+from pyradigms import Pyradigm
 import cariban_helpers as crh
 import geopandas as gpd
 from shapely.geometry import Point
@@ -12,6 +12,11 @@ forms = pd.read_csv("data/raw/forms.csv", keep_default_na=False)
 forms = forms[forms["Cognateset_ID"] != ""]
 forms["Cognateset_ID"] = forms["Cognateset_ID"].str.replace("3ANA", "3", regex=True)
 forms["Meaning"] = forms["Meaning"].str.replace("3ANA", "3", regex=True)
+
+# set morpheme IDs to lg + index where not present
+forms["ID"] = forms.apply(
+    lambda x: f"""{x["Language_ID"]}-{x.name}""" if x["ID"] == "" else x["ID"], axis=1
+)
 
 cogsets = pd.read_csv("data/raw/cognatesets.csv")
 cogdic = dict(zip(cogsets["ID"], cogsets["Form"]))
@@ -31,26 +36,21 @@ cogdic["?"] = "?"
 #     return out
 
 
-def get_proto_form(str, prefix="", sep="-"):
-    if str == "":
-        return ""
-    proto_string = []
-    for x in str.split("+"):
-        if x in cogdic:
-            proto_string.append(cogdic[x])
-        else:
-            proto_string.append(x)
-    return "*" + prefix + sep.join(proto_string)
+# def get_proto_form(str, prefix="", sep="-"):
+#     if str == "":
+#         return ""
+#     proto_string = []
+#     for x in str.split("+"):
+#         if x in cogdic:
+#             proto_string.append(cogdic[x])
+#         else:
+#             proto_string.append(x)
+#     return "*" + prefix + sep.join(proto_string)
 
 
-forms["Proto_Form"] = forms["Cognates"].map(get_proto_form)
-print(forms)
+# forms["Proto_Form"] = forms["Cognates"].map(get_proto_form)
 
-# forms["Cognateset_ID"] = forms["Cognateset_ID"].apply(lambda x: x.split("; "))
-# forms = forms.explode("Cognateset_ID")
-# readme_overview = """"""
-
-# pronoun_strings = ["1", "2", "1+2", "1+2PL", "1+3", "2PL"]
+pronoun_strings = ["1", "2", "1+2", "1+2PL", "1+3", "2PL"]
 # pronoun_strings3 = ["3.ANIM", "3.ANIM.PL", "3.INAN", "3", "3.PL"]
 # dem_strings = [
 #     "PROX.ANIM",
@@ -67,6 +67,34 @@ print(forms)
 #     "DIST.INAN",
 #     # "DIST.INAN.PL",
 # ]
+
+
+
+def comparative_paradigm(lg_list, meanings, name):
+    pyd = Pyradigm(forms, x="Language_ID", y="Cognateset_ID", print_column="ID")
+    pyd.compose_paradigm(
+        filters={"Language_ID": lg_list, "Meaning": meanings},
+        csv_output=f"docs/pld-slides/tables/{name}.csv",
+        decorate_x=lambda x: f"[lg]({x})",
+        decorate=lambda x: f"[wf]({x}?nt)" if x != "" else ""
+    )
+
+
+pek = ["PPek", "bak", "ara", "ikp"]
+tar = ["PTar", "car", "tri", "aku"]
+par = ["PPar", "kax", "hix", "wai"]
+ppp = ["PPP", "pan", "PPem", "aka", "ing", "pem", "mac"]
+comparative_paradigm(pek, pronoun_strings, "pek_pro")
+comparative_paradigm(tar, pronoun_strings, "tar_pro")
+comparative_paradigm(par, pronoun_strings, "par_pro")
+comparative_paradigm(ppp, pronoun_strings, "ppp_pro")
+
+
+# forms["Cognateset_ID"] = forms["Cognateset_ID"].apply(lambda x: x.split("; "))
+# forms = forms.explode("Cognateset_ID")
+# readme_overview = """"""
+
+
 # all_pronouns = pd.DataFrame()
 # for lg in sorted(
 #     [
