@@ -83,8 +83,23 @@
 * Pemon-Panare /j/ in first person? (not in [lg](mac) and Kapón)
 * formal developments of [gl](1+3) pronoun in Parukotoan, Pekodian, and Taranoan
 
+# Appendix
+
+# Parukotoan
 
 [table](par_pro)
+
+# Taranoan
 [table](tar_pro)
+
+# Pekodian
 [table](pek_pro)
+
+# Pemon-Panare
 [table](ppp_pro)
+
+# Venezuelan
+[table](ven_pro)
+
+# Proto-Cariban
+[table](pc_pro)

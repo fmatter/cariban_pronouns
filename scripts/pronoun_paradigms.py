@@ -69,14 +69,19 @@ pronoun_strings = ["1", "2", "1+2", "1+2PL", "1+3", "2PL"]
 # ]
 
 
-
-def comparative_paradigm(lg_list, meanings, name):
+def comparative_paradigm(
+    lg_list,
+    meanings,
+    name,
+    decorate_x=lambda x: f"[lg]({x})",
+    decorate=lambda x: f"[wf]({x}?nt&no_language)" if x != "" else "",
+):
     pyd = Pyradigm(forms, x="Language_ID", y="Cognateset_ID", print_column="ID")
     pyd.compose_paradigm(
         filters={"Language_ID": lg_list, "Meaning": meanings},
         csv_output=f"docs/pld-slides/tables/{name}.csv",
-        decorate_x=lambda x: f"[lg]({x})",
-        decorate=lambda x: f"[wf]({x}?nt)" if x != "" else ""
+        decorate_x=decorate_x,
+        decorate=decorate
     )
 
 
@@ -84,10 +89,14 @@ pek = ["PPek", "bak", "ara", "ikp"]
 tar = ["PTar", "car", "tri", "aku"]
 par = ["PPar", "kax", "hix", "wai"]
 ppp = ["PPP", "pan", "PPem", "aka", "ing", "pem", "mac"]
+pc = ["PC", "PPek", "PTar", "PPar", "PPP", "kar", "way", "apa", "yuk", "uxc"]
+ven = ["PPem", "pan", "tam", "mak", "PMan"]
 comparative_paradigm(pek, pronoun_strings, "pek_pro")
 comparative_paradigm(tar, pronoun_strings, "tar_pro")
 comparative_paradigm(par, pronoun_strings, "par_pro")
 comparative_paradigm(ppp, pronoun_strings, "ppp_pro")
+comparative_paradigm(pc, pronoun_strings, "pc_pro", decorate_x= lambda x: x)
+comparative_paradigm(ven, pronoun_strings, "ven_pro")
 
 
 # forms["Cognateset_ID"] = forms["Cognateset_ID"].apply(lambda x: x.split("; "))
