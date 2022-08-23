@@ -2,13 +2,17 @@ slides:
 	make docs
 	make clld
 
+pipe:
+	make cldf
+	make paradigms
+	make slides
+
 all:
 	make maps
-	make cldf
-	make docs
-	make clld
+	make pipe
 	make readme
 
+.PHONY: data
 data:
 	make cldf
 	make clld

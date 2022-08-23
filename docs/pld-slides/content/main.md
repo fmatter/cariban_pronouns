@@ -85,12 +85,30 @@
 
 # Appendix
 
+# Pemongan
+
+[table](pem_pro)
+
+[table](pem_dem)
+
+# Manapiarean
+
+[table](man_pro)
+
+[table](man_dem)
+
+
 # Parukotoan
 
 [table](par_pro)
 
+[table](par_dem)
+
+
 # Taranoan
 [table](tar_pro)
+
+[table](tar_dem)
 
 # Pekodian
 [table](pek_pro)

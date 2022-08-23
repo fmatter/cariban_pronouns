@@ -61,7 +61,6 @@ class Dataset(BaseDataset):
         lg_ids = []
         contained_sources = ["meira2010origin"]
         forms = pd.read_csv("raw/forms.csv", keep_default_na=False)
-        forms = forms[(forms["Cognates"] != "")]
 
         # set morpheme IDs to lg + index where not present
         forms["ID"] = forms.apply(
@@ -87,6 +86,12 @@ class Dataset(BaseDataset):
 
         forms.apply(check_cognates, axis=1)
         forms["Segments"] = forms["Form"].apply(segmentify)
+
+        def proto(row):
+            if "P" in row["Language_ID"]:
+                row["Form"] = "*"+row["Form"]
+            return row
+        forms = forms.apply(proto, axis=1)
 
         alignments = {}
 
@@ -150,6 +155,8 @@ class Dataset(BaseDataset):
                 contained_sources.append(source.split("[")[0])
             if "P" in row["Language_ID"]:
                 continue
+            if row["Cognates"] == "":
+                continue
             edictor_alignment = []
             for segment_slice, cog_id in enumerate(row["Cognates"].split("+")):
                 if cog_id == "?":
@@ -170,19 +177,19 @@ class Dataset(BaseDataset):
                     }
                 )
                 edictor_alignment.append(" ".join(alignment))
-            for par in row["Parameter_ID"]:
-                edictor_output = edictor_output.append(
-                    {
-                        "DOCULECT": row["Language_ID"],
-                        "CONCEPT": slug(par),
-                        "CONCEPTID": slug(par),
-                        "IPA": row["Form"].replace("+", ""),
-                        "SEGMENTS": segmentify(row["Form"]),
-                        "COGIDS": str2numcog(row["Cognates"]),
-                        "ALIGNMENT": " + ".join(edictor_alignment),
-                    },
-                    ignore_index=True,
-                )
+            # for par in row["Parameter_ID"]:
+            #     edictor_output = edictor_output.append(
+            #         {
+            #             "DOCULECT": row["Language_ID"],
+            #             "CONCEPT": slug(par),
+            #             "CONCEPTID": slug(par),
+            #             "IPA": row["Form"].replace("+", ""),
+            #             "SEGMENTS": segmentify(row["Form"]),
+            #             "COGIDS": str2numcog(row["Cognates"]),
+            #             "ALIGNMENT": " + ".join(edictor_alignment),
+            #         },
+            #         ignore_index=True,
+            #     )
 
         lg_ids = list(set(lg_ids))
         for lg in crh.lg_order().keys():

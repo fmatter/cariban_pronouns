@@ -38,7 +38,7 @@
 
 # First person
 
--   reconstructible: əwɨ
+-   reconstructible: \*əwɨ
 -   parallel innovations:
     -   grammaticalization of emphatic marker \**rə*
     -   coalescence of *wɨ* to *u*
@@ -88,7 +88,7 @@ Second person
 | *amo*    | Yukpa             | a   | m   | o   | \-  | \-  | \-  |
 | *amor*   | Yukpa             | a   | m   | o   | \+  | r   | \-  |
 
--   reconstructible: əmə
+-   reconstructible: \*əmə
 -   grammaticalization of emphatic \**rə* in almost all languages
     -   optional in at least Wayana and Yukpa
     -   absent in Tiriyoan and Bakairi
@@ -282,71 +282,155 @@ Third person anaphoric, inanimate
 
 # Appendix
 
+# Pemongan
+
+|       | Proto-Pemongan | Akawaio     | Ingarikó    | Pemón                   | Macushi     |
+|:------|:---------------|:------------|:------------|:------------------------|:------------|
+| 1     | \*jurə         | urə         | urə         | juurə                   | uurɨ        |
+| 2     | \*amərə        | amərə       | amərə       | amərə                   | amɨrɨ       |
+| 1+2   | \*jurətokon    | urəʔnokon   |             | juurəto                 | uurɨʔkon    |
+| 1+2PL | \*jurəʔnokon   | urəʔnokon   | urəʔnokon   | juurənokon / juurətokon | uurɨʔnɨkon  |
+| 1+3   | *inna / *anna  | ina         | ina         | inna                    | anna        |
+| 2PL   | \*amərəʔnokon  | amərəʔnokon | amərəʔnokon | amərənokon              | amɨrɨʔnɨkon |
+
+|              | Proto-Pemongan | Akawaio | Ingarikó            | Pemón    | Macushi  |
+|:-------------|:---------------|:--------|:--------------------|:---------|:---------|
+| PROX.ANIM    | \*məse         |         |                     | məsərə   | mɨserɨ   |
+| PROX.ANIM.PL |                |         |                     | iʔsamərə | insemoro |
+| MED.ANIM     | \*məkɨ(rə)     | kɨrə    | kɨrə(rə)            | məʔrə    | mɨɨkɨrɨ  |
+| MED.ANIM.PL  |                |         | kamo(ro) / mɨkɨjamə | iʔsinnan | inkamoro |
+| DIST.ANIM    |                |         | mɨkɨ                |          |          |
+| PROX.INAN-1  | \*sərə         | serə    | sə(rə)              | sərə     | sɨrɨrɨ   |
+| PROX.INAN-2  |                |         |                     | senək    | seni     |
+| MED.INAN     | \*mərə         | mərə    | mə(r)ə              | mərə     | mɨrɨrɨ   |
+
+# Manapiarean
+
+|     | Proto-Manapiarean | Yawarana | Mapoyo     | Pémono    |
+|:----|:------------------|:---------|:-----------|:----------|
+| 1   | *wɨrə / *wɨhɨ     | wɨrə     | wɨhɨ / uhɨ | urə / wɨh |
+| 2   | \*mərə            | mərə     | (m)ərə     | mərə      |
+| 1+2 | \*et͡ʃinə          | ehnə     | eʔnə       | eʔnə      |
+| 1+3 | \*ana             | ana      | naha       | ana       |
+| 2PL | \*məkontomo       | montomo  | akontomo   | mokontomo |
+
+|             | Yawarana | Mapoyo |
+|:------------|:---------|:-------|
+| PROX.ANIM   |          | mehe   |
+| PROX.INAN-2 | (s)eni   |        |
+| MED.INAN    | mərə     | mərɨ   |
+| DIST.INAN   | mənɨ     |        |
+
 # Parukotoan
 
-|       | Proto-Parukotoan | Werikyana | Hixkaryána | Waiwai  |
-|:------|:-----------------|:----------|:-----------|:--------|
-| 1     | owɨ(ro)          | owɨ       | uro        | owɨ     |
-| 2     | omoro            | omoro     | omoro      | amoro   |
-| 1+2   | kɨ?(ro)          | kumoro    | kɨwro      | kɨɨwɨ   |
-| 1+2PL | kɨ?jamo(ro)      | kɨmjarɨ   | kɨwjamo    | kɨwjam  |
-| 1+3   | amna             | amna      | amna       | amna    |
-| 2PL   | omjamo(ro)       | omjarɨ    | omɲamo     | amjamro |
+|          | Proto-Parukotoan     | Werikyana | Hixkaryána | Waiwai  |
+|:---------|:---------------------|:----------|:-----------|:--------|
+| 1        | \*owɨ                | owɨ       | uro        | owɨ     |
+| 2        | \*omoro              | omoro     | omoro      | amoro   |
+| 1+2      | *kɨwɨ / *kɨmo        | kumoro    | kɨwro      | kɨɨwɨ   |
+| 1+2PL    | *kɨwjamo / *kɨmojamo | kɨmjarɨ   | kɨwjamo    | kɨwjam  |
+| 1+3      | \*amna               | amna      | amna       | amna    |
+| 2PL      | \*omjamo             | omjarɨ    | omɲamo     | amjamro |
+| 3ANIM    | \*noro               | noro      | noro       | noro    |
+| 3ANIM.PL | \*inamoro            | namorjamɨ | ɲamoro     | ɲeʃamro |
+| 3INAN    | \*iro                | iro       | ɨro        | ero     |
+
+|              | Proto-Parukotoan | Werikyana | Hixkaryána | Waiwai |
+|:-------------|:-----------------|:----------|:-----------|:-------|
+| PROX.ANIM    | \*moso           | mosoro    | mosonɨ     | moso   |
+| PROX.ANIM.PL | \*moʔt͡ʃamo       | moʔt͡ʃarɨ  | moʃamo     | moʃam  |
+| MED.ANIM     | \*mokoro         | mokoro    | mokro      | mɨkro  |
+| MED.ANIM.PL  | \*mokjamo        | mokjarɨ   | mokjamo    |        |
+| DIST.ANIM    | \*mokɨ           | mokɨ      | mokɨ       | mɨkɨ   |
+| DIST.ANIM.PL | \*mokjamo        |           | mok-jamo   | mɨkjam |
+| PROX.INAN-1  | \*soro           | soro      |            |        |
+| PROX.INAN-2  | \*onɨ            |           | onɨ        | on     |
+| MED.INAN     | \*moro           | moro      | moro       | moro   |
+| DIST.INAN    | \*monɨ           | monɨ      | monɨ       | mɨnɨ   |
 
 # Taranoan
 
-|       | Proto-Taranoan | Karijona | Tiriyó    | Akuriyó     |
-|:------|:---------------|:---------|:----------|:------------|
-| 1     | əwɨ            | əwɨ      | wɨ(ɨ)     | wɨ          |
-| 2     | əmə(rə)        | əmərə    | əmə       | əmə         |
-| 1+2   | kɨmə(rə)       | kɨmərə   | kɨmə      | kɨmə        |
-| 1+2PL | kɨnjamo        | kɨɲamoro | kɨmənjamo | kɨ(mə)njamo |
-| 1+3   | anja           | aɲa      | anja      | anja        |
-| 2PL   | ənjamo         | aɲamoro  | əmənjamo  | əmənjamo    |
+|          | Proto-Taranoan | Karijona | Tiriyó    | Akuriyó     |
+|:---------|:---------------|:---------|:----------|:------------|
+| 1        | \*əwɨ          | əwɨ      | wɨ(ɨ)     | wɨ          |
+| 2        | \*əmə          | əmərə    | əmə       | əmə         |
+| 1+2      | \*kɨmə         | kɨmərə   | kɨmə      | kɨmə        |
+| 1+2PL    | \*kɨnjamo      | kɨɲamoro | kɨmənjamo | kɨ(mə)njamo |
+| 1+3      | \*anja         | aɲa      | anja      | anja        |
+| 2PL      | \*ənjamo       | aɲamoro  | əmənjamo  | əmənjamo    |
+| 3ANIM    | \*nə(ə)rə      | nərə     | nərə      | nərə        |
+| 3ANIM.PL | \*namo         | namoro   | namo      | namoro      |
+| 3INAN    | \*irə          | irə      | irə       | irə         |
+
+|              | Proto-Taranoan | Karijona | Tiriyó       | Akuriyó  |
+|:-------------|:---------------|:---------|:-------------|:---------|
+| PROX.ANIM    | \*mə(t͡ʃ)e      | məhə     | məe          | məʔe     |
+| PROX.ANIM.PL | \*mə(t͡ʃ)et͡ʃamo | məsa     | məesa(mo)    | məet͡ʃamo |
+| MED.ANIM     | \*məkɨrə       | məkə     | məərə        | məkɨrə   |
+| MED.ANIM.PL  | \*məkɨrəjamo   | məkamoro | məəja(mo)    |          |
+| DIST.ANIM    | \*məkɨ         | məkɨ     | mə(kɨ)       |          |
+| DIST.ANIM.PL | \*məkjamo      | məka     | mə(kɨ)ja(mo) |          |
+| PROX.INAN-1  | \*(t͡ʃ)erə      | ərə      | serə         | t͡ʃerə    |
+| PROX.INAN-2  | \*(t͡ʃ)enɨ      | enɨ      | se(nɨ)       | t͡ʃenɨ    |
+| MED.INAN     | \*mərə         | mərə     | mərə         | mərə     |
+| DIST.INAN    | \*mənɨ         | mənɨ     | mə(nɨ)       |          |
 
 # Pekodian
 
 |       | Proto-Pekodian | Bakairi | Arara    | Ikpeng  |
 |:------|:---------------|:--------|:---------|:--------|
-| 1     | urə            | urə     | uro      | uro     |
-| 2     | əmərə          | əmə     | omoro    | omro    |
-| 1+2   | ukurə          | kurə    | ugoro    | ugro    |
+| 1     | \*urə          | urə     | uro      | uro     |
+| 2     | \*əmə          | əmə     | omoro    | omro    |
+| 1+2   | \*ukurə        | kurə    | ugoro    | ugro    |
 | 1+2PL |                | kurə    | ugoroŋmo | ugroŋmo |
-| 1+3   | t͡ʃimna         | ʃina    | t͡ʃimna   | t͡ʃimna  |
-| 2PL   | əmərəjamo      | əmaremo | omoroŋmo | omroŋmo |
+| 1+3   | \*t͡ʃimna       | ʃina    | t͡ʃimna   | t͡ʃimna  |
+| 2PL   | \*əmərəjamo    | əmaremo | omoroŋmo | omroŋmo |
+| 3ANIM | \*inəra        | inəra   |          |         |
+| 3INAN | \*irə          | ilə     |          |         |
 
 # Pemon-Panare
 
-|       | Proto-Pemong-Panare | Panare  | Proto-Pemongan | Akawaio     | Ingarikó    | Pemón                   | Macushi     |
-|:------|:--------------------|:--------|:---------------|:------------|:------------|:------------------------|:------------|
-| 1     | ju(rə)              | ju      | jurə           | urə         | urə         | juurə                   | uurɨ        |
-| 2     | amərə               | amən    | amərə          | amərə       | amərə       | amərə                   | amɨrɨ       |
-| 1+2   | ju(rə)to            | juto    | jurətokon      | urəʔnokon   |             | juurəto                 | uurɨʔkon    |
-| 1+2PL |                     | jutakon | jurəʔnokon     | urəʔnokon   | urəʔnokon   | juurənokon / juurətokon | uurɨʔnɨkon  |
-| 1+3   | inna                | ana     | inna           | ina         | ina         | inna                    | anna        |
-| 2PL   | amərə?              | amənton | amərəʔnokon    | amərəʔnokon | amərəʔnokon | amərənokon              | amɨrɨʔnɨkon |
+|       | Proto-Pemong-Panare | Panare  | Proto-Pemongan |
+|:------|:--------------------|:--------|:---------------|
+| 1     | \*ju                | ju      | \*jurə         |
+| 2     | \*amərə             | amən    | \*amərə        |
+| 1+2   |                     | juto    | \*jurətokon    |
+| 1+2PL |                     | jutakon | \*jurəʔnokon   |
+| 1+3   | \*inna              | ana     | *inna / *anna  |
+| 2PL   | \*amərə?            | amənton | \*amərəʔnokon  |
 
 # Venezuelan
 
-|       | Proto-Pemongan | Panare  | Tamanaku | Ye’kwana | Proto-Manapiarean |
-|:------|:---------------|:--------|:---------|:---------|:------------------|
-| 1     | jurə           | ju      | ure      | ewɨ      | wɨrə / wɨhɨ       |
-| 2     | amərə          | amən    | amare    | amərə    | mərə              |
-| 1+2   | jurətokon      | juto    | kiwe     | kɨwɨ     | epɨnə             |
-| 1+2PL | jurəʔnokon     | jutakon | kikemo   | kɨnwanno |                   |
-| 1+3   | inna           | ana     | jumna    | nɲa      | ana               |
-| 2PL   | amərəʔnokon    | amənton | amɲamoro | ənwanno  | məkontomo         |
+|          | Proto-Pemongan | Panare  | Tamanaku | Ye’kwana | Proto-Manapiarean |
+|:---------|:---------------|:--------|:---------|:---------|:------------------|
+| 1        | \*jurə         | ju      | ure      | ewɨ      | *wɨrə / *wɨhɨ     |
+| 2        | \*amərə        | amən    | amare    | amərə    | \*mərə            |
+| 1+2      | \*jurətokon    | juto    | kiwe     | kɨwɨ     | \*et͡ʃinə          |
+| 1+2PL    | \*jurəʔnokon   | jutakon | kikemo   | kɨnwanno |                   |
+| 1+3      | *inna / *anna  | ana     | jumna    | nɲa      | \*ana             |
+| 2PL      | \*amərəʔnokon  | amənton | amɲamoro | ənwanno  | \*məkontomo       |
+| 3ANIM    |                |         | nare     | ɲəərə    |                   |
+| 3ANIM.PL |                |         |          | (n)ɲanno |                   |
+| 3INAN    |                |         |          | ijə      |                   |
 
 # Proto-Cariban
 
-|       | PC      | PPek      | PTar     | PPar        | PPP      | kar                   | way          | apa        | yuk        | uxc      |
-|:------|:--------|:----------|:---------|:------------|:---------|:----------------------|:-------------|:-----------|:-----------|:---------|
-| 1     | əwɨ     | urə       | əwɨ      | owɨ(ro)     | ju(rə)   | awu                   | ɨwu          | ɨwɨ        | awɨ(r)     | uɣe      |
-| 2     | əmə     | əmərə     | əmə(rə)  | omoro       | amərə    | amoro                 | əmərə / əmə  | omoro      | amo / amor | eeɣe     |
-| 1+2   | kɨ?     | ukurə     | kɨmə(rə) | kɨ?(ro)     | ju(rə)to | kɨʔko / kɨmoro        | kunmə        | kɨmoro     | epɨ        | kukuɣe   |
-| 1+2PL | kɨ?jamo |           | kɨnjamo  | kɨ?jamo(ro) |          | kɨʔkaro(n) / kɨmojaro | kunməramkomo | kɨmarokomo |            | kukuɣeko |
-| 1+3   | aipna   | t͡ʃimna    | anja     | amna        | inna     | naʔna                 | emna         | ɨna        | nana(r)    | tisuɣe   |
-| 2PL   | əmjamo  | əmərəjamo | ənjamo   | omjamo(ro)  | amərə?   | amɨjaro(n)            | əməramkomo   | amarakomo  | amora      | amaɣo    |
+|                   | 1             | 2           | 1+2            | 1+2PL                 | 1+3           | 2PL           |
+|:------------------|:--------------|:------------|:---------------|:----------------------|:--------------|:--------------|
+| Proto-Cariban     | \*əwɨ         | \*əmə       | \*kɨCV         | \*kɨCVjamo            | \*aipna       | \*əmjamo      |
+| Proto-Pekodian    | \*urə         | \*əmə       | \*ukurə        |                       | \*t͡ʃimna      | \*əmərəjamo   |
+| Proto-Taranoan    | \*əwɨ         | \*əmə       | \*kɨmə         | \*kɨnjamo             | \*anja        | \*ənjamo      |
+| Proto-Parukotoan  | \*owɨ         | \*omoro     | *kɨwɨ / *kɨmo  | *kɨwjamo / *kɨmojamo  | \*amna        | \*omjamo      |
+| Proto-Manapiarean | *wɨrə / *wɨhɨ | \*mərə      | \*et͡ʃinə       |                       | \*ana         | \*məkontomo   |
+| Panare            | ju            | amən        | juto           | jutakon               | ana           | amənton       |
+| Proto-Pemongan    | \*jurə        | \*amərə     | \*jurətokon    | \*jurəʔnokon          | *inna / *anna | \*amərəʔnokon |
+| Ye’kwana          | ewɨ           | amərə       | kɨwɨ           | kɨnwanno              | nɲa           | ənwanno       |
+| Tamanaku          | ure           | amare       | kiwe           | kikemo                | jumna         | amɲamoro      |
+| Kari’ña           | awu           | amoro       | kɨʔko / kɨmoro | kɨʔkaro(n) / kɨmojaro | naʔna         | amɨjaro(n)    |
+| Wayana            | ɨwu           | əmərə / əmə | kunmə          | kunməramkomo          | emna          | əməramkomo    |
+| Apalaí            | ɨwɨ           | omoro       | kɨmoro         | kɨmarokomo            | ɨna           | amarakomo     |
+| Yukpa             | awɨ(r)        | amo / amor  | epɨ            |                       | nana(r)       | amora         |
+| Upper Xingu Carib | uɣe           | eeɣe        | kukuɣe         | kukuɣeko              | tisuɣe        | amaɣo         |
 
 # References
 
