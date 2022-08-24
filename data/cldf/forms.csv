@@ -124,7 +124,7 @@ kax-f-121,kax,kɨmjarɨ,k ɨ + m + j a + r ɨ,,,12pl
 mac-f-122,mac,uurɨʔnɨkon,uu + r ɨ + ʔ n ɨ + k o n,,macushiabbott1991[99],12pl
 mak-f-123,mak,kɨnwanno,k ɨ + n + w a n + n o,,maquiritaricaceres2011[167],12pl
 pan-f-124,pan,jutakon,j u + t a + k o n,,panarepayne2013[88],12pl
-pc-12pl,PC,*kɨCVjamo,k ɨ + � V + j a m o,,meira2002first[271],12pl
+pc-12pl,PC,*kɨCV-jamo,k ɨ + � V + j a m o,,meira2002first[271],12pl
 pem-f-126,pem,juurənokon,j uu + r ə + n o + k o n,,garcia2006diccionario[64],12pl
 pem-f-127,pem,juurətokon,j uu + r ə + t o + k o n,,garcia2006diccionario[64],12pl
 PPar-f-128,PPar,*kɨwjamo,k ɨ + w + j a m o,,,12pl
@@ -191,7 +191,7 @@ mac-f-188,mac,amɨrɨʔnɨkon,a m ɨ + r ɨ + ʔ n ɨ + k o n,,macushiabbott1991
 mak-f-189,mak,ənwanno,ə n + w a n + n o,,maquiritaricaceres2011[167],2pl
 map-f-190,map,akontomo,a + k o n + t o m o,Ambiguous wether /a/ is from [](cldf#CognatesetTable:2) or from the prefix *_a_-.,mattei2003pemono[48],2pl
 pan-f-191,pan,amənton,a m ə + n + t o n,,panarepayne2013[88],2pl
-pc-2pl,PC,*əmjamo,ə m + j a m o,,meira2002first[271],2pl
+pc-2pl,PC,*əm-jamo,ə m + + j a m o,,meira2002first[271],2pl
 pem-f-193,pem,amərənokon,a m ə + r ə + n o + k o n,,swiggers2010gramatica[120],2pl
 PMan-f-194,PMan,*məkontomo,m ə + k o n + t o m o,,,2pl
 pno-f-195,pno,mokontomo,m o + k o n + t o m o,,mattei2003pemono[48],2pl
@@ -239,7 +239,7 @@ kar-f-236,kar,inaro(n),i n a r o + n,Final /n/ only in eastern Surinamese.,court
 kar-f-237,kar,ɲorokon,ɲ o r o + k o n,Venezuelan Kari’ña. Also check ɲoronnekonro (?) in Alvarez 2016!,mosonyi1978kalina[35],3anaanimpl
 kax-f-238,kax,namorjamɨ,n + a m o + r + j a m ɨ,,,3anaanimpl
 mak-f-239,mak,(n)ɲanno,n + ɲ a n + n o,Assimilation of rə to ro / *-jamo _,maquiritaricaceres2011[122];maquiritarihall1988[50],invisanimpl
-pc-3animpl,PC,*injamo,i n + j a m o,,meira2002first[271],3anaanimpl
+pc-3animpl,PC,*in-jamo,i n + + j a m o,,meira2002first[271],3anaanimpl
 PPar-f-241,PPar,*inamoro,i n + a m o + r o,,,3anaanimpl
 PTar-f-242,PTar,*namo,n + a m o,,meira1998proto[67],3anaanimpl
 PTir-f-243,PTir,*namo(ro),n + a m o + r o,,,3anaanimpl
@@ -283,7 +283,7 @@ kar-f-280,kar,moʔkɨ,m o ʔ k ɨ,,courtz2008carib[53],distanim
 kax-f-281,kax,mokɨ,m o k ɨ,,,distanim
 mak-f-282,mak,məkkɨ,m ə k k ɨ,,maquiritaricaceres2011[122],distanim
 pan-f-283,pan,muku(h),m u k u h,,panarepayne2013[89],distanim
-PC-f-284,PC,*məkɨ,m ə k ɨ,,meira2002first[271],distanim
+pc-da,PC,*məkɨ,m ə k ɨ,,meira2002first[271],distanim
 PPar-f-285,PPar,*mokɨ,m o k ɨ,,,distanim
 PPek-f-286,PPek,*məkɨ,m ə k ɨ,,,distanim
 PPem-f-287,PPem,*məkɨ,m ə k ɨ,,,distanim
@@ -307,7 +307,7 @@ kar-f-304,kar,mookɨkon,m oo k ɨ + k o n,,alvarez2016esbozo[53],distanimpl
 kar-f-305,kar,moʔkan,m o ʔ k + a n,,courtz2008carib[53],distanimpl
 mak-f-306,mak,makkamo,m a k k + a m o,,maquiritaricaceres2011[122],distanimpl
 pan-f-307,pan,mukukon,m u k u + k o n,,mattei1994diccionario[139],distanimpl
-PC-f-308,PC,*məkjamo,m ə k + j a m o,,meira2002first[271],distanimpl
+pc-dap,PC,*mək-jamo,m ə k + + j a m o,,meira2002first[271],distanimpl
 PPar-f-309,PPar,*mokjamo,m o k + j a m o,,,distanimpl
 PPek-f-310,PPek,*məkjamo,m ə k + j a m o,,,distanimpl
 PTar-f-311,PTar,*məkjamo,m ə k + j a m o,,meira1998proto[67],distanimpl
@@ -330,7 +330,7 @@ kar-f-327,kar,monɨ,m o n ɨ,,courtz2008carib[53],distinan
 kax-f-328,kax,monɨ,m o n ɨ,,,distinan
 mak-f-329,mak,məənɨ,m əə n ɨ,,maquiritaricaceres2011[122],distinan
 pan-f-330,pan,mu(h),m u h,,panarepayne2013[89],distinan
-PC-f-331,PC,*mənɨ,m ə n ɨ,,meira2002first[271],distinan
+pc-di,PC,*mənɨ,m ə n ɨ,,meira2002first[271],distinan
 PPar-f-332,PPar,*monɨ,m o n ɨ,,,distinan
 PPek-f-333,PPek,*mun,m u n,,,distinan
 PTar-f-334,PTar,*mənɨ,m ə n ɨ,,meira1998proto[67],distinan
@@ -400,7 +400,7 @@ mac-f-397,mac,mɨrɨrɨ,m ɨ r ɨ + r ɨ,,macushiabbott1991[105],medinan
 mak-f-398,mak,mərə,m ə r ə,,maquiritaricaceres2011[122],medinan
 map-f-399,map,mərɨ,m ə r ɨ,,muller1975mapoyo[72],medinan
 pan-f-400,pan,mən,m ə n,,panarepayne2013[89],invisinan
-PC-f-401,PC,*mərə,m ə r ə,,meira2002first[271],medinan
+pc-mi,PC,*mərə,m ə r ə,,meira2002first[271],medinan
 pem-f-402,pem,mərə,m ə r ə,,swiggers2010gramatica[120],medinan
 PPar-f-403,PPar,*moro,m o r o,,,medinan
 PPek-f-404,PPek,*mərə,m ə r ə,,,medinan
@@ -436,7 +436,7 @@ kax-f-433,kax,mosoro,m o s o + r o,,,proxanim
 mac-f-434,mac,mɨserɨ,m ɨ s e + r ɨ,,,proxanim
 map-f-435,map,mehe,m e h e,,muller1975mapoyo[72],proxanim
 pan-f-436,pan,məh,m ə h,,panarepayne2013[88],proxanim
-PC-f-437,PC,*mətjə,m ə t j ə,,meira2002first[271],proxanim
+pc-pa,PC,*mətjə,m ə t j ə,,meira2002first[271],proxanim
 pem-f-438,pem,məsərə,m ə s ə + r ə,,garcia2006diccionario[77],proxanim
 PPar-f-439,PPar,*moso,m o s o,,,proxanim
 PPek-f-440,PPek,*məte,m ə t e,,,proxanim
@@ -465,7 +465,7 @@ kar-f-462,kar,moʔsaro(n),m o ʔ + s a + r o + n,Final /n/ only in eastern Surin
 kax-f-463,kax,moʔt͡ʃarɨ,m o ʔ + t͡ʃ a + r ɨ,,,proxanimpl
 mac-f-464,mac,insemoro,i + n s + e m o + r o,,,proxanimpl
 pan-f-465,pan,məht͡ʃanton,m ə h + t͡ʃ a n + t o n,,panarepayne2013[88],proxanimpl
-PC-f-466,PC,*mətjəjamo,m ə t j ə + j a m o,,meira2002first[271],proxanimpl
+pc-pap,PC,*mətjə-jamo,m ə t j ə + + j a m o,,meira2002first[271],proxanimpl
 pem-f-467,pem,iʔsamərə,i + ʔ s + a m ə + r ə,,swiggers2010gramatica[120],proxanimpl
 PPar-f-468,PPar,*moʔt͡ʃamo,m o ʔ + t͡ʃ a m o,,,proxanimpl
 PPek-f-469,PPek,*mətjamo,m ə t + j a m o,,,proxanimpl
@@ -493,7 +493,7 @@ kax-f-490,kax,soro,s o r o,,schuring2018kaxuyana[94],proxinan
 mac-f-491,mac,sɨrɨrɨ,s ɨ r ɨ + r ɨ,,macushiabbott1991[105],proxinan
 mak-f-492,mak,erə,e r ə,,maquiritaricaceres2011[122],proxinan
 pan-f-493,pan,sɨ(h),s ɨ h,,panarepayne2013[89],proxinan
-PC-f-494,PC,*(tj)ərə,t j ə r ə,,meira2002first[271],proxinan
+pc-i1,PC,*(tj)ərə,t j ə r ə,,meira2002first[271],proxinan
 pem-f-495,pem,sərə,s ə r ə,,garcia2006diccionario[77],proxinan
 PPar-f-496,PPar,*soro,s o r o,,,proxinan
 PPek-f-497,PPek,*(t͡ʃ)erə,t͡ʃ e r ə,,,proxinan
@@ -511,7 +511,7 @@ hix-f-508,hix,onɨ,o n ɨ,,hixkaryanaderby1985[7],proxinan
 ikp-f-509,ikp,nen,n + e n,,ikpengpacheco2001[119],proxinan
 kar-f-510,kar,enɨ,e n ɨ,,courtz2008carib[53],proxinan
 mac-f-511,mac,seni,s e n i,,macushiabbott1991[105],proxinan
-PC-f-512,PC,*(tj)ənɨ,t j ə n ɨ,,meira2002first[271],proxinan
+pc-i2,PC,*(tj)ənɨ,t j ə n ɨ,,meira2002first[271],proxinan
 pem-f-513,pem,senək,s e n ə k,,garcia2006diccionario[77],proxinan
 PPar-f-514,PPar,*onɨ,o n ɨ,,,proxinan
 PPek-f-515,PPek,*en,e n,,,proxinan

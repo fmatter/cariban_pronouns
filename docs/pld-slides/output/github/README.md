@@ -282,21 +282,35 @@ Third person anaphoric, inanimate
 
 |       | SG            | PL               |
 |:------|:--------------|:-----------------|
-| 1     | \*\*awɨ\*     |                  |
-| 2     | \*\*amə\*     | \*\*am-jamo\*    |
-| 1+2   | \*\*kɨCV\*    | \*\*kɨC-jamo\*   |
-| 1+3   | \*\*(ap)ina\* |                  |
-| 3INAN | \*\*irə\*     |                  |
-| 3ANIM | \*\*(i)nərə\* | \*\*(i)n(j)amo\* |
+| 1     | \_\*awɨ\_     |                  |
+| 2     | \_\*amə\_     | \_\*am-jamo\_    |
+| 1+2   | \_\*kɨCV\_    | \_\*kɨC-jamo\_   |
+| 1+3   | \_\*(ap)ina\_ |                  |
+| 3INAN | \_\*irə\_     |                  |
+| 3ANIM | \_\*(i)nərə\_ | \_\*(i)n(j)amo\_ |
 
-|       | SG      | PL         |
-|:------|:--------|:-----------|
-| 1     | \*əwɨ   |            |
-| 2     | \*əmə   | \*əmjamo   |
-| 1+2   | \*kɨCV  | \*kɨCVjamo |
-| 1+3   | \*aipna |            |
-| 3INAN | \*irə   |            |
-| 3ANIM | \*inərə | \*injamo   |
+|       | SG      | PL          |
+|:------|:--------|:------------|
+| 1     | \*əwɨ   |             |
+| 2     | \*əmə   | \*əm-jamo   |
+| 1+2   | \*kɨCV  | \*kɨCV-jamo |
+| 1+3   | \*aipna |             |
+| 3INAN | \*irə   |             |
+| 3ANIM | \*inərə | \*in-jamo   |
+
+# Suggested changes
+
+|        | ANIM.SG     | ANIM.PL         | INAN       |           |
+|:-------|:------------|:----------------|:-----------|:----------|
+| PROX-1 | \_\*mət͡ʃə\_ | \_\*mət͡ʃ-jamo\_ | \_\*ərə\_  | \_\*ənɨ\_ |
+| MED    |             |                 | \_\*mərə\_ |           |
+| DIST   | \_\*məkɨ\_  | \_\*mək-jamo\_  | \_\*mənɨ\_ |           |
+
+|        | ANIM.SG | ANIM.PL      | INAN      |           |
+|:-------|:--------|:-------------|:----------|:----------|
+| PROX-1 | \*mətjə | \*mətjə-jamo | \*(tj)ərə | \*(tj)ənɨ |
+| MED    |         |              | \*mərə    |           |
+| DIST   | \*məkɨ  | \*mək-jamo   | \*mənɨ    |           |
 
 # Shared innovations in pronominal systems
 
@@ -502,7 +516,7 @@ in Manapiarean and Ye’kwana
 
 |                   | 1             | 2           | 1+2            | 1+2PL                 | 1+3           | 2PL           | 3ANIM        | 3ANIM.PL           | 3INAN     |
 |:------------------|:--------------|:------------|:---------------|:----------------------|:--------------|:--------------|:-------------|:-------------------|:----------|
-| Proto-Cariban     | \*əwɨ         | \*əmə       | \*kɨCV         | \*kɨCVjamo            | \*aipna       | \*əmjamo      | \*inərə      | \*injamo           | \*irə     |
+| Proto-Cariban     | \*əwɨ         | \*əmə       | \*kɨCV         | \*kɨCV-jamo           | \*aipna       | \*əm-jamo     | \*inərə      | \*in-jamo          | \*irə     |
 | Proto-Pekodian    | \*urə         | \*əmə       | \*ukurə        |                       | \*t͡ʃimna      | \*əmərəjamo   | \*inəra      |                    | \*irə     |
 | Proto-Taranoan    | \*əwɨ         | \*əmə       | \*kɨmə         | \*kɨnjamo             | \*anja        | \*ənjamo      | \*nə(ə)rə    | \*namo             | \*irə     |
 | Proto-Parukotoan  | \*owɨ         | \*omoro     | *kɨwɨ / *kɨmo  | *kɨwjamo / *kɨmojamo  | \*amna        | \*omjamo      | \*noro       | \*inamoro          | \*iro     |
@@ -521,7 +535,7 @@ in Manapiarean and Ye’kwana
 
 |                   | PROX.ANIM      | PROX.ANIM.PL                     | MED.ANIM  | MED.ANIM.PL  | DIST.ANIM | DIST.ANIM.PL       |
 |:------------------|:---------------|:---------------------------------|:----------|:-------------|:----------|:-------------------|
-| Proto-Cariban     | \*mətjə        | \*mətjəjamo                      |           |              | \*məkɨ    | \*məkjamo          |
+| Proto-Cariban     | \*mətjə        | \*mətjə-jamo                     |           |              | \*məkɨ    | \*mək-jamo         |
 | Proto-Pekodian    | \*məte         | \*mətjamo                        |           |              | \*məkɨ    | \*məkjamo          |
 | Proto-Taranoan    | \*mə(t͡ʃ)e      | \*məet͡ʃamo                       | \*məkɨrə  | \*məkɨrəjamo | \*məkɨ    | \*məkjamo          |
 | Proto-Parukotoan  | \*moso         | \*moʔt͡ʃamo                       | \*mokoro  | \*mokjamo    | \*mokɨ    | \*mokjamo          |

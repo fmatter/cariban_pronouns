@@ -2,7 +2,16 @@
 pcpronouns:
   pre_cell: "[wf]("
   post_cell: "?nt&no_language)"
+  caption: "Updated:"
+pcdem:
+  pre_cell: "[wf]("
+  post_cell: "?nt&no_language)"
+  caption: "Updated:"
 meirapronouns:
-  pre_cell: "**"
-  post_cell: "*"
-  caption: "[src](meira2002first)"
+  pre_cell: "_*"
+  post_cell: "_"
+  caption: "[src](meira2002first):"
+meiradem:
+  pre_cell: "_*"
+  post_cell: "_"
+  caption: "[src](meira2002first):"

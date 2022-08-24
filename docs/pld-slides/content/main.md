@@ -87,6 +87,10 @@
 [table](meirapronouns)
 [table](pcpronouns)
 
+# Suggested changes
+[table](meiradem)
+[table](pcdem)
+
 
 # Shared innovations in pronominal systems
 
