@@ -308,17 +308,19 @@ infinitive form of copula for Manapiarean \* unrelated *epɨ* in Yukpan
 
 # Suggested changes
 
-|        | ANIM.SG     | ANIM.PL         | INAN       |           |
-|:-------|:------------|:----------------|:-----------|:----------|
-| PROX-1 | \_\*mət͡ʃə\_ | \_\*mət͡ʃ-jamo\_ | \_\*ərə\_  | \_\*ənɨ\_ |
-| MED    |             |                 | \_\*mərə\_ |           |
-| DIST   | \_\*məkɨ\_  | \_\*mək-jamo\_  | \_\*mənɨ\_ |           |
+|        | ANIM.SG     | ANIM.PL         | INAN       |
+|:-------|:------------|:----------------|:-----------|
+| PROX-1 | \_\*mət͡ʃə\_ | \_\*mət͡ʃ-jamo\_ | \_\*ərə\_  |
+| PROX-2 |             |                 | \_\*ənɨ\_  |
+| MED    |             |                 | \_\*mərə\_ |
+| DIST   | \_\*məkɨ\_  | \_\*mək-jamo\_  | \_\*mənɨ\_ |
 
-|        | ANIM.SG | ANIM.PL      | INAN      |           |
-|:-------|:--------|:-------------|:----------|:----------|
-| PROX-1 | \*mətjə | \*mətjə-jamo | \*(tj)ərə | \*(tj)ənɨ |
-| MED    |         |              | \*mərə    |           |
-| DIST   | \*məkɨ  | \*mək-jamo   | \*mənɨ    |           |
+|        | ANIM.SG | ANIM.PL      | INAN      |
+|:-------|:--------|:-------------|:----------|
+| PROX-1 | \*mətjə | \*mətjə-jamo | \*(tj)ərə |
+| PROX-2 |         |              | \*(tj)ənɨ |
+| MED    |         |              | \*mərə    |
+| DIST   | \*məkɨ  | \*mək-jamo   | \*mənɨ    |
 
 # Shared innovations in pronominal systems
 
