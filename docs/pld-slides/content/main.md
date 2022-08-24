@@ -14,7 +14,7 @@
 
 # First person
 
-* reconstructible: [wf](pc-one?nt)
+* reconstructible: [wf](pc-1?nt)
 * parallel innovations:
     * grammaticalization of emphatic marker \**rə*
     * coalescence of *wɨ* to *u*
@@ -31,7 +31,7 @@
 # Second person
 [cogset](2abs)
 
-* reconstructible: [wf](pc-two?nt)
+* reconstructible: [wf](pc-2?nt)
 * grammaticalization of emphatic \**rə* in almost all languages
 	* optional in at least [lg](way) and [lg](yuk)
     * absent in Tiriyoan and [lg](bak)
@@ -77,11 +77,23 @@
 ![](3aana.svg)
 ![](3iana.svg)
 
+
+# The develoment of \**tjə*
+* closely related languages disagree about fronting of vowel
+* late fronting?
+
+# Suggested changes
+
+[table](meirapronouns)
+[table](pcpronouns)
+
+
 # Shared innovations in pronominal systems
 
 * Pemon-Panare \**(j)u(-rə)-to* for [gl](1+2)
 * Pemon-Panare /j/ in first person? (not in [lg](mac) and Kapón)
 * formal developments of [gl](1+3) pronoun in Parukotoan, Pekodian, and Taranoan
+* third person [cogset](3t?inline) in Manapiarean and [lg](mak)
 
 # Appendix
 

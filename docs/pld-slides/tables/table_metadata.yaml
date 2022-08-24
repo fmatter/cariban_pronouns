@@ -1,4 +1,7 @@
 ---
-example_table:
-  caption: This is a table
-  preprocess:
+pcpronouns:
+  pre_cell: "[wf]("
+  post_cell: "?nt&no_language)"
+meirapronouns:
+  pre_cell: "**"
+  post_cell: "*"

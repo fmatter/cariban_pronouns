@@ -64,7 +64,7 @@ class Dataset(BaseDataset):
 
         # set morpheme IDs to lg + index where not present
         forms["ID"] = forms.apply(
-            lambda x: f"""{x["Language_ID"]}-{x.name}""" if x["ID"] == "" else x["ID"],
+            lambda x: f"""{x["Language_ID"]}-f-{x.name}""" if x["ID"] == "" else x["ID"],
             axis=1,
         )
         forms.set_index("ID", inplace=True)

@@ -273,12 +273,54 @@ Third person anaphoric, inanimate
 
 ![](images/3aana.svg) ![](images/3iana.svg)
 
+# The develoment of \**tjə*
+
+-   closely related languages disagree about fronting of vowel
+-   late fronting?
+
+# Suggested changes
+
+|       | SG            | PL               |
+|:------|:--------------|:-----------------|
+| 1     | \*\*awɨ\*     |                  |
+| 2     | \*\*amə\*     | \*\*am-jamo\*    |
+| 1+2   | \*\*kɨCV\*    | \*\*kɨC-jamo\*   |
+| 1+3   | \*\*(ap)ina\* |                  |
+| 3INAN | \*\*irə\*     |                  |
+| 3ANIM | \*\*(i)nərə\* | \*\*(i)n(j)amo\* |
+
+|       | SG      | PL         |
+|:------|:--------|:-----------|
+| 1     | \*əwɨ   |            |
+| 2     | \*əmə   | \*əmjamo   |
+| 1+2   | \*kɨCV  | \*kɨCVjamo |
+| 1+3   | \*aipna |            |
+| 3INAN | \*irə   |            |
+| 3ANIM | \*inərə | \*injamo   |
+
 # Shared innovations in pronominal systems
 
 -   Pemon-Panare \**(j)u(-rə)-to* for 1+2
 -   Pemon-Panare /j/ in first person? (not in Macushi and Kapón)
 -   formal developments of 1+3 pronoun in Parukotoan, Pekodian, and
     Taranoan
+-   third person
+
+Third person anaphoric
+
+| Form          | Language | \-  | \-  | \-  | \-  |
+|:--------------|:---------|:----|:----|:----|:----|
+| *təəj*        | Mapoyo   | t   | əə  | j   | \-  |
+| *tjantomo*    | Mapoyo   | t   | \-  | j   | \-  |
+| *təwɨ*        | Yawarana | t   | ə   | w   | ɨ   |
+| *təwɨsantomo* | Yawarana | t   | ə   | w   | ɨ   |
+| *tɨwɨ*        | Ye’kwana | t   | ɨ   | w   | ɨ   |
+| *tɨnwanno*    | Ye’kwana | t   | ɨ   | \-  | \-  |
+| *təj*         | Pémono   | t   | ə   | j   | \-  |
+| *tɨwɨ*        | Pémono   | t   | ɨ   | w   | ɨ   |
+| *təjantomo*   | Pémono   | t   | ə   | j   | \-  |
+
+in Manapiarean and Ye’kwana
 
 # Appendix
 
@@ -382,7 +424,7 @@ Third person anaphoric, inanimate
 | MED.ANIM.PL  | \*məkɨrəjamo   | məkamoro | məəja(mo)    |          |
 | DIST.ANIM    | \*məkɨ         | məkɨ     | mə(kɨ)       |          |
 | DIST.ANIM.PL | \*məkjamo      | məka     | mə(kɨ)ja(mo) |          |
-| PROX.INAN-1  | \*(t͡ʃ)erə      | ərə      | serə         | t͡ʃerə    |
+| PROX.INAN-1  | \*(t͡ʃ)ərə      | ərə      | serə         | t͡ʃerə    |
 | PROX.INAN-2  | \*(t͡ʃ)enɨ      | enɨ      | se(nɨ)       | t͡ʃenɨ    |
 | MED.INAN     | \*mərə         | mərə     | mərə         | mərə     |
 | MED.INAN.PL  |                |          | mərəto(mo)   |          |
@@ -413,7 +455,7 @@ Third person anaphoric, inanimate
 | PROX.INAN-2  | \*(t͡ʃ)en       |         | en             | nen    |
 | PROX.INAN.PL |                |         | eroŋmo         | nejam  |
 | MED.INAN     | \*mərə         | mərə    | moro           |        |
-| DIST.INAN    | \*mən          |         | mon / mun      | mun    |
+| DIST.INAN    | \*mun          |         | mon / mun      | mun    |
 | DIST.INAN.PL |                |         |                | mujam  |
 
 # Pemon-Panare
@@ -493,8 +535,8 @@ Third person anaphoric, inanimate
 |                   | PROX.ANIM     | PROX.ANIM.PL                   | MED.ANIM  | MED.ANIM.PL  | DIST.ANIM | DIST.ANIM.PL      | PROX.INAN-1 | PROX.INAN-2 | PROX.INAN.PL           | MED.INAN | MED.INAN.PL | DIST.INAN | DIST.INAN.PL |
 |:------------------|:--------------|:-------------------------------|:----------|:-------------|:----------|:------------------|:------------|:------------|:-----------------------|:---------|:------------|:----------|:-------------|
 | Proto-Cariban     | \*mətjə       | \*mətjamo                      |           |              | \*məkɨ    | \*məkjamo         | \*(tj)ərə   | \*(tj)ənɨ   |                        | \*mərə   |             | \*mənɨ    |              |
-| Proto-Pekodian    | \*məte        | \*mətjamo                      |           |              | \*məkɨ    | \*məkjamo         | \*(t͡ʃ)erə   | \*(t͡ʃ)en    |                        | \*mərə   |             | \*mən     |              |
-| Proto-Taranoan    | \*mə(t͡ʃ)e     | \*məet͡ʃamo                     | \*məkɨrə  | \*məkɨrəjamo | \*məkɨ    | \*məkjamo         | \*(t͡ʃ)erə   | \*(t͡ʃ)enɨ   |                        | \*mərə   |             | \*mənɨ    |              |
+| Proto-Pekodian    | \*məte        | \*mətjamo                      |           |              | \*məkɨ    | \*məkjamo         | \*(t͡ʃ)erə   | \*(t͡ʃ)en    |                        | \*mərə   |             | \*mun     |              |
+| Proto-Taranoan    | \*mə(t͡ʃ)e     | \*məet͡ʃamo                     | \*məkɨrə  | \*məkɨrəjamo | \*məkɨ    | \*məkjamo         | \*(t͡ʃ)ərə   | \*(t͡ʃ)enɨ   |                        | \*mərə   |             | \*mənɨ    |              |
 | Proto-Parukotoan  | \*moso        | \*moʔt͡ʃamo                     | \*mokoro  | \*mokjamo    | \*mokɨ    | \*mokjamo         | \*soro      | \*onɨ       |                        | \*moro   |             | \*monɨ    |              |
 | Panare            | məh           | məht͡ʃanton                     | kən       | kamənton     | muku(h)   | mukukon           | sɨ(h)       |             | sɨ(h)kon               | mən      | mənkon      | mu(h)     |              |
 | Proto-Pemongan    | \*məserə      |                                | \*məkɨrə  |              | \*məkɨ    |                   | \*sərə      |             |                        | \*mərə   |             |           |              |

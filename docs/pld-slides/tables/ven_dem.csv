@@ -1,14 +1,14 @@
 ,[lg](PPem),[lg](pan),[lg](tam),[lg](mak),[lg](yab)
-PROX.ANIM,[wf](PPem-577?nt&no_language),[wf](pan-436?nt&no_language),[wf](tam-446?nt&no_language),,[wf](yab-576?nt&no_language)
-PROX.ANIM.PL,,[wf](pan-465?nt&no_language),[wf](tam-473?nt&no_language),,[wf](yab-369?nt&no_language) / [wf](yab-386?nt&no_language)
-MED.ANIM,[wf](PPem-361?nt&no_language),[wf](pan-358?nt&no_language),[wf](tam-365?nt&no_language),[wf](mak-357?nt&no_language),[wf](yab-452?nt&no_language)
-MED.ANIM.PL,,[wf](pan-379?nt&no_language),[wf](tam-383?nt&no_language),[wf](mak-378?nt&no_language),[wf](yab-479?nt&no_language)
-DIST.ANIM,[wf](PPem-287?nt&no_language),[wf](pan-283?nt&no_language),[wf](tam-291?nt&no_language),[wf](mak-282?nt&no_language),[wf](yab-297?nt&no_language)
-DIST.ANIM.PL,,[wf](pan-307?nt&no_language),[wf](tam-314?nt&no_language),[wf](mak-306?nt&no_language),[wf](yab-319?nt&no_language)
-PROX.INAN-1,[wf](PPem-498?nt&no_language),[wf](pan-493?nt&no_language),,[wf](mak-492?nt&no_language),
-PROX.INAN-2,,,[wf](tam-519?nt&no_language),,[wf](yab-523?nt&no_language) / [wf](yab-578?nt&no_language)
-PROX.INAN.PL,,[wf](pan-532?nt&no_language),,,[wf](yab-535?nt&no_language)
-MED.INAN,[wf](PPem-405?nt&no_language),[wf](pan-400?nt&no_language),[wf](tam-410?nt&no_language),[wf](mak-398?nt&no_language),[wf](yab-416?nt&no_language)
-MED.INAN.PL,,[wf](pan-421?nt&no_language),,,
-DIST.INAN,,[wf](pan-330?nt&no_language),,[wf](mak-329?nt&no_language),[wf](yab-340?nt&no_language) / [wf](yab-583?nt&no_language)
-DIST.INAN.PL,,,,,[wf](yab-341?nt&no_language) / [wf](yab-584?nt&no_language)
+PROX.ANIM,[wf](PPem-f-577?nt&no_language),[wf](pan-f-436?nt&no_language),[wf](tam-f-446?nt&no_language),,[wf](yab-f-576?nt&no_language)
+PROX.ANIM.PL,,[wf](pan-f-465?nt&no_language),[wf](tam-f-473?nt&no_language),,[wf](yab-f-369?nt&no_language) / [wf](yab-f-386?nt&no_language)
+MED.ANIM,[wf](PPem-f-361?nt&no_language),[wf](pan-f-358?nt&no_language),[wf](tam-f-365?nt&no_language),[wf](mak-f-357?nt&no_language),[wf](yab-f-452?nt&no_language)
+MED.ANIM.PL,,[wf](pan-f-379?nt&no_language),[wf](tam-f-383?nt&no_language),[wf](mak-f-378?nt&no_language),[wf](yab-f-479?nt&no_language)
+DIST.ANIM,[wf](PPem-f-287?nt&no_language),[wf](pan-f-283?nt&no_language),[wf](tam-f-291?nt&no_language),[wf](mak-f-282?nt&no_language),[wf](yab-f-297?nt&no_language)
+DIST.ANIM.PL,,[wf](pan-f-307?nt&no_language),[wf](tam-f-314?nt&no_language),[wf](mak-f-306?nt&no_language),[wf](yab-f-319?nt&no_language)
+PROX.INAN-1,[wf](PPem-f-498?nt&no_language),[wf](pan-f-493?nt&no_language),,[wf](mak-f-492?nt&no_language),
+PROX.INAN-2,,,[wf](tam-f-519?nt&no_language),,[wf](yab-f-523?nt&no_language) / [wf](yab-f-578?nt&no_language)
+PROX.INAN.PL,,[wf](pan-f-532?nt&no_language),,,[wf](yab-f-535?nt&no_language)
+MED.INAN,[wf](PPem-f-405?nt&no_language),[wf](pan-f-400?nt&no_language),[wf](tam-f-410?nt&no_language),[wf](mak-f-398?nt&no_language),[wf](yab-f-416?nt&no_language)
+MED.INAN.PL,,[wf](pan-f-421?nt&no_language),,,
+DIST.INAN,,[wf](pan-f-330?nt&no_language),,[wf](mak-f-329?nt&no_language),[wf](yab-f-340?nt&no_language) / [wf](yab-f-582?nt&no_language)
+DIST.INAN.PL,,,,,[wf](yab-f-341?nt&no_language) / [wf](yab-f-583?nt&no_language)

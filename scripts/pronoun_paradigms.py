@@ -10,7 +10,7 @@ forms["Meaning"] = forms["Meaning"].str.replace("3ANA", "3", regex=True)
 
 # set morpheme IDs to lg + index where not present
 forms["ID"] = forms.apply(
-    lambda x: f"""{x["Language_ID"]}-{x.name}""" if x["ID"] == "" else x["ID"], axis=1
+    lambda x: f"""{x["Language_ID"]}-f-{x.name}""" if x["ID"] == "" else x["ID"], axis=1
 )
 
 forms = forms[forms["Cognateset_ID"] != ""]
@@ -124,6 +124,12 @@ for x, y in l_dict.items():
         comparative_paradigm(["PPem", "pan", "tam", "mak", "yab"], dem_strings , f"{x}_dem")
     else:
         comparative_paradigm(y, dem_strings , f"{x}_dem")
+
+
+
+# synchronic paradigms
+pyd = Pyradigm(forms, y="Language_ID", x="Meaning")
+print(pyd.compose_paradigm(filters={"Meaning": ["3", "3.PL"], "Language_ID": ["PMan", "yab", "map", "pno", "mak"]}))
 
 
 # forms["Cognateset_ID"] = forms["Cognateset_ID"].apply(lambda x: x.split("; "))
