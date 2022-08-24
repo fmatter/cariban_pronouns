@@ -273,6 +273,10 @@ infinitive form of copula for Manapiarean \* unrelated *epɨ* in Yukpan
 
 ![](images/3aana.svg) ![](images/3iana.svg)
 
+# Third person animate anaphoric: \*i?
+
+![](images/3aanai.svg)
+
 # Mobile-s
 
 # Mobile-i

@@ -77,6 +77,10 @@
 ![](3aana.svg)
 ![](3iana.svg)
 
+# Third person animate anaphoric: *i?
+![](3aanai.svg)
+
+
 # Mobile-s
 
 # Mobile-i

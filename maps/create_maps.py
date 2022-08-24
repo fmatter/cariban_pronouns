@@ -187,8 +187,17 @@ t = sort_by(t, "Value", ["*amna", "*anja", "*t͡ʃimna", "*a(n)na", "*i(n)na", "
 # 3ana
 t = forms[forms["Cognateset_ID"] == "3ANA.ANIM"]
 t["Value"] = "*inərə"
-plot_map(t, "3aana")
+# plot_map(t, "3aana")
+
+def check_3i(rec):
+    if "ɲ" in rec["Form"] or "i" in rec["Form"]:
+        return "*i"
+    else:
+        return "no *i"
+
+t["Value"] = t.apply(check_3i, axis=1)
+plot_map(t, "3aanai")
 
 t = forms[forms["Cognateset_ID"] == "3ANA.INAN"]
 t["Value"] = "*irə"
-plot_map(t, "3iana")
+# plot_map(t, "3iana")
