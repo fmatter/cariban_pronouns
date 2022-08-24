@@ -339,7 +339,7 @@ PXin-336,PXin,*mon,m o n,,,distinan
 tri-337,tri,mə(nɨ),m ə n ɨ,,triomeira1999[154],invisinan
 wai-338,wai,mɨnɨ,m ɨ n ɨ,,,distinan
 way-339,way,mɨn(ɨ),m ɨ n ɨ,,wayanatavares2005[184],distinan
-yab-340,yab,mənɨ,m ə n ɨ,,muller2021yawarana,distinan
+yab-340,yab,məni,m ə n i,,yawaranagrammar,distinan
 yab-341,yab,mənɨhne,m ə n ɨ + h n e,,yawaranagrammar,distinanpl
 apa-342,apa,monoʔne,m o n o + ʔ n e,,koehn1986apalai[95],distinanpl
 ikp-343,ikp,mujam,m u + j a m,,ikpengpacheco2001[119],distinanpl
@@ -522,7 +522,7 @@ tam-519,tam,t͡ʃene,t͡ʃ e n e,Probably t͡ʃenɨ.,meira2002first[269],proxina
 tri-520,tri,se(nɨ),s e n ɨ,,triomeira1999[154],proxinan
 wai-521,wai,on,o n,,waiwaihawkins1998[97],proxinan
 way-522,way,sinɨ,s i n ɨ,,wayanatavares2005[184],proxinan
-yab-523,yab,(s)eni,s e n i,check meaning,mendez1959yawarana[69],proxinan
+yab-523,yab,seni,s e n i,,mendez1959yawarana[69],proxinan
 apa-524,apa,seroʔne,s e r o + ʔ n e,,koehn1986apalai[95],3anaanimpl
 apa-525,apa,senoʔne,s e n o + ʔ n e,,koehn1986apalai[95],proxinanpl
 ara-526,ara,eroŋmo,e r o + ŋ m o,,alves2017arara[95],proxinanpl
@@ -577,3 +577,17 @@ yuk-574,yuk,o(r),o + r,,oquendo2007gramatica[36];meira2003primeras,3ana
 yuk-575,yuk,oka,o k a,,oquendo2007gramatica[36];meira2003primeras,3anapl
 yab-576,yab,mit͡ʃi,m i t͡ʃ i,,,medanim
 PPem-577,PPem,*məserə,m ə s e + r ə,,,proxanim
+yab-578,yab,eni,e n i,,yawaranagrammar,proxinan
+map-579,map,naamotomo,n + aa m o + t o m o,Length from loss of *rV. Variants with loss of /mo/,villalon2000person[204],3anaanimpl
+map-580,map,təəj,t əə j,,villalon2000person[204],3ana
+map-581,map,tja,t j + a,,villalon2000person[204],3ana
+map-582,map,tjantomo,t j + a n + t o m o,,villalon2000person[204],3anapl
+yab-583,yab,muni,m u n i,,yawaranagrammar,distinan
+yab-584,yab,munihne,m u n i + h n e,,yawaranagrammar,distinanpl
+yab-585,yab,təwɨ,t ə w ɨ,,yawaranagrammar,3ana
+yab-586,yab,təwɨsantomo,t ə w ɨ + s a n + t o m o,,yawaranagrammar,3ana
+mak-587,mak,tɨwɨ,t ɨ w ɨ,,maquiritaricaceres2011[120],3ana
+mak-588,mak,tɨnwanno,t ɨ + n + w a n + n o,,maquiritaricaceres2011[120],3anapl
+pno-589,pno,təj,t ə j,,mattei2003pemono[48],3ana
+pno-590,pno,tɨwɨ,t ɨ w ɨ,,mattei2003pemono[48],3ana
+pno-591,pno,təjantomo,t ə j + a n + t o m o,,mattei2003pemono[48],3anapl

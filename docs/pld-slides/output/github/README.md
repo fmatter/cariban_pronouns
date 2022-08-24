@@ -308,13 +308,14 @@ Third person anaphoric, inanimate
 
 # Manapiarean
 
-|     | Proto-Manapiarean | Yawarana | Mapoyo     | Pémono    |
-|:----|:------------------|:---------|:-----------|:----------|
-| 1   | *wɨrə / *wɨhɨ     | wɨrə     | wɨhɨ / uhɨ | urə / wɨh |
-| 2   | \*mərə            | mərə     | (m)ərə     | mərə      |
-| 1+2 | \*et͡ʃinə          | ehnə     | eʔnə       | eʔnə      |
-| 1+3 | \*ana             | ana      | naha       | ana       |
-| 2PL | \*məkontomo       | montomo  | akontomo   | mokontomo |
+|          | Proto-Manapiarean | Yawarana | Mapoyo     | Pémono    |
+|:---------|:------------------|:---------|:-----------|:----------|
+| 1        | *wɨrə / *wɨhɨ     | wɨrə     | wɨhɨ / uhɨ | urə / wɨh |
+| 2        | \*mərə            | mərə     | (m)ərə     | mərə      |
+| 1+2      | \*et͡ʃinə          | ehnə     | eʔnə       | eʔnə      |
+| 1+3      | \*ana             | ana      | naha       | ana       |
+| 2PL      | \*məkontomo       | montomo  | akontomo   | mokontomo |
+| 3ANIM.PL |                   |          | naamotomo  |           |
 
 |              | Yawarana                 | Mapoyo |
 |:-------------|:-------------------------|:-------|
@@ -324,11 +325,11 @@ Third person anaphoric, inanimate
 | MED.ANIM.PL  | kərəsantomo              |        |
 | DIST.ANIM    | məkɨ                     |        |
 | DIST.ANIM.PL | məkɨsantomo              |        |
-| PROX.INAN-2  | (s)eni                   |        |
+| PROX.INAN-2  | seni / eni               |        |
 | PROX.INAN.PL | enihne                   |        |
 | MED.INAN     | mərə                     | mərɨ   |
-| DIST.INAN    | mənɨ                     |        |
-| DIST.INAN.PL | mənɨhne                  |        |
+| DIST.INAN    | məni / muni              |        |
+| DIST.INAN.PL | mənɨhne / munihne        |        |
 
 # Parukotoan
 
@@ -463,12 +464,12 @@ Third person anaphoric, inanimate
 | DIST.ANIM    | \*məkɨ         | muku(h)    | make     | məkkɨ    | məkɨ                     |
 | DIST.ANIM.PL |                | mukukon    | mukiamo  | makkamo  | məkɨsantomo              |
 | PROX.INAN-1  | \*sərə         | sɨ(h)      |          | erə      |                          |
-| PROX.INAN-2  |                |            | t͡ʃene    |          | (s)eni                   |
+| PROX.INAN-2  |                |            | t͡ʃene    |          | seni / eni               |
 | PROX.INAN.PL |                | sɨ(h)kon   |          |          | enihne                   |
 | MED.INAN     | \*mərə         | mən        | more     | mərə     | mərə                     |
 | MED.INAN.PL  |                | mənkon     |          |          |                          |
-| DIST.INAN    |                | mu(h)      |          | məənɨ    | mənɨ                     |
-| DIST.INAN.PL |                |            |          |          | mənɨhne                  |
+| DIST.INAN    |                | mu(h)      |          | məənɨ    | məni / muni              |
+| DIST.INAN.PL |                |            |          |          | mənɨhne / munihne        |
 
 # Proto-Cariban
 

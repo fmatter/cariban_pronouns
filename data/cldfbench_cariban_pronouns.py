@@ -59,7 +59,7 @@ class Dataset(BaseDataset):
             )  # morpheme boundaries are replaced with cognate boundaries
 
         lg_ids = []
-        contained_sources = ["meira2010origin"]
+        contained_sources = ["meira2010origin", "muller2021yawarana"]
         forms = pd.read_csv("raw/forms.csv", keep_default_na=False)
 
         # set morpheme IDs to lg + index where not present
