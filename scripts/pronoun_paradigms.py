@@ -61,11 +61,8 @@ dem_a = [
 dem_i = [
     "PROX.INAN-1",
     "PROX.INAN-2",
-    "PROX.INAN.PL",
     "MED.INAN",
-    "MED.INAN.PL",
     "DIST.INAN",
-    "DIST.INAN.PL",
 ]
 
 dem_strings = dem_a + dem_i
@@ -116,7 +113,7 @@ ppp = ["PPP", "pan", "PPem"]
 ven = ["PPem", "pan", "tam", "mak", "PMan"]
 
 
-pc = [
+pc1 = [
     "PC",
     "PPek",
     "PTar",
@@ -133,9 +130,26 @@ pc = [
     "uxc",
 ]
 
+pc2 = [
+    "PC",
+    "PPek",
+    "PTar",
+    "PPar",
+    "yab",
+    "pan",
+    "PPem",
+    "mak",
+    "tam",
+    "kar",
+    "way",
+    "apa",
+    "yuk",
+    "uxc",
+]
+
 pyd = Pyradigm(forms, y="Language_ID", x="Cognateset_ID", print_column="ID")
 pyd.compose_paradigm(
-    filters={"Language_ID": pc, "Cognateset_ID": pronoun_strings + pronoun_strings3},
+    filters={"Language_ID": pc1, "Cognateset_ID": pronoun_strings + pronoun_strings3},
     csv_output=f"docs/pld-slides/tables/pc_pro.csv",
     decorate=lambda x: f"[wf]({x}?nt&no_language)" if x != "" else "",
     decorate_y=lambda x: f"[lg]({x})",
@@ -144,7 +158,7 @@ pyd.compose_paradigm(
 pyd = Pyradigm(forms, y="Language_ID", x="Cognateset_ID", print_column="ID")
 
 pyd.compose_paradigm(
-    filters={"Language_ID": pc, "Cognateset_ID": dem_a},
+    filters={"Language_ID": pc2, "Cognateset_ID": dem_a},
     decorate=lambda x: f"[wf]({x}?nt&no_language)" if x != "" else "",
     decorate_y=lambda x: f"[lg]({x})",
     category_joiner="<br>",
@@ -154,7 +168,7 @@ pyd.compose_paradigm(
 pyd = Pyradigm(forms, y="Language_ID", x="Cognateset_ID", print_column="ID")
 
 pyd.compose_paradigm(
-    filters={"Language_ID": pc, "Cognateset_ID": dem_i},
+    filters={"Language_ID": pc2, "Cognateset_ID": dem_i},
     decorate=lambda x: f"[wf]({x}?nt&no_language)" if x != "" else "",
     decorate_y=lambda x: f"[lg]({x})",
     category_joiner="<br>",

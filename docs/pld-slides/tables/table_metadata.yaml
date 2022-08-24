@@ -5,3 +5,4 @@ pcpronouns:
 meirapronouns:
   pre_cell: "**"
   post_cell: "*"
+  caption: "[src](meira2002first)"

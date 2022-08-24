@@ -344,9 +344,7 @@ in Manapiarean and Ye’kwana
 | DIST.ANIM    | \*məkɨ         |         | mɨkɨ                |          |          |
 | PROX.INAN-1  | \*sərə         | serə    | sə(rə)              | sərə     | sɨrɨrɨ   |
 | PROX.INAN-2  |                |         |                     | senək    | seni     |
-| PROX.INAN.PL |                |         | sə(rə)jamə          |          |          |
 | MED.INAN     | \*mərə         | mərə    | mə(r)ə              | mərə     | mɨrɨrɨ   |
-| MED.INAN.PL  |                |         | mərəjamə            |          |          |
 
 # Manapiarean
 
@@ -368,10 +366,8 @@ in Manapiarean and Ye’kwana
 | DIST.ANIM    | məkɨ                     |        |
 | DIST.ANIM.PL | məkɨsantomo              |        |
 | PROX.INAN-2  | seni / eni               |        |
-| PROX.INAN.PL | enihne                   |        |
 | MED.INAN     | mərə                     | mərɨ   |
 | DIST.INAN    | məni / muni              |        |
-| DIST.INAN.PL | mənɨhne / munihne        |        |
 
 # Parukotoan
 
@@ -397,9 +393,7 @@ in Manapiarean and Ye’kwana
 | DIST.ANIM.PL | \*mokjamo        |           | mokjamo    | mɨkjam |
 | PROX.INAN-1  | \*soro           | soro      |            |        |
 | PROX.INAN-2  | \*onɨ            |           | onɨ        | on     |
-| PROX.INAN.PL |                  | soronne   |            |        |
 | MED.INAN     | \*moro           | moro      | moro       | moro   |
-| MED.INAN.PL  |                  | moronne   |            |        |
 | DIST.INAN    | \*monɨ           | monɨ      | monɨ       | mɨnɨ   |
 
 # Taranoan
@@ -427,9 +421,7 @@ in Manapiarean and Ye’kwana
 | PROX.INAN-1  | \*(t͡ʃ)ərə      | ərə      | serə         | t͡ʃerə    |
 | PROX.INAN-2  | \*(t͡ʃ)enɨ      | enɨ      | se(nɨ)       | t͡ʃenɨ    |
 | MED.INAN     | \*mərə         | mərə     | mərə         | mərə     |
-| MED.INAN.PL  |                |          | mərəto(mo)   |          |
 | DIST.INAN    | \*mənɨ         | mənɨ     | mə(nɨ)       |          |
-| DIST.INAN.PL |                |          | mənto(mo)    |          |
 
 # Pekodian
 
@@ -453,10 +445,8 @@ in Manapiarean and Ye’kwana
 | DIST.ANIM.PL | \*məkjamo      | akaemo  |                | ugjam  |
 | PROX.INAN-1  | \*(t͡ʃ)erə      | ʃirə    | ero            |        |
 | PROX.INAN-2  | \*en           |         | en             | nen    |
-| PROX.INAN.PL |                |         | eroŋmo         | nejam  |
 | MED.INAN     | \*mərə         | mərə    | moro           |        |
 | DIST.INAN    | \*mun          |         | mon / mun      | mun    |
-| DIST.INAN.PL |                |         |                | mujam  |
 
 # Pemon-Panare
 
@@ -478,9 +468,7 @@ in Manapiarean and Ye’kwana
 | DIST.ANIM    | \*məkɨ              | muku(h)    | \*məkɨ         |
 | DIST.ANIM.PL |                     | mukukon    |                |
 | PROX.INAN-1  | \*sərə              | sɨ(h)      | \*sərə         |
-| PROX.INAN.PL |                     | sɨ(h)kon   |                |
 | MED.INAN     | \*mərə              | mən        | \*mərə         |
-| MED.INAN.PL  |                     | mənkon     |                |
 | DIST.INAN    | \*muC               | mu(h)      |                |
 
 # Venezuelan
@@ -507,11 +495,8 @@ in Manapiarean and Ye’kwana
 | DIST.ANIM.PL |                | mukukon    | mukiamo  | makkamo  | məkɨsantomo              |
 | PROX.INAN-1  | \*sərə         | sɨ(h)      |          | erə      |                          |
 | PROX.INAN-2  |                |            | t͡ʃene    |          | seni / eni               |
-| PROX.INAN.PL |                | sɨ(h)kon   |          |          | enihne                   |
 | MED.INAN     | \*mərə         | mən        | more     | mərə     | mərə                     |
-| MED.INAN.PL  |                | mənkon     |          |          |                          |
 | DIST.INAN    |                | mu(h)      |          | məənɨ    | məni / muni              |
-| DIST.INAN.PL |                |            |          |          | mənɨhne / munihne        |
 
 # Proto-Cariban pronouns
 
@@ -536,10 +521,11 @@ in Manapiarean and Ye’kwana
 
 |                   | PROX.ANIM      | PROX.ANIM.PL                     | MED.ANIM  | MED.ANIM.PL  | DIST.ANIM | DIST.ANIM.PL       |
 |:------------------|:---------------|:---------------------------------|:----------|:-------------|:----------|:-------------------|
-| Proto-Cariban     | \*mətjə        | \*mətjamo                        |           |              | \*məkɨ    | \*məkjamo          |
+| Proto-Cariban     | \*mətjə        | \*mətjəjamo                      |           |              | \*məkɨ    | \*məkjamo          |
 | Proto-Pekodian    | \*məte         | \*mətjamo                        |           |              | \*məkɨ    | \*məkjamo          |
 | Proto-Taranoan    | \*mə(t͡ʃ)e      | \*məet͡ʃamo                       | \*məkɨrə  | \*məkɨrəjamo | \*məkɨ    | \*məkjamo          |
 | Proto-Parukotoan  | \*moso         | \*moʔt͡ʃamo                       | \*mokoro  | \*mokjamo    | \*mokɨ    | \*mokjamo          |
+| Yawarana          | mit͡ʃi          | mit͡ʃitomo<br>mit͡ʃisantomo        | kərə      | kərəsantomo  | məkɨ      | məkɨsantomo        |
 | Panare            | məh            | məht͡ʃanton                       | kən       | kamənton     | muku(h)   | mukukon            |
 | Proto-Pemongan    | \*məserə       |                                  | \*məkɨrə  |              | \*məkɨ    |                    |
 | Ye’kwana          |                |                                  | məʔrə     | kanno        | məkkɨ     | makkamo            |
@@ -552,20 +538,21 @@ in Manapiarean and Ye’kwana
 
 # Proto-Cariban inanimate demonstratives
 
-|                   | PROX.INAN-1 | PROX.INAN-2 | PROX.INAN.PL            | MED.INAN | MED.INAN.PL | DIST.INAN | DIST.INAN.PL |
-|:------------------|:------------|:------------|:------------------------|:---------|:------------|:----------|:-------------|
-| Proto-Cariban     | \*(tj)ərə   | \*(tj)ənɨ   |                         | \*mərə   |             | \*mənɨ    |              |
-| Proto-Pekodian    | \*(t͡ʃ)erə   | \*en        |                         | \*mərə   |             | \*mun     |              |
-| Proto-Taranoan    | \*(t͡ʃ)ərə   | \*(t͡ʃ)enɨ   |                         | \*mərə   |             | \*mənɨ    |              |
-| Proto-Parukotoan  | \*soro      | \*onɨ       |                         | \*moro   |             | \*monɨ    |              |
-| Panare            | sɨ(h)       |             | sɨ(h)kon                | mən      | mənkon      | mu(h)     |              |
-| Proto-Pemongan    | \*sərə      |             |                         | \*mərə   |             |           |              |
-| Ye’kwana          | erə         |             |                         | mərə     |             | məənɨ     |              |
-| Tamanaku          |             | t͡ʃene       |                         | more     |             |           |              |
-| Kari’ña           | ero         | enɨ         | erokon<br>enɨkon        | moro     | morokon     | monɨ      | monɨkon      |
-| Wayana            | herə        | sinɨ        | herəkom(o)<br>sinkom(o) | mərə     | mərəkomo    | mɨn(ɨ)    | mɨn(ɨ)komo   |
-| Apalaí            | sero        | senɨ        | seroʔne<br>senoʔne      | moro     | moroʔne     | monɨ      | monoʔne      |
-| Upper Xingu Carib | iɣe         |             |                         | eɣe      |             |           |              |
+|                   | PROX.INAN-1 | PROX.INAN-2 | MED.INAN | DIST.INAN    |
+|:------------------|:------------|:------------|:---------|:-------------|
+| Proto-Cariban     | \*(tj)ərə   | \*(tj)ənɨ   | \*mərə   | \*mənɨ       |
+| Proto-Pekodian    | \*(t͡ʃ)erə   | \*en        | \*mərə   | \*mun        |
+| Proto-Taranoan    | \*(t͡ʃ)ərə   | \*(t͡ʃ)enɨ   | \*mərə   | \*mənɨ       |
+| Proto-Parukotoan  | \*soro      | \*onɨ       | \*moro   | \*monɨ       |
+| Yawarana          |             | seni<br>eni | mərə     | məni<br>muni |
+| Panare            | sɨ(h)       |             | mən      | mu(h)        |
+| Proto-Pemongan    | \*sərə      |             | \*mərə   |              |
+| Ye’kwana          | erə         |             | mərə     | məənɨ        |
+| Tamanaku          |             | t͡ʃene       | more     |              |
+| Kari’ña           | ero         | enɨ         | moro     | monɨ         |
+| Wayana            | herə        | sinɨ        | mərə     | mɨn(ɨ)       |
+| Apalaí            | sero        | senɨ        | moro     | monɨ         |
+| Upper Xingu Carib | iɣe         |             | eɣe      |              |
 
 # References
 
