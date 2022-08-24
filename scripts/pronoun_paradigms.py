@@ -49,13 +49,16 @@ cogdic["?"] = "?"
 
 pronoun_strings = ["1", "2", "1+2", "1+2PL", "1+3", "2PL"]
 pronoun_strings3 = ["3.ANIM", "3.ANIM.PL", "3.INAN", "3", "3.PL"]
-dem_strings = [
+dem_a = [
     "PROX.ANIM",
     "PROX.ANIM.PL",
     "MED.ANIM",
     "MED.ANIM.PL",
     "DIST.ANIM",
     "DIST.ANIM.PL",
+]
+
+dem_i = [
     "PROX.INAN-1",
     "PROX.INAN-2",
     "PROX.INAN.PL",
@@ -64,6 +67,25 @@ dem_strings = [
     "DIST.INAN",
     "DIST.INAN.PL",
 ]
+
+dem_strings = dem_a + dem_i
+
+
+rename_dict = {
+    "PROX.ANIM": "p;a",
+    "PROX.ANIM.PL": "p;a;pl",
+    "MED.ANIM": "m;a",
+    "MED.ANIM.PL": "m;a;pl",
+    "DIST.ANIM": "d;a",
+    "DIST.ANIM.PL": "d;a;pl",
+    "PROX.INAN-1": "p;i-1",
+    "PROX.INAN-2": "p;i-2",
+    "PROX.INAN.PL": "p;i;pl",
+    "MED.INAN": "m;i",
+    "MED.INAN.PL": "m;i;pl",
+    "DIST.INAN": "d;i",
+    "DIST.INAN.PL": "d;i;pl",
+}
 
 
 def comparative_paradigm(
@@ -78,7 +100,7 @@ def comparative_paradigm(
         filters={"Language_ID": lg_list, "Cognateset_ID": meanings},
         csv_output=f"docs/pld-slides/tables/{name}.csv",
         decorate_x=decorate_x,
-        decorate=decorate
+        decorate=decorate,
     )
 
 
@@ -87,14 +109,29 @@ tar = ["PTar", "car", "tri", "aku"]
 par = ["PPar", "kax", "hix", "wai"]
 
 pem = ["PPem", "aka", "ing", "pem", "mac"]
-man =["PMan", "yab", "map", "pno"]
+man = ["PMan", "yab", "map", "pno"]
 
 ppp = ["PPP", "pan", "PPem"]
 
 ven = ["PPem", "pan", "tam", "mak", "PMan"]
 
 
-pc = ["PC", "PPek", "PTar", "PPar", "PMan", "pan", "PPem", "mak", "tam", "kar", "way", "apa", "yuk", "uxc"]
+pc = [
+    "PC",
+    "PPek",
+    "PTar",
+    "PPar",
+    "PMan",
+    "pan",
+    "PPem",
+    "mak",
+    "tam",
+    "kar",
+    "way",
+    "apa",
+    "yuk",
+    "uxc",
+]
 
 pyd = Pyradigm(forms, y="Language_ID", x="Cognateset_ID", print_column="ID")
 pyd.compose_paradigm(
@@ -106,30 +143,55 @@ pyd.compose_paradigm(
 
 pyd = Pyradigm(forms, y="Language_ID", x="Cognateset_ID", print_column="ID")
 
-
 pyd.compose_paradigm(
-    filters={"Language_ID": pc, "Cognateset_ID": dem_strings},
-    csv_output=f"docs/pld-slides/tables/pc_dem.csv",
+    filters={"Language_ID": pc, "Cognateset_ID": dem_a},
     decorate=lambda x: f"[wf]({x}?nt&no_language)" if x != "" else "",
     decorate_y=lambda x: f"[lg]({x})",
+    category_joiner="<br>",
+    csv_output=f"docs/pld-slides/tables/pc_dem_a.csv",
+)
+
+pyd = Pyradigm(forms, y="Language_ID", x="Cognateset_ID", print_column="ID")
+
+pyd.compose_paradigm(
+    filters={"Language_ID": pc, "Cognateset_ID": dem_i},
+    decorate=lambda x: f"[wf]({x}?nt&no_language)" if x != "" else "",
+    decorate_y=lambda x: f"[lg]({x})",
+    category_joiner="<br>",
+    csv_output=f"docs/pld-slides/tables/pc_dem_i.csv",
 )
 
 
-
-l_dict = {"pek": pek, "tar": tar, "par": par, "pem": pem, "man": man, "ppp": ppp, "ven": ven}
+l_dict = {
+    "pek": pek,
+    "tar": tar,
+    "par": par,
+    "pem": pem,
+    "man": man,
+    "ppp": ppp,
+    "ven": ven,
+}
 
 for x, y in l_dict.items():
     comparative_paradigm(y, pronoun_strings + pronoun_strings3, f"{x}_pro")
     if x == "ven":
-        comparative_paradigm(["PPem", "pan", "tam", "mak", "yab"], dem_strings , f"{x}_dem")
+        comparative_paradigm(
+            ["PPem", "pan", "tam", "mak", "yab"], dem_strings, f"{x}_dem"
+        )
     else:
-        comparative_paradigm(y, dem_strings , f"{x}_dem")
-
+        comparative_paradigm(y, dem_strings, f"{x}_dem")
 
 
 # synchronic paradigms
 pyd = Pyradigm(forms, y="Language_ID", x="Meaning")
-print(pyd.compose_paradigm(filters={"Meaning": ["3", "3.PL"], "Language_ID": ["PMan", "yab", "map", "pno", "mak"]}))
+print(
+    pyd.compose_paradigm(
+        filters={
+            "Meaning": ["3", "3.PL"],
+            "Language_ID": ["PMan", "yab", "map", "pno", "mak"],
+        }
+    )
+)
 
 
 # forms["Cognateset_ID"] = forms["Cognateset_ID"].apply(lambda x: x.split("; "))

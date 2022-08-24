@@ -134,6 +134,13 @@
 [table](ven_pro)
 [table](ven_dem)
 
-# Proto-Cariban
+# Proto-Cariban pronouns
 [table](pc_pro)
-[table](pc_dem)
+
+# Proto-Cariban animate demonstratives
+
+[table](pc_dem_a)
+
+# Proto-Cariban inanimate demonstratives
+
+[table](pc_dem_i)
