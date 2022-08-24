@@ -1,5 +1,12 @@
 ,[lg](yab),[lg](map)
-PROX.ANIM,,[wf](map-460?nt&no_language)
-PROX.INAN-2,[wf](yab-542?nt&no_language),
-MED.INAN,[wf](yab-436?nt&no_language),[wf](map-422?nt&no_language)
-DIST.INAN,[wf](yab-349?nt&no_language),
+PROX.ANIM,[wf](yab-576?nt&no_language),[wf](map-435?nt&no_language)
+PROX.ANIM.PL,[wf](yab-369?nt&no_language) / [wf](yab-386?nt&no_language),
+MED.ANIM,[wf](yab-452?nt&no_language),
+MED.ANIM.PL,[wf](yab-479?nt&no_language),
+DIST.ANIM,[wf](yab-297?nt&no_language),
+DIST.ANIM.PL,[wf](yab-319?nt&no_language),
+PROX.INAN-2,[wf](yab-523?nt&no_language),
+PROX.INAN.PL,[wf](yab-535?nt&no_language),
+MED.INAN,[wf](yab-416?nt&no_language),[wf](map-399?nt&no_language)
+DIST.INAN,[wf](yab-340?nt&no_language),
+DIST.INAN.PL,[wf](yab-341?nt&no_language),

@@ -1,10 +1,6 @@
 import pandas as pd
 from pyradigms import Pyradigm
 import cariban_helpers as crh
-import geopandas as gpd
-from shapely.geometry import Point
-import seaborn as sns
-from shapely import wkt
 
 pd.options.mode.chained_assignment = None  # default='warn'
 
@@ -62,11 +58,11 @@ dem_strings = [
     "DIST.ANIM.PL",
     "PROX.INAN-1",
     "PROX.INAN-2",
-    # "PROX.INAN.PL",
+    "PROX.INAN.PL",
     "MED.INAN",
-    # "MED.INAN.PL",
+    "MED.INAN.PL",
     "DIST.INAN",
-    # "DIST.INAN.PL",
+    "DIST.INAN.PL",
 ]
 
 
@@ -102,8 +98,18 @@ pc = ["PC", "PPek", "PTar", "PPar", "PMan", "pan", "PPem", "mak", "tam", "kar", 
 
 pyd = Pyradigm(forms, y="Language_ID", x="Cognateset_ID", print_column="ID")
 pyd.compose_paradigm(
-    filters={"Language_ID": pc, "Cognateset_ID": pronoun_strings},
+    filters={"Language_ID": pc, "Cognateset_ID": pronoun_strings + pronoun_strings3},
     csv_output=f"docs/pld-slides/tables/pc_pro.csv",
+    decorate=lambda x: f"[wf]({x}?nt&no_language)" if x != "" else "",
+    decorate_y=lambda x: f"[lg]({x})",
+)
+
+pyd = Pyradigm(forms, y="Language_ID", x="Cognateset_ID", print_column="ID")
+
+
+pyd.compose_paradigm(
+    filters={"Language_ID": pc, "Cognateset_ID": dem_strings},
+    csv_output=f"docs/pld-slides/tables/pc_dem.csv",
     decorate=lambda x: f"[wf]({x}?nt&no_language)" if x != "" else "",
     decorate_y=lambda x: f"[lg]({x})",
 )
@@ -114,7 +120,10 @@ l_dict = {"pek": pek, "tar": tar, "par": par, "pem": pem, "man": man, "ppp": ppp
 
 for x, y in l_dict.items():
     comparative_paradigm(y, pronoun_strings + pronoun_strings3, f"{x}_pro")
-    comparative_paradigm(y, dem_strings , f"{x}_dem")
+    if x == "ven":
+        comparative_paradigm(["PPem", "pan", "tam", "mak", "yab"], dem_strings , f"{x}_dem")
+    else:
+        comparative_paradigm(y, dem_strings , f"{x}_dem")
 
 
 # forms["Cognateset_ID"] = forms["Cognateset_ID"].apply(lambda x: x.split("; "))

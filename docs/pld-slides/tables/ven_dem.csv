@@ -1,11 +1,14 @@
-,[lg](PPem),[lg](pan),[lg](tam),[lg](mak)
-PROX.ANIM,[wf](PPem-465?nt&no_language),[wf](pan-461?nt&no_language),[wf](tam-470?nt&no_language),
-PROX.ANIM.PL,,[wf](pan-489?nt&no_language),[wf](tam-496?nt&no_language),
-MED.ANIM,[wf](PPem-387?nt&no_language),[wf](pan-365?nt&no_language),[wf](tam-391?nt&no_language),[wf](mak-449?nt&no_language)
-MED.ANIM.PL,,[wf](pan-369?nt&no_language),[wf](tam-406?nt&no_language),[wf](mak-403?nt&no_language)
-DIST.ANIM,,[wf](pan-293?nt&no_language),[wf](tam-299?nt&no_language),[wf](mak-292?nt&no_language)
-DIST.ANIM.PL,,[wf](pan-317?nt&no_language),[wf](tam-323?nt&no_language),[wf](mak-316?nt&no_language)
-PROX.INAN-1,[wf](PPem-519?nt&no_language),[wf](pan-515?nt&no_language),,[wf](mak-514?nt&no_language)
-PROX.INAN-2,,,[wf](tam-538?nt&no_language),
-MED.INAN,[wf](PPem-426?nt&no_language),[wf](pan-372?nt&no_language),[wf](tam-431?nt&no_language),[wf](mak-421?nt&no_language)
-DIST.INAN,,[wf](pan-342?nt&no_language),,[wf](mak-341?nt&no_language)
+,[lg](PPem),[lg](pan),[lg](tam),[lg](mak),[lg](yab)
+PROX.ANIM,[wf](PPem-577?nt&no_language),[wf](pan-436?nt&no_language),[wf](tam-446?nt&no_language),,[wf](yab-576?nt&no_language)
+PROX.ANIM.PL,,[wf](pan-465?nt&no_language),[wf](tam-473?nt&no_language),,[wf](yab-369?nt&no_language) / [wf](yab-386?nt&no_language)
+MED.ANIM,[wf](PPem-361?nt&no_language),[wf](pan-358?nt&no_language),[wf](tam-365?nt&no_language),[wf](mak-357?nt&no_language),[wf](yab-452?nt&no_language)
+MED.ANIM.PL,,[wf](pan-379?nt&no_language),[wf](tam-383?nt&no_language),[wf](mak-378?nt&no_language),[wf](yab-479?nt&no_language)
+DIST.ANIM,[wf](PPem-287?nt&no_language),[wf](pan-283?nt&no_language),[wf](tam-291?nt&no_language),[wf](mak-282?nt&no_language),[wf](yab-297?nt&no_language)
+DIST.ANIM.PL,,[wf](pan-307?nt&no_language),[wf](tam-314?nt&no_language),[wf](mak-306?nt&no_language),[wf](yab-319?nt&no_language)
+PROX.INAN-1,[wf](PPem-498?nt&no_language),[wf](pan-493?nt&no_language),,[wf](mak-492?nt&no_language),
+PROX.INAN-2,,,[wf](tam-519?nt&no_language),,[wf](yab-523?nt&no_language)
+PROX.INAN.PL,,[wf](pan-532?nt&no_language),,,[wf](yab-535?nt&no_language)
+MED.INAN,[wf](PPem-405?nt&no_language),[wf](pan-400?nt&no_language),[wf](tam-410?nt&no_language),[wf](mak-398?nt&no_language),[wf](yab-416?nt&no_language)
+MED.INAN.PL,,[wf](pan-421?nt&no_language),,,
+DIST.INAN,,[wf](pan-330?nt&no_language),,[wf](mak-329?nt&no_language),[wf](yab-340?nt&no_language)
+DIST.INAN.PL,,,,,[wf](yab-341?nt&no_language)

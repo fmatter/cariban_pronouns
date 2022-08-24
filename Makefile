@@ -36,3 +36,6 @@ readme:
 
 paradigms:
 	python3 scripts/pronoun_paradigms.py
+
+bib:
+	biblatex2bibtex /home/florianm/Dropbox/research/cariban/cariban_references.bib data/etc/cariban_references_out.bib

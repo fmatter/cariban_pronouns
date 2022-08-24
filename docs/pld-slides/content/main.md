@@ -112,12 +112,16 @@
 
 # Pekodian
 [table](pek_pro)
+[table](pek_dem)
 
 # Pemon-Panare
 [table](ppp_pro)
+[table](ppp_dem)
 
 # Venezuelan
 [table](ven_pro)
+[table](ven_dem)
 
 # Proto-Cariban
 [table](pc_pro)
+[table](pc_dem)

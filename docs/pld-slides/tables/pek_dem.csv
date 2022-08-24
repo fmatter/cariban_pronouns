@@ -1,10 +1,12 @@
 ,[lg](PPek),[lg](bak),[lg](ara),[lg](ikp)
-PROX.ANIM,[wf](PPek-464?nt&no_language),[wf](bak-453?nt&no_language),[wf](ara-452?nt&no_language),[wf](ikp-456?nt&no_language)
-PROX.ANIM.PL,[wf](PPek-492?nt&no_language),[wf](bak-480?nt&no_language),,[wf](ikp-483?nt&no_language)
-MED.ANIM,,[wf](bak-380?nt&no_language),,
-DIST.ANIM,[wf](PPek-295?nt&no_language),[wf](bak-287?nt&no_language),[wf](ara-285?nt&no_language) / [wf](ara-286?nt&no_language),[wf](ikp-289?nt&no_language)
-DIST.ANIM.PL,[wf](PPek-319?nt&no_language),[wf](bak-311?nt&no_language),,[wf](ikp-313?nt&no_language)
-PROX.INAN-1,[wf](PPek-518?nt&no_language),[wf](bak-508?nt&no_language),[wf](ara-507?nt&no_language),
-PROX.INAN-2,[wf](PPek-534?nt&no_language),,[wf](ara-527?nt&no_language),[wf](ikp-530?nt&no_language)
-MED.INAN,[wf](PPek-425?nt&no_language),[wf](bak-414?nt&no_language),[wf](ara-413?nt&no_language),
-DIST.INAN,[wf](PPek-354?nt&no_language),,[wf](ara-334?nt&no_language) / [wf](ara-335?nt&no_language),[wf](ikp-338?nt&no_language)
+PROX.ANIM,[wf](PPek-440?nt&no_language),[wf](bak-428?nt&no_language),[wf](ara-427?nt&no_language),[wf](ikp-431?nt&no_language)
+PROX.ANIM.PL,[wf](PPek-469?nt&no_language),[wf](bak-456?nt&no_language),,[wf](ikp-459?nt&no_language)
+MED.ANIM,,[wf](bak-350?nt&no_language),,
+DIST.ANIM,[wf](PPek-286?nt&no_language),[wf](bak-275?nt&no_language),[wf](ara-273?nt&no_language) / [wf](ara-274?nt&no_language),[wf](ikp-278?nt&no_language)
+DIST.ANIM.PL,[wf](PPek-310?nt&no_language),[wf](bak-300?nt&no_language),,[wf](ikp-303?nt&no_language)
+PROX.INAN-1,[wf](PPek-497?nt&no_language),[wf](bak-486?nt&no_language),[wf](ara-485?nt&no_language),
+PROX.INAN-2,[wf](PPek-515?nt&no_language),,[wf](ara-506?nt&no_language),[wf](ikp-509?nt&no_language)
+PROX.INAN.PL,,,[wf](ara-526?nt&no_language),[wf](ikp-527?nt&no_language)
+MED.INAN,[wf](PPek-404?nt&no_language),[wf](bak-391?nt&no_language),[wf](ara-390?nt&no_language),
+DIST.INAN,[wf](PPek-333?nt&no_language),,[wf](ara-322?nt&no_language) / [wf](ara-323?nt&no_language),[wf](ikp-326?nt&no_language)
+DIST.INAN.PL,,,,[wf](ikp-343?nt&no_language)
