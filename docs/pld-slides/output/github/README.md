@@ -275,6 +275,8 @@ infinitive form of copula for Manapiarean \* unrelated *epɨ* in Yukpan
 
 # Mobile-s
 
+# Mobile-i
+
 # The develoment of \**tjə*
 
 -   closely related languages disagree about fronting of vowel
@@ -291,14 +293,14 @@ infinitive form of copula for Manapiarean \* unrelated *epɨ* in Yukpan
 | 3INAN | \_\*irə\_     |                  |
 | 3ANIM | \_\*(i)nərə\_ | \_\*(i)n(j)amo\_ |
 
-|       | SG      | PL          |
-|:------|:--------|:------------|
-| 1     | \*əwɨ   |             |
-| 2     | \*əmə   | \*əm-jamo   |
-| 1+2   | \*kɨCV  | \*kɨCV-jamo |
-| 1+3   | \*aipna |             |
-| 3INAN | \*irə   |             |
-| 3ANIM | \*inərə | \*in-jamo   |
+|       | SG        | PL          |
+|:------|:----------|:------------|
+| 1     | \*əwɨ     |             |
+| 2     | \*əmə     | \*əm-jamo   |
+| 1+2   | \*kɨCV    | \*kɨCV-jamo |
+| 1+3   | \*(ai)pna |             |
+| 3INAN | \*irə     |             |
+| 3ANIM | \*inərə   | \*in-jamo   |
 
 # Suggested changes
 
@@ -518,7 +520,7 @@ in Manapiarean and Ye’kwana
 
 |                   | 1             | 2           | 1+2            | 1+2PL                 | 1+3           | 2PL           | 3ANIM        | 3ANIM.PL           | 3INAN     |
 |:------------------|:--------------|:------------|:---------------|:----------------------|:--------------|:--------------|:-------------|:-------------------|:----------|
-| Proto-Cariban     | \*əwɨ         | \*əmə       | \*kɨCV         | \*kɨCV-jamo           | \*aipna       | \*əm-jamo     | \*inərə      | \*in-jamo          | \*irə     |
+| Proto-Cariban     | \*əwɨ         | \*əmə       | \*kɨCV         | \*kɨCV-jamo           | \*(ai)pna     | \*əm-jamo     | \*inərə      | \*in-jamo          | \*irə     |
 | Proto-Pekodian    | \*urə         | \*əmə       | \*ukurə        |                       | \*t͡ʃimna      | \*əmərəjamo   | \*inəra      |                    | \*irə     |
 | Proto-Taranoan    | \*əwɨ         | \*əmə       | \*kɨmə         | \*kɨnjamo             | \*anja        | \*ənjamo      | \*nə(ə)rə    | \*namo             | \*irə     |
 | Proto-Parukotoan  | \*owɨ         | \*omoro     | *kɨwɨ / *kɨmo  | *kɨwjamo / *kɨmojamo  | \*amna        | \*omjamo      | \*noro       | \*inamoro          | \*iro     |
