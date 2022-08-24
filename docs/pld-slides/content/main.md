@@ -77,6 +77,9 @@
 ![](3aana.svg)
 ![](3iana.svg)
 
+# Mobile-s
+
+# Mobile-i
 
 # The develoment of \**tjə*
 * closely related languages disagree about fronting of vowel

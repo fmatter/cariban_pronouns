@@ -1,35 +1,35 @@
 ID,Description,Source,Form
-1,First person,,*əwɨ
-emp,Emphatic particle,,*rə
-2,Second person,,*əmə
-1a3,First person exclusive,,*apina
-ti,Formative,,*ti
-1a2,First person inclusive,,*kɨ
-pl1,Plural marker,,*komo
-uku,First person inclusive,,*uku
-pl2,Plural marker,,*jamo
+1,1,,*əwɨ
+emp,EMP,,*rə
+2,2,,*əmə
+1a3,1+3,,*apina
+ti,ti-formative,,*ti
+1a2,1+2,,*kɨ
+pl1,PL,,*komo
+uku,1+2,,*uku
+pl2,PL,,*jamo
 toto,3PL,,*toto
-aanim,Third person anaphoric,,*inərə
-ainan,"Third person anaphoric, inanimate",,*irə
-dinan,Inanimate distal demonstrative,,*mənɨ
-panim,Animate proximal demonstrative,,*mətjə
-danim,Animate distal demonstrative,,*məkɨ
-minan,Inanimate medial demonstrative,,*mərə
-pinan1,Inanimate proximal demonstrative 1,,*(tj)ərə
-pinan2,Inanimate proximal demonstrative 2,,*(tj)ənɨ
-pl4,Plural marker,,*ʔne
-pl3,Plural marker,,*tomo
-wform,Formative,,*wɨ
-hform,Formative,,*hɨ
-mform,Formative,,*mə
-1a2ep,Only in Yukpan,,*epɨ
-xinsg,Possibly a reflex of EMP?,,*n
-pempl,Combined with reflex of *komo,,*ʔno
-karform,Formative,,*ʔko
-1abs,First person,,*-
-2abs,Second person,,*-
-1a2cop,Originally an infinitive of the copula.,,*eti-nə
-n13,Added to the 1+3 pronoun in [lg](kar) and [lg](yuk).,,*n
-3aabs,Third person anaphoric,,*inərə
-3iabs,"Third person anaphoric, inanimate",,*irə
-3t,Third person anaphoric,,*təwɨ
+aanim,3ANA.ANIM,,*inərə
+ainan,3ANA.INAN,,*irə
+dinan,DIST.INAN,,*mənɨ
+panim,PROX.ANIM,,*mətjə
+danim,DIST.ANIM,,*məkɨ
+minan,MED.INAN,,*mərə
+pinan1,PROX.INAN,,*(tj)ərə
+pinan2,PROX.INAN,,*(tj)ənɨ
+pl4,PL,,*ʔne
+pl3,PL,,*tomo
+wform,wɨ-formative,,*wɨ
+hform,hɨ-formative,,*hɨ
+mform,mə-formative,,*mə
+1a2ep,1+2,,*epɨ
+xinsg,n-formative,,*n
+pempl,PL,,*ʔno
+karform,ʔko-formative,,*ʔko
+1abs,1 (complex),,*əwɨ
+2abs,2 (complex),,*əmə
+1a2cop,1+2,,*eti-nə
+n13,n-formative 2,,*n
+3aabs,3ANA.ANIM (complex),,*inərə
+3iabs,3ANA.INAN (complex),,*irə
+3t,3ANA (complex),,*təwɨ

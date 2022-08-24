@@ -56,7 +56,7 @@
 
 # Second person
 
-Second person
+2 (complex)
 
 | Form     | Language          | \-  | \-  | \-  | \-  | \-  | \-  |
 |:---------|:------------------|:----|:----|:----|:----|:----|:----|
@@ -103,7 +103,7 @@ Second person
 
 1.  two apparently distinct roots
 
-First person inclusive
+1+2
 
 | Form           | Language   | \-  | \-  |
 |:---------------|:-----------|:----|:----|
@@ -134,7 +134,7 @@ First person inclusive
 
 and
 
-First person inclusive
+1+2
 
 | Form       | Language          | \-  | \-  | \-  | \-  |
 |:-----------|:------------------|:----|:----|:----|:----|
@@ -150,7 +150,7 @@ First person inclusive
 
 with same core meaning \*
 
-First person inclusive
+1+2
 
 | Form           | Language   | \-  | \-  |
 |:---------------|:-----------|:----|:----|
@@ -189,7 +189,7 @@ infinitive form of copula for Manapiarean \* unrelated *epɨ* in Yukpan
 
 # First person exclusive (1+3)
 
-First person exclusive
+1+3
 
 | Form      | Language        | \-  | \-  | \-  | \-  | \-  |
 |:----------|:----------------|:----|:----|:----|:----|:----|
@@ -231,7 +231,7 @@ First person exclusive
 
 # Third person anaphoric forms
 
-Third person anaphoric
+3ANA.ANIM (complex)
 
 | Form        | Language          | \-  | \-  | \-  | \-  | \-  | \-  | \-  | \-  |
 |:------------|:------------------|:----|:----|:----|:----|:----|:----|:----|:----|
@@ -250,7 +250,7 @@ Third person anaphoric
 | *noro*      | Waiwai            | \-  | n   | o   | r   | o   | \-  | \-  | \-  |
 | *inərə(rə)* | Wayana            | i   | n   | ə   | r   | ə   | \+  | r   | ə   |
 
-Third person anaphoric, inanimate
+3ANA.INAN (complex)
 
 | Form  | Language          | \-  | \-  | \-  |
 |:------|:------------------|:----|:----|:----|
@@ -272,6 +272,8 @@ Third person anaphoric, inanimate
 # Third person anaphoric forms
 
 ![](images/3aana.svg) ![](images/3iana.svg)
+
+# Mobile-s
 
 # The develoment of \**tjə*
 
@@ -320,7 +322,7 @@ Third person anaphoric, inanimate
     Taranoan
 -   third person
 
-Third person anaphoric
+3ANA (complex)
 
 | Form          | Language | \-  | \-  | \-  | \-  |
 |:--------------|:---------|:----|:----|:----|:----|
