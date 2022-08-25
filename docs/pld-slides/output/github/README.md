@@ -45,7 +45,7 @@
 -   solid lower-level branches: Parukotoan, Pekodian, Taranoan
 -   tentative higher-level branch: Venezuelan
 -   no evidence for Guianan (Taranoan + Wayana + Kari’ña? + Apalaí? +
-    Ye’kwana)
+    Ye’kwana?)
 -   closely related dialect groups: Pemongan, Manapiarean
 
 ![](images/family.svg)
@@ -54,26 +54,48 @@
 
 -   conspicuous absence of shared sound innovations
 -   identical changes independently occured several times
--   central phenomenon: ablaut/umlaut ([Meira et
+-   important process 1: ablaut/umlaut ([Meira et
     al. 2010](#source-meira2010origin))
-    -   Proto-Cariban \*/ə/ turned to /e/ after \*/i/ and \*/j/
+    -   Proto-Cariban \*/ə/ turns to /e/ after \*/i/ and \*/j/
     -   the second change is absent in Parukotoan and happened
         inconsistently in Pemon-Panare and Manapiarean
     -   there was no \*/s/ or \*/t͡ʃ/: \*/ti/, \*/te/, \*/tj/
+-   important process 2: syllable reduction in CV syllables
+    1.  vowel deletion
+    2.  debuccalization / velarization of C
+    3.  complete erosion
 
 # Cariban pronouns
 
--   first person inclusive and exclusive, 1+2 and 1+3 are distinct
-    person values
+-   clusivity, 1+2 and 1+3 are distinct person values
 -   many languages have third person anaphoric forms w/ animacy
     distinction
 -   large systems of demonstratives, distinguishing animacy and
     distance/visibility
 -   lexicalized plural forms for pronouns, anaphora, and animate
     demonstratives
+-   [Meira 2002](#source-meira2002first), [Derbyshire
+    1999](#source-derbyshire1999carib)
 
-([Meira 2002](#source-meira2002first), [Derbyshire
-1999](#source-derbyshire1999carib))
+e.g. Tiriyó:
+
+|       | SG      | PL          |
+|:------|:--------|:------------|
+| 1     | *wɨ(ɨ)* |             |
+| 2     | *əmə*   | *əmənjamo*  |
+| 1+2   | *kɨmə*  | *kɨmənjamo* |
+| 1+3   | *anja*  |             |
+| 3ANIM | *nərə*  | *namo*      |
+| 3INAN | *irə*   |             |
+
+|            | SG            | PL         |
+|:-----------|:--------------|:-----------|
+| PROX.ANIM  | *məe*         | *məesamo*  |
+| MED.ANIM   | *məərə*       | *məəjamo*  |
+| INVIS.ANIM | *məkɨ*        | *məkɨjamo* |
+| PROX.INAN  | *serə / senɨ* |            |
+| MED.INAN   | *mərə*        |            |
+| INVIS.INAN | *mənɨ*        |            |
 
 # First person
 

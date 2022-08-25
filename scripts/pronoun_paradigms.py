@@ -19,6 +19,7 @@ cogsets = pd.read_csv("data/raw/cognatesets.csv")
 cogdic = dict(zip(cogsets["ID"], cogsets["Form"]))
 cogdic["?"] = "?"
 
+gloss = lambda x: f"[gl]({x.lower()})"
 
 # def get_cog_list(row):
 #     return list(zip(row["Form"].split("+"), row["Cognates"].split("+")))
@@ -58,12 +59,7 @@ dem_a = [
     "DIST.ANIM.PL",
 ]
 
-dem_i = [
-    "PROX.INAN-1",
-    "PROX.INAN-2",
-    "MED.INAN",
-    "DIST.INAN",
-]
+dem_i = ["PROX.INAN-1", "PROX.INAN-2", "MED.INAN", "DIST.INAN"]
 
 dem_strings = dem_a + dem_i
 
@@ -204,6 +200,50 @@ print(
             "Meaning": ["3", "3.PL"],
             "Language_ID": ["PMan", "yab", "map", "pno", "mak"],
         }
+    )
+)
+
+tri = forms[forms["Language_ID"] == "tri"]
+tri["Form"] = tri["Form"].apply(lambda x: x.replace("+", ""))
+pyd = Pyradigm(tri, x="Meaning", y="Language_ID", filters={"Meaning": pronoun_strings})
+para = pyd.compose_paradigm()
+tdf = pyd.decompose_paradigm(para, x=["Person", "Number"], y=["Language_ID"])
+pyd = Pyradigm(tri, x="Meaning", y="Language_ID", filters={"Meaning": pronoun_strings3})
+para = pyd.compose_paradigm()
+tdf2 = pyd.decompose_paradigm(
+    para, x=["Person", "Animacy", "Number"], y=["Language_ID"]
+)
+tdf = pd.concat([tdf, tdf2]).fillna("")
+tdf["Number"] = tdf["Number"].replace("", "SG")
+pyd = Pyradigm(tdf)
+print(
+    pyd.compose_paradigm(
+        x="Number",
+        y=["Person", "Animacy"],
+        decorate=lambda x: "*" + x + "*",
+        decorate_x=gloss,
+        decorate_y=gloss,
+        csv_output=f"docs/pld-slides/tables/tripro.csv",
+    )
+)
+
+demt = dem_strings + ["INVIS.ANIM", "INVIS.INAN", "INVIS.ANIM.PL", "PROX.INAN"]
+pyd = Pyradigm(tri, x="Meaning", y="Language_ID", filters={"Meaning": demt})
+para = pyd.compose_paradigm()
+tdf = pyd.decompose_paradigm(
+    para, x=["Distance", "Animacy", "Number"], y=["Language_ID"]
+)
+tdf["Number"] = tdf["Number"].replace("", "SG")
+pyd = Pyradigm(tdf)
+print(
+    pyd.compose_paradigm(
+        sort_orders={"Animacy": ["ANIM", "INAN"], "Distance": ["PROX", "MED", "INVIS"]},
+        y=["Distance", "Animacy"],
+        x=["Number"],
+        decorate=lambda x: "*" + x + "*",
+        decorate_x=gloss,
+        decorate_y=gloss,
+        csv_output=f"docs/pld-slides/tables/tridem.csv",
     )
 )
 

@@ -190,14 +190,14 @@ t["Value"] = "*inərə"
 # plot_map(t, "3aana")
 
 def check_3i(rec):
-    if "ɲ" in rec["Form"] or "i" in rec["Form"]:
+    if "ɲ" in rec["Form"] or "i" in rec["Form"] or rec["Form"][0] == "ɨ":
         return "*i"
     else:
         return "no *i"
 
 t["Value"] = t.apply(check_3i, axis=1)
 t = sort_by(t, "Value", ["*i", "no *i"])
-# plot_map(t, "3aanai")
+plot_map(t, "3aanai")
 
 t = forms[forms["Cognateset_ID"] == "3ANA.INAN"]
 t["Value"] = "*irə"

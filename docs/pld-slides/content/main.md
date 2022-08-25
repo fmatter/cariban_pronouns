@@ -16,7 +16,7 @@
 # The Cariban language family
 * solid lower-level branches: Parukotoan, Pekodian, Taranoan
 * tentative higher-level branch: Venezuelan
-* no evidence for Guianan (Taranoan + [lg](way) + [lg](kar)? + [lg](apa)? + [lg](mak))
+* no evidence for Guianan (Taranoan + [lg](way) + [lg](kar)? + [lg](apa)? + [lg](mak)?)
 * closely related dialect groups: Pemongan, Manapiarean
 
 ![](family.svg)
@@ -24,19 +24,27 @@
 # A note on sound correspondences
 * conspicuous absence of shared sound innovations
 * identical changes independently occured several times
-* unavoidable phenomenon: ablaut/umlaut [psrc](meira2010origin)
+* important process 1: ablaut/umlaut [psrc](meira2010origin)
     * [lg](PC) \*/ə/ turns to /e/ after \*/i/ and \*/j/
     * the second change is absent in Parukotoan and happened inconsistently in Pemon-Panare and Manapiarean
     * there was no \*/s/ or \*/t͡ʃ/: \*/ti/, \*/te/, \*/tj/
+* important process 2: syllable reduction in CV syllables
+    1. vowel deletion
+    2. debuccalization / velarization of C
+    3. complete erosion
 
 # Cariban pronouns
 
-* first person inclusive and exclusive, [gl](1+2) and [gl](1+3) are distinct person values
+* clusivity, [gl](1+2) and [gl](1+3) are distinct person values
 * many languages have third person anaphoric forms w/ animacy distinction
 * large systems of demonstratives, distinguishing animacy and distance/visibility
-* lexicalized plural forms for pronouns, anaphora, and animate demonstratives
+* lexicalized plural forms for pronouns, and animate anaphora and demonstratives
+* [src](meira2002first,derbyshire1999carib)
 
-[psrc](meira2002first,derbyshire1999carib)
+e.g. [lg](tri):
+
+[table](tripro) 
+[table](tridem)
 
 # First person
 
@@ -74,7 +82,7 @@
         * [cogset](karform?inline)
     * even within same language ([lg](kar))
 2. innovative forms
-	* [gl](1)-PL in the Pemon-Panare group
+	* [gl](1)-[gl](pl) in the Pemon-Panare group
     * old infinitive form of copula for Manapiarean
     * unrelated *epɨ* in [lg](yuk)
 
