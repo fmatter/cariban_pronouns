@@ -741,9 +741,8 @@ wɨ-formative
 
 -   medial demonstratives created by adding emphatic marker to distal
     ones
--   loss of demonstratives common
 -   sporadic loss of initial *\*m*
--   loss of initial *\*m* in medial demonstratives in Venezuela
+-   loss of initial *\*mə* in medial demonstratives in Venezuela
 
 |                   | PROX.ANIM      | PROX.ANIM.PL                     | MED.ANIM  | MED.ANIM.PL  | DIST.ANIM | DIST.ANIM.PL       |
 |:------------------|:---------------|:---------------------------------|:----------|:-------------|:----------|:-------------------|
@@ -754,7 +753,7 @@ wɨ-formative
 | Yawarana          | mit͡ʃi          | mit͡ʃitomo<br>mit͡ʃisantomo        | kərə      | kərəsantomo  | məkɨ      | məkɨsantomo        |
 | Panare            | məh            | məht͡ʃanton                       | kən       | kamənton     | muku(h)   | mukukon            |
 | Proto-Pemongan    | \*məserə       |                                  | \*məkɨrə  |              | \*məkɨ    |                    |
-| Ye’kwana          |                |                                  | məʔrə     | kanno        | məkkɨ     | makkamo            |
+| Ye’kwana          | məəjə          |                                  | məʔrə     | kanno        | məkkɨ     | makkamo            |
 | Tamanaku          | mot͡ʃe          | t͡ʃamoro                          | krere     | kiamoro      | make      | mukiamo            |
 | Kari’ña           | mo(ʔ)se        | moʔsekon<br>moojan<br>moʔsaro(n) | moʔko     | moʔkaro(n)   | moʔkɨ     | mookɨkon<br>moʔkan |
 | Wayana            | mə(s)i<br>məhe | məham(o)<br>məharə               | məkrə(rə) | məkja(rə)    | məkɨ      | məkjamo            |
@@ -770,7 +769,7 @@ wɨ-formative
 
 ![](images/dist-m.svg)
 
-# MED.ANIM: loss of \*m
+# MED.ANIM: loss of \*mə
 
 ![](images/med-m.svg)
 
@@ -1159,7 +1158,7 @@ in Manapiarean and Ye’kwana
 
 |              | Proto-Pemongan | Panare     | Tamanaku | Ye’kwana | Yawarana                 |
 |:-------------|:---------------|:-----------|:---------|:---------|:-------------------------|
-| PROX.ANIM    | \*məserə       | məh        | mot͡ʃe    |          | mit͡ʃi                    |
+| PROX.ANIM    | \*məserə       | məh        | mot͡ʃe    | məəjə    | mit͡ʃi                    |
 | PROX.ANIM.PL |                | məht͡ʃanton | t͡ʃamoro  |          | mit͡ʃitomo / mit͡ʃisantomo |
 | MED.ANIM     | \*məkɨrə       | kən        | krere    | məʔrə    | kərə                     |
 | MED.ANIM.PL  |                | kamənton   | kiamoro  | kanno    | kərəsantomo              |
@@ -1200,7 +1199,7 @@ in Manapiarean and Ye’kwana
 | Yawarana          | mit͡ʃi          | mit͡ʃitomo<br>mit͡ʃisantomo        | kərə      | kərəsantomo  | məkɨ      | məkɨsantomo        |
 | Panare            | məh            | məht͡ʃanton                       | kən       | kamənton     | muku(h)   | mukukon            |
 | Proto-Pemongan    | \*məserə       |                                  | \*məkɨrə  |              | \*məkɨ    |                    |
-| Ye’kwana          |                |                                  | məʔrə     | kanno        | məkkɨ     | makkamo            |
+| Ye’kwana          | məəjə          |                                  | məʔrə     | kanno        | məkkɨ     | makkamo            |
 | Tamanaku          | mot͡ʃe          | t͡ʃamoro                          | krere     | kiamoro      | make      | mukiamo            |
 | Kari’ña           | mo(ʔ)se        | moʔsekon<br>moojan<br>moʔsaro(n) | moʔko     | moʔkaro(n)   | moʔkɨ     | mookɨkon<br>moʔkan |
 | Wayana            | mə(s)i<br>məhe | məham(o)<br>məharə               | məkrə(rə) | məkja(rə)    | məkɨ      | məkjamo            |

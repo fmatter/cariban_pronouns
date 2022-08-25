@@ -132,9 +132,8 @@ e.g. [lg](tri):
 
 # Animate demonstratives
 * medial demonstratives created by adding emphatic marker to distal ones
-* loss of demonstratives common
 * sporadic loss of initial _\*m_
-* loss of initial _\*m_ in medial demonstratives in Venezuela
+* loss of initial _\*mə_ in medial demonstratives in Venezuela
 
 
 [table](pc_dem_a)
@@ -145,7 +144,7 @@ e.g. [lg](tri):
 # DIST.ANIM: loss of *m
 ![](dist-m.svg)
 
-# MED.ANIM: loss of *m
+# MED.ANIM: loss of *mə
 ![](med-m.svg)
 
 

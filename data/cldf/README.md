@@ -23,7 +23,7 @@ property | value
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF FormTable](http://cldf.clld.org/v1.0/terms.rdf#FormTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 541
+[dc:extent](http://purl.org/dc/terms/extent) | 597
 
 
 ### Columns
@@ -43,7 +43,7 @@ Name/Property | Datatype | Description
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF CognateTable](http://cldf.clld.org/v1.0/terms.rdf#CognateTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 816
+[dc:extent](http://purl.org/dc/terms/extent) | 869
 
 
 ### Columns
@@ -62,7 +62,7 @@ Name/Property | Datatype | Description
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF CognatesetTable](http://cldf.clld.org/v1.0/terms.rdf#CognatesetTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 33
+[dc:extent](http://purl.org/dc/terms/extent) | 34
 
 
 ### Columns

@@ -213,8 +213,8 @@ t["Value"] = t.apply(lambda x: "m-initial" if x["Form"].startswith("m") else "m-
 # plot_map(t, "dist-m")
 
 t = forms[forms["Cognateset_ID"] == "MED.ANIM"]
-t["Value"] = t.apply(lambda x: "m-initial" if x["Form"].startswith("m") else "m-loss", axis=1)
-# plot_map(t, "med-m")
+t["Value"] = t.apply(lambda x: "*mə-initial" if not x["Form"].startswith("k") else "*mə-loss", axis=1)
+plot_map(t, "med-m")
 
 
 # inan dem
@@ -226,9 +226,9 @@ def mobile_s(rec):
 
 t = forms[forms["Cognateset_ID"] == "PROX.INAN-1"]
 t["Value"] = t.apply(mobile_s, axis=1)
-plot_map(t, "1-s")
+# plot_map(t, "1-s")
 
 t = forms[forms["Cognateset_ID"] == "PROX.INAN-2"]
 t["Value"] = t.apply(mobile_s, axis=1)
 t = stack_lg_values(t, "Value")
-plot_map(t, "2-s")
+# plot_map(t, "2-s")

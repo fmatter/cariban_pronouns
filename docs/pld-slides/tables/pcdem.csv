@@ -1,5 +1,5 @@
-,ANIM.SG,ANIM.PL,INAN
-PROX-1,pc-pa,pc-pap,pc-i1
-PROX-2,,,pc-i2
-MED,,,pc-mi
-DIST,pc-da,pc-dap,pc-di
+,[gl](anim.sg),[gl](anim.pl),[gl](inan)
+[gl](prox-1),pc-pa,pc-pap,pc-i1
+[gl](prox-2),,,pc-i2
+[gl](med),,,pc-mi
+[gl](dist),pc-da,pc-dap,pc-di
