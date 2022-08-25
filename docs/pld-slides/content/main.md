@@ -2,20 +2,46 @@
 
 * reconstruction of [lg](PC) pronouns by [src](meira2002first)
 * no dedicated comparative work on pronouns since
-* revisiting prompted by comparative work [psrc](meira2005southern,meira2010origin) and new data [psrc](ikpengpacheco2001,akawaiocaesar2003,mattei2003pemono,cruz2005fonologia,garcia2006diccionario,kuikurodossantos2007,kuikurodossantos2007,camargo2010wayana,desouza2010arara,swiggers2010gramatica,largo2011yukpa,maquiritaricaceres2011,panarepayne2013,stegeman2014akawaio,alves2017arara,guerrero2019carijo,muller2021yawarana)
+* revisiting prompted by
+    * new data [psrc](ikpengpacheco2001,akawaiocaesar2003,mattei2003pemono,cruz2005fonologia,garcia2006diccionario,kuikurodossantos2007,kuikurodossantos2007,camargo2010wayana,desouza2010arara,swiggers2010gramatica,largo2011yukpa,maquiritaricaceres2011,panarepayne2013,stegeman2014akawaio,alves2017arara,guerrero2019carijo,muller2021yawarana)
+    * better knowledge about internal classification [psrc](gildea2004classification,meira2005southern,gildea2015venezuelan,matter2021cariban)
+    * other comparative work [psrc](meira2005southern,gildea2010story,meira2010origin)
+* gathered data from sources & annotated for cognacy, w/ three main goals:
+    1. bottom-up reconstruction
+    2. look for genealogical patterns
+    3. look for areal patterns
+* available as a [CLDF dataset](https://github.com/fmatter/cariban_pronouns/tree/main/data/cldf) 
+
 
 # The Cariban language family
-![](family.svg)
-
 * solid lower-level branches: Parukotoan, Pekodian, Taranoan
 * tentative higher-level branch: Venezuelan
 * no evidence for Guianan (Taranoan + [lg](way) + [lg](kar)? + [lg](apa)? + [lg](mak))
-* closely related: Pemongan, Manapiarean
+* closely related dialect groups: Pemongan, Manapiarean
+
+![](family.svg)
+
+# A note on sound correspondences
+* conspicuous absence of shared sound innovations
+* identical changes independently occured several times
+* unavoidable phenomenon: ablaut/umlaut [psrc](meira2010origin)
+    * [lg](PC) \*/ə/ turns to /e/ after \*/i/ and \*/j/
+    * the second change is absent in Parukotoan and happened inconsistently in Pemon-Panare and Manapiarean
+    * there was no \*/s/ or \*/t͡ʃ/: \*/ti/, \*/te/, \*/tj/
+
+# Cariban pronouns
+
+* first person inclusive and exclusive, [gl](1+2) and [gl](1+3) are distinct person values
+* many languages have third person anaphoric forms w/ animacy distinction
+* large systems of demonstratives, distinguishing animacy and distance/visibility
+* lexicalized plural forms for pronouns, anaphora, and animate demonstratives
+
+[psrc](meira2002first,derbyshire1999carib)
 
 # First person
 
 * reconstructible: [wf](pc-1?nt)
-* parallel innovations:
+* reoccurring innovations:
     * grammaticalization of emphatic marker \**rə*
     * coalescence of *wɨ* to *u*
 * appearance of *j* in [lg](pem) and [lg](pan) -- via /əwɨ/ > /ɨwɨ/ > /ɨu/ > /ju/? [psrc](meira2002first[259])
@@ -42,12 +68,15 @@
 # First person inclusive (1+2)
 * etymologically very diverse forms
 1. two apparently distinct roots [cogset](1a2?inline) and [cogset](uku?inline) with same core meaning
-	* [cogset](1a2?inline) combines with different formatives
+	* [cogset](1a2?inline) combines with different formatives:
+        * [cogset](mform?inline)
+        * [cogset](wform?inline)
+        * [cogset](karform?inline)
     * even within same language ([lg](kar))
 2. innovative forms
-	* [gl](1)-[gl](pl) in the Pemon-Panare group
+	* [gl](1)-PL in the Pemon-Panare group
     * old infinitive form of copula for Manapiarean
-    * unrelated *epɨ* in Yukpan
+    * unrelated *epɨ* in [lg](yuk)
 
 
 # 1+2: Cognacy
@@ -57,8 +86,8 @@
 [cogset](1a3)
 
 * related but rather different forms
-* [src](meira2002first[263]) reconstructs \**apina* or \**aipna*, with different patterns of loss
-* various additional initial elements like /ju/, /t͡ʃi/, /n/
+* [src](meira2002first[263]) reconstructs \**(ap)ina* or \**aipna*, with different patterns of loss
+* various additional initial elements: /ju/, /t͡ʃi/, /n/
 * rather divergent [wf](map-1a3?nt)
 
 
@@ -72,22 +101,60 @@
 [cogset](3aabs)
 [cogset](3iabs)
 
-# Third person anaphoric forms
+# Third person anaphoric forms: animate
 
 ![](3aana.svg)
+
+# Third person anaphoric forms: inanimate
+
 ![](3iana.svg)
 
-# Third person animate anaphoric: *i?
+# Third person animate anaphoric: initial *i?
 ![](3aanai.svg)
 
 
-# Mobile-s
+# Animate demonstratives
+* medial demonstratives created by adding emphatic marker to distal ones
+* loss of demonstratives common
+* sporadic loss of initial \*_m_
+* loss of initial \*_m_ in medial demonstratives in Venezuela
 
-# Mobile-i
 
-# The develoment of \**tjə*
-* closely related languages disagree about fronting of vowel
-* late fronting?
+[table](pc_dem_a)
+
+# PROX.ANIM: loss of *m
+![](prox-m.svg)
+
+# DIST.ANIM: loss of *m
+![](dist-m.svg)
+
+# MED.ANIM: loss of *m
+![](med-m.svg)
+
+
+# Inanimate demonstratives
+* [gl](prox.inan-1) and [gl](prox.inan-2) with unclear meaning distinction
+* initial \*_tj_ sometimes present
+
+[table](pc_dem_i)
+
+# *tj-mobile 1
+![](1-s.svg)
+
+
+# *tj-mobile 2
+![](2-s.svg)
+
+# The develoment of *tjə
+* closely related languages disagree about fronting of vowel in [cogset](pinan1?inline)
+* but fronting throughout in [cogset](pinan2?inline), except for (expected) Parukotoan
+
+
+# The develoment of *tjə
+[cogset](pinan1)
+
+# The develoment of *tjə
+[cogset](pinan2)
 
 # Suggested changes
 
@@ -105,6 +172,12 @@
 * Pemon-Panare /j/ in first person? (not in [lg](mac) and Kapón)
 * formal developments of [gl](1+3) pronoun in Parukotoan, Pekodian, and Taranoan
 * third person [cogset](3t?inline) in Manapiarean and [lg](mak)
+
+
+# Possible contact/areal phenomena
+* loss of initial /m/ in animate medial demonstratives in Venezuela
+* loss of initial /m/ in animate proximal & distal demonstratives from [lg](uxc) to [lg](ikp)
+* loss of initial \*_i_
 
 # Appendix
 

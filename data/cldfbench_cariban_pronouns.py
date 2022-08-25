@@ -27,6 +27,19 @@ class Dataset(BaseDataset):
         """
         pass
 
+    def doc_sources(self):
+        out = []
+        with open("../docs/pld-slides/content/main.md", "r", encoding="utf-8") as f:
+            content = f.read()
+            psrc = re.findall(r"\[psrc\]\((.*?)\)", content)
+            src = re.findall(r"\[src\]\((.*?)\)", content)
+            for cits in psrc + src:
+                for cit in cits.split(","):
+                    c = cit.split("[")[0]
+                    if c not in out:
+                        out.append(c)
+        return out
+
     def cmd_makecldf(self, args):
 
         args.writer.cldf.add_component("CognateTable")
@@ -59,7 +72,7 @@ class Dataset(BaseDataset):
             )  # morpheme boundaries are replaced with cognate boundaries
 
         lg_ids = []
-        contained_sources = ["meira2010origin", "muller2021yawarana"]
+        contained_sources = self.doc_sources()
         forms = pd.read_csv("raw/forms.csv", keep_default_na=False)
 
         # set morpheme IDs to lg + index where not present

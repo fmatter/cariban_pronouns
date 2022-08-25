@@ -172,7 +172,7 @@
         "[cogset](pl1)"
     ],
     [
-        "cogset:*uku",
+        "cogset:*(k)uku",
         "[cogset](uku)"
     ],
     [
@@ -252,11 +252,11 @@
         "[cogset](karform)"
     ],
     [
-        "cogset:*-",
+        "cogset:*\u0259w\u0268",
         "[cogset](1abs)"
     ],
     [
-        "cogset:*-",
+        "cogset:*\u0259m\u0259",
         "[cogset](2abs)"
     ],
     [
@@ -276,620 +276,624 @@
         "[cogset](3iabs)"
     ],
     [
+        "cogset:*t\u0259w\u0268",
+        "[cogset](3t)"
+    ],
+    [
         "wf:ur\u0259",
-        "[wf](aka-0)"
+        "[wf](aka-f-0)"
     ],
     [
         "wf:w\u0268",
-        "[wf](aku-1)"
+        "[wf](aku-f-1)"
     ],
     [
         "wf:\u0268w\u0268",
-        "[wf](apa-2)"
+        "[wf](apa-f-2)"
     ],
     [
         "wf:uro",
-        "[wf](ara-3)"
+        "[wf](ara-f-3)"
     ],
     [
         "wf:ur\u0259",
-        "[wf](bak-4)"
+        "[wf](bak-f-4)"
     ],
     [
         "wf:\u0259w\u0268",
-        "[wf](car-5)"
+        "[wf](car-f-5)"
     ],
     [
         "wf:uro",
-        "[wf](hix-6)"
+        "[wf](hix-f-6)"
     ],
     [
         "wf:uro",
-        "[wf](ikp-7)"
+        "[wf](ikp-f-7)"
     ],
     [
         "wf:ur\u0259",
-        "[wf](ing-8)"
+        "[wf](ing-f-8)"
     ],
     [
         "wf:awu",
-        "[wf](kar-9)"
+        "[wf](kar-f-9)"
     ],
     [
         "wf:ow\u0268",
-        "[wf](kax-10)"
+        "[wf](kax-f-10)"
     ],
     [
         "wf:uur\u0268",
-        "[wf](mac-11)"
+        "[wf](mac-f-11)"
     ],
     [
         "wf:ew\u0268",
-        "[wf](mak-12)"
+        "[wf](mak-f-12)"
     ],
     [
         "wf:w\u0268h\u0268",
-        "[wf](map-13)"
+        "[wf](map-f-13)"
     ],
     [
         "wf:uh\u0268",
-        "[wf](map-14)"
+        "[wf](map-f-14)"
     ],
     [
         "wf:ju",
-        "[wf](pan-15)"
+        "[wf](pan-f-15)"
     ],
     [
-        "wf:\u0259w\u0268",
-        "[wf](pc-one)"
+        "wf:*\u0259w\u0268",
+        "[wf](pc-1)"
     ],
     [
         "wf:juur\u0259",
-        "[wf](pem-17)"
+        "[wf](pem-f-17)"
     ],
     [
-        "wf:w\u0268r\u0259",
-        "[wf](PMan-18)"
+        "wf:*w\u0268r\u0259",
+        "[wf](PMan-f-18)"
     ],
     [
-        "wf:w\u0268h\u0268",
-        "[wf](PMan-19)"
+        "wf:*w\u0268h\u0268",
+        "[wf](PMan-f-19)"
     ],
     [
         "wf:ur\u0259",
-        "[wf](pno-20)"
+        "[wf](pno-f-20)"
     ],
     [
         "wf:w\u0268h",
-        "[wf](pno-21)"
+        "[wf](pno-f-21)"
     ],
     [
-        "wf:ow\u0268(ro)",
-        "[wf](PPar-22)"
+        "wf:*ow\u0268",
+        "[wf](PPar-f-22)"
     ],
     [
-        "wf:ur\u0259",
-        "[wf](PPek-23)"
+        "wf:*ur\u0259",
+        "[wf](PPek-f-23)"
     ],
     [
-        "wf:jur\u0259",
-        "[wf](PPem-24)"
+        "wf:*jur\u0259",
+        "[wf](PPem-f-24)"
     ],
     [
-        "wf:ju(r\u0259)",
-        "[wf](PPP-25)"
+        "wf:*ju",
+        "[wf](PPP-f-25)"
     ],
     [
-        "wf:\u0259w\u0268",
-        "[wf](PTar-26)"
+        "wf:*\u0259w\u0268",
+        "[wf](PTar-f-26)"
     ],
     [
-        "wf:w\u0268",
-        "[wf](PTir-27)"
+        "wf:*w\u0268",
+        "[wf](PTir-f-27)"
     ],
     [
-        "wf:ow\u0268(ro)",
-        "[wf](PWai-28)"
+        "wf:*ow\u0268",
+        "[wf](PWai-f-28)"
     ],
     [
-        "wf:uro",
-        "[wf](PXin-29)"
+        "wf:*uro",
+        "[wf](PXin-f-29)"
     ],
     [
         "wf:ure",
-        "[wf](tam-30)"
+        "[wf](tam-f-30)"
     ],
     [
         "wf:w\u0268(\u0268)",
-        "[wf](tri-31)"
+        "[wf](tri-f-31)"
     ],
     [
         "wf:u\u0263e",
-        "[wf](uxc-32)"
+        "[wf](uxc-f-32)"
     ],
     [
         "wf:ow\u0268",
-        "[wf](wai-33)"
+        "[wf](wai-f-33)"
     ],
     [
         "wf:\u0268wu",
-        "[wf](way-34)"
+        "[wf](way-f-34)"
     ],
     [
         "wf:aw\u0268",
-        "[wf](wmr-35)"
+        "[wf](wmr-f-35)"
     ],
     [
         "wf:w\u0268r\u0259",
-        "[wf](yab-36)"
+        "[wf](yab-f-36)"
     ],
     [
         "wf:aw\u0268(r)",
-        "[wf](yuk-37)"
+        "[wf](yuk-f-37)"
     ],
     [
         "wf:am\u0259r\u0259",
-        "[wf](aka-38)"
+        "[wf](aka-f-38)"
     ],
     [
         "wf:\u0259m\u0259",
-        "[wf](aku-39)"
+        "[wf](aku-f-39)"
     ],
     [
         "wf:omoro",
-        "[wf](apa-40)"
+        "[wf](apa-f-40)"
     ],
     [
         "wf:omoro",
-        "[wf](ara-41)"
+        "[wf](ara-f-41)"
     ],
     [
         "wf:\u0259m\u0259",
-        "[wf](bak-42)"
+        "[wf](bak-f-42)"
     ],
     [
         "wf:\u0259m\u0259r\u0259",
-        "[wf](car-43)"
+        "[wf](car-f-43)"
     ],
     [
         "wf:omoro",
-        "[wf](hix-44)"
+        "[wf](hix-f-44)"
     ],
     [
         "wf:omro",
-        "[wf](ikp-45)"
+        "[wf](ikp-f-45)"
     ],
     [
         "wf:am\u0259r\u0259",
-        "[wf](ing-46)"
+        "[wf](ing-f-46)"
     ],
     [
         "wf:amoro",
-        "[wf](kar-47)"
+        "[wf](kar-f-47)"
     ],
     [
         "wf:omoro",
-        "[wf](kax-48)"
+        "[wf](kax-f-48)"
     ],
     [
         "wf:am\u0268r\u0268",
-        "[wf](mac-49)"
+        "[wf](mac-f-49)"
     ],
     [
         "wf:am\u0259r\u0259",
-        "[wf](mak-50)"
+        "[wf](mak-f-50)"
     ],
     [
         "wf:(m)\u0259r\u0259",
-        "[wf](map-51)"
+        "[wf](map-f-51)"
     ],
     [
         "wf:am\u0259n",
-        "[wf](pan-52)"
+        "[wf](pan-f-52)"
     ],
     [
-        "wf:\u0259m\u0259",
-        "[wf](pc-two)"
+        "wf:*\u0259m\u0259",
+        "[wf](pc-2)"
     ],
     [
         "wf:am\u0259r\u0259",
-        "[wf](pem-54)"
+        "[wf](pem-f-54)"
+    ],
+    [
+        "wf:*m\u0259r\u0259",
+        "[wf](PMan-f-55)"
     ],
     [
         "wf:m\u0259r\u0259",
-        "[wf](PMan-55)"
+        "[wf](pno-f-56)"
     ],
     [
-        "wf:m\u0259r\u0259",
-        "[wf](pno-56)"
+        "wf:*omoro",
+        "[wf](PPar-f-57)"
     ],
     [
-        "wf:omoro",
-        "[wf](PPar-57)"
+        "wf:*\u0259m\u0259",
+        "[wf](PPek-f-58)"
     ],
     [
-        "wf:\u0259m\u0259r\u0259",
-        "[wf](PPek-58)"
+        "wf:*am\u0259r\u0259",
+        "[wf](PPem-f-59)"
     ],
     [
-        "wf:am\u0259r\u0259",
-        "[wf](PPem-59)"
+        "wf:*am\u0259r\u0259",
+        "[wf](PPP-f-60)"
     ],
     [
-        "wf:am\u0259r\u0259",
-        "[wf](PPP-60)"
+        "wf:*\u0259m\u0259",
+        "[wf](PTar-f-61)"
     ],
     [
-        "wf:\u0259m\u0259(r\u0259)",
-        "[wf](PTar-61)"
+        "wf:*\u0259m\u0259",
+        "[wf](PTir-f-62)"
     ],
     [
-        "wf:\u0259m\u0259",
-        "[wf](PTir-62)"
+        "wf:*omoro",
+        "[wf](PWai-f-63)"
     ],
     [
-        "wf:omoro",
-        "[wf](PWai-63)"
-    ],
-    [
-        "wf:omoro",
-        "[wf](PXin-64)"
+        "wf:*omoro",
+        "[wf](PXin-f-64)"
     ],
     [
         "wf:amare",
-        "[wf](tam-65)"
+        "[wf](tam-f-65)"
     ],
     [
         "wf:\u0259m\u0259",
-        "[wf](tri-66)"
+        "[wf](tri-f-66)"
     ],
     [
         "wf:ee\u0263e",
-        "[wf](uxc-67)"
+        "[wf](uxc-f-67)"
     ],
     [
         "wf:amoro",
-        "[wf](wai-68)"
+        "[wf](wai-f-68)"
     ],
     [
         "wf:\u0259m\u0259r\u0259",
-        "[wf](way-69)"
+        "[wf](way-f-69)"
     ],
     [
         "wf:\u0259m\u0259",
-        "[wf](way-70)"
+        "[wf](way-f-70)"
     ],
     [
         "wf:am\u0268r\u0268",
-        "[wf](wmr-71)"
+        "[wf](wmr-f-71)"
     ],
     [
         "wf:m\u0259r\u0259",
-        "[wf](yab-72)"
+        "[wf](yab-f-72)"
     ],
     [
         "wf:amo",
-        "[wf](yuk-73)"
+        "[wf](yuk-f-73)"
     ],
     [
         "wf:amor",
-        "[wf](yuk-74)"
+        "[wf](yuk-f-74)"
+    ],
+    [
+        "wf:ur\u0259\u0294nokon",
+        "[wf](aka-f-75)"
     ],
     [
         "wf:k\u0268m\u0259",
-        "[wf](aku-75)"
+        "[wf](aku-f-76)"
     ],
     [
         "wf:k\u0268moro",
-        "[wf](apa-76)"
+        "[wf](apa-f-77)"
     ],
     [
         "wf:ugoro",
-        "[wf](ara-77)"
-    ],
-    [
-        "wf:k\u0268m\u0259r\u0259",
-        "[wf](car-78)"
-    ],
-    [
-        "wf:k\u0268wro",
-        "[wf](hix-79)"
-    ],
-    [
-        "wf:ugro",
-        "[wf](ikp-80)"
-    ],
-    [
-        "wf:k\u0268\u0294ko",
-        "[wf](kar-81)"
-    ],
-    [
-        "wf:k\u0268moro",
-        "[wf](kar-82)"
-    ],
-    [
-        "wf:kumoro",
-        "[wf](kax-83)"
-    ],
-    [
-        "wf:uur\u0268\u0294kon",
-        "[wf](mac-84)"
-    ],
-    [
-        "wf:k\u0268w\u0268",
-        "[wf](mak-85)"
-    ],
-    [
-        "wf:e\u0294n\u0259",
-        "[wf](map-86)"
-    ],
-    [
-        "wf:juto",
-        "[wf](pan-87)"
-    ],
-    [
-        "wf:juur\u0259to",
-        "[wf](pem-88)"
-    ],
-    [
-        "wf:ep\u0268n\u0259",
-        "[wf](PMan-89)"
-    ],
-    [
-        "wf:e\u0294n\u0259",
-        "[wf](pno-90)"
-    ],
-    [
-        "wf:k\u0268?(ro)",
-        "[wf](PPar-91)"
-    ],
-    [
-        "wf:ukur\u0259",
-        "[wf](PPek-92)"
-    ],
-    [
-        "wf:jur\u0259tokon",
-        "[wf](PPem-93)"
-    ],
-    [
-        "wf:ju(r\u0259)to",
-        "[wf](PPP-94)"
-    ],
-    [
-        "wf:k\u0268m\u0259(r\u0259)",
-        "[wf](PTar-95)"
-    ],
-    [
-        "wf:k\u0268m\u0259",
-        "[wf](PTir-96)"
-    ],
-    [
-        "wf:k\u0268w\u0268(ro)",
-        "[wf](PWai-97)"
-    ],
-    [
-        "wf:ugoro",
-        "[wf](PXin-98)"
-    ],
-    [
-        "wf:kiwe",
-        "[wf](tam-99)"
-    ],
-    [
-        "wf:k\u0268m\u0259",
-        "[wf](tri-100)"
-    ],
-    [
-        "wf:kuku\u0263e",
-        "[wf](uxc-101)"
-    ],
-    [
-        "wf:k\u0268\u0268w\u0268",
-        "[wf](wai-102)"
-    ],
-    [
-        "wf:kunm\u0259",
-        "[wf](way-103)"
-    ],
-    [
-        "wf:k\u0268k\u0268",
-        "[wf](wmr-104)"
-    ],
-    [
-        "wf:ehn\u0259",
-        "[wf](yab-105)"
-    ],
-    [
-        "wf:ep\u0268",
-        "[wf](yuk-106)"
-    ],
-    [
-        "wf:uur\u0268\u0294kon",
-        "[wf](mac-107)"
-    ],
-    [
-        "wf:juur\u0259tokon",
-        "[wf](pem-108)"
-    ],
-    [
-        "wf:k\u0268?(ro)",
-        "[wf](PPar-109)"
-    ],
-    [
-        "wf:k\u0268w\u0268(ro)",
-        "[wf](PWai-110)"
-    ],
-    [
-        "wf:k\u0268?",
-        "[wf](PC-111)"
+        "[wf](ara-f-78)"
     ],
     [
         "wf:kur\u0259",
-        "[wf](bak-112)"
+        "[wf](bak-f-79)"
+    ],
+    [
+        "wf:k\u0268m\u0259r\u0259",
+        "[wf](car-f-80)"
+    ],
+    [
+        "wf:k\u0268wro",
+        "[wf](hix-f-81)"
+    ],
+    [
+        "wf:ugro",
+        "[wf](ikp-f-82)"
+    ],
+    [
+        "wf:k\u0268\u0294ko",
+        "[wf](kar-f-83)"
+    ],
+    [
+        "wf:k\u0268moro",
+        "[wf](kar-f-84)"
+    ],
+    [
+        "wf:kumoro",
+        "[wf](kax-f-85)"
+    ],
+    [
+        "wf:uur\u0268\u0294kon",
+        "[wf](mac-f-86)"
+    ],
+    [
+        "wf:k\u0268w\u0268",
+        "[wf](mak-f-87)"
+    ],
+    [
+        "wf:e\u0294n\u0259",
+        "[wf](map-f-88)"
+    ],
+    [
+        "wf:juto",
+        "[wf](pan-f-89)"
+    ],
+    [
+        "wf:*k\u0268CV",
+        "[wf](pc-12)"
+    ],
+    [
+        "wf:juur\u0259to",
+        "[wf](pem-f-91)"
+    ],
+    [
+        "wf:*et\u0361\u0283in\u0259",
+        "[wf](PMan-f-92)"
+    ],
+    [
+        "wf:e\u0294n\u0259",
+        "[wf](pno-f-93)"
+    ],
+    [
+        "wf:*k\u0268w\u0268",
+        "[wf](PPar-f-94)"
+    ],
+    [
+        "wf:*k\u0268mo",
+        "[wf](PPar-f-95)"
+    ],
+    [
+        "wf:*ukur\u0259",
+        "[wf](PPek-f-96)"
+    ],
+    [
+        "wf:*jur\u0259tokon",
+        "[wf](PPem-f-97)"
+    ],
+    [
+        "wf:*k\u0268m\u0259",
+        "[wf](PTar-f-98)"
+    ],
+    [
+        "wf:*k\u0268m\u0259",
+        "[wf](PTir-f-99)"
+    ],
+    [
+        "wf:*k\u0268w\u0268",
+        "[wf](PWai-f-100)"
+    ],
+    [
+        "wf:*ugoro",
+        "[wf](PXin-f-101)"
+    ],
+    [
+        "wf:kiwe",
+        "[wf](tam-f-102)"
+    ],
+    [
+        "wf:k\u0268m\u0259",
+        "[wf](tri-f-103)"
+    ],
+    [
+        "wf:kuku\u0263e",
+        "[wf](uxc-f-104)"
+    ],
+    [
+        "wf:k\u0268\u0268w\u0268",
+        "[wf](wai-f-105)"
+    ],
+    [
+        "wf:kunm\u0259",
+        "[wf](way-f-106)"
+    ],
+    [
+        "wf:k\u0268k\u0268",
+        "[wf](wmr-f-107)"
+    ],
+    [
+        "wf:ehn\u0259",
+        "[wf](yab-f-108)"
+    ],
+    [
+        "wf:ep\u0268",
+        "[wf](yuk-f-109)"
     ],
     [
         "wf:ur\u0259\u0294nokon",
-        "[wf](aka-113)"
+        "[wf](aka-f-110)"
     ],
     [
         "wf:k\u0268(m\u0259)njamo",
-        "[wf](aku-114)"
+        "[wf](aku-f-111)"
     ],
     [
         "wf:k\u0268marokomo",
-        "[wf](apa-115)"
+        "[wf](apa-f-112)"
     ],
     [
         "wf:ugoro\u014bmo",
-        "[wf](ara-116)"
+        "[wf](ara-f-113)"
+    ],
+    [
+        "wf:kur\u0259",
+        "[wf](bak-f-114)"
     ],
     [
         "wf:k\u0268\u0272amoro",
-        "[wf](car-117)"
+        "[wf](car-f-115)"
     ],
     [
         "wf:k\u0268wjamo",
-        "[wf](hix-118)"
+        "[wf](hix-f-116)"
     ],
     [
         "wf:ugro\u014bmo",
-        "[wf](ikp-119)"
+        "[wf](ikp-f-117)"
     ],
     [
         "wf:ur\u0259\u0294nokon",
-        "[wf](ing-120)"
+        "[wf](ing-f-118)"
     ],
     [
         "wf:k\u0268\u0294karo(n)",
-        "[wf](kar-121)"
+        "[wf](kar-f-119)"
     ],
     [
         "wf:k\u0268mojaro",
-        "[wf](kar-122)"
+        "[wf](kar-f-120)"
     ],
     [
         "wf:k\u0268mjar\u0268",
-        "[wf](kax-123)"
+        "[wf](kax-f-121)"
     ],
     [
         "wf:uur\u0268\u0294n\u0268kon",
-        "[wf](mac-124)"
+        "[wf](mac-f-122)"
     ],
     [
         "wf:k\u0268nwanno",
-        "[wf](mak-125)"
+        "[wf](mak-f-123)"
     ],
     [
         "wf:jutakon",
-        "[wf](pan-126)"
+        "[wf](pan-f-124)"
+    ],
+    [
+        "wf:*k\u0268CV-jamo",
+        "[wf](pc-12pl)"
     ],
     [
         "wf:juur\u0259nokon",
-        "[wf](pem-127)"
+        "[wf](pem-f-126)"
     ],
     [
         "wf:juur\u0259tokon",
-        "[wf](pem-128)"
+        "[wf](pem-f-127)"
     ],
     [
-        "wf:k\u0268?jamo(ro)",
-        "[wf](PPar-129)"
+        "wf:*k\u0268wjamo",
+        "[wf](PPar-f-128)"
     ],
     [
-        "wf:jur\u0259\u0294nokon",
-        "[wf](PPem-130)"
+        "wf:*k\u0268mojamo",
+        "[wf](PPar-f-129)"
     ],
     [
-        "wf:k\u0268njamo",
-        "[wf](PTar-131)"
+        "wf:*jur\u0259\u0294nokon",
+        "[wf](PPem-f-130)"
     ],
     [
-        "wf:k\u0268(m\u0259)njamo",
-        "[wf](PTir-132)"
+        "wf:*k\u0268njamo",
+        "[wf](PTar-f-131)"
     ],
     [
-        "wf:k\u0268wjamo",
-        "[wf](PWai-133)"
+        "wf:*k\u0268(m\u0259)njamo",
+        "[wf](PTir-f-132)"
     ],
     [
-        "wf:ugoro\u014bmo",
-        "[wf](PXin-134)"
+        "wf:*k\u0268wjamo",
+        "[wf](PWai-f-133)"
+    ],
+    [
+        "wf:*ugoro\u014bmo",
+        "[wf](PXin-f-134)"
     ],
     [
         "wf:kikemo",
-        "[wf](tam-135)"
+        "[wf](tam-f-135)"
     ],
     [
         "wf:k\u0268m\u0259njamo",
-        "[wf](tri-136)"
+        "[wf](tri-f-136)"
     ],
     [
         "wf:kuku\u0263eko",
-        "[wf](uxc-137)"
+        "[wf](uxc-f-137)"
     ],
     [
         "wf:k\u0268wjam",
-        "[wf](wai-138)"
+        "[wf](wai-f-138)"
     ],
     [
         "wf:kunm\u0259ramkomo",
-        "[wf](way-139)"
-    ],
-    [
-        "wf:k\u0268?jamo",
-        "[wf](PC-140)"
+        "[wf](way-f-139)"
     ],
     [
         "wf:ina",
-        "[wf](aka-141)"
+        "[wf](aka-f-140)"
     ],
     [
         "wf:anja",
-        "[wf](aku-142)"
+        "[wf](aku-f-141)"
     ],
     [
         "wf:\u0268na",
-        "[wf](apa-143)"
+        "[wf](apa-f-142)"
     ],
     [
         "wf:t\u0361\u0283imna",
-        "[wf](ara-144)"
+        "[wf](ara-f-143)"
     ],
     [
         "wf:\u0283ina",
-        "[wf](bak-145)"
+        "[wf](bak-f-144)"
     ],
     [
         "wf:a\u0272a",
-        "[wf](car-146)"
+        "[wf](car-f-145)"
     ],
     [
         "wf:amna",
-        "[wf](hix-147)"
+        "[wf](hix-f-146)"
     ],
     [
         "wf:t\u0361\u0283imna",
-        "[wf](ikp-148)"
+        "[wf](ikp-f-147)"
     ],
     [
         "wf:ina",
-        "[wf](ing-149)"
+        "[wf](ing-f-148)"
+    ],
+    [
+        "wf:nana",
+        "[wf](jap-f-149)"
     ],
     [
         "wf:na\u0294na",
-        "[wf](kar-150)"
+        "[wf](kar-f-150)"
     ],
     [
         "wf:amna",
-        "[wf](kax-151)"
+        "[wf](kax-f-151)"
     ],
     [
         "wf:anna",
-        "[wf](mac-152)"
+        "[wf](mac-f-152)"
     ],
     [
         "wf:n\u0272a",
-        "[wf](mak-153)"
+        "[wf](mak-f-153)"
     ],
     [
         "wf:naha",
@@ -897,503 +901,491 @@
     ],
     [
         "wf:ana",
-        "[wf](pan-155)"
+        "[wf](pan-f-155)"
+    ],
+    [
+        "wf:*(ai)pna",
+        "[wf](pc-13)"
     ],
     [
         "wf:inna",
-        "[wf](pem-156)"
+        "[wf](pem-f-157)"
+    ],
+    [
+        "wf:*ana",
+        "[wf](PMan-f-158)"
     ],
     [
         "wf:ana",
-        "[wf](PMan-157)"
+        "[wf](pno-f-159)"
     ],
     [
-        "wf:ana",
-        "[wf](pno-158)"
+        "wf:*amna",
+        "[wf](PPar-f-160)"
     ],
     [
-        "wf:amna",
-        "[wf](PPar-159)"
+        "wf:*t\u0361\u0283imna",
+        "[wf](PPek-f-161)"
     ],
     [
-        "wf:t\u0361\u0283imna",
-        "[wf](PPek-160)"
+        "wf:*inna",
+        "[wf](PPem-f-162)"
     ],
     [
-        "wf:inna",
-        "[wf](PPem-161)"
+        "wf:*anna",
+        "[wf](PPem-f-163)"
     ],
     [
-        "wf:inna",
-        "[wf](PPP-162)"
+        "wf:*inna",
+        "[wf](PPP-f-164)"
     ],
     [
-        "wf:anja",
-        "[wf](PTar-163)"
+        "wf:*anja",
+        "[wf](PTar-f-165)"
     ],
     [
-        "wf:anja",
-        "[wf](PTir-164)"
+        "wf:*anja",
+        "[wf](PTir-f-166)"
     ],
     [
-        "wf:amna",
-        "[wf](PWai-165)"
+        "wf:*amna",
+        "[wf](PWai-f-167)"
     ],
     [
-        "wf:t\u0361\u0283imna",
-        "[wf](PXin-166)"
+        "wf:*t\u0361\u0283imna",
+        "[wf](PXin-f-168)"
     ],
     [
         "wf:jumna",
-        "[wf](tam-167)"
+        "[wf](tam-f-169)"
     ],
     [
         "wf:anja",
-        "[wf](tri-168)"
+        "[wf](tri-f-170)"
     ],
     [
         "wf:tisu\u0263e",
-        "[wf](uxc-169)"
+        "[wf](uxc-f-171)"
     ],
     [
         "wf:amna",
-        "[wf](wai-170)"
+        "[wf](wai-f-172)"
     ],
     [
         "wf:emna",
-        "[wf](way-171)"
+        "[wf](way-f-173)"
     ],
     [
         "wf:a\u0294a",
-        "[wf](wmr-172)"
+        "[wf](wmr-f-174)"
     ],
     [
         "wf:ana",
-        "[wf](yab-173)"
+        "[wf](yab-f-175)"
     ],
     [
         "wf:nana(r)",
-        "[wf](yuk-174)"
-    ],
-    [
-        "wf:aipna",
-        "[wf](PC-175)"
+        "[wf](yuk-f-176)"
     ],
     [
         "wf:am\u0259r\u0259\u0294nokon",
-        "[wf](aka-176)"
+        "[wf](aka-f-177)"
     ],
     [
         "wf:\u0259m\u0259njamo",
-        "[wf](aku-177)"
+        "[wf](aku-f-178)"
     ],
     [
         "wf:amarakomo",
-        "[wf](apa-178)"
+        "[wf](apa-f-179)"
     ],
     [
         "wf:omoro\u014bmo",
-        "[wf](ara-179)"
+        "[wf](ara-f-180)"
     ],
     [
         "wf:\u0259maremo",
-        "[wf](bak-180)"
+        "[wf](bak-f-181)"
     ],
     [
         "wf:a\u0272amoro",
-        "[wf](car-181)"
+        "[wf](car-f-182)"
     ],
     [
         "wf:om\u0272amo",
-        "[wf](hix-182)"
+        "[wf](hix-f-183)"
     ],
     [
         "wf:omro\u014bmo",
-        "[wf](ikp-183)"
+        "[wf](ikp-f-184)"
     ],
     [
         "wf:am\u0259r\u0259\u0294nokon",
-        "[wf](ing-184)"
+        "[wf](ing-f-185)"
     ],
     [
         "wf:am\u0268jaro(n)",
-        "[wf](kar-185)"
+        "[wf](kar-f-186)"
     ],
     [
         "wf:omjar\u0268",
-        "[wf](kax-186)"
+        "[wf](kax-f-187)"
     ],
     [
         "wf:am\u0268r\u0268\u0294n\u0268kon",
-        "[wf](mac-187)"
+        "[wf](mac-f-188)"
     ],
     [
         "wf:\u0259nwanno",
-        "[wf](mak-188)"
+        "[wf](mak-f-189)"
     ],
     [
         "wf:akontomo",
-        "[wf](map-189)"
+        "[wf](map-f-190)"
     ],
     [
         "wf:am\u0259nton",
-        "[wf](pan-190)"
+        "[wf](pan-f-191)"
     ],
     [
-        "wf:\u0259mjamo",
-        "[wf](PC-191)"
+        "wf:*\u0259m-jamo",
+        "[wf](pc-2pl)"
     ],
     [
         "wf:am\u0259r\u0259nokon",
-        "[wf](pem-192)"
+        "[wf](pem-f-193)"
     ],
     [
-        "wf:m\u0259kontomo",
-        "[wf](PMan-193)"
+        "wf:*m\u0259kontomo",
+        "[wf](PMan-f-194)"
     ],
     [
         "wf:mokontomo",
-        "[wf](pno-194)"
+        "[wf](pno-f-195)"
     ],
     [
-        "wf:omjamo(ro)",
-        "[wf](PPar-195)"
+        "wf:*omjamo",
+        "[wf](PPar-f-196)"
     ],
     [
-        "wf:\u0259m\u0259r\u0259jamo",
-        "[wf](PPek-196)"
+        "wf:*\u0259m\u0259r\u0259jamo",
+        "[wf](PPek-f-197)"
     ],
     [
-        "wf:am\u0259r\u0259\u0294nokon",
-        "[wf](PPem-197)"
+        "wf:*am\u0259r\u0259\u0294nokon",
+        "[wf](PPem-f-198)"
     ],
     [
-        "wf:am\u0259r\u0259?",
-        "[wf](PPP-198)"
+        "wf:*am\u0259r\u0259?",
+        "[wf](PPP-f-199)"
     ],
     [
-        "wf:\u0259njamo",
-        "[wf](PTar-199)"
+        "wf:*\u0259njamo",
+        "[wf](PTar-f-200)"
     ],
     [
-        "wf:\u0259m\u0259njamo",
-        "[wf](PTir-200)"
+        "wf:*\u0259m\u0259njamo",
+        "[wf](PTir-f-201)"
     ],
     [
-        "wf:omjamo(ro)",
-        "[wf](PWai-201)"
+        "wf:*omjamo",
+        "[wf](PWai-f-202)"
     ],
     [
-        "wf:omoro\u014bmo",
-        "[wf](PXin-202)"
+        "wf:*omoro\u014bmo",
+        "[wf](PXin-f-203)"
     ],
     [
         "wf:am\u0272amoro",
-        "[wf](tam-203)"
+        "[wf](tam-f-204)"
     ],
     [
         "wf:\u0259m\u0259njamo",
-        "[wf](tri-204)"
+        "[wf](tri-f-205)"
     ],
     [
         "wf:ama\u0263o",
-        "[wf](uxc-205)"
+        "[wf](uxc-f-206)"
     ],
     [
         "wf:amjamro",
-        "[wf](wai-206)"
+        "[wf](wai-f-207)"
     ],
     [
         "wf:\u0259m\u0259ramkomo",
-        "[wf](way-207)"
+        "[wf](way-f-208)"
     ],
     [
         "wf:am\u0268r\u0268t\u0268",
-        "[wf](wmr-208)"
+        "[wf](wmr-f-209)"
     ],
     [
         "wf:montomo",
-        "[wf](yab-209)"
+        "[wf](yab-f-210)"
     ],
     [
         "wf:amora",
-        "[wf](yuk-210)"
-    ],
-    [
-        "wf:ir\u0268",
-        "[wf](wmr-212)"
+        "[wf](yuk-f-211)"
     ],
     [
         "wf:n\u0259r\u0259",
-        "[wf](aku-214)"
+        "[wf](aku-f-212)"
     ],
     [
         "wf:\u0268noro",
-        "[wf](apa-215)"
+        "[wf](apa-f-213)"
     ],
     [
         "wf:in\u0259ra",
-        "[wf](bak-216)"
+        "[wf](bak-f-214)"
     ],
     [
         "wf:n\u0259r\u0259",
-        "[wf](car-217)"
+        "[wf](car-f-215)"
     ],
     [
         "wf:noro",
-        "[wf](hix-218)"
+        "[wf](hix-f-216)"
     ],
     [
         "wf:inoro",
-        "[wf](kar-219)"
+        "[wf](kar-f-217)"
     ],
     [
         "wf:\u0272oro",
-        "[wf](kar-220)"
+        "[wf](kar-f-218)"
     ],
     [
         "wf:noro",
-        "[wf](kax-221)"
+        "[wf](kax-f-219)"
     ],
     [
-        "wf:noro",
-        "[wf](PPar-222)"
+        "wf:\u0272\u0259\u0259r\u0259",
+        "[wf](mak-f-220)"
     ],
     [
-        "wf:n\u0259(\u0259)r\u0259",
-        "[wf](PTar-223)"
+        "wf:*in\u0259r\u0259",
+        "[wf](pc-3anim)"
     ],
     [
-        "wf:n\u0259r\u0259",
-        "[wf](PTir-224)"
+        "wf:*noro",
+        "[wf](PPar-f-222)"
     ],
     [
-        "wf:noro",
-        "[wf](PWai-225)"
+        "wf:*in\u0259ra",
+        "[wf](PPek-f-223)"
+    ],
+    [
+        "wf:*n\u0259(\u0259)r\u0259",
+        "[wf](PTar-f-224)"
+    ],
+    [
+        "wf:*n\u0259r\u0259",
+        "[wf](PTir-f-225)"
+    ],
+    [
+        "wf:*noro",
+        "[wf](PWai-f-226)"
     ],
     [
         "wf:nare",
-        "[wf](tam-226)"
+        "[wf](tam-f-227)"
     ],
     [
         "wf:n\u0259r\u0259",
-        "[wf](tri-227)"
+        "[wf](tri-f-228)"
     ],
     [
         "wf:\u0268\u014bele",
-        "[wf](uxc-228)"
+        "[wf](uxc-f-229)"
     ],
     [
         "wf:noro",
-        "[wf](wai-229)"
+        "[wf](wai-f-230)"
     ],
     [
         "wf:in\u0259r\u0259(r\u0259)",
-        "[wf](way-230)"
-    ],
-    [
-        "wf:k\u0268r\u0259(r\u0259)",
-        "[wf](ing-231)"
-    ],
-    [
-        "wf:in\u0259r\u0259",
-        "[wf](PC-232)"
+        "[wf](way-f-231)"
     ],
     [
         "wf:namoro",
-        "[wf](aku-233)"
+        "[wf](aku-f-232)"
     ],
     [
         "wf:\u0268naro",
-        "[wf](apa-234)"
+        "[wf](apa-f-233)"
     ],
     [
         "wf:namoro",
-        "[wf](car-235)"
+        "[wf](car-f-234)"
     ],
     [
         "wf:\u0272amoro",
-        "[wf](hix-236)"
+        "[wf](hix-f-235)"
     ],
     [
         "wf:inaro(n)",
-        "[wf](kar-237)"
+        "[wf](kar-f-236)"
     ],
     [
         "wf:\u0272orokon",
-        "[wf](kar-238)"
+        "[wf](kar-f-237)"
     ],
     [
         "wf:namorjam\u0268",
-        "[wf](kax-239)"
+        "[wf](kax-f-238)"
     ],
     [
-        "wf:inamoro",
-        "[wf](PPar-240)"
+        "wf:(n)\u0272anno",
+        "[wf](mak-f-239)"
+    ],
+    [
+        "wf:*in-jamo",
+        "[wf](pc-3animpl)"
+    ],
+    [
+        "wf:*inamoro",
+        "[wf](PPar-f-241)"
+    ],
+    [
+        "wf:*namo",
+        "[wf](PTar-f-242)"
+    ],
+    [
+        "wf:*namo(ro)",
+        "[wf](PTir-f-243)"
+    ],
+    [
+        "wf:*inamoro",
+        "[wf](PWai-f-244)"
     ],
     [
         "wf:namo",
-        "[wf](PTar-241)"
-    ],
-    [
-        "wf:namo(ro)",
-        "[wf](PTir-242)"
-    ],
-    [
-        "wf:inamoro",
-        "[wf](PWai-243)"
-    ],
-    [
-        "wf:namo",
-        "[wf](tri-244)"
+        "[wf](tri-f-245)"
     ],
     [
         "wf:(\u0268)na\u0263o",
-        "[wf](uxc-245)"
+        "[wf](uxc-f-246)"
     ],
     [
         "wf:\u0272e\u0283amro",
-        "[wf](wai-246)"
+        "[wf](wai-f-247)"
     ],
     [
         "wf:inamoro",
-        "[wf](way-247)"
-    ],
-    [
-        "wf:kamo(ro)",
-        "[wf](ing-248)"
-    ],
-    [
-        "wf:sero\u0294ne",
-        "[wf](apa-249)"
-    ],
-    [
-        "wf:to\u0294",
-        "[wf](ing-250)"
-    ],
-    [
-        "wf:tot(o)",
-        "[wf](way-251)"
-    ],
-    [
-        "wf:injamo",
-        "[wf](PC-252)"
+        "[wf](way-f-248)"
     ],
     [
         "wf:ir\u0259",
-        "[wf](aku-253)"
+        "[wf](aku-f-249)"
     ],
     [
         "wf:\u0268ro",
-        "[wf](apa-254)"
+        "[wf](apa-f-250)"
     ],
     [
         "wf:il\u0259",
-        "[wf](bak-255)"
+        "[wf](bak-f-251)"
     ],
     [
         "wf:ir\u0259",
-        "[wf](car-256)"
+        "[wf](car-f-252)"
     ],
     [
         "wf:\u0268ro",
-        "[wf](hix-257)"
+        "[wf](hix-f-253)"
     ],
     [
         "wf:iro",
-        "[wf](kar-258)"
+        "[wf](kar-f-254)"
     ],
     [
         "wf:iro",
-        "[wf](kax-259)"
+        "[wf](kax-f-255)"
     ],
     [
-        "wf:iro",
-        "[wf](PPar-260)"
+        "wf:ij\u0259",
+        "[wf](mak-f-256)"
+    ],
+    [
+        "wf:*ir\u0259",
+        "[wf](pc-3inan)"
+    ],
+    [
+        "wf:*iro",
+        "[wf](PPar-f-258)"
+    ],
+    [
+        "wf:*ir\u0259",
+        "[wf](PPek-f-259)"
+    ],
+    [
+        "wf:*ir\u0259",
+        "[wf](PTar-f-260)"
+    ],
+    [
+        "wf:*ir\u0259",
+        "[wf](PTir-f-261)"
+    ],
+    [
+        "wf:*\u0268ro",
+        "[wf](PWai-f-262)"
     ],
     [
         "wf:ir\u0259",
-        "[wf](PTar-261)"
-    ],
-    [
-        "wf:ir\u0259",
-        "[wf](PTir-262)"
-    ],
-    [
-        "wf:\u0268ro",
-        "[wf](PWai-263)"
-    ],
-    [
-        "wf:ir\u0259",
-        "[wf](tri-264)"
+        "[wf](tri-f-263)"
     ],
     [
         "wf:ile",
-        "[wf](uxc-265)"
+        "[wf](uxc-f-264)"
     ],
     [
         "wf:\u0268le",
-        "[wf](uxc-266)"
+        "[wf](uxc-f-265)"
     ],
     [
         "wf:ero",
-        "[wf](wai-267)"
+        "[wf](wai-f-266)"
     ],
     [
         "wf:ir\u0259",
-        "[wf](way-268)"
+        "[wf](way-f-267)"
     ],
     [
-        "wf:iro",
-        "[wf](PPar-269)"
-    ],
-    [
-        "wf:\u0268ro",
-        "[wf](PWai-270)"
-    ],
-    [
-        "wf:ir\u0259",
-        "[wf](PC-271)"
+        "wf:ir\u0268",
+        "[wf](wmr-f-268)"
     ],
     [
         "wf:irokon",
-        "[wf](kar-272)"
+        "[wf](kar-f-269)"
     ],
     [
         "wf:ironne",
-        "[wf](kax-273)"
+        "[wf](kax-f-270)"
     ],
     [
         "wf:ir\u0259to(mo)",
-        "[wf](tri-274)"
-    ],
-    [
-        "wf:to\u0294",
-        "[wf](mac-275)"
-    ],
-    [
-        "wf:to\u0294",
-        "[wf](pem-276)"
-    ],
-    [
-        "wf:ake",
-        "[wf](yuk-278)"
+        "[wf](tri-f-271)"
     ],
     [
         "wf:mok\u0268",
-        "[wf](apa-279)"
+        "[wf](apa-f-272)"
     ],
     [
         "wf:mook",
-        "[wf](ara-280)"
+        "[wf](ara-f-273)"
     ],
     [
         "wf:mog\u0268(n)",
-        "[wf](ara-281)"
+        "[wf](ara-f-274)"
     ],
     [
         "wf:m\u0259k\u0259",
-        "[wf](bak-282)"
+        "[wf](bak-f-275)"
+    ],
+    [
+        "wf:m\u0259k\u0268",
+        "[wf](car-f-276)"
     ],
     [
         "wf:mok\u0268",
@@ -1401,1027 +1393,1279 @@
     ],
     [
         "wf:ugun",
-        "[wf](ikp-284)"
+        "[wf](ikp-f-278)"
+    ],
+    [
+        "wf:m\u0268k\u0268",
+        "[wf](ing-f-279)"
     ],
     [
         "wf:mo\u0294k\u0268",
-        "[wf](kar-285)"
+        "[wf](kar-f-280)"
     ],
     [
         "wf:mok\u0268",
-        "[wf](kax-286)"
+        "[wf](kax-f-281)"
     ],
     [
         "wf:m\u0259kk\u0268",
-        "[wf](mak-287)"
+        "[wf](mak-f-282)"
     ],
     [
         "wf:muku(h)",
-        "[wf](pan-288)"
+        "[wf](pan-f-283)"
     ],
     [
-        "wf:mok\u0268",
-        "[wf](PPar-289)"
+        "wf:*m\u0259k\u0268",
+        "[wf](pc-da)"
     ],
     [
-        "wf:m\u0259k\u0268",
-        "[wf](PPek-290)"
+        "wf:*mok\u0268",
+        "[wf](PPar-f-285)"
     ],
     [
-        "wf:m\u0259k\u0268",
-        "[wf](PTar-291)"
+        "wf:*m\u0259k\u0268",
+        "[wf](PPek-f-286)"
     ],
     [
-        "wf:mok\u0268",
-        "[wf](PWai-292)"
+        "wf:*m\u0259k\u0268",
+        "[wf](PPem-f-287)"
     ],
     [
-        "wf:mog\u0268n",
-        "[wf](PXin-293)"
+        "wf:*m\u0259k\u0268",
+        "[wf](PTar-f-288)"
+    ],
+    [
+        "wf:*mok\u0268",
+        "[wf](PWai-f-289)"
+    ],
+    [
+        "wf:*mog\u0268n",
+        "[wf](PXin-f-290)"
     ],
     [
         "wf:make",
-        "[wf](tam-294)"
-    ],
-    [
-        "wf:ekise",
-        "[wf](uxc-295)"
-    ],
-    [
-        "wf:m\u0268k\u0268",
-        "[wf](wai-296)"
-    ],
-    [
-        "wf:m\u0259k\u0268",
-        "[wf](way-297)"
-    ],
-    [
-        "wf:m\u0268k\u0268",
-        "[wf](wmr-298)"
-    ],
-    [
-        "wf:m\u0259k\u0259",
-        "[wf](car-299)"
-    ],
-    [
-        "wf:m\u0259k\u0268",
-        "[wf](PC-304)"
-    ],
-    [
-        "wf:mokamo",
-        "[wf](apa-305)"
-    ],
-    [
-        "wf:akaemo",
-        "[wf](bak-306)"
-    ],
-    [
-        "wf:ugjam",
-        "[wf](ikp-308)"
-    ],
-    [
-        "wf:mook\u0268kon",
-        "[wf](kar-309)"
-    ],
-    [
-        "wf:mo\u0294kan",
-        "[wf](kar-310)"
-    ],
-    [
-        "wf:makkamo",
-        "[wf](mak-311)"
-    ],
-    [
-        "wf:mukukon",
-        "[wf](pan-312)"
-    ],
-    [
-        "wf:mokjamo",
-        "[wf](PPar-313)"
-    ],
-    [
-        "wf:m\u0259kjamo",
-        "[wf](PPek-314)"
-    ],
-    [
-        "wf:m\u0259kjamo",
-        "[wf](PTar-315)"
-    ],
-    [
-        "wf:mokjamo",
-        "[wf](PWai-316)"
-    ],
-    [
-        "wf:mogjam",
-        "[wf](PXin-317)"
-    ],
-    [
-        "wf:mukiamo",
-        "[wf](tam-318)"
-    ],
-    [
-        "wf:aka\u0263o",
-        "[wf](uxc-319)"
-    ],
-    [
-        "wf:m\u0268kjam",
-        "[wf](wai-320)"
-    ],
-    [
-        "wf:m\u0259kjamo",
-        "[wf](way-321)"
-    ],
-    [
-        "wf:m\u0259kamoro",
-        "[wf](car-322)"
-    ],
-    [
-        "wf:ohk\u0268ja(mo)",
-        "[wf](tri-325)"
-    ],
-    [
-        "wf:mo\u0283am",
-        "[wf](wai-326)"
-    ],
-    [
-        "wf:m\u0259kjamo",
-        "[wf](PC-327)"
-    ],
-    [
-        "wf:mon\u0268",
-        "[wf](apa-328)"
-    ],
-    [
-        "wf:mon",
-        "[wf](ara-329)"
-    ],
-    [
-        "wf:mun",
-        "[wf](ara-330)"
-    ],
-    [
-        "wf:m\u0259n\u0268",
-        "[wf](car-331)"
-    ],
-    [
-        "wf:mon\u0268",
-        "[wf](hix-332)"
-    ],
-    [
-        "wf:mun",
-        "[wf](ikp-333)"
-    ],
-    [
-        "wf:mon\u0268",
-        "[wf](kar-334)"
-    ],
-    [
-        "wf:mon\u0268",
-        "[wf](kax-335)"
-    ],
-    [
-        "wf:m\u0259\u0259n\u0268",
-        "[wf](mak-336)"
-    ],
-    [
-        "wf:mu(h)",
-        "[wf](pan-337)"
-    ],
-    [
-        "wf:mon\u0268",
-        "[wf](PPar-338)"
-    ],
-    [
-        "wf:m\u0259n\u0268",
-        "[wf](PTar-339)"
-    ],
-    [
-        "wf:mon\u0268",
-        "[wf](PWai-340)"
-    ],
-    [
-        "wf:mon",
-        "[wf](PXin-341)"
-    ],
-    [
-        "wf:m\u0268n\u0268",
-        "[wf](wai-342)"
-    ],
-    [
-        "wf:m\u0268n(\u0268)",
-        "[wf](way-343)"
-    ],
-    [
-        "wf:m\u0259n\u0268",
-        "[wf](yab-344)"
-    ],
-    [
-        "wf:e\u0263e",
-        "[wf](uxc-345)"
-    ],
-    [
-        "wf:m\u0259n",
-        "[wf](PPek-349)"
-    ],
-    [
-        "wf:m\u0259n\u0268",
-        "[wf](PC-350)"
-    ],
-    [
-        "wf:mono\u0294ne",
-        "[wf](apa-351)"
-    ],
-    [
-        "wf:mujam",
-        "[wf](ikp-352)"
-    ],
-    [
-        "wf:mon\u0268kon",
-        "[wf](kar-353)"
-    ],
-    [
-        "wf:m\u0268n(\u0268)komo",
-        "[wf](way-354)"
-    ],
-    [
-        "wf:ak\u0283a",
-        "[wf](yuk-356)"
-    ],
-    [
-        "wf:\u0272\u0259\u0259r\u0259",
-        "[wf](mak-358)"
+        "[wf](tam-f-291)"
     ],
     [
         "wf:m\u0259(k\u0268)",
-        "[wf](tri-359)"
+        "[wf](tri-f-292)"
     ],
     [
-        "wf:k\u0259n",
-        "[wf](pan-360)"
-    ],
-    [
-        "wf:eekise",
-        "[wf](uxc-361)"
-    ],
-    [
-        "wf:(n)\u0272anno",
-        "[wf](mak-362)"
-    ],
-    [
-        "wf:m\u0259(k\u0268)ja(mo)",
-        "[wf](tri-363)"
-    ],
-    [
-        "wf:kam\u0259nton",
-        "[wf](pan-364)"
-    ],
-    [
-        "wf:ij\u0259",
-        "[wf](mak-365)"
-    ],
-    [
-        "wf:m\u0259(n\u0268)",
-        "[wf](tri-366)"
-    ],
-    [
-        "wf:m\u0259n",
-        "[wf](pan-367)"
-    ],
-    [
-        "wf:m\u0259nto(mo)",
-        "[wf](tri-368)"
-    ],
-    [
-        "wf:m\u0259nkon",
-        "[wf](pan-369)"
-    ],
-    [
-        "wf:m\u0259k\u0268",
-        "[wf](car-370)"
+        "wf:ekise",
+        "[wf](uxc-f-293)"
     ],
     [
         "wf:m\u0268k\u0268",
-        "[wf](ing-371)"
+        "[wf](wai-f-294)"
     ],
     [
-        "wf:k\u0268r\u0259",
-        "[wf](aka-372)"
+        "wf:m\u0259k\u0268",
+        "[wf](way-f-295)"
     ],
     [
-        "wf:m\u0259k\u0268r\u0259",
-        "[wf](aku-373)"
+        "wf:m\u0268k\u0268",
+        "[wf](wmr-f-296)"
     ],
     [
-        "wf:mok\u0268ro",
-        "[wf](apa-374)"
+        "wf:m\u0259k\u0268",
+        "[wf](yab-f-297)"
     ],
     [
-        "wf:aw\u0259k\u0259",
-        "[wf](bak-375)"
+        "wf:ake",
+        "[wf](yuk-f-298)"
     ],
     [
-        "wf:mokro",
-        "[wf](hix-376)"
+        "wf:mokamo",
+        "[wf](apa-f-299)"
     ],
     [
-        "wf:mo\u0294ko",
-        "[wf](kar-377)"
-    ],
-    [
-        "wf:mokoro",
-        "[wf](kax-378)"
-    ],
-    [
-        "wf:m\u0268\u0268k\u0268r\u0268",
-        "[wf](mac-379)"
-    ],
-    [
-        "wf:m\u0259\u0294r\u0259",
-        "[wf](pem-380)"
-    ],
-    [
-        "wf:mokoro",
-        "[wf](PPar-381)"
-    ],
-    [
-        "wf:m\u0259k\u0268(r\u0259)",
-        "[wf](PPem-382)"
-    ],
-    [
-        "wf:m\u0259k\u0268(r\u0259)",
-        "[wf](PPP-383)"
-    ],
-    [
-        "wf:m\u0259k\u0268r\u0259",
-        "[wf](PTar-384)"
-    ],
-    [
-        "wf:mokro",
-        "[wf](PWai-385)"
-    ],
-    [
-        "wf:krere",
-        "[wf](tam-386)"
-    ],
-    [
-        "wf:m\u0259\u0259r\u0259",
-        "[wf](tri-387)"
-    ],
-    [
-        "wf:m\u0268kro",
-        "[wf](wai-388)"
-    ],
-    [
-        "wf:m\u0259kr\u0259(r\u0259)",
-        "[wf](way-389)"
+        "wf:akaemo",
+        "[wf](bak-f-300)"
     ],
     [
         "wf:m\u0259ka",
-        "[wf](car-391)"
-    ],
-    [
-        "wf:mokaro",
-        "[wf](apa-392)"
+        "[wf](car-f-301)"
     ],
     [
         "wf:mokjamo",
-        "[wf](hix-393)"
+        "[wf](hix-danim-pl)"
+    ],
+    [
+        "wf:ugjam",
+        "[wf](ikp-f-303)"
+    ],
+    [
+        "wf:mook\u0268kon",
+        "[wf](kar-f-304)"
+    ],
+    [
+        "wf:mo\u0294kan",
+        "[wf](kar-f-305)"
+    ],
+    [
+        "wf:makkamo",
+        "[wf](mak-f-306)"
+    ],
+    [
+        "wf:mukukon",
+        "[wf](pan-f-307)"
+    ],
+    [
+        "wf:*m\u0259k-jamo",
+        "[wf](pc-dap)"
+    ],
+    [
+        "wf:*mokjamo",
+        "[wf](PPar-f-309)"
+    ],
+    [
+        "wf:*m\u0259kjamo",
+        "[wf](PPek-f-310)"
+    ],
+    [
+        "wf:*m\u0259kjamo",
+        "[wf](PTar-f-311)"
+    ],
+    [
+        "wf:*mokjamo",
+        "[wf](PWai-f-312)"
+    ],
+    [
+        "wf:*mogjam",
+        "[wf](PXin-f-313)"
+    ],
+    [
+        "wf:mukiamo",
+        "[wf](tam-f-314)"
+    ],
+    [
+        "wf:m\u0259(k\u0268)ja(mo)",
+        "[wf](tri-f-315)"
+    ],
+    [
+        "wf:aka\u0263o",
+        "[wf](uxc-f-316)"
+    ],
+    [
+        "wf:m\u0268kjam",
+        "[wf](wai-f-317)"
+    ],
+    [
+        "wf:m\u0259kjamo",
+        "[wf](way-f-318)"
+    ],
+    [
+        "wf:m\u0259k\u0268santomo",
+        "[wf](yab-f-319)"
+    ],
+    [
+        "wf:ak\u0283a",
+        "[wf](yuk-f-320)"
+    ],
+    [
+        "wf:mon\u0268",
+        "[wf](apa-f-321)"
+    ],
+    [
+        "wf:mon",
+        "[wf](ara-f-322)"
+    ],
+    [
+        "wf:mun",
+        "[wf](ara-f-323)"
+    ],
+    [
+        "wf:m\u0259n\u0268",
+        "[wf](car-f-324)"
+    ],
+    [
+        "wf:mon\u0268",
+        "[wf](hix-f-325)"
+    ],
+    [
+        "wf:mun",
+        "[wf](ikp-f-326)"
+    ],
+    [
+        "wf:mon\u0268",
+        "[wf](kar-f-327)"
+    ],
+    [
+        "wf:mon\u0268",
+        "[wf](kax-f-328)"
+    ],
+    [
+        "wf:m\u0259\u0259n\u0268",
+        "[wf](mak-f-329)"
+    ],
+    [
+        "wf:mu(h)",
+        "[wf](pan-f-330)"
+    ],
+    [
+        "wf:*m\u0259n\u0268",
+        "[wf](pc-di)"
+    ],
+    [
+        "wf:*mon\u0268",
+        "[wf](PPar-f-332)"
+    ],
+    [
+        "wf:*mun",
+        "[wf](PPek-f-333)"
+    ],
+    [
+        "wf:*m\u0259n\u0268",
+        "[wf](PTar-f-334)"
+    ],
+    [
+        "wf:*mon\u0268",
+        "[wf](PWai-f-335)"
+    ],
+    [
+        "wf:*mon",
+        "[wf](PXin-f-336)"
+    ],
+    [
+        "wf:m\u0259(n\u0268)",
+        "[wf](tri-f-337)"
+    ],
+    [
+        "wf:m\u0268n\u0268",
+        "[wf](wai-f-338)"
+    ],
+    [
+        "wf:m\u0268n(\u0268)",
+        "[wf](way-f-339)"
+    ],
+    [
+        "wf:m\u0259ni",
+        "[wf](yab-f-340)"
+    ],
+    [
+        "wf:m\u0259n\u0268hne",
+        "[wf](yab-f-341)"
+    ],
+    [
+        "wf:mono\u0294ne",
+        "[wf](apa-f-342)"
+    ],
+    [
+        "wf:mujam",
+        "[wf](ikp-f-343)"
+    ],
+    [
+        "wf:mon\u0268kon",
+        "[wf](kar-f-344)"
+    ],
+    [
+        "wf:m\u0259nto(mo)",
+        "[wf](tri-f-345)"
+    ],
+    [
+        "wf:m\u0268n(\u0268)komo",
+        "[wf](way-f-346)"
+    ],
+    [
+        "wf:k\u0268r\u0259",
+        "[wf](aka-f-347)"
+    ],
+    [
+        "wf:m\u0259k\u0268r\u0259",
+        "[wf](aku-f-348)"
+    ],
+    [
+        "wf:mok\u0268ro",
+        "[wf](apa-f-349)"
+    ],
+    [
+        "wf:aw\u0259k\u0259",
+        "[wf](bak-f-350)"
+    ],
+    [
+        "wf:m\u0259k\u0259",
+        "[wf](car-f-351)"
+    ],
+    [
+        "wf:mokro",
+        "[wf](hix-f-352)"
+    ],
+    [
+        "wf:k\u0268r\u0259(r\u0259)",
+        "[wf](ing-f-353)"
+    ],
+    [
+        "wf:mo\u0294ko",
+        "[wf](kar-f-354)"
+    ],
+    [
+        "wf:mokoro",
+        "[wf](kax-f-355)"
+    ],
+    [
+        "wf:m\u0268\u0268k\u0268r\u0268",
+        "[wf](mac-f-356)"
+    ],
+    [
+        "wf:m\u0259\u0294r\u0259",
+        "[wf](mak-f-357)"
+    ],
+    [
+        "wf:k\u0259n",
+        "[wf](pan-f-358)"
+    ],
+    [
+        "wf:m\u0259\u0294r\u0259",
+        "[wf](pem-f-359)"
+    ],
+    [
+        "wf:*mokoro",
+        "[wf](PPar-f-360)"
+    ],
+    [
+        "wf:*m\u0259k\u0268r\u0259",
+        "[wf](PPem-f-361)"
+    ],
+    [
+        "wf:*m\u0259k\u0268(r\u0259)",
+        "[wf](PPP-f-362)"
+    ],
+    [
+        "wf:*m\u0259k\u0268r\u0259",
+        "[wf](PTar-f-363)"
+    ],
+    [
+        "wf:*mokro",
+        "[wf](PWai-f-364)"
+    ],
+    [
+        "wf:krere",
+        "[wf](tam-f-365)"
+    ],
+    [
+        "wf:m\u0259\u0259r\u0259",
+        "[wf](tri-f-366)"
+    ],
+    [
+        "wf:m\u0268kro",
+        "[wf](wai-f-367)"
+    ],
+    [
+        "wf:m\u0259kr\u0259(r\u0259)",
+        "[wf](way-f-368)"
+    ],
+    [
+        "wf:mit\u0361\u0283itomo",
+        "[wf](yab-f-369)"
+    ],
+    [
+        "wf:mokaro",
+        "[wf](apa-f-370)"
+    ],
+    [
+        "wf:m\u0259kamoro",
+        "[wf](car-f-371)"
+    ],
+    [
+        "wf:mokjamo",
+        "[wf](hix-f-372)"
+    ],
+    [
+        "wf:kamo(ro)",
+        "[wf](ing-f-373)"
     ],
     [
         "wf:m\u0268k\u0268jam\u0259",
-        "[wf](ing-394)"
+        "[wf](ing-f-374)"
     ],
     [
         "wf:mo\u0294karo(n)",
-        "[wf](kar-395)"
+        "[wf](kar-f-375)"
     ],
     [
         "wf:mokjar\u0268",
-        "[wf](kax-396)"
+        "[wf](kax-f-376)"
     ],
     [
         "wf:inkamoro",
-        "[wf](mac-397)"
+        "[wf](mac-f-377)"
     ],
     [
         "wf:kanno",
-        "[wf](mak-398)"
+        "[wf](mak-f-378)"
     ],
     [
-        "wf:m\u0259k\u0268r\u0259jamo",
-        "[wf](PTar-400)"
+        "wf:kam\u0259nton",
+        "[wf](pan-f-379)"
+    ],
+    [
+        "wf:i\u0294sinnan",
+        "[wf](pem-f-380)"
+    ],
+    [
+        "wf:*mokjamo",
+        "[wf](PPar-f-381)"
+    ],
+    [
+        "wf:*m\u0259k\u0268r\u0259jamo",
+        "[wf](PTar-f-382)"
     ],
     [
         "wf:kiamoro",
-        "[wf](tam-401)"
+        "[wf](tam-f-383)"
     ],
     [
         "wf:m\u0259\u0259ja(mo)",
-        "[wf](tri-402)"
+        "[wf](tri-f-384)"
     ],
     [
         "wf:m\u0259kja(r\u0259)",
-        "[wf](way-403)"
+        "[wf](way-f-385)"
     ],
     [
-        "wf:mokjamo(ro)",
-        "[wf](PPar-404)"
-    ],
-    [
-        "wf:m\u0259r\u0259",
-        "[wf](aka-405)"
+        "wf:mit\u0361\u0283isantomo",
+        "[wf](yab-f-386)"
     ],
     [
         "wf:m\u0259r\u0259",
-        "[wf](aku-406)"
+        "[wf](aka-f-387)"
+    ],
+    [
+        "wf:m\u0259r\u0259",
+        "[wf](aku-f-388)"
     ],
     [
         "wf:moro",
-        "[wf](apa-407)"
+        "[wf](apa-f-389)"
     ],
     [
         "wf:moro",
-        "[wf](ara-408)"
+        "[wf](ara-f-390)"
     ],
     [
         "wf:m\u0259r\u0259",
-        "[wf](bak-409)"
+        "[wf](bak-f-391)"
     ],
     [
         "wf:m\u0259r\u0259",
-        "[wf](car-410)"
+        "[wf](car-f-392)"
     ],
     [
         "wf:moro",
-        "[wf](hix-411)"
+        "[wf](hix-f-393)"
     ],
     [
         "wf:m\u0259(r)\u0259",
-        "[wf](ing-412)"
+        "[wf](ing-f-394)"
     ],
     [
         "wf:moro",
-        "[wf](kar-413)"
+        "[wf](kar-f-395)"
     ],
     [
         "wf:moro",
-        "[wf](kax-414)"
+        "[wf](kax-f-396)"
     ],
     [
         "wf:m\u0268r\u0268r\u0268",
-        "[wf](mac-415)"
+        "[wf](mac-f-397)"
     ],
     [
         "wf:m\u0259r\u0259",
-        "[wf](mak-416)"
+        "[wf](mak-f-398)"
     ],
     [
         "wf:m\u0259r\u0268",
-        "[wf](map-417)"
+        "[wf](map-f-399)"
+    ],
+    [
+        "wf:m\u0259n",
+        "[wf](pan-f-400)"
+    ],
+    [
+        "wf:*m\u0259r\u0259",
+        "[wf](pc-mi)"
     ],
     [
         "wf:m\u0259r\u0259",
-        "[wf](pem-418)"
+        "[wf](pem-f-402)"
     ],
     [
-        "wf:moro",
-        "[wf](PPar-419)"
+        "wf:*moro",
+        "[wf](PPar-f-403)"
     ],
     [
-        "wf:m\u0259r\u0259",
-        "[wf](PPek-420)"
+        "wf:*m\u0259r\u0259",
+        "[wf](PPek-f-404)"
     ],
     [
-        "wf:m\u0259r\u0259",
-        "[wf](PPem-421)"
+        "wf:*m\u0259r\u0259",
+        "[wf](PPem-f-405)"
     ],
     [
-        "wf:m\u0259r\u0259",
-        "[wf](PPP-422)"
+        "wf:*m\u0259r\u0259",
+        "[wf](PPP-f-406)"
     ],
     [
-        "wf:m\u0259r\u0259",
-        "[wf](PTar-423)"
+        "wf:*m\u0259r\u0259",
+        "[wf](PTar-f-407)"
     ],
     [
-        "wf:moro",
-        "[wf](PWai-424)"
+        "wf:*moro",
+        "[wf](PWai-f-408)"
     ],
     [
-        "wf:moro",
-        "[wf](PXin-425)"
+        "wf:*moro",
+        "[wf](PXin-f-409)"
     ],
     [
         "wf:more",
-        "[wf](tam-426)"
+        "[wf](tam-f-410)"
     ],
     [
         "wf:m\u0259r\u0259",
-        "[wf](tri-427)"
+        "[wf](tri-f-411)"
+    ],
+    [
+        "wf:e\u0263e",
+        "[wf](uxc-f-412)"
     ],
     [
         "wf:moro",
-        "[wf](wai-428)"
+        "[wf](wai-f-413)"
     ],
     [
         "wf:m\u0259r\u0259",
-        "[wf](way-429)"
+        "[wf](way-f-414)"
     ],
     [
         "wf:m\u0268r\u0268",
-        "[wf](wmr-430)"
+        "[wf](wmr-f-415)"
     ],
     [
         "wf:m\u0259r\u0259",
-        "[wf](yab-431)"
-    ],
-    [
-        "wf:m\u0259r\u0259",
-        "[wf](PPem-434)"
-    ],
-    [
-        "wf:m\u0259r\u0259",
-        "[wf](PC-435)"
+        "[wf](yab-f-416)"
     ],
     [
         "wf:moro\u0294ne",
-        "[wf](apa-436)"
+        "[wf](apa-f-417)"
     ],
     [
         "wf:m\u0259r\u0259jam\u0259",
-        "[wf](ing-437)"
+        "[wf](ing-f-418)"
     ],
     [
         "wf:morokon",
-        "[wf](kar-438)"
+        "[wf](kar-f-419)"
+    ],
+    [
+        "wf:moronne",
+        "[wf](kax-f-420)"
+    ],
+    [
+        "wf:m\u0259nkon",
+        "[wf](pan-f-421)"
     ],
     [
         "wf:m\u0259r\u0259to(mo)",
-        "[wf](tri-440)"
+        "[wf](tri-f-422)"
     ],
     [
         "wf:m\u0259r\u0259komo",
-        "[wf](way-441)"
+        "[wf](way-f-423)"
     ],
     [
         "wf:-jamo",
         "[wf](hix-pl-2)"
     ],
     [
-        "wf:ma(\u0283)",
-        "[wf](yuk-443)"
-    ],
-    [
-        "wf:m\u0259\u0294r\u0259",
-        "[wf](mak-444)"
-    ],
-    [
         "wf:m\u0259\u0294e",
-        "[wf](aku-445)"
+        "[wf](aku-f-425)"
     ],
     [
         "wf:mose",
-        "[wf](apa-446)"
+        "[wf](apa-f-426)"
     ],
     [
         "wf:moden",
-        "[wf](ara-447)"
+        "[wf](ara-f-427)"
     ],
     [
         "wf:mer\u0259",
-        "[wf](bak-448)"
+        "[wf](bak-f-428)"
     ],
     [
         "wf:m\u0259h\u0259",
-        "[wf](car-449)"
+        "[wf](car-f-429)"
     ],
     [
         "wf:moson\u0268",
-        "[wf](hix-450)"
+        "[wf](hix-f-430)"
     ],
     [
         "wf:oren",
-        "[wf](ikp-451)"
+        "[wf](ikp-f-431)"
     ],
     [
         "wf:mo(\u0294)se",
-        "[wf](kar-452)"
+        "[wf](kar-f-432)"
     ],
     [
         "wf:mosoro",
-        "[wf](kax-453)"
+        "[wf](kax-f-433)"
     ],
     [
         "wf:m\u0268ser\u0268",
-        "[wf](mac-454)"
+        "[wf](mac-f-434)"
     ],
     [
         "wf:mehe",
-        "[wf](map-455)"
+        "[wf](map-f-435)"
     ],
     [
         "wf:m\u0259h",
-        "[wf](pan-456)"
+        "[wf](pan-f-436)"
+    ],
+    [
+        "wf:*m\u0259tj\u0259",
+        "[wf](pc-pa)"
     ],
     [
         "wf:m\u0259s\u0259r\u0259",
-        "[wf](pem-457)"
+        "[wf](pem-f-438)"
     ],
     [
-        "wf:moso(ro)",
-        "[wf](PPar-458)"
+        "wf:*moso",
+        "[wf](PPar-f-439)"
     ],
     [
-        "wf:m\u0259te(r\u0259)",
-        "[wf](PPek-459)"
+        "wf:*m\u0259te",
+        "[wf](PPek-f-440)"
     ],
     [
-        "wf:m\u0259se",
-        "[wf](PPem-460)"
+        "wf:*m\u0259ser\u0259",
+        "[wf](PPem-f-441)"
     ],
     [
-        "wf:m\u0259se",
-        "[wf](PPP-461)"
+        "wf:*m\u0259se",
+        "[wf](PPP-f-442)"
     ],
     [
-        "wf:m\u0259(t\u0361\u0283)e",
-        "[wf](PTar-462)"
+        "wf:*m\u0259(t\u0361\u0283)e",
+        "[wf](PTar-f-443)"
     ],
     [
-        "wf:moso",
-        "[wf](PWai-463)"
+        "wf:*moso",
+        "[wf](PWai-f-444)"
     ],
     [
-        "wf:moden",
-        "[wf](PXin-464)"
+        "wf:*moden",
+        "[wf](PXin-f-445)"
     ],
     [
         "wf:mot\u0361\u0283e",
-        "[wf](tam-465)"
+        "[wf](tam-f-446)"
     ],
     [
         "wf:m\u0259e",
-        "[wf](tri-466)"
+        "[wf](tri-f-447)"
     ],
     [
         "wf:ese",
-        "[wf](uxc-467)"
+        "[wf](uxc-f-448)"
     ],
     [
         "wf:moso",
-        "[wf](wai-468)"
+        "[wf](wai-f-449)"
     ],
     [
         "wf:m\u0259(s)i",
-        "[wf](way-469)"
+        "[wf](way-f-450)"
     ],
     [
-        "wf:m\u0259he(r\u0259)",
-        "[wf](way-470)"
+        "wf:m\u0259he",
+        "[wf](way-f-451)"
     ],
     [
-        "wf:m\u0259tj\u0259",
-        "[wf](PC-472)"
+        "wf:k\u0259r\u0259",
+        "[wf](yab-f-452)"
+    ],
+    [
+        "wf:ma(\u0283)",
+        "[wf](yuk-f-453)"
     ],
     [
         "wf:m\u0259et\u0361\u0283amo",
-        "[wf](aku-473)"
+        "[wf](aku-f-454)"
     ],
     [
         "wf:mo\u0283iamo",
-        "[wf](apa-474)"
+        "[wf](apa-f-455)"
     ],
     [
         "wf:asaemo",
-        "[wf](bak-475)"
+        "[wf](bak-f-456)"
     ],
     [
         "wf:m\u0259sa",
-        "[wf](car-476)"
+        "[wf](car-f-457)"
     ],
     [
         "wf:mo\u0283amo",
-        "[wf](hix-477)"
+        "[wf](hix-f-458)"
     ],
     [
         "wf:wam",
-        "[wf](ikp-478)"
+        "[wf](ikp-f-459)"
     ],
     [
         "wf:mo\u0294sekon",
-        "[wf](kar-479)"
+        "[wf](kar-f-460)"
     ],
     [
         "wf:moojan",
-        "[wf](kar-480)"
+        "[wf](kar-f-461)"
     ],
     [
         "wf:mo\u0294saro(n)",
-        "[wf](kar-481)"
+        "[wf](kar-f-462)"
     ],
     [
         "wf:mo\u0294t\u0361\u0283ar\u0268",
-        "[wf](kax-482)"
+        "[wf](kax-f-463)"
     ],
     [
         "wf:insemoro",
-        "[wf](mac-483)"
+        "[wf](mac-f-464)"
     ],
     [
         "wf:m\u0259ht\u0361\u0283anton",
-        "[wf](pan-484)"
+        "[wf](pan-f-465)"
+    ],
+    [
+        "wf:*m\u0259tj\u0259-jamo",
+        "[wf](pc-pap)"
     ],
     [
         "wf:i\u0294sam\u0259r\u0259",
-        "[wf](pem-485)"
+        "[wf](pem-f-467)"
     ],
     [
-        "wf:mo\u0294t\u0361\u0283amo(ro)",
-        "[wf](PPar-486)"
+        "wf:*mo\u0294t\u0361\u0283amo",
+        "[wf](PPar-f-468)"
     ],
     [
-        "wf:m\u0259tjamo",
-        "[wf](PPek-487)"
+        "wf:*m\u0259tjamo",
+        "[wf](PPek-f-469)"
     ],
     [
-        "wf:m\u0259(t\u0361\u0283)et\u0361\u0283amo",
-        "[wf](PTar-488)"
+        "wf:*m\u0259et\u0361\u0283amo",
+        "[wf](PTar-f-470)"
     ],
     [
-        "wf:mo\u0283amo",
-        "[wf](PWai-489)"
+        "wf:*mo\u0283amo",
+        "[wf](PWai-f-471)"
     ],
     [
-        "wf:modjam",
-        "[wf](PXin-490)"
+        "wf:*modjam",
+        "[wf](PXin-f-472)"
     ],
     [
         "wf:t\u0361\u0283amoro",
-        "[wf](tam-491)"
+        "[wf](tam-f-473)"
     ],
     [
         "wf:m\u0259esa(mo)",
-        "[wf](tri-492)"
+        "[wf](tri-f-474)"
     ],
     [
         "wf:a\u0263o",
-        "[wf](uxc-493)"
+        "[wf](uxc-f-475)"
     ],
     [
         "wf:mo\u0283am",
-        "[wf](wai-494)"
+        "[wf](wai-f-476)"
     ],
     [
         "wf:m\u0259ham(o)",
-        "[wf](way-495)"
+        "[wf](way-f-477)"
     ],
     [
         "wf:m\u0259har\u0259",
-        "[wf](way-496)"
+        "[wf](way-f-478)"
     ],
     [
-        "wf:m\u0259tjamo",
-        "[wf](PC-497)"
-    ],
-    [
-        "wf:m\u0259sin",
-        "[wf](way-498)"
-    ],
-    [
-        "wf:ser\u0259",
-        "[wf](aka-499)"
-    ],
-    [
-        "wf:t\u0361\u0283er\u0259",
-        "[wf](aku-500)"
-    ],
-    [
-        "wf:sero",
-        "[wf](apa-501)"
-    ],
-    [
-        "wf:ero",
-        "[wf](ara-502)"
-    ],
-    [
-        "wf:\u0283ir\u0259",
-        "[wf](bak-503)"
-    ],
-    [
-        "wf:\u0259r\u0259",
-        "[wf](car-504)"
-    ],
-    [
-        "wf:s\u0259(r\u0259)",
-        "[wf](ing-505)"
-    ],
-    [
-        "wf:ero",
-        "[wf](kar-506)"
-    ],
-    [
-        "wf:soro",
-        "[wf](kax-507)"
-    ],
-    [
-        "wf:s\u0268r\u0268r\u0268",
-        "[wf](mac-508)"
-    ],
-    [
-        "wf:er\u0259",
-        "[wf](mak-509)"
-    ],
-    [
-        "wf:s\u0268(h)",
-        "[wf](pan-510)"
-    ],
-    [
-        "wf:s\u0259r\u0259",
-        "[wf](pem-511)"
-    ],
-    [
-        "wf:soro",
-        "[wf](PPar-512)"
-    ],
-    [
-        "wf:(t\u0361\u0283)er\u0259",
-        "[wf](PPek-513)"
-    ],
-    [
-        "wf:s\u0259r\u0259",
-        "[wf](PPem-514)"
-    ],
-    [
-        "wf:(t\u0361\u0283)er\u0259",
-        "[wf](PTar-515)"
-    ],
-    [
-        "wf:ero",
-        "[wf](PXin-516)"
-    ],
-    [
-        "wf:ser\u0259",
-        "[wf](tri-517)"
-    ],
-    [
-        "wf:i\u0263e",
-        "[wf](uxc-518)"
-    ],
-    [
-        "wf:her\u0259",
-        "[wf](way-519)"
-    ],
-    [
-        "wf:t\u0361\u0283en\u0268",
-        "[wf](aku-520)"
-    ],
-    [
-        "wf:sen\u0268",
-        "[wf](apa-521)"
-    ],
-    [
-        "wf:en",
-        "[wf](ara-522)"
-    ],
-    [
-        "wf:en\u0268",
-        "[wf](car-523)"
-    ],
-    [
-        "wf:on\u0268",
-        "[wf](hix-524)"
-    ],
-    [
-        "wf:nen",
-        "[wf](ikp-525)"
-    ],
-    [
-        "wf:en\u0268",
-        "[wf](kar-526)"
-    ],
-    [
-        "wf:seni",
-        "[wf](mac-527)"
-    ],
-    [
-        "wf:sen\u0259k",
-        "[wf](pem-528)"
-    ],
-    [
-        "wf:(t\u0361\u0283)en",
-        "[wf](PPek-529)"
-    ],
-    [
-        "wf:(t\u0361\u0283)en\u0268",
-        "[wf](PTar-530)"
-    ],
-    [
-        "wf:on\u0268",
-        "[wf](PWai-531)"
-    ],
-    [
-        "wf:en",
-        "[wf](PXin-532)"
-    ],
-    [
-        "wf:t\u0361\u0283ene",
-        "[wf](tam-533)"
-    ],
-    [
-        "wf:se(n\u0268)",
-        "[wf](tri-534)"
-    ],
-    [
-        "wf:on",
-        "[wf](wai-535)"
-    ],
-    [
-        "wf:sin\u0268",
-        "[wf](way-536)"
-    ],
-    [
-        "wf:(s)eni",
-        "[wf](yab-537)"
-    ],
-    [
-        "wf:s\u0259r\u0259",
-        "[wf](PPem-538)"
-    ],
-    [
-        "wf:on",
-        "[wf](wai-539)"
-    ],
-    [
-        "wf:on\u0268",
-        "[wf](PPar-543)"
-    ],
-    [
-        "wf:(tj)\u0259r\u0259",
-        "[wf](PC-544)"
-    ],
-    [
-        "wf:(tj)\u0259n\u0268",
-        "[wf](PC-545)"
-    ],
-    [
-        "wf:ero\u014bmo",
-        "[wf](ara-547)"
-    ],
-    [
-        "wf:nejam",
-        "[wf](ikp-548)"
-    ],
-    [
-        "wf:s\u0259(r\u0259)jam\u0259",
-        "[wf](ing-549)"
-    ],
-    [
-        "wf:erokon",
-        "[wf](kar-550)"
-    ],
-    [
-        "wf:en\u0268kon",
-        "[wf](kar-551)"
-    ],
-    [
-        "wf:soronne",
-        "[wf](kax-552)"
-    ],
-    [
-        "wf:s\u0268(h)kon",
-        "[wf](pan-553)"
-    ],
-    [
-        "wf:her\u0259kom(o)",
-        "[wf](way-554)"
-    ],
-    [
-        "wf:sinkom(o)",
-        "[wf](way-555)"
-    ],
-    [
-        "wf:ser\u0259to(mo)",
-        "[wf](tri-557)"
-    ],
-    [
-        "wf:sento(mo)",
-        "[wf](tri-558)"
+        "wf:k\u0259r\u0259santomo",
+        "[wf](yab-f-479)"
     ],
     [
         "wf:ma\u0283a",
-        "[wf](yuk-559)"
+        "[wf](yuk-f-480)"
     ],
     [
-        "wf:ur\u0259\u0294nokon",
-        "[wf](aka-560)"
+        "wf:m\u0259sin",
+        "[wf](way-f-481)"
     ],
     [
-        "wf:kur\u0259",
-        "[wf](bak-561)"
+        "wf:ser\u0259",
+        "[wf](aka-f-482)"
     ],
     [
-        "wf:nana",
-        "[wf](jap-562)"
+        "wf:t\u0361\u0283er\u0259",
+        "[wf](aku-f-483)"
+    ],
+    [
+        "wf:sero",
+        "[wf](apa-f-484)"
+    ],
+    [
+        "wf:ero",
+        "[wf](ara-f-485)"
+    ],
+    [
+        "wf:\u0283ir\u0259",
+        "[wf](bak-f-486)"
+    ],
+    [
+        "wf:\u0259r\u0259",
+        "[wf](car-f-487)"
+    ],
+    [
+        "wf:s\u0259(r\u0259)",
+        "[wf](ing-f-488)"
+    ],
+    [
+        "wf:ero",
+        "[wf](kar-f-489)"
+    ],
+    [
+        "wf:soro",
+        "[wf](kax-f-490)"
+    ],
+    [
+        "wf:s\u0268r\u0268r\u0268",
+        "[wf](mac-f-491)"
+    ],
+    [
+        "wf:er\u0259",
+        "[wf](mak-f-492)"
+    ],
+    [
+        "wf:s\u0268(h)",
+        "[wf](pan-f-493)"
+    ],
+    [
+        "wf:*(tj)\u0259r\u0259",
+        "[wf](pc-i1)"
+    ],
+    [
+        "wf:s\u0259r\u0259",
+        "[wf](pem-f-495)"
+    ],
+    [
+        "wf:*soro",
+        "[wf](PPar-f-496)"
+    ],
+    [
+        "wf:*(t\u0361\u0283)er\u0259",
+        "[wf](PPek-f-497)"
+    ],
+    [
+        "wf:*s\u0259r\u0259",
+        "[wf](PPem-f-498)"
+    ],
+    [
+        "wf:*(t\u0361\u0283)\u0259r\u0259",
+        "[wf](PTar-f-499)"
+    ],
+    [
+        "wf:*ero",
+        "[wf](PXin-f-500)"
+    ],
+    [
+        "wf:ser\u0259",
+        "[wf](tri-f-501)"
+    ],
+    [
+        "wf:i\u0263e",
+        "[wf](uxc-f-502)"
+    ],
+    [
+        "wf:her\u0259",
+        "[wf](way-f-503)"
+    ],
+    [
+        "wf:t\u0361\u0283en\u0268",
+        "[wf](aku-f-504)"
+    ],
+    [
+        "wf:sen\u0268",
+        "[wf](apa-f-505)"
+    ],
+    [
+        "wf:en",
+        "[wf](ara-f-506)"
+    ],
+    [
+        "wf:en\u0268",
+        "[wf](car-f-507)"
+    ],
+    [
+        "wf:on\u0268",
+        "[wf](hix-f-508)"
+    ],
+    [
+        "wf:nen",
+        "[wf](ikp-f-509)"
+    ],
+    [
+        "wf:en\u0268",
+        "[wf](kar-f-510)"
+    ],
+    [
+        "wf:seni",
+        "[wf](mac-f-511)"
+    ],
+    [
+        "wf:*(tj)\u0259n\u0268",
+        "[wf](pc-i2)"
+    ],
+    [
+        "wf:sen\u0259k",
+        "[wf](pem-f-513)"
+    ],
+    [
+        "wf:*on\u0268",
+        "[wf](PPar-f-514)"
+    ],
+    [
+        "wf:*en",
+        "[wf](PPek-f-515)"
+    ],
+    [
+        "wf:*(t\u0361\u0283)en\u0268",
+        "[wf](PTar-f-516)"
+    ],
+    [
+        "wf:*on\u0268",
+        "[wf](PWai-f-517)"
+    ],
+    [
+        "wf:*en",
+        "[wf](PXin-f-518)"
+    ],
+    [
+        "wf:t\u0361\u0283ene",
+        "[wf](tam-f-519)"
+    ],
+    [
+        "wf:se(n\u0268)",
+        "[wf](tri-f-520)"
+    ],
+    [
+        "wf:on",
+        "[wf](wai-f-521)"
+    ],
+    [
+        "wf:sin\u0268",
+        "[wf](way-f-522)"
+    ],
+    [
+        "wf:seni",
+        "[wf](yab-f-523)"
+    ],
+    [
+        "wf:sero\u0294ne",
+        "[wf](apa-f-524)"
+    ],
+    [
+        "wf:seno\u0294ne",
+        "[wf](apa-f-525)"
+    ],
+    [
+        "wf:ero\u014bmo",
+        "[wf](ara-f-526)"
+    ],
+    [
+        "wf:nejam",
+        "[wf](ikp-f-527)"
+    ],
+    [
+        "wf:s\u0259(r\u0259)jam\u0259",
+        "[wf](ing-f-528)"
+    ],
+    [
+        "wf:erokon",
+        "[wf](kar-f-529)"
+    ],
+    [
+        "wf:en\u0268kon",
+        "[wf](kar-f-530)"
+    ],
+    [
+        "wf:soronne",
+        "[wf](kax-f-531)"
+    ],
+    [
+        "wf:s\u0268(h)kon",
+        "[wf](pan-f-532)"
+    ],
+    [
+        "wf:her\u0259kom(o)",
+        "[wf](way-f-533)"
+    ],
+    [
+        "wf:sinkom(o)",
+        "[wf](way-f-534)"
+    ],
+    [
+        "wf:enihne",
+        "[wf](yab-f-535)"
+    ],
+    [
+        "wf:to\u0294",
+        "[wf](ing-f-536)"
+    ],
+    [
+        "wf:uur\u0268\u0294kon",
+        "[wf](mac-f-537)"
+    ],
+    [
+        "wf:to\u0294",
+        "[wf](mac-f-538)"
+    ],
+    [
+        "wf:siini",
+        "[wf](mac-f-539)"
+    ],
+    [
+        "wf:m\u0259\u0259j\u0259",
+        "[wf](mak-f-540)"
+    ],
+    [
+        "wf:a\u0272imonton",
+        "[wf](pan-f-541)"
+    ],
+    [
+        "wf:\u0259m\u0259(h)",
+        "[wf](pan-f-542)"
+    ],
+    [
+        "wf:juur\u0259tokon",
+        "[wf](pem-f-543)"
+    ],
+    [
+        "wf:to\u0294",
+        "[wf](pem-f-544)"
+    ],
+    [
+        "wf:i\u0294jam\u0259",
+        "[wf](pem-f-545)"
+    ],
+    [
+        "wf:i\u0294sam\u0259",
+        "[wf](pem-f-546)"
+    ],
+    [
+        "wf:misinn\u0259k",
+        "[wf](pem-f-547)"
+    ],
+    [
+        "wf:i\u0294jamo",
+        "[wf](pem-f-548)"
+    ],
+    [
+        "wf:i\u0294samo",
+        "[wf](pem-f-549)"
+    ],
+    [
+        "wf:sinn\u0268\u0294",
+        "[wf](pem-f-550)"
+    ],
+    [
+        "wf:sen\u0259\u0294ton",
+        "[wf](pem-f-551)"
+    ],
+    [
+        "wf:*k\u0268?",
+        "[wf](PPar-f-552)"
+    ],
+    [
+        "wf:*iro",
+        "[wf](PPar-f-553)"
+    ],
+    [
+        "wf:*m\u0259r\u0259",
+        "[wf](PPem-f-554)"
+    ],
+    [
+        "wf:*s\u0259r\u0259",
+        "[wf](PPem-f-555)"
+    ],
+    [
+        "wf:*k\u0268w\u0268",
+        "[wf](PWai-f-556)"
+    ],
+    [
+        "wf:*\u0268ro",
+        "[wf](PWai-f-557)"
+    ],
+    [
+        "wf:ohk\u0268",
+        "[wf](tri-f-558)"
+    ],
+    [
+        "wf:ohk\u0268ja(mo)",
+        "[wf](tri-f-559)"
+    ],
+    [
+        "wf:ooni",
+        "[wf](tri-f-560)"
+    ],
+    [
+        "wf:oonito(mo)",
+        "[wf](tri-f-561)"
+    ],
+    [
+        "wf:ser\u0259to(mo)",
+        "[wf](tri-f-562)"
+    ],
+    [
+        "wf:sento(mo)",
+        "[wf](tri-f-563)"
+    ],
+    [
+        "wf:eekise",
+        "[wf](uxc-f-564)"
+    ],
+    [
+        "wf:mo\u0283am",
+        "[wf](wai-f-565)"
+    ],
+    [
+        "wf:on",
+        "[wf](wai-f-566)"
+    ],
+    [
+        "wf:tan",
+        "[wf](wai-f-567)"
+    ],
+    [
+        "wf:tot(o)",
+        "[wf](way-f-568)"
+    ],
+    [
+        "wf:mo\u0294o",
+        "[wf](wmr-f-569)"
+    ],
+    [
+        "wf:m\u0268mo\u0294",
+        "[wf](wmr-f-570)"
+    ],
+    [
+        "wf:b\u0268(b\u0268)",
+        "[wf](wmr-f-571)"
+    ],
+    [
+        "wf:(h)and\u0361\u0292i",
+        "[wf](wmr-f-572)"
+    ],
+    [
+        "wf:kand\u0361\u0292i",
+        "[wf](wmr-f-573)"
+    ],
+    [
+        "wf:o(r)",
+        "[wf](yuk-f-574)"
+    ],
+    [
+        "wf:oka",
+        "[wf](yuk-f-575)"
+    ],
+    [
+        "wf:mit\u0361\u0283i",
+        "[wf](yab-f-576)"
+    ],
+    [
+        "wf:*m\u0259ser\u0259",
+        "[wf](PPem-f-577)"
+    ],
+    [
+        "wf:eni",
+        "[wf](yab-f-578)"
+    ],
+    [
+        "wf:naamotomo",
+        "[wf](map-f-579)"
+    ],
+    [
+        "wf:t\u0259\u0259j",
+        "[wf](map-f-580)"
+    ],
+    [
+        "wf:tjantomo",
+        "[wf](map-f-581)"
+    ],
+    [
+        "wf:muni",
+        "[wf](yab-f-582)"
+    ],
+    [
+        "wf:munihne",
+        "[wf](yab-f-583)"
+    ],
+    [
+        "wf:t\u0259w\u0268",
+        "[wf](yab-f-584)"
+    ],
+    [
+        "wf:t\u0259w\u0268santomo",
+        "[wf](yab-f-585)"
+    ],
+    [
+        "wf:t\u0268w\u0268",
+        "[wf](mak-f-586)"
+    ],
+    [
+        "wf:t\u0268nwanno",
+        "[wf](mak-f-587)"
+    ],
+    [
+        "wf:t\u0259j",
+        "[wf](pno-f-588)"
+    ],
+    [
+        "wf:t\u0268w\u0268",
+        "[wf](pno-f-589)"
+    ],
+    [
+        "wf:t\u0259jantomo",
+        "[wf](pno-f-590)"
+    ],
+    [
+        "wf:*t\u0259w\u0268jantomo",
+        "[wf](PMan-f-591)"
+    ],
+    [
+        "wf:*t\u0259w\u0268",
+        "[wf](PMan-f-592)"
+    ],
+    [
+        "wf:*m\u0259k\u0268",
+        "[wf](PPP-f-593)"
+    ],
+    [
+        "wf:*s\u0259r\u0259",
+        "[wf](PPP-f-594)"
+    ],
+    [
+        "wf:*muC",
+        "[wf](PPP-f-595)"
+    ],
+    [
+        "wf:*n\u0259r\u0259jamotomo",
+        "[wf](PMan-f-596)"
     ],
     [
         "src:akawaiocaesar2003 Caesar-Fox, Desrey Clementine. 2003. Zauro'n\u00f6dok Agawayo Yau: Variants of Akawaio spoken at Waramadong. (Doctoral dissertation).",
@@ -2486,6 +2730,30 @@
     [
         "psrc:garcia2006diccionario Garc\u00eda Ferrer, Donaldo Jos\u00e9. 2006. Diccionario piloto pem\u00f3n-espa\u00f1ol. (MA thesis).",
         "[psrc](garcia2006diccionario)"
+    ],
+    [
+        "src:gildea2004classification Gildea, Spike. 2003. Proposing a new branch for the Cariban language family. Amerindia. 7\u201332.",
+        "[src](gildea2004classification)"
+    ],
+    [
+        "psrc:gildea2004classification Gildea, Spike. 2003. Proposing a new branch for the Cariban language family. Amerindia. 7\u201332.",
+        "[psrc](gildea2004classification)"
+    ],
+    [
+        "src:gildea2010story Gildea, Spike and Hoff, Berend J. and Meira, S\u00e9rgio. 2010. The story of *\u00f4 in the Cariban Family. In Berez, Andrea L. and Mulder, Jean and Rosenblum, Daisy (eds.), Fieldwork and linguistic analysis in Indigenous languages of the Americas, 91\u2013123. University of Hawai'i Press.",
+        "[src](gildea2010story)"
+    ],
+    [
+        "psrc:gildea2010story Gildea, Spike and Hoff, Berend J. and Meira, S\u00e9rgio. 2010. The story of *\u00f4 in the Cariban Family. In Berez, Andrea L. and Mulder, Jean and Rosenblum, Daisy (eds.), Fieldwork and linguistic analysis in Indigenous languages of the Americas, 91\u2013123. University of Hawai'i Press.",
+        "[psrc](gildea2010story)"
+    ],
+    [
+        "src:gildea2015venezuelan Gildea, Spike. 2015. 15 years later: Current Perspectives on the Venezuelan Branch Hypothesis. (Paper presented at the Working Conference on Venezuelan Cariban Languages).",
+        "[src](gildea2015venezuelan)"
+    ],
+    [
+        "psrc:gildea2015venezuelan Gildea, Spike. 2015. 15 years later: Current Perspectives on the Venezuelan Branch Hypothesis. (Paper presented at the Working Conference on Venezuelan Cariban Languages).",
+        "[psrc](gildea2015venezuelan)"
     ],
     [
         "src:gilij1781saggio Gilij, Filippo Salvadore. 1782. Saggio di Storia {Americana}, o sia Storia Naturale, Civile, e Sacra De regni, e delle provincie {Spagnuole} di Terra-ferma nell' {America} meridionale. (2.) Rome: Luigi Perego Salvioni.",
@@ -2624,6 +2892,14 @@
         "[psrc](mattei2003pemono)"
     ],
     [
+        "src:matter2021cariban Matter, Florian. 2021. Diachronic and typological aspects of Cariban verbal argument marking. (Doctoral dissertation).",
+        "[src](matter2021cariban)"
+    ],
+    [
+        "psrc:matter2021cariban Matter, Florian. 2021. Diachronic and typological aspects of Cariban verbal argument marking. (Doctoral dissertation).",
+        "[psrc](matter2021cariban)"
+    ],
+    [
         "src:meira1998proto Meira, S\u00e9rgio. 1998. A reconstruction of Proto-Taranoan: Phonology and Inflectional Morphology. (MA thesis).",
         "[src](meira1998proto)"
     ],
@@ -2720,6 +2996,14 @@
         "[psrc](muller2021yawarana)"
     ],
     [
+        "src:oquendo2007gramatica Oquendo, Luis and Morales, Venancio. 2007. Gram\u00e1tica pedag\u00f3gica de la lengua yukpa: nanvonku o tuampatpo yukpape kuripa tusi kuripa voni tatpo yukpa vonku. Caracas: FEDUPEL.",
+        "[src](oquendo2007gramatica)"
+    ],
+    [
+        "psrc:oquendo2007gramatica Oquendo, Luis and Morales, Venancio. 2007. Gram\u00e1tica pedag\u00f3gica de la lengua yukpa: nanvonku o tuampatpo yukpape kuripa tusi kuripa voni tatpo yukpa vonku. Caracas: FEDUPEL.",
+        "[psrc](oquendo2007gramatica)"
+    ],
+    [
         "src:panarepayne2013 Payne, Thomas E. and Payne, Doris L. 2013. A Typological Grammar of Panare: A Cariban Language of Venezuela. (Brill's Studies in the Indigenous Languages of the Americas.) Leiden: Brill.",
         "[src](panarepayne2013)"
     ],
@@ -2776,6 +3060,14 @@
         "[psrc](triomeira1999)"
     ],
     [
+        "src:villalon2000person Villal\u00f3n, Mar\u00eda Eugenia and Granadillo, Tania. 2000. Los marcadores de persona de la lengua mapoyo. In van der Voort, Hein and van de Kerke, Simon (eds.), 197\u2013211. Leiden: Research School of Asian, African, and Amerindian Studies (CNWS).",
+        "[src](villalon2000person)"
+    ],
+    [
+        "psrc:villalon2000person Villal\u00f3n, Mar\u00eda Eugenia and Granadillo, Tania. 2000. Los marcadores de persona de la lengua mapoyo. In van der Voort, Hein and van de Kerke, Simon (eds.), 197\u2013211. Leiden: Research School of Asian, African, and Amerindian Studies (CNWS).",
+        "[psrc](villalon2000person)"
+    ],
+    [
         "src:waimiribruno2003 Bruno, Ana Carla dos Santos. 2003. Waimiri Atroari Grammar: Some Phonological, Morphological, and Syntactic Aspects. (Doctoral dissertation).",
         "[src](waimiribruno2003)"
     ],
@@ -2798,5 +3090,13 @@
     [
         "psrc:wayanatavares2005 Tavares, Petronila da Silva. 2005. A grammar of Wayana. UMI. (Doctoral dissertation).",
         "[psrc](wayanatavares2005)"
+    ],
+    [
+        "src:yawaranagrammar Matter, Florian and Arandia, Natalia C\u00e1ceres and Gildea, Spike. 2022. A digital sketch grammar of Yawarana (v0.0.3.draft2).",
+        "[src](yawaranagrammar)"
+    ],
+    [
+        "psrc:yawaranagrammar Matter, Florian and Arandia, Natalia C\u00e1ceres and Gildea, Spike. 2022. A digital sketch grammar of Yawarana (v0.0.3.draft2).",
+        "[psrc](yawaranagrammar)"
     ]
 ]

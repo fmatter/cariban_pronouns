@@ -196,8 +196,39 @@ def check_3i(rec):
         return "no *i"
 
 t["Value"] = t.apply(check_3i, axis=1)
-plot_map(t, "3aanai")
+t = sort_by(t, "Value", ["*i", "no *i"])
+# plot_map(t, "3aanai")
 
 t = forms[forms["Cognateset_ID"] == "3ANA.INAN"]
 t["Value"] = "*irə"
 # plot_map(t, "3iana")
+
+# anim dem
+t = forms[forms["Cognateset_ID"] == "PROX.ANIM"]
+t["Value"] = t.apply(lambda x: "m-initial" if x["Form"].startswith("m") else "m-loss", axis=1)
+# plot_map(t, "prox-m")
+
+t = forms[forms["Cognateset_ID"] == "DIST.ANIM"]
+t["Value"] = t.apply(lambda x: "m-initial" if x["Form"].startswith("m") else "m-loss", axis=1)
+# plot_map(t, "dist-m")
+
+t = forms[forms["Cognateset_ID"] == "MED.ANIM"]
+t["Value"] = t.apply(lambda x: "m-initial" if x["Form"].startswith("m") else "m-loss", axis=1)
+# plot_map(t, "med-m")
+
+
+# inan dem
+def mobile_s(rec):
+    if rec["Form"][0] in ["ʃ", "t", "s", "h"]:
+        return "*tj"
+    else:
+        return "no *tj"
+
+t = forms[forms["Cognateset_ID"] == "PROX.INAN-1"]
+t["Value"] = t.apply(mobile_s, axis=1)
+plot_map(t, "1-s")
+
+t = forms[forms["Cognateset_ID"] == "PROX.INAN-2"]
+t["Value"] = t.apply(mobile_s, axis=1)
+t = stack_lg_values(t, "Value")
+plot_map(t, "2-s")
