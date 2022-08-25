@@ -2,44 +2,45 @@
 
 * reconstruction of [lg](PC) pronouns by [src](meira2002first)
 * no dedicated comparative work on pronouns since
-* revisiting prompted by
+* twenty years later:
     * new data [psrc](ikpengpacheco2001,akawaiocaesar2003,mattei2003pemono,cruz2005fonologia,garcia2006diccionario,kuikurodossantos2007,kuikurodossantos2007,camargo2010wayana,desouza2010arara,swiggers2010gramatica,largo2011yukpa,maquiritaricaceres2011,panarepayne2013,stegeman2014akawaio,alves2017arara,guerrero2019carijo,muller2021yawarana)
     * better knowledge about internal classification [psrc](gildea2004classification,meira2005southern,gildea2015venezuelan,matter2021cariban)
     * other comparative work [psrc](meira2005southern,gildea2010story,meira2010origin)
-* gathered data from sources & annotated for cognacy, w/ three main goals:
+* I collected pronoun data from sources & annotated for cognacy, w/ three main goals:
     1. bottom-up reconstruction
     2. look for genealogical patterns
     3. look for areal patterns
 * available as a [CLDF dataset](https://github.com/fmatter/cariban_pronouns/tree/main/data/cldf) 
 
+# The Cariban language family
+![](family.svg)
 
 # The Cariban language family
 * solid lower-level branches: Parukotoan, Pekodian, Taranoan
-* tentative higher-level branch: Venezuelan
+* tentative higher-level branch: Venezuelan [psrc](gildea2004classification,gildea2015venezuelan)
 * no evidence for Guianan (Taranoan + [lg](way) + [lg](kar)? + [lg](apa)? + [lg](mak)?)
 * closely related dialect groups: Pemongan, Manapiarean
 
-![](family.svg)
 
-# A note on sound correspondences
+# Notes on sound laws
 * conspicuous absence of shared sound innovations
 * identical changes independently occured several times
 * important process 1: ablaut/umlaut [psrc](meira2010origin)
-    * [lg](PC) \*/ə/ turns to /e/ after \*/i/ and \*/j/
+    * [lg](PC) *\*ə* turns to *e* after *\*i* and *\*j*
     * the second change is absent in Parukotoan and happened inconsistently in Pemon-Panare and Manapiarean
-    * there was no \*/s/ or \*/t͡ʃ/: \*/ti/, \*/te/, \*/tj/
-* important process 2: syllable reduction in CV syllables
+    * there was no *\*s* or *\*t͡ʃ*: palatalization of *\*ti*, *\*te*, *\*tj*
+* important process 2: reduction of CV syllables [psrc](gildea1995reduction)
     1. vowel deletion
-    2. debuccalization / velarization of C
-    3. complete erosion
+    2. assimilation / debuccalization / velarization of C
+    3. erosion w/ compensatory lengthening of the preceding V
 
 # Cariban pronouns
 
+* [src](meira2002first,derbyshire1999carib)
 * clusivity, [gl](1+2) and [gl](1+3) are distinct person values
 * many languages have third person anaphoric forms w/ animacy distinction
 * large systems of demonstratives, distinguishing animacy and distance/visibility
 * lexicalized plural forms for pronouns, and animate anaphora and demonstratives
-* [src](meira2002first,derbyshire1999carib)
 
 e.g. [lg](tri):
 
@@ -50,25 +51,29 @@ e.g. [lg](tri):
 
 * reconstructible: [wf](pc-1?nt)
 * reoccurring innovations:
-    * grammaticalization of emphatic marker \**rə*
+    * grammaticalization of emphatic marker [cogset](emp?inline)
     * coalescence of *wɨ* to *u*
-* appearance of *j* in [lg](pem) and [lg](pan) -- via /əwɨ/ > /ɨwɨ/ > /ɨu/ > /ju/? [psrc](meira2002first[259])
+* appearance of *j* in [lg](pem) and [lg](pan) -- via *\*əwɨ* > *\*ɨwɨ* > *\*ɨu* > *\*ju*? [psrc](meira2002first[259])
 * mysterious *hɨ* in Manapiarean
+
+[cogset](1abs)
 
 # First person: cognacy
 
 ![](1cog.svg)
 
-# First person: reflex of /əwɨ/
+# First person: reflex of *əwɨ
 ![](1form.svg)
 
 # Second person
-[cogset](2abs)
 
 * reconstructible: [wf](pc-2?nt)
-* grammaticalization of emphatic \**rə* in almost all languages
+* grammaticalization of emphatic [cogset](emp?inline) in almost all languages
 	* optional in at least [lg](way) and [lg](yuk)
     * absent in Tiriyoan and [lg](bak)
+
+[cogset](2abs)
+
 
 # Second person: cognacy
 ![](2cog.svg)
@@ -95,7 +100,7 @@ e.g. [lg](tri):
 
 * related but rather different forms
 * [src](meira2002first[263]) reconstructs \**(ap)ina* or \**aipna*, with different patterns of loss
-* various additional initial elements: /ju/, /t͡ʃi/, /n/
+* various additional initial elements: *ju-*, *t͡ʃi-*, *n-*
 * rather divergent [wf](map-1a3?nt)
 
 
@@ -120,12 +125,16 @@ e.g. [lg](tri):
 # Third person animate anaphoric: initial *i?
 ![](3aanai.svg)
 
+# Innovative third person *təwɨ
+
+[table](3t)
+
 
 # Animate demonstratives
 * medial demonstratives created by adding emphatic marker to distal ones
 * loss of demonstratives common
-* sporadic loss of initial \*_m_
-* loss of initial \*_m_ in medial demonstratives in Venezuela
+* sporadic loss of initial _\*m_
+* loss of initial _\*m_ in medial demonstratives in Venezuela
 
 
 [table](pc_dem_a)
@@ -142,7 +151,7 @@ e.g. [lg](tri):
 
 # Inanimate demonstratives
 * [gl](prox.inan-1) and [gl](prox.inan-2) with unclear meaning distinction
-* initial \*_tj_ sometimes present
+* initial _\*tj_ sometimes present
 
 [table](pc_dem_i)
 
@@ -153,15 +162,14 @@ e.g. [lg](tri):
 # *tj-mobile 2
 ![](2-s.svg)
 
-# The develoment of *tjə
+# The development of *tjə
 * closely related languages disagree about fronting of vowel in [cogset](pinan1?inline)
 * but fronting throughout in [cogset](pinan2?inline), except for (expected) Parukotoan
 
 
-# The develoment of *tjə
 [cogset](pinan1)
 
-# The develoment of *tjə
+# The development of *tjə
 [cogset](pinan2)
 
 # Suggested changes
@@ -176,15 +184,15 @@ e.g. [lg](tri):
 
 # Shared innovations in pronominal systems
 
-* Pemon-Panare \**(j)u(-rə)-to* for [gl](1+2)
-* Pemon-Panare /j/ in first person? (not in [lg](mac) and Kapón)
+* Pemon-Panare *\*(j)u(-rə)-to* for [gl](1+2)
+* Pemon-Panare *j* in first person? (not in [lg](mac) and Kapón)
 * formal developments of [gl](1+3) pronoun in Parukotoan, Pekodian, and Taranoan
 * third person [cogset](3t?inline) in Manapiarean and [lg](mak)
 
 
 # Possible contact/areal phenomena
-* loss of initial /m/ in animate medial demonstratives in Venezuela
-* loss of initial /m/ in animate proximal & distal demonstratives from [lg](uxc) to [lg](ikp)
+* loss of initial *m* in animate medial demonstratives in Venezuela
+* loss of initial *m* in animate proximal & distal demonstratives from [lg](uxc) to [lg](ikp)
 * loss of initial \*_i_
 
 # Appendix

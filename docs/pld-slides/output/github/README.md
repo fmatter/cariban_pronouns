@@ -5,7 +5,7 @@
 -   reconstruction of Proto-Cariban pronouns by [Meira
     2002](#source-meira2002first)
 -   no dedicated comparative work on pronouns since
--   revisiting prompted by
+-   twenty years later:
     -   new data ([Pachêco 2001](#source-ikpengpacheco2001), [Caesar-Fox
         2003](#source-akawaiocaesar2003), [Mattéi-Müller
         2003](#source-mattei2003pemono), [Cruz
@@ -32,8 +32,8 @@
         2005](#source-meira2005southern), [Gildea et
         al. 2010](#source-gildea2010story), [Meira et
         al. 2010](#source-meira2010origin))
--   gathered data from sources & annotated for cognacy, w/ three main
-    goals:
+-   I collected pronoun data from sources & annotated for cognacy, w/
+    three main goals:
     1.  bottom-up reconstruction
     2.  look for genealogical patterns
     3.  look for areal patterns
@@ -42,40 +42,46 @@
 
 # The Cariban language family
 
+![](images/family.svg)
+
+# The Cariban language family
+
 -   solid lower-level branches: Parukotoan, Pekodian, Taranoan
--   tentative higher-level branch: Venezuelan
+-   tentative higher-level branch: Venezuelan ([Gildea
+    2003](#source-gildea2004classification), [Gildea
+    2015](#source-gildea2015venezuelan))
 -   no evidence for Guianan (Taranoan + Wayana + Kari’ña? + Apalaí? +
     Ye’kwana?)
 -   closely related dialect groups: Pemongan, Manapiarean
 
-![](images/family.svg)
-
-# A note on sound correspondences
+# Notes on sound laws
 
 -   conspicuous absence of shared sound innovations
 -   identical changes independently occured several times
 -   important process 1: ablaut/umlaut ([Meira et
     al. 2010](#source-meira2010origin))
-    -   Proto-Cariban \*/ə/ turns to /e/ after \*/i/ and \*/j/
+    -   Proto-Cariban *\*ə* turns to *e* after *\*i* and *\*j*
     -   the second change is absent in Parukotoan and happened
         inconsistently in Pemon-Panare and Manapiarean
-    -   there was no \*/s/ or \*/t͡ʃ/: \*/ti/, \*/te/, \*/tj/
--   important process 2: syllable reduction in CV syllables
+    -   there was no *\*s* or *\*t͡ʃ*: palatalization of *\*ti*, *\*te*,
+        *\*tj*
+-   important process 2: reduction of CV syllables ([Gildea
+    1995](#source-gildea1995reduction))
     1.  vowel deletion
-    2.  debuccalization / velarization of C
-    3.  complete erosion
+    2.  assimilation / debuccalization / velarization of C
+    3.  erosion w/ compensatory lengthening of the preceding V
 
 # Cariban pronouns
 
+-   [Meira 2002](#source-meira2002first), [Derbyshire
+    1999](#source-derbyshire1999carib)
 -   clusivity, 1+2 and 1+3 are distinct person values
 -   many languages have third person anaphoric forms w/ animacy
     distinction
 -   large systems of demonstratives, distinguishing animacy and
     distance/visibility
--   lexicalized plural forms for pronouns, anaphora, and animate
+-   lexicalized plural forms for pronouns, and animate anaphora and
     demonstratives
--   [Meira 2002](#source-meira2002first), [Derbyshire
-    1999](#source-derbyshire1999carib)
 
 e.g. Tiriyó:
 
@@ -101,21 +107,355 @@ e.g. Tiriyó:
 
 -   reconstructible: \*əwɨ
 -   reoccurring innovations:
-    -   grammaticalization of emphatic marker \**rə*
-    -   coalescence of *wɨ* to *u*
--   appearance of *j* in Pemón and Panare – via /əwɨ/ \> /ɨwɨ/ \> /ɨu/
-    \> /ju/? ([Meira 2002](#source-meira2002first): 259)
+    -   grammaticalization of emphatic marker
+
+EMP
+
+| Form           | Language          | \-  | \-  |
+|:---------------|:------------------|:----|:----|
+| *urə*          | Akawaio           | r   | ə   |
+| *uro*          | Arara             | r   | o   |
+| *urə*          | Bakairi           | r   | ə   |
+| *uro*          | Hixkaryána        | r   | o   |
+| *uro*          | Ikpeng            | r   | o   |
+| *urə*          | Ingarikó          | r   | ə   |
+| *uurɨ*         | Macushi           | r   | ɨ   |
+| *juurə*        | Pemón             | r   | ə   |
+| *urə*          | Pémono            | r   | ə   |
+| *ure*          | Tamanaku          | r   | e   |
+| *uɣe*          | Upper Xingu Carib | ɣ   | e   |
+| *wɨrə*         | Yawarana          | r   | ə   |
+| *awɨ(r)*       | Yukpa             | r   | \-  |
+| *amərə*        | Akawaio           | r   | ə   |
+| *omoro*        | Apalaí            | r   | o   |
+| *omoro*        | Arara             | r   | o   |
+| *əmərə*        | Karijona          | r   | ə   |
+| *omoro*        | Hixkaryána        | r   | o   |
+| *omro*         | Ikpeng            | r   | o   |
+| *amərə*        | Ingarikó          | r   | ə   |
+| *amoro*        | Kari’ña           | r   | o   |
+| *omoro*        | Werikyana         | r   | o   |
+| *amɨrɨ*        | Macushi           | r   | ɨ   |
+| *amərə*        | Ye’kwana          | r   | ə   |
+| *(m)ərə*       | Mapoyo            | r   | ə   |
+| *amən*         | Panare            | n   | \-  |
+| *amərə*        | Pemón             | r   | ə   |
+| *mərə*         | Pémono            | r   | ə   |
+| *amare*        | Tamanaku          | r   | e   |
+| *eeɣe*         | Upper Xingu Carib | ɣ   | e   |
+| *amoro*        | Waiwai            | r   | o   |
+| *əmərə*        | Wayana            | r   | ə   |
+| *amɨrɨ*        | Waimiri-Atroari   | r   | ɨ   |
+| *mərə*         | Yawarana          | r   | ə   |
+| *amor*         | Yukpa             | r   | \-  |
+| *urəʔnokon*    | Akawaio           | r   | ə   |
+| *kɨmoro*       | Apalaí            | r   | o   |
+| *ugoro*        | Arara             | r   | o   |
+| *kurə*         | Bakairi           | r   | ə   |
+| *kɨmərə*       | Karijona          | r   | ə   |
+| *kɨwro*        | Hixkaryána        | r   | o   |
+| *ugro*         | Ikpeng            | r   | o   |
+| *kɨmoro*       | Kari’ña           | r   | o   |
+| *kumoro*       | Werikyana         | r   | o   |
+| *uurɨʔkon*     | Macushi           | r   | ɨ   |
+| *juurəto*      | Pemón             | r   | ə   |
+| *kukuɣe*       | Upper Xingu Carib | ɣ   | e   |
+| *urəʔnokon*    | Akawaio           | r   | ə   |
+| *kɨmarokomo*   | Apalaí            | r   | o   |
+| *ugoroŋmo*     | Arara             | r   | o   |
+| *kurə*         | Bakairi           | r   | ə   |
+| *kɨɲamoro*     | Karijona          | r   | o   |
+| *ugroŋmo*      | Ikpeng            | r   | o   |
+| *urəʔnokon*    | Ingarikó          | r   | ə   |
+| *kɨʔkaro(n)*   | Kari’ña           | r   | o   |
+| *kɨmojaro*     | Kari’ña           | r   | o   |
+| *kɨmjarɨ*      | Werikyana         | r   | ɨ   |
+| *uurɨʔnɨkon*   | Macushi           | r   | ɨ   |
+| *kɨnwanno*     | Ye’kwana          | n   | o   |
+| *juurənokon*   | Pemón             | r   | ə   |
+| *juurətokon*   | Pemón             | r   | ə   |
+| *kukuɣeko*     | Upper Xingu Carib | ɣ   | e   |
+| *kunməramkomo* | Wayana            | r   | \-  |
+| *tisuɣe*       | Upper Xingu Carib | ɣ   | e   |
+| *nana(r)*      | Yukpa             | r   | \-  |
+| *amərəʔnokon*  | Akawaio           | r   | ə   |
+| *amarakomo*    | Apalaí            | r   | a   |
+| *omoroŋmo*     | Arara             | r   | o   |
+| *əmaremo*      | Bakairi           | r   | \-  |
+| *aɲamoro*      | Karijona          | r   | o   |
+| *omroŋmo*      | Ikpeng            | r   | o   |
+| *amərəʔnokon*  | Ingarikó          | r   | ə   |
+| *amɨjaro(n)*   | Kari’ña           | r   | o   |
+| *omjarɨ*       | Werikyana         | r   | ɨ   |
+| *amɨrɨʔnɨkon*  | Macushi           | r   | ɨ   |
+| *ənwanno*      | Ye’kwana          | n   | o   |
+| *amənton*      | Panare            | n   | \-  |
+| *amərənokon*   | Pemón             | r   | ə   |
+| *amɲamoro*     | Tamanaku          | r   | o   |
+| *amaɣo*        | Upper Xingu Carib | ɣ   | o   |
+| *amjamro*      | Waiwai            | r   | o   |
+| *əməramkomo*   | Wayana            | r   | \-  |
+| *amɨrɨtɨ*      | Waimiri-Atroari   | r   | ɨ   |
+| *amora*        | Yukpa             | r   | \-  |
+| *inərə(rə)*    | Wayana            | r   | ə   |
+| *namoro*       | Akuriyó           | r   | o   |
+| *namoro*       | Karijona          | r   | o   |
+| *ɲamoro*       | Hixkaryána        | r   | o   |
+| *namorjamɨ*    | Werikyana         | r   | \-  |
+| *(n)ɲanno*     | Ye’kwana          | n   | o   |
+| *(ɨ)naɣo*      | Upper Xingu Carib | ɣ   | o   |
+| *ɲeʃamro*      | Waiwai            | r   | o   |
+| *inamoro*      | Wayana            | r   | o   |
+| *akaɣo*        | Upper Xingu Carib | ɣ   | o   |
+| *kɨrə*         | Akawaio           | r   | ə   |
+| *məkɨrə*       | Akuriyó           | r   | ə   |
+| *mokɨro*       | Apalaí            | r   | o   |
+| *məkə*         | Karijona          | \-  | ə   |
+| *mokro*        | Hixkaryána        | r   | o   |
+| *kɨrə(rə)*     | Ingarikó          | r   | ə   |
+| *kɨrə(rə)*     | Ingarikó          | r   | ə   |
+| *moʔko*        | Kari’ña           | \-  | o   |
+| *mokoro*       | Werikyana         | r   | o   |
+| *mɨɨkɨrɨ*      | Macushi           | r   | ɨ   |
+| *məʔrə*        | Ye’kwana          | r   | ə   |
+| *kən*          | Panare            | n   | \-  |
+| *məʔrə*        | Pemón             | r   | ə   |
+| *krere*        | Tamanaku          | r   | e   |
+| *krere*        | Tamanaku          | r   | e   |
+| *məərə*        | Tiriyó            | r   | ə   |
+| *mɨkro*        | Waiwai            | r   | o   |
+| *məkrə(rə)*    | Wayana            | r   | ə   |
+| *məkrə(rə)*    | Wayana            | r   | ə   |
+| *mokaro*       | Apalaí            | r   | o   |
+| *məkamoro*     | Karijona          | r   | o   |
+| *kamo(ro)*     | Ingarikó          | r   | o   |
+| *moʔkaro(n)*   | Kari’ña           | r   | o   |
+| *mokjarɨ*      | Werikyana         | r   | ɨ   |
+| *inkamoro*     | Macushi           | r   | o   |
+| *kanno*        | Ye’kwana          | n   | o   |
+| *kamənton*     | Panare            | n   | \-  |
+| *kiamoro*      | Tamanaku          | r   | o   |
+| *məkja(rə)*    | Wayana            | r   | ə   |
+| *mɨrɨrɨ*       | Macushi           | r   | ɨ   |
+| *merə*         | Bakairi           | r   | ə   |
+| *mosoro*       | Werikyana         | r   | o   |
+| *mɨserɨ*       | Macushi           | r   | ɨ   |
+| *məsərə*       | Pemón             | r   | ə   |
+| *kərə*         | Yawarana          | r   | ə   |
+| *moʔsaro(n)*   | Kari’ña           | r   | o   |
+| *moʔt͡ʃarɨ*     | Werikyana         | r   | ɨ   |
+| *insemoro*     | Macushi           | r   | o   |
+| *iʔsamərə*     | Pemón             | r   | ə   |
+| *t͡ʃamoro*      | Tamanaku          | r   | o   |
+| *aɣo*          | Upper Xingu Carib | ɣ   | o   |
+| *məharə*       | Wayana            | r   | ə   |
+| *kərəsantomo*  | Yawarana          | r   | ə   |
+| *sɨrɨrɨ*       | Macushi           | r   | ɨ   |
+| *sə(rə)jamə*   | Ingarikó          | r   | ə   |
+| *uurɨʔkon*     | Macushi           | r   | ɨ   |
+| *juurətokon*   | Pemón             | r   | ə   |
+| *tɨnwanno*     | Ye’kwana          | n   | o   |
+
+    * coalescence of *wɨ* to *u*
+
+-   appearance of *j* in Pemón and Panare – via *\*əwɨ* \> *\*ɨwɨ* \>
+    *\*ɨu* \> *\*ju*? ([Meira 2002](#source-meira2002first): 259)
 -   mysterious *hɨ* in Manapiarean
+
+1 (complex)
+
+| Form     | Language          | \-  | \-  | \-  | \-  | \-  | \-  |
+|:---------|:------------------|:----|:----|:----|:----|:----|:----|
+| *urə*    | Akawaio           | \-  | \-  | u   | \+  | r   | ə   |
+| *wɨ*     | Akuriyó           | \-  | w   | ɨ   | \-  | \-  | \-  |
+| *ɨwɨ*    | Apalaí            | ɨ   | w   | ɨ   | \-  | \-  | \-  |
+| *uro*    | Arara             | \-  | \-  | u   | \+  | r   | o   |
+| *urə*    | Bakairi           | \-  | \-  | u   | \+  | r   | ə   |
+| *əwɨ*    | Karijona          | ə   | w   | ɨ   | \-  | \-  | \-  |
+| *uro*    | Hixkaryána        | \-  | \-  | u   | \+  | r   | o   |
+| *uro*    | Ikpeng            | \-  | \-  | u   | \+  | r   | o   |
+| *urə*    | Ingarikó          | \-  | \-  | u   | \+  | r   | ə   |
+| *awu*    | Kari’ña           | a   | w   | u   | \-  | \-  | \-  |
+| *owɨ*    | Werikyana         | o   | w   | ɨ   | \-  | \-  | \-  |
+| *uurɨ*   | Macushi           | \-  | \-  | uu  | \+  | r   | ɨ   |
+| *ewɨ*    | Ye’kwana          | e   | w   | ɨ   | \-  | \-  | \-  |
+| *wɨhɨ*   | Mapoyo            | \-  | w   | ɨ   | \+  | h   | ɨ   |
+| *uhɨ*    | Mapoyo            | \-  | \-  | u   | \+  | h   | ɨ   |
+| *ju*     | Panare            | \-  | j   | u   | \-  | \-  | \-  |
+| *juurə*  | Pemón             | \-  | j   | uu  | \+  | r   | ə   |
+| *urə*    | Pémono            | \-  | \-  | u   | \+  | r   | ə   |
+| *wɨh*    | Pémono            | \-  | w   | ɨ   | \+  | h   | \-  |
+| *ure*    | Tamanaku          | \-  | \-  | u   | \+  | r   | e   |
+| *wɨ(ɨ)*  | Tiriyó            | \-  | w   | ɨɨ  | \-  | \-  | \-  |
+| *uɣe*    | Upper Xingu Carib | \-  | \-  | u   | \+  | ɣ   | e   |
+| *owɨ*    | Waiwai            | o   | w   | ɨ   | \-  | \-  | \-  |
+| *ɨwu*    | Wayana            | ɨ   | w   | u   | \-  | \-  | \-  |
+| *awɨ*    | Waimiri-Atroari   | a   | w   | ɨ   | \-  | \-  | \-  |
+| *wɨrə*   | Yawarana          | \-  | w   | ɨ   | \+  | r   | ə   |
+| *awɨ(r)* | Yukpa             | a   | w   | ɨ   | \+  | r   | \-  |
 
 # First person: cognacy
 
 ![](images/1cog.svg)
 
-# First person: reflex of /əwɨ/
+# First person: reflex of \*əwɨ
 
 ![](images/1form.svg)
 
 # Second person
+
+-   reconstructible: \*əmə
+-   grammaticalization of emphatic
+
+EMP
+
+| Form           | Language          | \-  | \-  |
+|:---------------|:------------------|:----|:----|
+| *urə*          | Akawaio           | r   | ə   |
+| *uro*          | Arara             | r   | o   |
+| *urə*          | Bakairi           | r   | ə   |
+| *uro*          | Hixkaryána        | r   | o   |
+| *uro*          | Ikpeng            | r   | o   |
+| *urə*          | Ingarikó          | r   | ə   |
+| *uurɨ*         | Macushi           | r   | ɨ   |
+| *juurə*        | Pemón             | r   | ə   |
+| *urə*          | Pémono            | r   | ə   |
+| *ure*          | Tamanaku          | r   | e   |
+| *uɣe*          | Upper Xingu Carib | ɣ   | e   |
+| *wɨrə*         | Yawarana          | r   | ə   |
+| *awɨ(r)*       | Yukpa             | r   | \-  |
+| *amərə*        | Akawaio           | r   | ə   |
+| *omoro*        | Apalaí            | r   | o   |
+| *omoro*        | Arara             | r   | o   |
+| *əmərə*        | Karijona          | r   | ə   |
+| *omoro*        | Hixkaryána        | r   | o   |
+| *omro*         | Ikpeng            | r   | o   |
+| *amərə*        | Ingarikó          | r   | ə   |
+| *amoro*        | Kari’ña           | r   | o   |
+| *omoro*        | Werikyana         | r   | o   |
+| *amɨrɨ*        | Macushi           | r   | ɨ   |
+| *amərə*        | Ye’kwana          | r   | ə   |
+| *(m)ərə*       | Mapoyo            | r   | ə   |
+| *amən*         | Panare            | n   | \-  |
+| *amərə*        | Pemón             | r   | ə   |
+| *mərə*         | Pémono            | r   | ə   |
+| *amare*        | Tamanaku          | r   | e   |
+| *eeɣe*         | Upper Xingu Carib | ɣ   | e   |
+| *amoro*        | Waiwai            | r   | o   |
+| *əmərə*        | Wayana            | r   | ə   |
+| *amɨrɨ*        | Waimiri-Atroari   | r   | ɨ   |
+| *mərə*         | Yawarana          | r   | ə   |
+| *amor*         | Yukpa             | r   | \-  |
+| *urəʔnokon*    | Akawaio           | r   | ə   |
+| *kɨmoro*       | Apalaí            | r   | o   |
+| *ugoro*        | Arara             | r   | o   |
+| *kurə*         | Bakairi           | r   | ə   |
+| *kɨmərə*       | Karijona          | r   | ə   |
+| *kɨwro*        | Hixkaryána        | r   | o   |
+| *ugro*         | Ikpeng            | r   | o   |
+| *kɨmoro*       | Kari’ña           | r   | o   |
+| *kumoro*       | Werikyana         | r   | o   |
+| *uurɨʔkon*     | Macushi           | r   | ɨ   |
+| *juurəto*      | Pemón             | r   | ə   |
+| *kukuɣe*       | Upper Xingu Carib | ɣ   | e   |
+| *urəʔnokon*    | Akawaio           | r   | ə   |
+| *kɨmarokomo*   | Apalaí            | r   | o   |
+| *ugoroŋmo*     | Arara             | r   | o   |
+| *kurə*         | Bakairi           | r   | ə   |
+| *kɨɲamoro*     | Karijona          | r   | o   |
+| *ugroŋmo*      | Ikpeng            | r   | o   |
+| *urəʔnokon*    | Ingarikó          | r   | ə   |
+| *kɨʔkaro(n)*   | Kari’ña           | r   | o   |
+| *kɨmojaro*     | Kari’ña           | r   | o   |
+| *kɨmjarɨ*      | Werikyana         | r   | ɨ   |
+| *uurɨʔnɨkon*   | Macushi           | r   | ɨ   |
+| *kɨnwanno*     | Ye’kwana          | n   | o   |
+| *juurənokon*   | Pemón             | r   | ə   |
+| *juurətokon*   | Pemón             | r   | ə   |
+| *kukuɣeko*     | Upper Xingu Carib | ɣ   | e   |
+| *kunməramkomo* | Wayana            | r   | \-  |
+| *tisuɣe*       | Upper Xingu Carib | ɣ   | e   |
+| *nana(r)*      | Yukpa             | r   | \-  |
+| *amərəʔnokon*  | Akawaio           | r   | ə   |
+| *amarakomo*    | Apalaí            | r   | a   |
+| *omoroŋmo*     | Arara             | r   | o   |
+| *əmaremo*      | Bakairi           | r   | \-  |
+| *aɲamoro*      | Karijona          | r   | o   |
+| *omroŋmo*      | Ikpeng            | r   | o   |
+| *amərəʔnokon*  | Ingarikó          | r   | ə   |
+| *amɨjaro(n)*   | Kari’ña           | r   | o   |
+| *omjarɨ*       | Werikyana         | r   | ɨ   |
+| *amɨrɨʔnɨkon*  | Macushi           | r   | ɨ   |
+| *ənwanno*      | Ye’kwana          | n   | o   |
+| *amənton*      | Panare            | n   | \-  |
+| *amərənokon*   | Pemón             | r   | ə   |
+| *amɲamoro*     | Tamanaku          | r   | o   |
+| *amaɣo*        | Upper Xingu Carib | ɣ   | o   |
+| *amjamro*      | Waiwai            | r   | o   |
+| *əməramkomo*   | Wayana            | r   | \-  |
+| *amɨrɨtɨ*      | Waimiri-Atroari   | r   | ɨ   |
+| *amora*        | Yukpa             | r   | \-  |
+| *inərə(rə)*    | Wayana            | r   | ə   |
+| *namoro*       | Akuriyó           | r   | o   |
+| *namoro*       | Karijona          | r   | o   |
+| *ɲamoro*       | Hixkaryána        | r   | o   |
+| *namorjamɨ*    | Werikyana         | r   | \-  |
+| *(n)ɲanno*     | Ye’kwana          | n   | o   |
+| *(ɨ)naɣo*      | Upper Xingu Carib | ɣ   | o   |
+| *ɲeʃamro*      | Waiwai            | r   | o   |
+| *inamoro*      | Wayana            | r   | o   |
+| *akaɣo*        | Upper Xingu Carib | ɣ   | o   |
+| *kɨrə*         | Akawaio           | r   | ə   |
+| *məkɨrə*       | Akuriyó           | r   | ə   |
+| *mokɨro*       | Apalaí            | r   | o   |
+| *məkə*         | Karijona          | \-  | ə   |
+| *mokro*        | Hixkaryána        | r   | o   |
+| *kɨrə(rə)*     | Ingarikó          | r   | ə   |
+| *kɨrə(rə)*     | Ingarikó          | r   | ə   |
+| *moʔko*        | Kari’ña           | \-  | o   |
+| *mokoro*       | Werikyana         | r   | o   |
+| *mɨɨkɨrɨ*      | Macushi           | r   | ɨ   |
+| *məʔrə*        | Ye’kwana          | r   | ə   |
+| *kən*          | Panare            | n   | \-  |
+| *məʔrə*        | Pemón             | r   | ə   |
+| *krere*        | Tamanaku          | r   | e   |
+| *krere*        | Tamanaku          | r   | e   |
+| *məərə*        | Tiriyó            | r   | ə   |
+| *mɨkro*        | Waiwai            | r   | o   |
+| *məkrə(rə)*    | Wayana            | r   | ə   |
+| *məkrə(rə)*    | Wayana            | r   | ə   |
+| *mokaro*       | Apalaí            | r   | o   |
+| *məkamoro*     | Karijona          | r   | o   |
+| *kamo(ro)*     | Ingarikó          | r   | o   |
+| *moʔkaro(n)*   | Kari’ña           | r   | o   |
+| *mokjarɨ*      | Werikyana         | r   | ɨ   |
+| *inkamoro*     | Macushi           | r   | o   |
+| *kanno*        | Ye’kwana          | n   | o   |
+| *kamənton*     | Panare            | n   | \-  |
+| *kiamoro*      | Tamanaku          | r   | o   |
+| *məkja(rə)*    | Wayana            | r   | ə   |
+| *mɨrɨrɨ*       | Macushi           | r   | ɨ   |
+| *merə*         | Bakairi           | r   | ə   |
+| *mosoro*       | Werikyana         | r   | o   |
+| *mɨserɨ*       | Macushi           | r   | ɨ   |
+| *məsərə*       | Pemón             | r   | ə   |
+| *kərə*         | Yawarana          | r   | ə   |
+| *moʔsaro(n)*   | Kari’ña           | r   | o   |
+| *moʔt͡ʃarɨ*     | Werikyana         | r   | ɨ   |
+| *insemoro*     | Macushi           | r   | o   |
+| *iʔsamərə*     | Pemón             | r   | ə   |
+| *t͡ʃamoro*      | Tamanaku          | r   | o   |
+| *aɣo*          | Upper Xingu Carib | ɣ   | o   |
+| *məharə*       | Wayana            | r   | ə   |
+| *kərəsantomo*  | Yawarana          | r   | ə   |
+| *sɨrɨrɨ*       | Macushi           | r   | ɨ   |
+| *sə(rə)jamə*   | Ingarikó          | r   | ə   |
+| *uurɨʔkon*     | Macushi           | r   | ɨ   |
+| *juurətokon*   | Pemón             | r   | ə   |
+| *tɨnwanno*     | Ye’kwana          | n   | o   |
+
+in almost all languages \* optional in at least Wayana and Yukpa \*
+absent in Tiriyoan and Bakairi
 
 2 (complex)
 
@@ -148,11 +488,6 @@ e.g. Tiriyó:
 | *mərə*   | Yawarana          | \-  | m   | ə   | \+  | r   | ə   |
 | *amo*    | Yukpa             | a   | m   | o   | \-  | \-  | \-  |
 | *amor*   | Yukpa             | a   | m   | o   | \+  | r   | \-  |
-
--   reconstructible: \*əmə
--   grammaticalization of emphatic \**rə* in almost all languages
-    -   optional in at least Wayana and Yukpa
-    -   absent in Tiriyoan and Bakairi
 
 # Second person: cognacy
 
@@ -333,7 +668,7 @@ wɨ-formative
 -   related but rather different forms
 -   [Meira 2002](#source-meira2002first): 263 reconstructs \**(ap)ina*
     or \**aipna*, with different patterns of loss
--   various additional initial elements: /ju/, /t͡ʃi/, /n/
+-   various additional initial elements: *ju-*, *t͡ʃi-*, *n-*
 -   rather divergent naha
 
 # 1+3: forms
@@ -392,13 +727,23 @@ wɨ-formative
 
 ![](images/3aanai.svg)
 
+# Innovative third person \*təwɨ
+
+|                   | 3            | 3PL                          |
+|:------------------|:-------------|:-----------------------------|
+| Ye’kwana          | ɲəərə / tɨwɨ | (n)ɲanno / tɨnwanno          |
+| Proto-Manapiarean | \*təwɨ       | *nərəjamotomo / *təwɨjantomo |
+| Yawarana          | təwɨ         | təwɨsantomo                  |
+| Mapoyo            | təəj         | naamotomo / tjantomo         |
+| Pémono            | təj / tɨwɨ   | təjantomo                    |
+
 # Animate demonstratives
 
 -   medial demonstratives created by adding emphatic marker to distal
     ones
 -   loss of demonstratives common
--   sporadic loss of initial \**m*
--   loss of initial \**m* in medial demonstratives in Venezuela
+-   sporadic loss of initial *\*m*
+-   loss of initial *\*m* in medial demonstratives in Venezuela
 
 |                   | PROX.ANIM      | PROX.ANIM.PL                     | MED.ANIM  | MED.ANIM.PL  | DIST.ANIM | DIST.ANIM.PL       |
 |:------------------|:---------------|:---------------------------------|:----------|:-------------|:----------|:-------------------|
@@ -432,12 +777,12 @@ wɨ-formative
 # Inanimate demonstratives
 
 -   PROX.INAN-1 and PROX.INAN-2 with unclear meaning distinction
--   initial \**tj* sometimes present
+-   initial *\*tj* sometimes present
 
 |                   | PROX.INAN-1 | PROX.INAN-2 | MED.INAN | DIST.INAN    |
 |:------------------|:------------|:------------|:---------|:-------------|
 | Proto-Cariban     | \*(tj)ərə   | \*(tj)ənɨ   | \*mərə   | \*mənɨ       |
-| Proto-Pekodian    | \*(t͡ʃ)erə   | \*en        | \*mərə   | \*mun        |
+| Proto-Pekodian    | \*(t͡ʃ)erə   | \*en        | \*mərə   | \*mən(ɨ)     |
 | Proto-Taranoan    | \*(t͡ʃ)ərə   | \*(t͡ʃ)enɨ   | \*mərə   | \*mənɨ       |
 | Proto-Parukotoan  | \*soro      | \*onɨ       | \*moro   | \*monɨ       |
 | Yawarana          |             | seni<br>eni | mərə     | məni<br>muni |
@@ -458,7 +803,7 @@ wɨ-formative
 
 ![](images/2-s.svg)
 
-# The develoment of \*tjə
+# The development of \*tjə
 
 -   closely related languages disagree about fronting of vowel in
 
@@ -489,7 +834,7 @@ PROX.INAN
 | *soronne*    | Werikyana         | \-  | s   | o   | r   | o   |
 | *sɨ(h)kon*   | Panare            | \-  | s   | ɨ   | h   | \-  |
 | *herəkom(o)* | Wayana            | \-  | h   | e   | r   | ə   |
-| *serəto(mo)* | Tiriyó            | \-  | s   | e   | r   | ə   |
+| *serətomo*   | Tiriyó            | \-  | s   | e   | r   | ə   |
 
 -   but fronting throughout in
 
@@ -508,7 +853,7 @@ PROX.INAN
 | *seni*      | Macushi    | s   | e   | n   | i   | \-  |
 | *senək*     | Pemón      | s   | e   | n   | ə   | k   |
 | *t͡ʃene*     | Tamanaku   | t͡ʃ  | e   | n   | e   | \-  |
-| *se(nɨ)*    | Tiriyó     | s   | e   | n   | ɨ   | \-  |
+| *senɨ*      | Tiriyó     | s   | e   | n   | ɨ   | \-  |
 | *on*        | Waiwai     | \-  | o   | n   | \-  | \-  |
 | *sinɨ*      | Wayana     | s   | i   | n   | ɨ   | \-  |
 | *seni*      | Yawarana   | s   | e   | n   | i   | \-  |
@@ -517,13 +862,11 @@ PROX.INAN
 | *enɨkon*    | Kari’ña    | \-  | e   | n   | ɨ   | \-  |
 | *sinkom(o)* | Wayana     | s   | i   | n   | \-  | \-  |
 | *enihne*    | Yawarana   | \-  | e   | n   | i   | \-  |
-| *sento(mo)* | Tiriyó     | s   | e   | n   | \-  | \-  |
+| *sentomo*   | Tiriyó     | s   | e   | n   | \-  | \-  |
 | *on*        | Waiwai     | \-  | o   | n   | \-  | \-  |
 | *eni*       | Yawarana   | \-  | e   | n   | i   | \-  |
 
 , except for (expected) Parukotoan
-
-# The develoment of \*tjə
 
 PROX.INAN
 
@@ -552,9 +895,9 @@ PROX.INAN
 | *soronne*    | Werikyana         | \-  | s   | o   | r   | o   |
 | *sɨ(h)kon*   | Panare            | \-  | s   | ɨ   | h   | \-  |
 | *herəkom(o)* | Wayana            | \-  | h   | e   | r   | ə   |
-| *serəto(mo)* | Tiriyó            | \-  | s   | e   | r   | ə   |
+| *serətomo*   | Tiriyó            | \-  | s   | e   | r   | ə   |
 
-# The develoment of \*tjə
+# The development of \*tjə
 
 PROX.INAN
 
@@ -571,7 +914,7 @@ PROX.INAN
 | *seni*      | Macushi    | s   | e   | n   | i   | \-  |
 | *senək*     | Pemón      | s   | e   | n   | ə   | k   |
 | *t͡ʃene*     | Tamanaku   | t͡ʃ  | e   | n   | e   | \-  |
-| *se(nɨ)*    | Tiriyó     | s   | e   | n   | ɨ   | \-  |
+| *senɨ*      | Tiriyó     | s   | e   | n   | ɨ   | \-  |
 | *on*        | Waiwai     | \-  | o   | n   | \-  | \-  |
 | *sinɨ*      | Wayana     | s   | i   | n   | ɨ   | \-  |
 | *seni*      | Yawarana   | s   | e   | n   | i   | \-  |
@@ -580,7 +923,7 @@ PROX.INAN
 | *enɨkon*    | Kari’ña    | \-  | e   | n   | ɨ   | \-  |
 | *sinkom(o)* | Wayana     | s   | i   | n   | \-  | \-  |
 | *enihne*    | Yawarana   | \-  | e   | n   | i   | \-  |
-| *sento(mo)* | Tiriyó     | s   | e   | n   | \-  | \-  |
+| *sentomo*   | Tiriyó     | s   | e   | n   | \-  | \-  |
 | *on*        | Waiwai     | \-  | o   | n   | \-  | \-  |
 | *eni*       | Yawarana   | \-  | e   | n   | i   | \-  |
 
@@ -622,8 +965,8 @@ PROX.INAN
 
 # Shared innovations in pronominal systems
 
--   Pemon-Panare \**(j)u(-rə)-to* for 1+2
--   Pemon-Panare /j/ in first person? (not in Macushi and Kapón)
+-   Pemon-Panare *\*(j)u(-rə)-to* for 1+2
+-   Pemon-Panare *j* in first person? (not in Macushi and Kapón)
 -   formal developments of 1+3 pronoun in Parukotoan, Pekodian, and
     Taranoan
 -   third person
@@ -646,8 +989,8 @@ in Manapiarean and Ye’kwana
 
 # Possible contact/areal phenomena
 
--   loss of initial /m/ in animate medial demonstratives in Venezuela
--   loss of initial /m/ in animate proximal & distal demonstratives from
+-   loss of initial *m* in animate medial demonstratives in Venezuela
+-   loss of initial *m* in animate proximal & distal demonstratives from
     Upper Xingu Carib to Ikpeng
 -   loss of initial \**i*
 
@@ -739,18 +1082,18 @@ in Manapiarean and Ye’kwana
 | 3ANIM.PL | \*namo         | namoro   | namo      | namoro      |
 | 3INAN    | \*irə          | irə      | irə       | irə         |
 
-|              | Proto-Taranoan | Karijona | Tiriyó       | Akuriyó  |
-|:-------------|:---------------|:---------|:-------------|:---------|
-| PROX.ANIM    | \*mə(t͡ʃ)e      | məhə     | məe          | məʔe     |
-| PROX.ANIM.PL | \*məet͡ʃamo     | məsa     | məesa(mo)    | məet͡ʃamo |
-| MED.ANIM     | \*məkɨrə       | məkə     | məərə        | məkɨrə   |
-| MED.ANIM.PL  | \*məkɨrəjamo   | məkamoro | məəja(mo)    |          |
-| DIST.ANIM    | \*məkɨ         | məkɨ     | mə(kɨ)       |          |
-| DIST.ANIM.PL | \*məkjamo      | məka     | mə(kɨ)ja(mo) |          |
-| PROX.INAN-1  | \*(t͡ʃ)ərə      | ərə      | serə         | t͡ʃerə    |
-| PROX.INAN-2  | \*(t͡ʃ)enɨ      | enɨ      | se(nɨ)       | t͡ʃenɨ    |
-| MED.INAN     | \*mərə         | mərə     | mərə         | mərə     |
-| DIST.INAN    | \*mənɨ         | mənɨ     | mə(nɨ)       |          |
+|              | Proto-Taranoan | Karijona | Tiriyó   | Akuriyó  |
+|:-------------|:---------------|:---------|:---------|:---------|
+| PROX.ANIM    | \*mə(t͡ʃ)e      | məhə     | məe      | məʔe     |
+| PROX.ANIM.PL | \*məet͡ʃamo     | məsa     | məesamo  | məet͡ʃamo |
+| MED.ANIM     | \*məkɨrə       | məkə     | məərə    | məkɨrə   |
+| MED.ANIM.PL  | \*məkɨrəjamo   | məkamoro | məəjamo  |          |
+| DIST.ANIM    | \*məkɨ         | məkɨ     | məkɨ     |          |
+| DIST.ANIM.PL | \*məkjamo      | məka     | məkɨjamo |          |
+| PROX.INAN-1  | \*(t͡ʃ)ərə      | ərə      | serə     | t͡ʃerə    |
+| PROX.INAN-2  | \*(t͡ʃ)enɨ      | enɨ      | senɨ     | t͡ʃenɨ    |
+| MED.INAN     | \*mərə         | mərə     | mərə     | mərə     |
+| DIST.INAN    | \*mənɨ         | mənɨ     | mənɨ     |          |
 
 # Pekodian
 
@@ -775,7 +1118,7 @@ in Manapiarean and Ye’kwana
 | PROX.INAN-1  | \*(t͡ʃ)erə      | ʃirə    | ero            |        |
 | PROX.INAN-2  | \*en           |         | en             | nen    |
 | MED.INAN     | \*mərə         | mərə    | moro           |        |
-| DIST.INAN    | \*mun          |         | mon / mun      | mun    |
+| DIST.INAN    | \*mən(ɨ)       |         | mon / mun      | mun    |
 
 # Pemon-Panare
 
@@ -870,7 +1213,7 @@ in Manapiarean and Ye’kwana
 |                   | PROX.INAN-1 | PROX.INAN-2 | MED.INAN | DIST.INAN    |
 |:------------------|:------------|:------------|:---------|:-------------|
 | Proto-Cariban     | \*(tj)ərə   | \*(tj)ənɨ   | \*mərə   | \*mənɨ       |
-| Proto-Pekodian    | \*(t͡ʃ)erə   | \*en        | \*mərə   | \*mun        |
+| Proto-Pekodian    | \*(t͡ʃ)erə   | \*en        | \*mərə   | \*mən(ɨ)     |
 | Proto-Taranoan    | \*(t͡ʃ)ərə   | \*(t͡ʃ)enɨ   | \*mərə   | \*mənɨ       |
 | Proto-Parukotoan  | \*soro      | \*onɨ       | \*moro   | \*monɨ       |
 | Yawarana          |             | seni<br>eni | mərə     | məni<br>muni |
@@ -905,6 +1248,10 @@ in Manapiarean and Ye’kwana
     (Arara of Pará). (MA thesis).
 -   <a id="source-garcia2006diccionario"> </a>García Ferrer, Donaldo
     José. 2006. Diccionario piloto pemón-español. (MA thesis).
+-   <a id="source-gildea1995reduction"> </a>Gildea, Spike. 1995. A
+    Comparative Description of Syllable Reduction in the Cariban
+    Language Family. International Journal of American Linguistics 61.
+    62–102.
 -   <a id="source-gildea2004classification"> </a>Gildea, Spike. 2003.
     Proposing a new branch for the Cariban language family. Amerindia.
     7–32.

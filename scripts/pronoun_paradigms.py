@@ -157,8 +157,10 @@ pyd.compose_paradigm(
     filters={"Language_ID": pc2, "Cognateset_ID": dem_a},
     decorate=lambda x: f"[wf]({x}?nt&no_language)" if x != "" else "",
     decorate_y=lambda x: f"[lg]({x})",
+    decorate_x=gloss,
     category_joiner="<br>",
     csv_output=f"docs/pld-slides/tables/pc_dem_a.csv",
+
 )
 
 pyd = Pyradigm(forms, y="Language_ID", x="Cognateset_ID", print_column="ID")
@@ -167,6 +169,7 @@ pyd.compose_paradigm(
     filters={"Language_ID": pc2, "Cognateset_ID": dem_i},
     decorate=lambda x: f"[wf]({x}?nt&no_language)" if x != "" else "",
     decorate_y=lambda x: f"[lg]({x})",
+    decorate_x=gloss,
     category_joiner="<br>",
     csv_output=f"docs/pld-slides/tables/pc_dem_i.csv",
 )
@@ -193,13 +196,22 @@ for x, y in l_dict.items():
 
 
 # synchronic paradigms
-pyd = Pyradigm(forms, y="Language_ID", x="Meaning")
+tf = forms.copy()
+tf["Meaning"] = tf["Meaning"].replace("INVIS.ANIM", "3")
+tf["Meaning"] = tf["Meaning"].replace("INVIS.ANIM.PL", "3.PL")
+tf = tf.sort_values(by="Cognateset_ID")
+pyd = Pyradigm(tf, y="Language_ID", x="Meaning")
 print(
     pyd.compose_paradigm(
         filters={
             "Meaning": ["3", "3.PL"],
-            "Language_ID": ["PMan", "yab", "map", "pno", "mak"],
-        }
+            "Language_ID": ["mak", "PMan", "yab", "map", "pno"],
+        },
+        csv_output="docs/pld-slides/tables/3t.csv",
+        decorate_y=lambda x: f"[lg]({x})",
+        decorate_x=gloss,
+        decorate=lambda x: f"[wf]({x}?nt&no_language)",
+        print_column="ID"
     )
 )
 
