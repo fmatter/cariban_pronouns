@@ -219,10 +219,10 @@ print(
 
 tri = forms[forms["Language_ID"] == "tri"]
 tri["Form"] = tri["Form"].apply(lambda x: x.replace("+", ""))
-pyd = Pyradigm(tri, x="Meaning", y="Language_ID", filters={"Meaning": pronoun_strings})
+pyd = Pyradigm(tri, x="Meaning", y="Language_ID", print_column="ID", filters={"Meaning": pronoun_strings})
 para = pyd.compose_paradigm()
 tdf = pyd.decompose_paradigm(para, x=["Person", "Number"], y=["Language_ID"])
-pyd = Pyradigm(tri, x="Meaning", y="Language_ID", filters={"Meaning": pronoun_strings3})
+pyd = Pyradigm(tri, x="Meaning", y="Language_ID", print_column="ID", filters={"Meaning": pronoun_strings3})
 para = pyd.compose_paradigm()
 tdf2 = pyd.decompose_paradigm(
     para, x=["Person", "Animacy", "Number"], y=["Language_ID"]
@@ -234,7 +234,7 @@ print(
     pyd.compose_paradigm(
         x="Number",
         y=["Person", "Animacy"],
-        decorate=lambda x: "*" + x + "*",
+        decorate=lambda x: f"[wf]({x}?nt&no_language)",
         decorate_x=gloss,
         decorate_y=gloss,
         csv_output=f"docs/pld-slides/tables/tripro.csv",

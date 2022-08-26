@@ -1,12 +1,11 @@
 # Introduction [label](intro)
 
-* reconstruction of [lg](PC) pronouns by [src](meira2002first)
-* no dedicated comparative work on pronouns since
+* reconstruction of [lg](PC) pronouns by [src](meira2002first) "A first comparison of Cariban pronouns and deictics"
 * twenty years later:
-    * new data [psrc](ikpengpacheco2001,akawaiocaesar2003,mattei2003pemono,cruz2005fonologia,garcia2006diccionario,kuikurodossantos2007,kuikurodossantos2007,camargo2010wayana,desouza2010arara,swiggers2010gramatica,largo2011yukpa,maquiritaricaceres2011,panarepayne2013,stegeman2014akawaio,alves2017arara,guerrero2019carijo,muller2021yawarana)
+    * new data [psrc](ikpengpacheco2001,akawaiocaesar2003,mattei2003pemono,cruz2005fonologia,garcia2006diccionario,kuikurodossantos2007,camargo2010wayana,desouza2010arara,swiggers2010gramatica,largo2011yukpa,maquiritaricaceres2011,panarepayne2013,stegeman2014akawaio,alves2017arara,guerrero2019carijo,muller2021yawarana)
     * better knowledge about internal classification [psrc](gildea2004classification,meira2005southern,gildea2015venezuelan,matter2021cariban)
     * other comparative work [psrc](meira2005southern,gildea2010story,meira2010origin)
-* I collected pronoun data from sources & annotated for cognacy, w/ three main goals:
+* collected pronoun data from sources & annotated for cognacy, w/ three main goals:
     1. bottom-up reconstruction
     2. look for genealogical patterns
     3. look for areal patterns
@@ -18,7 +17,7 @@
 # The Cariban language family
 * solid lower-level branches: Parukotoan [psrc](gildea1998), Pekodian [psrc](meira2005southern), Taranoan [psrc](meira1998proto)
 * tentative higher-level branch: Venezuelan [psrc](gildea2004classification,gildea2015venezuelan)
-* no evidence for Guianan (Taranoan + [lg](way) + [lg](kar)? + [lg](apa)? + [lg](mak)?)
+* no evidence for Guianan (Taranoan + [lg](way) + [lg](kar)? + [lg](apa)? + [lg](mak)?) [psrc](matter2021cariban)
 * closely related dialect groups: Pemongan, Manapiarean
 
 
@@ -51,7 +50,7 @@ e.g. [lg](tri):
 
 * reconstructible: [wf](pc-1?nt)
 * reoccurring innovations:
-    * grammaticalization of emphatic marker [cogset](emp?inline)
+    * lexicalization of emphatic marker [cogset](emp?inline)
     * coalescence of *wɨ* to *u*
 * appearance of *j* in [lg](pem) and [lg](pan) -- via *\*əwɨ* > *\*ɨwɨ* > *\*ɨu* > *\*ju*? [psrc](meira2002first[259])
 * mysterious *hɨ* in Manapiarean
@@ -68,7 +67,7 @@ e.g. [lg](tri):
 # Second person
 
 * reconstructible: [wf](pc-2?nt)
-* grammaticalization of emphatic [cogset](emp?inline) in almost all languages
+* lexicalization of emphatic [cogset](emp?inline) in almost all languages
 	* optional in at least [lg](way) and [lg](yuk)
     * absent in Tiriyoan and [lg](bak)
 
@@ -181,20 +180,22 @@ e.g. [lg](tri):
 [table](pcdem)
 
 
-# Shared innovations in pronominal systems
+# Summary
+
+## Shared innovations in pronominal systems
 
 * Pemon-Panare *\*(j)u(-rə)-to* for [gl](1+2)
-* Pemon-Panare *j* in first person? (not in [lg](mac) and Kapón)
+* Pemon-Panare *\*j* in first person (not in [lg](mac) and Kapón)
 * formal developments of [cogset](1a3?inline) '[gl](1+3)' in Parukotoan, Pekodian, and Taranoan
 
 
-# Possible contact/areal phenomena
+## Possible contact/areal phenomena
 * loss of initial *mə* in animate medial demonstratives in Venezuela
 * loss of initial *m* in animate proximal & distal demonstratives ([lg](uxc) -> [lg](ikp))
 * loss of initial _\*i_ in Parukotoan, Taranoan, and Tamanaku
 * third person [cogset](3t?inline) in Manapiarean and [lg](mak)
 
-# Conclusions
+## Conclusions
 * few changes to [src](meira2002first)'s reconstruction
 * found some shared innovations confirming already established branches
 * Pemon-Panare not straightforward to reconstruct

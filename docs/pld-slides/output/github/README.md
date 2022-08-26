@@ -3,15 +3,14 @@
 # Introduction <a id='intro'><a/>
 
 -   reconstruction of Proto-Cariban pronouns by [Meira
-    2002](#source-meira2002first)
--   no dedicated comparative work on pronouns since
+    2002](#source-meira2002first) “A first comparison of Cariban
+    pronouns and deictics”
 -   twenty years later:
     -   new data ([Pachêco 2001](#source-ikpengpacheco2001), [Caesar-Fox
         2003](#source-akawaiocaesar2003), [Mattéi-Müller
         2003](#source-mattei2003pemono), [Cruz
         2005](#source-cruz2005fonologia), [García Ferrer
         2006](#source-garcia2006diccionario), [dos Santos
-        2007](#source-kuikurodossantos2007), [dos Santos
         2007](#source-kuikurodossantos2007), [Camargo and Tapinkili
         2010](#source-camargo2010wayana), [de Souza
         2010](#source-desouza2010arara), [Swiggers
@@ -32,7 +31,7 @@
         2005](#source-meira2005southern), [Gildea et
         al. 2010](#source-gildea2010story), [Meira et
         al. 2010](#source-meira2010origin))
--   I collected pronoun data from sources & annotated for cognacy, w/
+-   collected pronoun data from sources & annotated for cognacy, w/
     three main goals:
     1.  bottom-up reconstruction
     2.  look for genealogical patterns
@@ -54,7 +53,7 @@
     2003](#source-gildea2004classification), [Gildea
     2015](#source-gildea2015venezuelan))
 -   no evidence for Guianan (Taranoan + Wayana + Kari’ña? + Apalaí? +
-    Ye’kwana?)
+    Ye’kwana?) ([Matter 2021](#source-matter2021cariban))
 -   closely related dialect groups: Pemongan, Manapiarean
 
 # Notes on sound laws
@@ -88,14 +87,14 @@
 
 e.g. Tiriyó:
 
-|       | SG      | PL          |
-|:------|:--------|:------------|
-| 1     | *wɨ(ɨ)* |             |
-| 2     | *əmə*   | *əmənjamo*  |
-| 1+2   | *kɨmə*  | *kɨmənjamo* |
-| 1+3   | *anja*  |             |
-| 3ANIM | *nərə*  | *namo*      |
-| 3INAN | *irə*   |             |
+|       | SG    | PL        |
+|:------|:------|:----------|
+| 1     | wɨ(ɨ) |           |
+| 2     | əmə   | əmənjamo  |
+| 1+2   | kɨmə  | kɨmənjamo |
+| 1+3   | anja  |           |
+| 3ANIM | nərə  | namo      |
+| 3INAN | irə   |           |
 
 |            | SG            | PL         |
 |:-----------|:--------------|:-----------|
@@ -110,7 +109,7 @@ e.g. Tiriyó:
 
 -   reconstructible: \*əwɨ
 -   reoccurring innovations:
-    -   grammaticalization of emphatic marker
+    -   lexicalization of emphatic marker
 
 EMP
 
@@ -308,7 +307,7 @@ EMP
 # Second person
 
 -   reconstructible: \*əmə
--   grammaticalization of emphatic
+-   lexicalization of emphatic
 
 EMP
 
@@ -967,10 +966,12 @@ PROX.INAN
 | MED    |         |              | \*mərə    |
 | DIST   | \*məkɨ  | \*mək-jamo   | \*mənɨ    |
 
-# Shared innovations in pronominal systems
+# Summary
+
+## Shared innovations in pronominal systems
 
 -   Pemon-Panare *\*(j)u(-rə)-to* for 1+2
--   Pemon-Panare *j* in first person? (not in Macushi and Kapón)
+-   Pemon-Panare *\*j* in first person (not in Macushi and Kapón)
 -   formal developments of
 
 1+3
@@ -1005,7 +1006,7 @@ PROX.INAN
 
 ‘1+3’ in Parukotoan, Pekodian, and Taranoan
 
-# Possible contact/areal phenomena
+## Possible contact/areal phenomena
 
 -   loss of initial *mə* in animate medial demonstratives in Venezuela
 -   loss of initial *m* in animate proximal & distal demonstratives
@@ -1029,7 +1030,7 @@ PROX.INAN
 
 in Manapiarean and Ye’kwana
 
-# Conclusions
+## Conclusions
 
 -   few changes to [Meira 2002](#source-meira2002first)’s reconstruction
 -   found some shared innovations confirming already established
