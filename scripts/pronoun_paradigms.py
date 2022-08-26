@@ -124,6 +124,7 @@ pc1 = [
     "apa",
     "yuk",
     "uxc",
+    "wmr"
 ]
 
 pc2 = [
@@ -141,6 +142,7 @@ pc2 = [
     "apa",
     "yuk",
     "uxc",
+    "wmr"
 ]
 
 pyd = Pyradigm(forms, y="Language_ID", x="Cognateset_ID", print_column="ID")
