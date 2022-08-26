@@ -176,7 +176,7 @@ e.g. [lg](tri):
 [table](meirapronouns)
 [table](pcpronouns)
 
-# Suggested changes
+# Suggested changes to the Proto-Cariban system
 [table](meiradem)
 [table](pcdem)
 
@@ -193,6 +193,12 @@ e.g. [lg](tri):
 * loss of initial *m* in animate proximal & distal demonstratives ([lg](uxc) -> [lg](ikp))
 * loss of initial _\*i_ in Parukotoan, Taranoan, and Tamanaku
 * third person [cogset](3t?inline) in Manapiarean and [lg](mak)
+
+# Conclusions
+* few changes to [src](meira2002first)'s reconstruction
+* found some shared innovations confirming already established branches
+* Pemon-Panare not straightforward to reconstruct
+* even harder for Venezuelan branch; similarities might be contact-based
 
 # Appendix
 
