@@ -190,19 +190,19 @@ class Dataset(BaseDataset):
                     }
                 )
                 edictor_alignment.append(" ".join(alignment))
-            # for par in row["Parameter_ID"]:
-            #     edictor_output = edictor_output.append(
-            #         {
-            #             "DOCULECT": row["Language_ID"],
-            #             "CONCEPT": slug(par),
-            #             "CONCEPTID": slug(par),
-            #             "IPA": row["Form"].replace("+", ""),
-            #             "SEGMENTS": segmentify(row["Form"]),
-            #             "COGIDS": str2numcog(row["Cognates"]),
-            #             "ALIGNMENT": " + ".join(edictor_alignment),
-            #         },
-            #         ignore_index=True,
-            #     )
+            for par in row["Parameter_ID"]:
+                edictor_output = edictor_output.append(
+                    {
+                        "DOCULECT": row["Language_ID"],
+                        "CONCEPT": slug(par),
+                        "CONCEPTID": slug(par),
+                        "IPA": row["Form"].replace("+", ""),
+                        "SEGMENTS": segmentify(row["Form"]),
+                        "COGIDS": str2numcog(row["Cognates"]),
+                        "ALIGNMENT": " + ".join(edictor_alignment),
+                    },
+                    ignore_index=True,
+                )
 
         lg_ids = list(set(lg_ids))
         for lg in crh.lg_order().keys():

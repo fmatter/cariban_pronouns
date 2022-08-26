@@ -124,7 +124,7 @@ kax-f-121,kax,kɨmjarɨ,k ɨ + m + j a + r ɨ,,,12pl
 mac-f-122,mac,uurɨʔnɨkon,uu + r ɨ + ʔ n ɨ + k o n,,macushiabbott1991[99],12pl
 mak-f-123,mak,kɨnwanno,k ɨ + n + w a n + n o,,maquiritaricaceres2011[167],12pl
 pan-f-124,pan,jutakon,j u + t a + k o n,,panarepayne2013[88],12pl
-pc-12pl,PC,*kɨCV-jamo,k ɨ + � V + j a m o,,meira2002first[271],12pl
+pc-12pl,PC,*kɨCV-jamo,k ɨ + � V + + j a m o,,meira2002first[271],12pl
 pem-f-126,pem,juurənokon,j uu + r ə + n o + k o n,,garcia2006diccionario[64],12pl
 pem-f-127,pem,juurətokon,j uu + r ə + t o + k o n,,garcia2006diccionario[64],12pl
 PPar-f-128,PPar,*kɨwjamo,k ɨ + w + j a m o,,,12pl
@@ -540,7 +540,7 @@ mac-f-537,mac,uurɨʔkon,uu + r ɨ + ʔ + k o n,,macushiabbott1991[99],12
 mac-f-538,mac,toʔ,t o ʔ,,macushiabbott1991[99],3anapl
 mac-f-539,mac,siini,s ii n i,,macushiabbott1991[105],medinan
 mak-f-540,mak,məəjə,m əə j ə,meaning change?,maquiritaricaceres2011[122],medanim
-pan-f-541,pan,aɲimonton,a ɲ i m o n t o n,,panarepayne2013[88],2pl
+pan-f-541,pan,aɲimonton,a ɲ i m o n t o n,Inserted /ɲi/?,panarepayne2013[88],2pl
 pan-f-542,pan,əmə(h),ə m ə h,Actually DIST/PROX,panarepayne2013[89],dist
 pem-f-543,pem,juurətokon,j uu + r ə + t o + k o n,,swiggers2010gramatica[120],12
 pem-f-544,pem,toʔ,t o ʔ,,swiggers2010gramatica[120],3anapl
@@ -573,26 +573,25 @@ wmr-f-570,wmr,mɨmoʔ,m ɨ m o ʔ,,waimiribruno2003[82],distinan
 wmr-f-571,wmr,bɨ(bɨ),b ɨ b ɨ,,waimiribruno2003[81],proxanim
 wmr-f-572,wmr,(h)and͡ʒi,h a n d � � i,,waimiribruno2003[81],proxinan
 wmr-f-573,wmr,kand͡ʒi,k a n d � � i,,waimiribruno2003[81],proxinan
-yuk-f-574,yuk,o(r),o + r,,oquendo2007gramatica[36];meira2003primeras,3ana
+yuk-f-574,yuk,o(r),o r,,oquendo2007gramatica[36];meira2003primeras,3ana
 yuk-f-575,yuk,oka,o k a,,oquendo2007gramatica[36];meira2003primeras,3anapl
 yab-f-576,yab,mit͡ʃi,m i t͡ʃ i,,,medanim
-PPem-f-577,PPem,*məserə,m ə s e + r ə,,,proxanim
-yab-f-578,yab,eni,e n i,,yawaranagrammar,proxinan
-map-f-579,map,naamotomo,n + aa m o + t o m o,Length from loss of *rV. Variants with loss of /mo/,villalon2000person[204],3anapl
-map-f-580,map,təəj,t əə j,,villalon2000person[204],3ana
-map-f-581,map,tjantomo,t j + a n + t o m o,,villalon2000person[204],3anapl
-yab-f-582,yab,muni,m u n i,,yawaranagrammar,distinan
-yab-f-583,yab,munihne,m u n i + h n e,,yawaranagrammar,distinanpl
-yab-f-584,yab,təwɨ,t ə w ɨ,,yawaranagrammar,3ana
-yab-f-585,yab,təwɨsantomo,t ə w ɨ + s a n + t o m o,,yawaranagrammar,3anapl
-mak-f-586,mak,tɨwɨ,t ɨ w ɨ,,maquiritaricaceres2011[120],3ana
-mak-f-587,mak,tɨnwanno,t ɨ + n + w a n + n o,,maquiritaricaceres2011[120],3anapl
-pno-f-588,pno,təj,t ə j,,mattei2003pemono[48],3ana
-pno-f-589,pno,tɨwɨ,t ɨ w ɨ,,mattei2003pemono[48],3ana
-pno-f-590,pno,təjantomo,t ə j + a n + t o m o,,mattei2003pemono[48],3anapl
-PMan-f-591,PMan,*təwɨjantomo,t ə w ɨ + j a n + t o m o,,,3anapl
-PMan-f-592,PMan,*təwɨ,t ə w ɨ,,,3ana
-PPP-f-593,PPP,*məkɨ,m ə k ɨ,,,distanim
-PPP-f-594,PPP,*sərə,s ə r ə,,,proxinan
-PPP-f-595,PPP,*muC,m u �,,,distinan
-PMan-f-596,PMan,*nərəjamotomo,n ə r ə + j a m o + t o m o,,,3anapl
+yab-f-577,yab,eni,e n i,,yawaranagrammar,proxinan
+map-f-578,map,naamotomo,n + aa m o + t o m o,Length from loss of *rV. Variants with loss of /mo/,villalon2000person[204],3anapl
+map-f-579,map,təəj,t əə j,,villalon2000person[204],3ana
+map-f-580,map,tjantomo,t j + a n + t o m o,,villalon2000person[204],3anapl
+yab-f-581,yab,muni,m u n i,,yawaranagrammar,distinan
+yab-f-582,yab,munihne,m u n i + h n e,,yawaranagrammar,distinanpl
+yab-f-583,yab,təwɨ,t ə w ɨ,,yawaranagrammar,3ana
+yab-f-584,yab,təwɨsantomo,t ə w ɨ + s a n + t o m o,,yawaranagrammar,3anapl
+mak-f-585,mak,tɨwɨ,t ɨ w ɨ,,maquiritaricaceres2011[120],3ana
+mak-f-586,mak,tɨnwanno,t ɨ + n + w a n + n o,,maquiritaricaceres2011[120],3anapl
+pno-f-587,pno,təj,t ə j,,mattei2003pemono[48],3ana
+pno-f-588,pno,tɨwɨ,t ɨ w ɨ,,mattei2003pemono[48],3ana
+pno-f-589,pno,təjantomo,t ə j + a n + t o m o,,mattei2003pemono[48],3anapl
+PMan-f-590,PMan,*təwɨjantomo,t ə w ɨ + j a n + t o m o,,,3anapl
+PMan-f-591,PMan,*təwɨ,t ə w ɨ,,,3ana
+PPP-f-592,PPP,*məkɨ,m ə k ɨ,,,distanim
+PPP-f-593,PPP,*sərə,s ə r ə,,,proxinan
+PPP-f-594,PPP,*muC,m u �,,,distinan
+PMan-f-595,PMan,*nərəjamotomo,n ə r ə + j a m o + t o m o,,,3anapl
