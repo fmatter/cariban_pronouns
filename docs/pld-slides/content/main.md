@@ -15,10 +15,11 @@
 ![](family.svg)
 
 # The Cariban language family
-* solid lower-level branches: Parukotoan [psrc](gildea1998), Pekodian [psrc](meira2005southern), Taranoan [psrc](meira1998proto)
+* robust lower-level branches: Parukotoan [psrc](gildea1998), Pekodian [psrc](meira2005southern), Taranoan [psrc](meira1998proto)
 * tentative higher-level branch: Venezuelan [psrc](gildea2004classification,gildea2015venezuelan)
-* no evidence for Guianan (Taranoan + [lg](way) + [lg](kar)? + [lg](apa)? + [lg](mak)?) [psrc](matter2021cariban)
-* closely related dialect groups: Pemongan, Manapiarean
+* no evidence for a Guianan branch (Taranoan + [lg](way) + [lg](kar)? + [lg](apa)? + [lg](mak)?) [psrc](matter2021cariban)
+* closely related dialect groups: Pemongan, Manapiarean, Yukpan
+* five isolates
 
 
 # Notes on sound laws
@@ -148,7 +149,7 @@ e.g. [lg](tri):
 
 
 # Inanimate demonstratives
-* [gl](prox.inan-1) and [gl](prox.inan-2) with unclear meaning distinction
+* [gl](prox.inan-1) and [gl](prox.inan-2), with unclear meaning distinction
 * initial _\*tj_ sometimes present
 
 [table](pc_dem_i)

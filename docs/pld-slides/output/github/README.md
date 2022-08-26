@@ -45,16 +45,17 @@
 
 # The Cariban language family
 
--   solid lower-level branches: Parukotoan ([Gildea
+-   robust lower-level branches: Parukotoan ([Gildea
     1998](#source-gildea1998)), Pekodian ([Meira and Franchetto
     2005](#source-meira2005southern)), Taranoan ([Meira
     1998](#source-meira1998proto))
 -   tentative higher-level branch: Venezuelan ([Gildea
     2003](#source-gildea2004classification), [Gildea
     2015](#source-gildea2015venezuelan))
--   no evidence for Guianan (Taranoan + Wayana + Kari’ña? + Apalaí? +
-    Ye’kwana?) ([Matter 2021](#source-matter2021cariban))
--   closely related dialect groups: Pemongan, Manapiarean
+-   no evidence for a Guianan branch (Taranoan + Wayana + Kari’ña? +
+    Apalaí? + Ye’kwana?) ([Matter 2021](#source-matter2021cariban))
+-   closely related dialect groups: Pemongan, Manapiarean, Yukpan
+-   five isolates
 
 # Notes on sound laws
 
@@ -778,7 +779,7 @@ wɨ-formative
 
 # Inanimate demonstratives
 
--   PROX.INAN-1 and PROX.INAN-2 with unclear meaning distinction
+-   PROX.INAN-1 and PROX.INAN-2, with unclear meaning distinction
 -   initial *\*tj* sometimes present
 
 |                   | PROX.INAN-1 | PROX.INAN-2 | MED.INAN | DIST.INAN     |
