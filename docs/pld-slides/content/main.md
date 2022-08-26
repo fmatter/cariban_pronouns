@@ -16,7 +16,7 @@
 ![](family.svg)
 
 # The Cariban language family
-* solid lower-level branches: Parukotoan, Pekodian, Taranoan
+* solid lower-level branches: Parukotoan [psrc](gildea1998), Pekodian [psrc](meira2005southern), Taranoan [psrc](meira1998proto)
 * tentative higher-level branch: Venezuelan [psrc](gildea2004classification,gildea2015venezuelan)
 * no evidence for Guianan (Taranoan + [lg](way) + [lg](kar)? + [lg](apa)? + [lg](mak)?)
 * closely related dialect groups: Pemongan, Manapiarean

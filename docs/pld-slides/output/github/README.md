@@ -46,7 +46,10 @@
 
 # The Cariban language family
 
--   solid lower-level branches: Parukotoan, Pekodian, Taranoan
+-   solid lower-level branches: Parukotoan ([Gildea
+    1998](#source-gildea1998)), Pekodian ([Meira and Franchetto
+    2005](#source-meira2005southern)), Taranoan ([Meira
+    1998](#source-meira1998proto))
 -   tentative higher-level branch: Venezuelan ([Gildea
     2003](#source-gildea2004classification), [Gildea
     2015](#source-gildea2015venezuelan))
@@ -1287,6 +1290,9 @@ in Manapiarean and Ye’kwana
     Comparative Description of Syllable Reduction in the Cariban
     Language Family. International Journal of American Linguistics 61.
     62–102.
+-   <a id="source-gildea1998"> </a>Gildea, Spike. 1998. On
+    reconstructing grammar: Comparative Cariban morphosyntax. Oxford:
+    Oxford University Press.
 -   <a id="source-gildea2004classification"> </a>Gildea, Spike. 2003.
     Proposing a new branch for the Cariban language family. Amerindia.
     7–32.
@@ -1319,6 +1325,9 @@ in Manapiarean and Ye’kwana
 -   <a id="source-matter2021cariban"> </a>Matter, Florian. 2021.
     Diachronic and typological aspects of Cariban verbal argument
     marking. (Doctoral dissertation).
+-   <a id="source-meira1998proto"> </a>Meira, Sérgio. 1998. A
+    reconstruction of Proto-Taranoan: Phonology and Inflectional
+    Morphology. (MA thesis).
 -   <a id="source-meira2002first"> </a>Meira, Sérgio. 2002. A first
     comparison of pronominal and demonstrative systems in the Cariban
     language family. In Crevels, Mily and Crevels, Mily and Meira,
