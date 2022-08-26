@@ -926,7 +926,7 @@ PROX.INAN
 | *on*        | Waiwai     | \-  | o   | n   | \-  | \-  |
 | *eni*       | Yawarana   | \-  | e   | n   | i   | \-  |
 
-# Suggested changes
+# Suggested changes to the Proto-Cariban system
 
 |       | SG            | PL               |
 |:------|:--------------|:-----------------|
@@ -966,8 +966,46 @@ PROX.INAN
 
 -   Pemon-Panare *\*(j)u(-rə)-to* for 1+2
 -   Pemon-Panare *j* in first person? (not in Macushi and Kapón)
--   formal developments of 1+3 pronoun in Parukotoan, Pekodian, and
-    Taranoan
+-   formal developments of
+
+1+3
+
+| Form      | Language        | \-  | \-  | \-  | \-  | \-  |
+|:----------|:----------------|:----|:----|:----|:----|:----|
+| *ina*     | Akawaio         | i   | \-  | n   | \-  | a   |
+| *anja*    | Akuriyó         | a   | \-  | n   | j   | a   |
+| *ɨna*     | Apalaí          | ɨ   | \-  | n   | \-  | a   |
+| *t͡ʃimna*  | Arara           | \-  | m   | n   | \-  | a   |
+| *ʃina*    | Bakairi         | \-  | \-  | n   | \-  | a   |
+| *aɲa*     | Karijona        | a   | \-  | ɲ   | \-  | a   |
+| *amna*    | Hixkaryána      | a   | m   | n   | \-  | a   |
+| *t͡ʃimna*  | Ikpeng          | \-  | m   | n   | \-  | a   |
+| *ina*     | Ingarikó        | i   | \-  | n   | \-  | a   |
+| *nana*    | Japreria        | a   | \-  | n   | \-  | a   |
+| *naʔna*   | Kari’ña         | a   | ʔ   | n   | \-  | a   |
+| *amna*    | Werikyana       | a   | m   | n   | \-  | a   |
+| *anna*    | Macushi         | a   | \-  | n   | n   | a   |
+| *nɲa*     | Ye’kwana        | \-  | n   | ɲ   | \-  | a   |
+| *naha*    | Mapoyo          | \-  | \-  | n   | \-  | a   |
+| *ana*     | Panare          | a   | \-  | n   | \-  | a   |
+| *inna*    | Pemón           | i   | \-  | n   | n   | a   |
+| *ana*     | Pémono          | a   | \-  | n   | \-  | a   |
+| *jumna*   | Tamanaku        | \-  | m   | n   | \-  | a   |
+| *anja*    | Tiriyó          | a   | \-  | n   | j   | a   |
+| *amna*    | Waiwai          | a   | m   | n   | \-  | a   |
+| *emna*    | Wayana          | e   | m   | n   | \-  | a   |
+| *aʔa*     | Waimiri-Atroari | a   | ʔ   | \-  | \-  | a   |
+| *ana*     | Yawarana        | a   | \-  | n   | \-  | a   |
+| *nana(r)* | Yukpa           | a   | \-  | n   | \-  | a   |
+
+‘1+3’ in Parukotoan, Pekodian, and Taranoan
+
+# Possible contact/areal phenomena
+
+-   loss of initial *mə* in animate medial demonstratives in Venezuela
+-   loss of initial *m* in animate proximal & distal demonstratives
+    (Upper Xingu Carib -\> Ikpeng)
+-   loss of initial \**i* in Parukotoan, Taranoan, and Tamanaku
 -   third person
 
 3ANA (complex)
@@ -985,13 +1023,6 @@ PROX.INAN
 | *təjantomo*   | Pémono   | t   | ə   | j   | \-  |
 
 in Manapiarean and Ye’kwana
-
-# Possible contact/areal phenomena
-
--   loss of initial *m* in animate medial demonstratives in Venezuela
--   loss of initial *m* in animate proximal & distal demonstratives from
-    Upper Xingu Carib to Ikpeng
--   loss of initial \**i*
 
 # Appendix
 

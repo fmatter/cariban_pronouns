@@ -171,7 +171,7 @@ e.g. [lg](tri):
 # The development of *tjə
 [cogset](pinan2)
 
-# Suggested changes
+# Suggested changes to the Proto-Cariban system
 
 [table](meirapronouns)
 [table](pcpronouns)
@@ -185,14 +185,14 @@ e.g. [lg](tri):
 
 * Pemon-Panare *\*(j)u(-rə)-to* for [gl](1+2)
 * Pemon-Panare *j* in first person? (not in [lg](mac) and Kapón)
-* formal developments of [gl](1+3) pronoun in Parukotoan, Pekodian, and Taranoan
-* third person [cogset](3t?inline) in Manapiarean and [lg](mak)
+* formal developments of [cogset](1a3?inline) '[gl](1+3)' in Parukotoan, Pekodian, and Taranoan
 
 
 # Possible contact/areal phenomena
-* loss of initial *m* in animate medial demonstratives in Venezuela
-* loss of initial *m* in animate proximal & distal demonstratives from [lg](uxc) to [lg](ikp)
-* loss of initial \*_i_
+* loss of initial *mə* in animate medial demonstratives in Venezuela
+* loss of initial *m* in animate proximal & distal demonstratives ([lg](uxc) -> [lg](ikp))
+* loss of initial _\*i_ in Parukotoan, Taranoan, and Tamanaku
+* third person [cogset](3t?inline) in Manapiarean and [lg](mak)
 
 # Appendix
 
