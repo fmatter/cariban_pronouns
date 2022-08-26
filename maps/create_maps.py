@@ -40,6 +40,7 @@ pno""".split(
 
 lgs = lgs[lgs["ID"].isin(f)]
 lgs.rename(columns={"lat": "Latitude", "long": "Longitude"}, inplace=True)
+lgs["Label"] = lgs["ID"].map(lambda x: x.upper())
 
 text_df = pd.read_csv("countries.csv")
 
@@ -67,7 +68,7 @@ def stack_lg_values(df, target_col):
     return df.groupby(["Clade"])[target_col].apply(" / ".join).reset_index()
 
 
-def plot_map(feature_df, name, **kwargs):
+def plot_map(feature_df, name, print_col="Label", tree_map_padding=1.6, **kwargs):
     plot(
         lgs,
         tree,
@@ -75,8 +76,8 @@ def plot_map(feature_df, name, **kwargs):
         text_df=text_df,
         tree_depth=6,
         marker_size=0.17,
-        tree_map_padding=2.7,
-        print_col="Orthographic",
+        tree_map_padding=tree_map_padding,
+        print_col=print_col,
         map_marker_size=25,
         font_size=6.5,
         text_x_offset=0.3,
@@ -91,7 +92,7 @@ def plot_map(feature_df, name, **kwargs):
 
 fam = pd.read_csv("family.csv")
 fam = sort_by(fam, "Value", ["Yukpan", "Venezuelan", "Taranoan", "Parukotoan", "Pekodian", "Isolate"])
-plot_map(fam, "family", legend_size=7)
+plot_map(fam, "family", print_col="Orthographic", tree_map_padding=4.3, legend_size=7)
 
 
 # FIRST PERSON
@@ -99,7 +100,7 @@ cogmap1 = {"1": "*əwɨ", "1+EMP": "*əwɨ+rə", "1+hform": "*əwɨ+hɨ"}
 t = forms[forms["Cognateset_ID"] == "1"]
 t["Value"] = t["Cognates"].map(cogmap1)
 t = sort_by(t, "Value", cogmap1.values())
-# plot_map(t, "1cog")
+plot_map(t, "1cog")
 
 
 def val1(row):
@@ -115,7 +116,7 @@ def val1(row):
 
 t["Value"] = t.apply(val1, axis=1)
 t = sort_by(t, "Value", ["wV", "u", "ju"])
-# plot_map(t, "1form")
+plot_map(t, "1form")
 
 # SECOND PERSON
 cogmap2 = {"2": "*əmə", "2+EMP": "*əmə+rə", "2 / 2+EMP": "*əmə(+rə)"}
@@ -123,7 +124,7 @@ t = forms[forms["Cognateset_ID"] == "2"]
 t = stack_lg_values(t, "Cognates")
 t["Value"] = t["Cognates"].map(cogmap2)
 t = sort_by(t, "Value", cogmap2.values())
-# plot_map(t, "2cog")
+plot_map(t, "2cog")
 
 
 # 1+2
@@ -157,7 +158,7 @@ t = forms[forms["Cognateset_ID"] == "1+2"]
 t = stack_lg_values(t, "Cognates")
 t["Value"] = t["Cognates"].map(cogmap12)
 t = sort_by(t, "Value", list(dict.fromkeys(cogmap12.values())))
-# plot_map(t, "12cog", legend_size=5.5, color_dict=color_dict)
+plot_map(t, "12cog", legend_size=5.5, color_dict=color_dict)
 
 
 def val13(row):
@@ -181,13 +182,13 @@ def val13(row):
 t = forms[forms["Cognateset_ID"] == "1+3"]
 t["Value"] = t.apply(val13, axis=1)
 t = sort_by(t, "Value", ["*amna", "*anja", "*t͡ʃimna", "*a(n)na", "*i(n)na", "*na(ʔ)na", "tis-u-ɣe", "other"])
-# plot_map(t, "13form", legend_size=7)
+plot_map(t, "13form", legend_size=7)
 
 
 # 3ana
 t = forms[forms["Cognateset_ID"] == "3ANA.ANIM"]
 t["Value"] = "*inərə"
-# plot_map(t, "3aana")
+plot_map(t, "3aana")
 
 def check_3i(rec):
     if "ɲ" in rec["Form"] or "i" in rec["Form"] or rec["Form"][0] == "ɨ":
@@ -201,16 +202,16 @@ plot_map(t, "3aanai")
 
 t = forms[forms["Cognateset_ID"] == "3ANA.INAN"]
 t["Value"] = "*irə"
-# plot_map(t, "3iana")
+plot_map(t, "3iana")
 
 # anim dem
 t = forms[forms["Cognateset_ID"] == "PROX.ANIM"]
 t["Value"] = t.apply(lambda x: "m-initial" if x["Form"].startswith("m") else "m-loss", axis=1)
-# plot_map(t, "prox-m")
+plot_map(t, "prox-m")
 
 t = forms[forms["Cognateset_ID"] == "DIST.ANIM"]
 t["Value"] = t.apply(lambda x: "m-initial" if x["Form"].startswith("m") else "m-loss", axis=1)
-# plot_map(t, "dist-m")
+plot_map(t, "dist-m")
 
 t = forms[forms["Cognateset_ID"] == "MED.ANIM"]
 t["Value"] = t.apply(lambda x: "*mə-initial" if not x["Form"].startswith("k") else "*mə-loss", axis=1)
@@ -226,9 +227,9 @@ def mobile_s(rec):
 
 t = forms[forms["Cognateset_ID"] == "PROX.INAN-1"]
 t["Value"] = t.apply(mobile_s, axis=1)
-# plot_map(t, "1-s")
+plot_map(t, "1-s")
 
 t = forms[forms["Cognateset_ID"] == "PROX.INAN-2"]
 t["Value"] = t.apply(mobile_s, axis=1)
 t = stack_lg_values(t, "Value")
-# plot_map(t, "2-s")
+plot_map(t, "2-s")

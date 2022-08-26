@@ -760,7 +760,7 @@ wɨ-formative
 | Apalaí            | mose           | moʃiamo                          | mokɨro    | mokaro       | mokɨ      | mokamo             |
 | Yukpa             | ma(ʃ)          | maʃa                             |           |              | ake       | akʃa               |
 | Upper Xingu Carib | ese            | aɣo                              |           |              | ekise     | akaɣo              |
-| Waimiri-Atroari   |                |                                  |           |              | mɨkɨ      |                    |
+| Waimiri-Atroari   | bɨ(bɨ)         |                                  |           |              | mɨkɨ      |                    |
 
 # PROX.ANIM: loss of \*m
 
@@ -1240,7 +1240,7 @@ in Manapiarean and Ye’kwana
 | Apalaí            | mose           | moʃiamo                          | mokɨro    | mokaro       | mokɨ      | mokamo             |
 | Yukpa             | ma(ʃ)          | maʃa                             |           |              | ake       | akʃa               |
 | Upper Xingu Carib | ese            | aɣo                              |           |              | ekise     | akaɣo              |
-| Waimiri-Atroari   |                |                                  |           |              | mɨkɨ      |                    |
+| Waimiri-Atroari   | bɨ(bɨ)         |                                  |           |              | mɨkɨ      |                    |
 
 # Proto-Cariban inanimate demonstratives
 
